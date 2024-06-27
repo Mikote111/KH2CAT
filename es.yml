@@ -1,0 +1,208 @@
+﻿- id: 16180
+  text: T'estava esperant.
+- id: 16181
+  text: He anat a veure'l... {:delay 78 00}{:clear } {:delay 78 00}{:clear }S'assembla molt a tu.
+- id: 16182
+  text: Qui ets?
+- id: 16183
+  text: Soc el que queda. {:delay 96 00}{:clear }{:delay 28 00}{:clear }O... {:delay 54 00}{:clear }potser soc tot el que sempre hi ha hagut.
+- id: 16184
+  text: Em referia al teu nom.
+- id: 16185
+  text: El meu nom manca d'importància. {:delay D8 00}{:clear }Però, i tu? {:delay 9C 00}{:clear }Te'n recordes teu nom vertader?
+- id: 16186
+  text: El meu nom de veritat... és...
+- id: 16187
+  text: El final del camí.
+- id: 16188
+  text: Sí.
+- id: 16189
+  text: Deixa'm anar. Puc caminar.
+- id: 16190
+  text: >-
+    Saps què? {:delay 90 00}{:clear }Potser a mi també 
+
+    m'ha afectat la foscor.
+- id: 16191
+  text: Riku!
+- id: 16192
+  text: >-
+    Aquest món és perfecte per a mi. {:delay E1 00}{:clear } Si de veritat el món es així... {:delay BB 00}{:clear }només això...{:delay B5 00}{:clear }llavors potser hauria de
+
+    fondre'm amb la foscor.
+- id: 16193
+  text: Riku...
+- id: 16194
+  text: Si el món és només llum i foscor{:delay B4 00}{:clear } {:delay 5A 00}{:clear }serem la foscor.
+- id: 16195
+  text: Sí. {:delay 76 00}{:clear }L'altre costat... {:delay 8A 00}{:clear }El Regne de la Llum està fora de perill. {:delay 90 00}{:clear }La Kairi, el rei i la resta són allà.
+- id: 16196
+  text: A això em refereixo. {:delay 4C 00}{:clear } {:delay 65 00}{:clear }Ei, Sora... {:delay A3 00}{:clear }pots ajudar-me?{:delay 76 00}{:clear }Vull anar a la riba.
+- id: 16197
+  text: Almenys les onades sonen igual.
+- id: 16198
+  text: >-
+    El que t'he dit abans... {:delay 91 00}{:clear }Allò de que em creia millor
+
+    que tu en tot...
+- id: 16199
+  text: ''
+- id: 16200
+  text: Per a ser-te sincer, Sora... {:delay D2 00}{:clear }et tenia enveja.
+- id: 16201
+  text: Per què?
+- id: 16202
+  text: >-
+    M'hagués agradat viure la vida
+
+    com tu...{:delay 89 00}{:clear }{:delay 4F 00}fent cas al cor.
+- id: 16203
+  text: >-
+    Ja, a veure... jo també
+
+    tinc els meus problemes.
+- id: 16204
+  text: Com quins?
+- id: 16205
+  text: Com... voler ser com tu.
+- id: 16206
+  text: >-
+    {:delay 8A 00}{:clear }A veure, ser jo sí que
+
+    té un avantatge...{:delay 38 01}{:clear }I és una cosa que tu mai podries imitar.
+- id: 16207
+  text: De veritat? El què?
+- id: 16208
+  text: Tenir-te a tu d'amic.
+- id: 16209
+  text: >-
+    Llavors...{:delay 6C 00}{:clear }suposo que estic 
+
+    bé com soc.{:delay 91 00}{:clear }Jo també tinc una cosa
+
+    que tu mai podràs imitar.
+- id: 16210
+  text: Sora?
+- id: 16211
+  text: ''
+- id: 16212
+  text: Crec que és per a tu.
+- id: 19629
+  text: >-
+    Penso en tu,
+
+    siguis on siguis.{:delay 78 00}{:clear } {:delay 56 00}{:clear }Preguem perquè els 
+
+    nostres pesars cessin{:delay 78 00}{:clear } {:delay 47 00}{:clear }i desitgem que els nostres cors s'enllacin.
+- id: 19630
+  text: >-
+    Ara em posaré en marxa
+
+    per a assolir aquest desig. {:delay B4 00}{:clear }{:delay 4E 00}{:clear }I qui sap?,
+- id: 19631
+  text: Començar un nou viatge potser no es tan difícil. {:delay B4 00}{:clear }{:delay 30 00}{:clear }O potser ja ha començat... {:delay 66 00}{:clear }{:delay 5F 00}{:clear }Són molts els mons, {:delay 54 00}{:clear }{:delay 36 00}{:clear }però tots comparteixen el mateix cel.{:delay 7E 00}{:clear }{:delay 3C 00}{:clear }Un cel... {:delay 38 00}{:clear }{:delay 36 00}{:clear }Un destí.
+- id: 19632
+  text: Llum.
+- id: 19633
+  text: La porta a la llum.
+- id: 19634
+  text: Anem-hi junts!
+- id: 19635
+  text: Sí.
+- id: 19636
+  text: Sora! Riku!
+- id: 19637
+  text: He-hem tornat.
+- id: 19638
+  text: Sou a casa.
+- id: 19639
+  text: Res ha canviat, eh?
+- id: 19640
+  text: No. Mai canviarà.
+- id: 19641
+  text: Quin món més petit!
+- id: 19642
+  text: Però és part d'un molt més gran.
+- id: 19643
+  text: Sí.
+- id: 19644
+  text: >-
+    Ei, Riku, què creus que era
+
+    la porta a la llum?
+- id: 19645
+  text: Això.
+- id: 19646
+  text: Això?
+- id: 19647
+  text: >-
+    Sí. Sempre és més 
+
+    a prop del que creus.
+- id: 19648
+  text: Sora! Riku!
+- id: 19649
+  text: Eh, què passa?
+- id: 19742
+  text: Mireu!
+- id: 19743
+  text: És del rei?
+- id: 19843
+  text: Penso en tu, siguis on siguis.
+- id: 19844
+  text: >-
+    Preguem perquè els nostres pesars cessin 
+
+    i desitgem que els nostres cors s'enllacin.{:delay 90 01}{:clear }Ara em posaré en marxa
+
+    per a assolir aquest desig.
+- id: 19845
+  text: >-
+    I qui sap?,
+
+    Començar un nou viatge potser no es tan difícil. {:delay 22 01}{:clear }O potser ja ha començat...
+- id: 19846
+  text: >-
+    Són molts els mons,
+
+    però tots comparteixen el mateix cel.{:delay 68 01}{:clear }Un cel... un destí.
+- id: 19847
+  text: La clau espasa conté un gran poder.
+- id: 19848
+  text: >-
+    El portador de la clau espasa és 
+
+    descrit com el salvador del món{:delay A8 00}{:clear }o bé com l'artífex del caos.
+- id: 19849
+  text: >-
+    Què serà aquella clau espasa?
+
+    Una clau...{:delay A1 00}{:clear }El poder d'obrir portes.
+- id: 19850
+  text: '{:unk13 82 00 5E 01}Mestre de la clau espasa'
+- id: 19851
+  text: '{:unk13 5E 01 5E 01}Els dos extraviats'
+- id: 19852
+  text: '{:unk13 82 00 77 01}Records del Xehanort'
+- id: 19853
+  text: '{:unk13 5E 01 77 01}El perseguidor'
+- id: 19854
+  text: '{:unk13 FA 00 5E 01}Guerra de les claus espasa'
+- id: 19855
+  text: Tot va començar...
+- id: 19856
+  text: amb el nascut d'un somni.
+- id: 19858
+  text: ''
+- id: 19859
+  text: El relat d'una veritat a revelar.
+- id: 19917
+  text: El destí mai es lliura a l'atzar.
+- id: 19918
+  text: ''
+- id: 19929
+  text: El destí és inevitable.
+- id: 19930
+  text: "Finalment, els destins s'apleguen... "
+- id: 19931
+  text: per a suscitar un nou relat.
