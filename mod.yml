@@ -1,5 +1,5 @@
 title: Kingdom Hearts II Final Mix Català
-description: Gaudeix de la segona entrega numerada de la saga Kingdom Hearts amb textos totalment en català!
+description: Gaudeix tete de la segona entrega numerada de la saga Kingdom Hearts amb textos totalment en català!
 assets:
 - name: msg/sp/sys.bar
   method: binarc
@@ -9,6 +9,7 @@ assets:
     type: list
     method: kh2msg
     - name: msg/sys.yml
+      language: text
 - name: msg/sp/es.bar
   method: binarc
   platform: pc
@@ -17,6 +18,7 @@ assets:
     type: list
     method: kh2msg
     - name: msg/es.yml
+      language: text
 - name: msg/sp/title.bar
   method: binarc
   platform: pc
@@ -25,6 +27,7 @@ assets:
     type: list
     method: kh2msg
     - name: msg/title.yml
+      language: text
 - name: msg/sp/tt.bar
   method: binarc
   platform: pc
@@ -33,6 +36,7 @@ assets:
     type: list
     method: kh2msg
     - name: msg/tt.yml
+      language: text
 - name: msg/sp/hb.bar
   method: binarc
   platform: pc
@@ -41,3 +45,4 @@ assets:
     type: list
     method: kh2msg
     - name: msg/hb.yml
+      language: text
