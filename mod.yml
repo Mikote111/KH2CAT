@@ -1,48 +1,48 @@
 title: Kingdom Hearts II Final Mix Català
 description: Gaudeix tete de la segona entrega numerada de la saga Kingdom Hearts amb textos totalment en català!
 assets:
-- name: msg/sp/sys.bar
-  method: binarc
-  platform: pc
-  source:
-  - name: sys
-    type: list
-    method: kh2msg
-    - name: msg/sys.yml
-      language: text
-- name: msg/sp/es.bar
-  method: binarc
-  platform: pc
-  source:
-  - name: es
-    type: list
-    method: kh2msg
-    - name: msg/es.yml
-      language: text
-- name: msg/sp/title.bar
-  method: binarc
-  platform: pc
-  source:
-  - name: title
-    type: list
-    method: kh2msg
-    - name: msg/title.yml
-      language: text
-- name: msg/sp/tt.bar
-  method: binarc
-  platform: pc
-  source:
-  - name: tt
-    type: list
-    method: kh2msg
-    - name: msg/tt.yml
-      language: text
-- name: msg/sp/hb.bar
-  method: binarc
-  platform: pc
-  source:
-  - name: hb
-    type: list
-    method: kh2msg
-    - name: msg/hb.yml
-      language: text
+  - name: msg/sp/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: text
+  - name: msg/sp/es.bar
+    method: binarc
+    source:
+      - name: es
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/es.yml
+            language: text
+  - name: msg/sp/title.bar
+    method: binarc
+    source:
+      - name: title
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/title.yml
+            language: text
+  - name: msg/sp/tt.bar
+    method: binarc
+    source:
+      - name: tt
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tt.yml
+            language: text
+  - name: msg/sp/hb.bar
+    method: binarc
+    source:
+      - name: hb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/hb.yml
+            language: text
