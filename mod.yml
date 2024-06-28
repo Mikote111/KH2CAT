@@ -46,3 +46,35 @@ assets:
         source:
           - name: msg/hb.yml
             language: text
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
+  - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
+  - name: remastered/menu/sp/eventviewer.2ld/SP_eventviewer_2ld50.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/eventviewer.2ld/SP_eventviewer_2ld50.png
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
+  - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+  - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
