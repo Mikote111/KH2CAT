@@ -5,29 +5,44 @@ assets:
   method: binarc
   platform: pc
   source:
-  - name: msg/sys.yml
-    language: sp
+  - name: sys
+    type: list
+    method: kh2msg
+    - name: msg/sys.yml
+      language: sp
 - name: msg/sp/es.bar
   method: binarc
   platform: pc
   source:
-  - name: msg/es.yml
-    language: sp
+  - name: es
+    type: list
+    method: kh2msg
+    - name: msg/es.yml
+      language: sp
 - name: msg/sp/title.bar
   method: binarc
   platform: pc
   source:
-  - name: msg/title.yml
-    language: sp
+  - name: title
+    type: list
+    method: kh2msg
+    - name: msg/title.yml
+      language: sp
 - name: msg/sp/tt.bar
   method: binarc
   platform: pc
   source:
-  - name: msg/tt.yml
-    language: sp
+  - name: tt
+    type: list
+    method: kh2msg
+    - name: msg/tt.yml
+      language: sp
 - name: msg/sp/hb.bar
   method: binarc
   platform: pc
   source:
-  - name: msg/hb.yml
-    language: sp
+  - name: hb
+    type: list
+    method: kh2msg
+    - name: msg/hb.yml
+      language: sp
