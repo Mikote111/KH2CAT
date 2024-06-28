@@ -1,5 +1,9 @@
 title: Kingdom Hearts II Final Mix Català
+<<<<<<< HEAD
 description: Gaudeix-ne de la segona entrega numerada de la saga Kingdom Hearts amb textos totalment en català!
+=======
+description: Gaudeixxxxx de la segona entrega numerada de la saga Kingdom Hearts amb textos totalment en català!
+>>>>>>> f16fdbc920c951b94494c08c4d49a426086144a8
 assets:
 - name: msg/sp/sys.bar
   method: binarc
