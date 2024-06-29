@@ -1022,7 +1022,7 @@
   text: >-
     Ei, Yuffie,
 
-    has visto el rei i el Riku?
+    has vist el rei i el Riku?
 - id: 12345
   text: No.
 - id: 12346
@@ -1262,386 +1262,377 @@
   text: Sí, tens raó. Només hi ha un Sora!
 - id: 12436
   text: >-
-    ¡El Miembro Honorífico del Comité
+    El Membre Honorífic del Comitè
 
-    de Reconstrucción de Bastión Hueco!
+    de Reconstrucció de Baluard Balmat!
 - id: 12440
-  text: Ahhh... Ya entiendo.
+  text: Ahhh... Ja ho entenc.
 - id: 12445
-  text: ¿Creéis que...?
+  text: Creieu que...?
 - id: 12446
-  text: Ahora parece que hay más sincorazón.
+  text: Sembla que hi ha més sensecor ara.
 - id: 12447
   text: ''
 - id: 12448
-  text: Vamos a ver a los demás.
+  text: Anem a veure a la resta.
 - id: 12449
-  text: Estarán en casa de Merlín.
+  text: Seran a casa del Merlí.
 - id: 12450
   text: >-
-    {:unk13 09 01 46 00}{:unk08 01 00 06}¡Ay! Estaba tan cerca
+    {:unk13 09 01 46 00}{:unk08 01 00 06}Ai! Era tan a prop
 
-    de lograr ese sabor...
+    d'aconseguir aquell sabor...
 - id: 12451
   text: >-
-    {:unk13 0E 01 46 00}{:unk08 01 00 06}¿Qué hay, muchachos?{:clear }León y sus amigos están
+    {:unk13 0E 01 46 00}{:unk08 01 00 06}Com anem, xicots?{:clear }El Léon i els seus amics
 
-    en la zona residencial.{:clear }Sí, en casa de Merlín.
+    són a la zona residencial.{:clear }Sí, a casa del Merlí.
 - id: 12452
-  text: ¡Ah! ¡Cloud!
+  text: Ah! Cloud!
 - id: 12453
-  text: ¿Qué haces?
+  text: Què fas?
 - id: 12454
   text: >-
-    Iré a por él.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Le pondré punto y final. {:delay 69 00}{:clear }{:delay 50 00}{:clear }Me enfrentaré a quien personifica
+    Aniré a per ell.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Aquesta vegada hi posarem punt i final. {:delay 69 00}{:clear }{:delay 50 00}{:clear }Jo, i qui representa tota la
 
-    todo lo oscuro que hay en mí.
+    foscor de dins meu.
 - id: 12456
-  text: Si es así, es por su culpa.
+  text: Si és així, és per culpa seva.
 - id: 12457
-  text: ¿De quién?
+  text: De qui?
 - id: 12458
-  text: Sephiroth.{:delay 41 00}{:clear }{:delay 28 00}{:clear }Avisadme si le veis.
+  text: Sephiroth.{:delay 41 00}{:clear }{:delay 28 00}{:clear }Aviseu-me si el veieu.
 - id: 12459
-  text: Vale. ¿Qué aspecto tiene?
+  text: D'acord. Com és ell?
 - id: 12460
   text: >-
-    Pelo plateado.
+    Pèl platejat.
 
-    Lleva una espada larga.
+    Porta una llarga espasa.
 - id: 12461
-  text: Claro.{:delay 3C 00}{:clear }Bueno, nos vemos, Cloud.
+  text: És clar.{:delay 3C 00}{:clear }Bé, ens veiem, Cloud.
 - id: 12462
-  text: Tened cuidado.
+  text: Tingueu compte.
 - id: 12463
   text: >-
-    Juega con la mente; pensaréis que
+    Juga amb la teva ment; pensareu
 
-    la oscuridad es la única salida.
+    que la foscor és l'única sortida.
 - id: 12464
   text: >-
-    {:unk13 9B 00 46 00}{:unk08 01 01 07}Eh, chicos,
+    {:unk13 9B 00 46 00}{:unk08 01 01 07}Eh, nois, arribeu
 
-    llegáis justo
+    just a temps.{:clear }Tenim bones notícies
 
-    a tiempo.{:clear }Tenemos buenas
+    per a vosaltres.{:clear }Heu d'anar a
 
-    noticias para vosotros.{:clear }Debéis ir a
-
-    ver a León.
+    veure el Léon.
 - id: 12465
-  text: '{:unk13 4A 01 91 00}{:unk08 01 00 05}¿Qué noticias?'
+  text: '{:unk13 4A 01 91 00}{:unk08 01 00 05}Quines notícies?'
 - id: 12466
   text: >-
-    {:unk13 59 01 46 00}{:unk08 01 00 04}¡Encontramos el
+    {:unk13 59 01 46 00}{:unk08 01 00 04}Hem trobat l'ordinador
 
-    ordenador que estaba
-
-    usando Ansem!
+    que l'Ansem utilitzava!
 - id: 12467
-  text: '{:unk13 A5 00 E6 00}{:unk08 01 00 05}¡Porras!'
+  text: '{:unk13 A5 00 E6 00}{:unk08 01 00 05}Ostres!'
 - id: 12468
   text: >-
-    {:unk13 C4 00 E6 00}{:unk08 01 01 02}Sí. Quizá consigamos acceso a
+    {:unk13 C4 00 E6 00}{:unk08 01 01 02}Sí. Potser aconseguim l'accés
 
-    información sobre los sincorazón
+    a informació sobre els
 
-    y la Organización.
+    sensecor i l'Organització.
 - id: 12470
-  text: '{:unk13 90 01 AF 00}{:unk08 01 00 05}Y el rey.'
+  text: '{:unk13 90 01 AF 00}{:unk08 01 00 05}I el rei.'
 - id: 12471
   text: >-
-    {:unk13 18 01 37 00}{:unk08 01 01 06}¡Por qué no vais a verlo
+    {:unk13 18 01 37 00}{:unk08 01 01 06}Aneu a veure'l
 
-    vosotros mismos!
+    vosaltres mateixos!
 - id: 12472
-  text: '{:unk13 FA 00 28 00}{:unk08 01 00 05}¡No muerde!'
+  text: '{:unk13 FA 00 28 00}{:unk08 01 00 05}No mossega!'
 - id: 12473
-  text: '{:unk13 40 01 8C 00}{:unk08 01 00 05}¿Qué quieres decir?'
+  text: '{:unk13 40 01 8C 00}{:unk08 01 00 05}Què vols dir?'
 - id: 12474
   text: >-
-    {:unk13 D2 00 32 00}{:unk08 01 01 06}Nada. Id a la sala de ordenadores,
+    {:unk13 D2 00 32 00}{:unk08 01 01 06}Res. Aneu a la sala d'ordinadors,
 
-    por el postigo del castillo.{:clear }¡Tened cuidado!
+    pel porticó del castell.{:clear }Aneu amb compte!
 - id: 12476
   text: >-
-    Tienen cosas que hacer
+    Tenen coses a fer al
 
-    en el postigo del castillo.
+    porticó del castell.
 - id: 12477
-  text: ¡Notición!
+  text: Bomba!
 - id: 12478
-  text: ¿Eh?
+  text: Eh?
 - id: 12479
-  text: Vamos a informar.
+  text: Anem a informar.
 - id: 12480
-  text: ¿A quién?
+  text: A qui?
 - id: 12481
-  text: ¡A nuestro líder, claro!
+  text: A la nostra cap, és clar!
 - id: 12482
-  text: Sí, ya sabes, Maléfi...
+  text: Sí, ja saps, la Malèfi...
 - id: 12483
-  text: No le hagáis caso.{:delay 3C 00}{:clear }{:delay 14 00}{:clear }Os aseguro... que venimos en paz.
+  text: No li feu cas.{:delay 3C 00}{:clear }{:delay 14 00}{:clear }Us aseguro... que venim en pau.
 - id: 12484
-  text: Mentirosa...
+  text: Mentidera...
 - id: 12485
-  text: ¿Algún problema?{:delay 3C 00}{:clear }{:delay 39 00}{:clear }Bueno, vale, habla tú.
+  text: Algun problema?{:delay 3C 00}{:clear }{:delay 39 00}{:clear }Bé, d'acord, parla tu.
 - id: 12486
-  text: ¡Siento mucho todo esto!
+  text: Sento molt tot això!
 - id: 12487
-  text: '{:unk06 02}{:unk13 4A 01 50 00}{:unk08 03 00 05}¡León!'
+  text: '{:unk06 02}{:unk13 4A 01 50 00}{:unk08 03 00 05}Léon!'
 - id: 12488
-  text: '{:unk13 64 00 64 00}{:unk08 01 00 05}¡Por aquí!'
+  text: '{:unk13 64 00 64 00}{:unk08 01 00 05}Per aquí!'
 - id: 12489
   text: >-
-    {:unk13 A0 00 5A 00}{:unk08 01 01 05}¿Habéis encontrado
+    {:unk13 A0 00 5A 00}{:unk08 01 01 05}Heu trobat l'ordinador
 
-    el ordenador de Ansem?
+    de l'Ansem?
 - id: 12490
   text: >-
-    {:unk13 B4 00 3C 00}{:unk08 01 01 07}Sí. El rey está muy
+    {:unk13 B4 00 3C 00}{:unk08 01 01 07}Sí. El rei hi està
 
-    interesado en él.
+    molt interessat.
 - id: 12491
-  text: '{:unk13 DC 00 96 00}{:unk08 01 00 05}¿El rey?'
+  text: '{:unk13 DC 00 96 00}{:unk08 01 00 05}El rei?'
 - id: 12492
-  text: '{:unk13 95 00 2D 00}{:unk08 01 01 06}Está con León.'
+  text: '{:unk13 95 00 2D 00}{:unk08 01 01 06}Esta amb el Léon.'
 - id: 12493
-  text: >-
-    {:unk06 02}{:unk13 8C 00 91 00}{:unk08 03 01 05}¡Por fin veremos
-
-    al rey!
+  text: '{:unk06 02}{:unk13 8C 00 91 00}{:unk08 03 01 05}Per fi veurem el rei!'
 - id: 12494
-  text: '{:unk06 02}{:unk13 A4 01 41 00}{:unk08 03 00 05}¡Hurra!'
+  text: '{:unk06 02}{:unk13 A4 01 41 00}{:unk08 03 00 05}Hurra!'
 - id: 12495
   text: >-
-    {:unk13 86 01 B8 00}{:unk08 01 00 00}Eh...{:clear }¿Riku está
+    {:unk13 86 01 B8 00}{:unk08 01 00 00}Eh...{:clear }El Riku està
 
-    con ellos?
+    amb ells?
 - id: 12496
   text: >-
-    {:unk13 BE 00 50 00}{:unk08 01 00 06}Bueno, al menos puedo
+    {:unk13 BE 00 50 00}{:unk08 01 00 06}Bé, almenys puc
 
-    preguntarle al rey
+    preguntar-li al
 
-    sobre él.{:clear }Y ese ordenador
+    rei què és d'ell.{:clear }I aquell ordinador
 
-    tal vez podría
+    potser podria
 
-    decirnos algo.
+    dir-nos alguna cosa.
 - id: 12497
-  text: '{:unk13 0E 01 2D 00}{:unk08 01 01 06}¡Buena idea!'
+  text: '{:unk13 0E 01 2D 00}{:unk08 01 01 06}Bona idea!'
 - id: 12498
   text: Ansem...
 - id: 12499
   text: >-
-    ¡Ahí va! Supongo que este
+    Òndia! Suposo que aquest
 
-    debe de ser su cuarto.
+    deu ser el seu quarto.
 - id: 12500
-  text: ¿Dónde está el rey?
+  text: On és el rei?
 - id: 12501
-  text: ¡Hola!
+  text: Hola?
 - id: 12502
-  text: ¡Vosotros!
+  text: Ei, vosaltres!
 - id: 12503
   text: >-
-    Estoy buscando a alguien. ¿Habéis
+    Estic buscant a algú. Heu vist
 
-    visto a un tío con el pelo de punta?
+    un xato amb el pèl de punta?
 - id: 12504
-  text: '{:delay 32 00}Más de punta.'
+  text: '{:delay 32 00}Més de punta.'
 - id: 12505
-  text: Dejadme que eche un vistazo.
+  text: Deixeu-me fer-hi un cop d'ull.
 - id: 12506
-  text: Siento las molestias.
+  text: Sento les molèsties.
 - id: 12507
-  text: No es molestia, señorita.
+  text: No és molèstia, senyoreta.
 - id: 12508
-  text: Ya era hora.
+  text: Ja era hora.
 - id: 12509
-  text: ¡León!
+  text: Léon!
 - id: 12510
   text: >-
-    {:unk13 4A 01 73 00}{:unk08 01 01 06}¿El rey no
+    {:unk13 4A 01 73 00}{:unk08 01 01 06}El rei no
 
-    está contigo?
+    està amb tu?
 - id: 12512
-  text: '{:unk06 02}{:unk13 18 01 C3 00}{:unk08 03 01 06}¡Eh!'
+  text: '{:unk06 02}{:unk13 18 01 C3 00}{:unk08 03 01 06}Ei!'
 - id: 12513
   text: >-
-    {:unk13 37 01 34 00}{:unk08 01 00 05}Bueno, quizá esto calme
+    {:unk13 37 01 34 00}{:unk08 01 00 05}Bé, potser això calma
 
-    vuestra impaciencia.
+    la vostra impaciència.
 - id: 12514
   text: >-
-    {:unk13 AA 00 50 00}{:unk08 01 01 06}La sala de ordenadores
+    {:unk13 AA 00 50 00}{:unk08 01 01 06}La sala d'ordinadors
 
-    de Ansem.
+    de l'Ansem.
 - id: 12515
-  text: ¡Aquí está!
+  text: Aquí està!
 - id: 12516
-  text: ¿Dónde están Kairi... y Riku?
+  text: On és la Kairi... i el Riku?
 - id: 12517
-  text: Tranquilo. {:delay 3C 00}{:clear }{:delay 23 00}{:clear }¿Es que quieres romperlo?
+  text: Afluixa... {:delay 3C 00}{:clear }{:delay 23 00}{:clear }Que vols trencar-lo o què?
 - id: 12518
-  text: Oh... lo siento. {:delay 5A 00}{:clear }{:delay 12 00}{:clear }Creo que me he emocionado.
+  text: Oh... ho sento. {:delay 5A 00}{:clear }{:delay 12 00}{:clear }Crec que m'he emocionat.
 - id: 12519
-  text: ¡Baja de ahí!
+  text: Baixa d'allà!
 - id: 12520
   text: >-
-    Atención, usuario.
+    Atenció, usuari.
 
-    Esto es una advertencia.{:delay DF 00}{:clear }Si prosigue el mal uso de
+    Això és una advertència.{:delay DF 00}{:clear }Si prosegueix amb el mal ús
 
-    este terminal se accionarán{:delay 78 00}{:clear }medidas defensivas de inmediato.
+    d'aquest terminal s'accionaran{:delay 78 00}{:clear }mesures defensives immediatament.
 - id: 12521
-  text: ¿Quién anda ahí?
+  text: Qui hi ha?
 - id: 12522
-  text: Soy el Programa de Control Maestro.{:delay 73 00}{:clear }{:delay 14 00} {:clear }Yo superviso este sistema.
+  text: Soc el Programa de Control Mestre.{:delay 73 00}{:clear }{:delay 14 00} {:clear }Jo superviso aquest sistema.
 - id: 12523
-  text: ¿Dónde estás?
+  text: On ets?
 - id: 12524
-  text: ¡Donald!
+  text: Donald!
 - id: 12525
-  text: Perdón...
+  text: Perdó...
 - id: 12526
   text: >-
-    Punto de decisión alcanzado.
+    Punt de decisió assolit.
 
-    Estáis arrestados.
+    Esteu arrestats.
 - id: 12527
-  text: ¿¡Arrestados!?
+  text: Arrestats!?
 - id: 12528
-  text: ¡Corred!
+  text: Correu!
 - id: 12529
   text: >-
-    {:unk13 6E 00 78 00}{:unk08 01 00 05}¿Que estáis
+    {:unk13 6E 00 78 00}{:unk08 01 00 05}Que esteu
 
-    buscando qué?
+    buscant què?
 - id: 12530
   text: >-
-    {:unk13 89 00 BB 00}{:unk08 01 01 02}¡Anda!
+    {:unk13 89 00 BB 00}{:unk08 01 01 02}Apa!
 
-    ¡Un cuarto secreto!{:clear }Será mejor
+    Una habitació secreta!{:clear }Serà millor que hi faci
 
-    que eche otro
-
-    vistazo.
+    un altre cop d'ull.
 - id: 12531
-  text: Con permiso.
+  text: Amb permís.
 - id: 12532
-  text: Bueno, se acabó.
+  text: Bé, s'ha acabat.
 - id: 12533
-  text: Mirad.
+  text: Mireu.
 - id: 12534
-  text: Tron... no te rindas.
+  text: Tron... no et rendeixis.
 - id: 12535
-  text: Bueno, ¿por dónde empezamos?
+  text: Bé, per on comencem?
 - id: 12536
-  text: ¡Ya sé! ¡Vamos a acceder al DTD!
+  text: Ja ho sé! Anem a accedir al DTD!
 - id: 12537
   text: >-
-    El rey está comprobando la
+    El rei està comprovant
 
-    situación en la ciudad.{:delay 78 00}{:clear }Volverá pronto.
+    la situación a la ciutat.{:delay 78 00}{:clear }Tornarà aviat.
 
-    No os preocupéis. {:delay 75 00}{:clear }{:delay 39 00}{:clear }Eh, mirad, nos pide una contraseña.
+    No us preocupeu. {:delay 75 00}{:clear }{:delay 39 00}{:clear }Eh, mireu, ens demana una contrasenya.
 - id: 12538
-  text: ¡Eso es fácil! Es...
+  text: Això és fàcil! És...
 - id: 12539
-  text: ¡Sora!
+  text: Sora!
 - id: 12540
-  text: ¡Donald!
+  text: Donald!
 - id: 12541
-  text: ¡Goofy!
+  text: Goofy!
 - id: 12542
-  text: Pues... así es.
+  text: Doncs... és correcta.
 - id: 12543
-  text: ¿Y bien?
+  text: I bé?
 - id: 12544
-  text: Magnífico. Entramos.
+  text: Magnífic. Hem entrat.
 - id: 12545
   text: >-
-    Tengo que ir a la ciudad. {:delay 5F 00}{:clear }{:delay 19 00}{:clear }Quiero ver qué ha hecho
+    Haig d'anar a la ciutat. {:delay 5F 00}{:clear }{:delay 19 00}{:clear }Vull veure què ha fet
 
-    esa última sacudida.
+    aquesta última sacsejada.
 - id: 12546
   text: >-
-    ¿No vas a consultar los datos?
+    No consultaràs les dades?
 
-    No han sido nada fáciles de conseguir.
+    No han sigut gens fàcils d'aconseguir.
 - id: 12547
   text: >-
-    Ahora mismo vuelvo. {:delay 46 00}{:clear }{:delay 46 00}{:clear }Eh, Sora... ¿por qué no empiezas
+    Torno ara mateix. {:delay 46 00}{:clear }{:delay 46 00}{:clear }Ei, Sora... per què no les hi
 
-    a cargarlos y a copiarlos?
+    comences a carregar i copiar?
 - id: 12548
   text: >-
-    Solo hay que teclear un
+    Només s'ha de teclejar
 
-    poco. Es fácil, ¿no?
+    una mica. És fàcil, no?
 - id: 12549
-  text: ¿Ha funcionado?
+  text: Ha funcionat?
 - id: 12550
-  text: Oye, estas cosas llevan su tiempo.
+  text: Ei, aquestes coses triguen estona, entesos?
 - id: 12551
-  text: ¡Oh! {:delay 3C 00}{:clear }¡Está haciendo algo!
+  text: Oh! {:delay 3C 00}{:clear }Està fent alguna cosa!
 - id: 12552
   text: ''
 - id: 12553
   text: >-
-    Creo que quiere saber
+    Crec que vol saber
 
-    qué estamos buscando.
+    què estem buscant.
 - id: 12554
-  text: ¡Riku y Kairi!
+  text: El Riku i la Kairi!
 - id: 12555
-  text: '[Error de datos]'
+  text: '[Error de dades]'
 - id: 12556
-  text: Nada...
+  text: Res...
 - id: 12557
   text: >-
-    Ni siquiera el ordenador
+    Ni tan sols l'ordinador
 
-    de Ansem lo sabe.
+    de l'Ansem ho sap.
 - id: 12558
-  text: ¿Qué estás haciendo?
+  text: Què estàs fent?
 - id: 12559
   text: >-
-    Le pregunto al ordenador si puede
+    Li pregunto a l'ordinador si pot
 
-    hablarnos de esos incorpóreos.
+    parlar-nos d'aquells incorporis.
 - id: 12560
-  text: '[Estudios sobre incorpóreos. Informes Ansem.]'
+  text: '[Estudis sobre els incorporis. Informes Ansem.]'
 - id: 12561
-  text: ¿Qué es esto?
+  text: Què és això?
 - id: 12562
-  text: Los datos están dañados.
+  text: Les dades estan danyades.
 - id: 12564
-  text: ¿Qué tal la Organización?
+  text: I de l'Organització?
 - id: 12565
-  text: ¡Mirad!
+  text: Mireu!
 - id: 12566
-  text: ¡Estúpido ordenador!
+  text: Estúpid ordinador!
 - id: 12567
-  text: ¡Sora!
+  text: Sora!
 - id: 12568
   text: ''
 - id: 12569
-  text: ¿Quién es este tío?
+  text: Qui és aquest xato?
 - id: 12570
   text: >-
-    Bueno, veo que habéis
+    Bé, veig que l'heu
 
-    hecho que funcione.
+    fet funcionar.
 - id: 12571
-  text: ¡Oh! ¡Majestad!
+  text: Oh! Majestat!
 - id: 12572
   text: >-
-    Bien hecho. {:delay 3A 00}{:clear }El ordenador nos dirá todo
+    Ben fet. {:delay 3A 00}{:clear }L'ordinador ens dirà tot
 
-    lo que necesitamos saber.
+    el que necessitem saber.
 - id: 12573
   text: >-
     Pero siempre dice que los datos
