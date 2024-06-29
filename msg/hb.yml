@@ -672,600 +672,594 @@
     ha invocat, Merlí?
 - id: 8269
   text: >-
-    Así es...{:delay 64 00}{:clear }{:delay 1E 00}{:clear }Pero me temo que he usado
+    Exactament...{:delay 64 00}{:clear }{:delay 1E 00}{:clear }Però em fa l'efecte que he
 
-    demasiado poder al hacerlo{:delay A5 00}{:clear }y esos infernales sincorazón...
+    utlitzat massa poder en fer-ho{:delay A5 00}{:clear }i aquells infernals sensecor...
 - id: 8270
-  text: ¿Qué ha pasado?
+  text: Què ha passat?
 - id: 8271
   text: >-
-    Mmm... pues que me he encontrado
+    Mmm... doncs que m'he trobat amb
 
-    algo que os puede interesar.
+    una cosa que us pot interessar.
 - id: 8272
-  text: ¡El libro de Pooh!
+  text: El llibre del Pooh!
 - id: 8273
   text: >-
-    Eso es. {:delay 44 00}{:clear }Sé que eres un buen amigo
+    Correcte. {:delay 44 00}{:clear }Sé que ets un bon amic
 
-    de Winnie the Pooh, Sora,{:delay BD 00}{:clear }por eso os he invocado.
+    del Winnie the Pooh, Sora,{:delay BD 00}{:clear }per això us he invocat.
 - id: 8274
   text: >-
-    Cuando lo hice,
+    Quan ho he fet,
 
-    me atacaron los sincorazón.{:delay B4 00}{:clear }Me defendí con hechizos
+    m'han atacat els sensecor.{:delay B4 00}{:clear }M'he defensat amb encanteris
 
-    bastante poderosos,{:delay D8 00}{:clear }pero temí que el libro hubiera
+    bastant poderosos,{:delay D8 00}{:clear }però temo que el llibre hagi
 
-    sufrido daños, así que...{:delay E8 00}{:clear }{:delay 45 00}Esperad. Será mejor que avise
+    patit cap mal, així que...{:delay E8 00}{:clear }{:delay 45 00}Espereu. Serà millor que avisi
 
-    a León y a los demás antes.{:delay C2 00}{:clear }Voy a buscarlos.
+    al Léon i els altres abans.{:delay C2 00}{:clear }Vaig a buscar-los.
 
-    Vuelvo al instante.
+    Torno en res.
 - id: 8275
-  text: ¿Qué tal estará Pooh?
+  text: Com li deu anar al Pooh?
 - id: 8276
-  text: ¿Lo averiguamos?
+  text: Ho esbrinem?
 - id: 8277
-  text: ¡Sí!
+  text: Sí!
 - id: 8278
-  text: ¡Sora!
+  text: Sora!
 - id: 8279
-  text: Tú cúbreme, ¿vale?
+  text: Tu cobreix-me, d'acord?
 - id: 8280
-  text: ¡Sora! ¡Ven rápido!
+  text: Sora! Vine ràpid!
 - id: 8281
-  text: ¿Donald?
+  text: Donald?
 - id: 8282
-  text: ¿Has traído el libro, Sora?
+  text: Has portat el llibre, Sora?
 - id: 8283
-  text: ¡Eh!
+  text: Eh!
 - id: 8284
-  text: ¡Devolvednos eso!
+  text: Torneu-nos-el!
 - id: 8285
-  text: ¿Creéis que está bien?
+  text: Creieu que estarà bé?
 - id: 8286
   text: >-
-    ¡Ahí va! Quizá deberías volver y
+    Òndia! Potser hauries de
 
-    asegurarte de que Pooh está bien.
+    tornar i assegurar-te'n.
 - id: 8287
-  text: ¿Y qué hacemos con Merlín?
+  text: I què fem amb el Merlí?
 - id: 8288
-  text: ¡Bah, ya le diremos algo!
+  text: Bah, ja li'n direm alguna cosa!
 - id: 8289
-  text: ¡Vale!
+  text: Entesos!
 - id: 8290
   text: >-
-    {:unk13 AA 00 46 00}{:unk08 01 01 05}Era demasiada molestia
+    {:unk13 AA 00 46 00}{:unk08 01 01 05}Era massa molèstia
 
-    esperar a un viejo mago, ¿no?
+    esperar un vell mag, no?
 - id: 8291
-  text: '{:unk13 96 00 50 00}{:unk08 01 01 06}Lo siento mucho...'
+  text: '{:unk13 96 00 50 00}{:unk08 01 01 06}Ho sento molt...'
 - id: 8292
-  text: '{:unk13 2C 01 64 00}{:unk08 01 00 05}¿Cómo andan las cosas por allí?'
+  text: '{:unk13 2C 01 64 00}{:unk08 01 00 05}Com van les coses per allà?'
 - id: 8293
   text: >-
-    {:unk13 18 01 78 00}{:unk08 01 01 06}Bueno...{:clear }Pooh parece haberse
+    {:unk13 18 01 78 00}{:unk08 01 01 06}Aviam...{:clear }el Pooh sembla haver-se
 
-    olvidado de mí por completo.{:clear }Y no solo de mí, también
+    olblidat de mí per complet.{:clear }I no només de mi, també
 
-    de sus otros amigos.
+    dels seus altres amics.
 - id: 8294
   text: >-
-    {:unk13 FA 00 50 00}{:unk08 01 00 05}Era lo que
+    {:unk13 FA 00 50 00}{:unk08 01 00 05}Era el que
 
-    me temía...
+    em temia...
 - id: 8295
   text: >-
-    {:unk13 C8 00 64 00}{:unk08 01 00 04}Sospecho que está relacionado
+    {:unk13 C8 00 64 00}{:unk08 01 00 04}Sospito que està relacionat
 
-    con las páginas que los
+    amb les pàgines que els
 
-    sincorazón han robado.{:clear }Tendréis que recuperar las
+    sensecor han robat.{:clear }Haureu de recuperar les pàgines
 
-    páginas arrancadas y reparar
+    arrencades i reparar el llibre
 
-    el libro para arreglar este lío.
+    per arreglar aquest embolic.
 - id: 8296
   text: >-
-    {:unk13 B4 00 3C 00}{:unk08 01 01 05}Este libro es uno de los elementos
+    {:unk13 B4 00 3C 00}{:unk08 01 01 05}Aquest llibre és un dels
 
-    más preciados del mundo.{:clear }Pensé decirle a León
+    elements més preuats del món.{:clear }Havia pensat a dir al
 
-    que lo había encontrado...{:clear }pero quizá debamos mantenerlo
+    Léon que l'havia trobat...{:clear }però potser ho hauriem de 
 
-    en secreto por ahora.
+    mantenir en secret per ara.
 - id: 8297
-  text: '{:unk06 02}{:unk13 A0 00 2C 01}{:unk08 03 01 02}¡Entendido!'
+  text: '{:unk06 02}{:unk13 A0 00 2C 01}{:unk08 03 01 02}Entesos!'
 - id: 8298
-  text: '{:unk06 02}{:unk13 72 01 64 00}{:unk08 03 00 05}¡Entendido!'
+  text: '{:unk06 02}{:unk13 72 01 64 00}{:unk08 03 00 05}Entesos!'
 - id: 8299
-  text: '{:unk06 02}{:unk13 6E 00 3C 00}{:unk08 03 01 06}¡Entendido!'
+  text: '{:unk06 02}{:unk13 6E 00 3C 00}{:unk08 03 01 06}Entesos!'
 - id: 8300
-  text: '{:unk13 94 00 5F 00}{:unk08 01 01 06}Perfecto.'
+  text: '{:unk13 94 00 5F 00}{:unk08 01 01 06}Perfecte.'
 - id: 8998
   text: >-
-    La sala del ordenador es por aquí.{:clear }Los ordenadores son delicados. Podéis
+    La sala de l'ordinador és per aquí.{:clear }Els ordinadors són delicats. Podeu
 
-    tocarlos, pero no hagáis tonterías.
+    tocar-los, però no feu ximpleries.
 - id: 8999
   text: >-
-    Si sigue así, destruirá el estudio antes
+    Si segueix així, destruirà l'estudi
 
-    de que encontremos la contraseña.{:clear }Lo siento, Sora, pero debes
+    abans que trobem la contrasenya.{:clear }Ho sento, Sora, però has
 
-    vigilar a esa chica.
+    de vigilar a aquella noia.
 - id: 9000
   text: >-
-    Déjanos esto a nosotros. Tú
+    Deixa'ns això a nosaltres.
 
-    concéntrate en los datos.{:clear }Usa la contraseña y trabaja con
+    Tu concentra't en les dades.{:clear }Utilitza la contrasenya i treballa amb
 
-    Tron para liberar los datos del DTD.
+    el Tron per alliberar les dades del DTD.
 - id: 9001
   text: >-
-    Echad una mano a {:theme 0A}Tron{:reset} hasta que
+    Doneu un cop de mà al {:theme 0A}Tron{:reset} fins
 
-    el programa esté listo.{:clear }No os preocupéis,
+    que el programa estigui llest.{:clear }No us preocupeu,
 
-    yo me encargaré de todo aquí.
+    jo m'encarregaré de tot aquí.
 - id: 9002
   text: >-
-    Primero habrá que encontrar los
+    Primer s'hauran de trobar les
 
-    datos de la investigación de Ansem.{:clear }Luego os explicaré todo.
+    dades de la investigació de l'Ansem.{:clear }Després us ho explicaré tot.
 
-    Por favor, tened cuidado.
+    Per favor, aneu amb compte.
 - id: 9003
   text: >-
-    {:theme 0A}El ordenador está ahí delante.{:reset}{:clear }Dentro, el camino se vuelve engañoso.
+    {:theme 0A}L'ordinador és allà davant.{:reset}{:clear }Dins, el camí es torna enganyós.
 
-    Si os perdéis, caminad junto a la pared.
+    Si us perdeu, camineu prop de la paret.
 - id: 9004
   text: >-
-    Busco a un tío con una gran espada.
+    Busco un paio amb una gran espasa.
 
-    No, no tiene una cicatriz en la cara.{:clear }Tiene los ojos de un color extraño
+    No, no té una cicatriu a la cara.{:clear }Té els ulls d'un color estrany
 
-    y trata de ocuparse él solo de todo.
+    i intenta ocupar-se ell sol de tot.
 - id: 9005
   text: >-
-    León y los otros están en la zona
+    El Léon i els altres són a la zona
 
-    residencial. Han ido a casa de Merlín.
+    residencial. Han anat a casa del Merlí.
 - id: 9006
   text: >-
-    Está bueno el helado de sal marina, ¿eh?
+    És bo el gelat de sal marina, eh?
 
-    ¡Pero no es momento de comer helados!{:clear }Ayudad a León y a los otros. Y no
+    Però no és moment de menjar gelats!{:clear }Ajudeu el Léon i  els altres. I no
 
-    esperéis una recompensa a cambio.
+    espereu una recompensa a canvi.
 - id: 9007
   text: >-
-    Si os cruzáis con un hombre de pelo
+    Si us creueu amb un home de pèl
 
-    plateado y una larga espada, avisadme.{:clear }Su nombre es Sephiroth.
+    platejat i una llarga espasa, aviseu-me.{:clear }El seu nom és Sephiroth.
 
-    Es mi enemigo más siniestro.
+    És el més infaust dels meus enemics.
 - id: 9008
   text: >-
-    Parece que tus prendas se diseñaron
+    Sembla que les teves peces es van dissenyar
 
-    para acumular energía cuando usas la magia.{:clear }No te contengas, pues
+    per acumular energia quan utilitzes la màgia.{:clear }No et continguis, puix que la teva
 
-    tu magia se recupera enseguida.
+    màgia es recupera de seguida.
 - id: 9009
   text: >-
-    El PCM ha vuelto los dispositivos
+    El PCM ha tornat els dispositius
 
-    de defensa contra nosotros.{:clear }Si te acercas a ellos, tendrás
+    de defensa contra nosaltres.{:clear }Si t'hi apropes, hauràs
 
-    que esquivar sus ataques.
+    d'esquivar els seus atacs.
 - id: 9010
   text: >-
-    Será duro, pero si seguimos trabajando
+    Serà dur, però si seguim treballant
 
-    este mundo volverá a la normalidad.{:clear }Ahora eres libre de seguir tu camino.
+    aquest món tornarà a la normalitat.{:clear }Ara ets lliure de seguir el teu camí.
 
-    Ten cuidado, Sora.
+    Ves amb compte, Sora.
 - id: 9011
   text: >-
-    ¿Has visto los dispositivos de defensa
+    Has vist els dispositius de defensa
 
-    de la ciudad? Los llaman Claymore.{:clear }No tienen tanto poder como vosotros,
+    de la ciutat? Els anomenen Claymore.{:clear }No tenen tant poder com vosaltres,
 
-    pero si los usáis bien pueden...{:clear }ser de gran ayuda.
+    però si els utilitzeu bé poden...{:clear }ser de gran ajuda.
 - id: 9012
   text: >-
-    La sala del ordenador está más allá
+    La sala de l'ordinador és més enllà
 
-    del {:theme 0A}postigo{:reset}. Ve con cuidado.
+    del {:theme 0A}porticó{:reset}. Ves amb compte.
 - id: 9013
   text: >-
-    Lo siento. Acabar el programa de
+    Ho sento. Acabar el programa d'Erradicació
 
-    Erradicación del PCM tardará algo.{:clear }Mientras tanto, id y ayudad a Tron
+    del PCM encara trigarà una mica.{:clear }Mentrestant, aneu i ajudeu el Tron
 
-    {:theme 0A}desde la sala del ordenador{:reset}.
+    {:theme 0A}des de la sala de l'ordinador{:reset}.
 - id: 9014
   text: >-
-    León está en el patio interior.
+    El Léon és al pati interior.
 
-    No os entretengáis, ¿vale?
+    No us entretingueu, entesos?
 - id: 9015
   text: >-
-    Si vais hacia la derecha y subís las
+    Si aneu cap a la dreta i pugeu les
 
-    escaleras, llegaréis al patio interior.{:clear }Allí hay muchos sincorazón, así
+    escales, arribareu al pati interior.{:clear }Allà hi ha molts sensecor, així
 
-    que preparaos bien en el mercado.
+    que prepareu-vos bé al mercat.
 - id: 9016
   text: >-
-    Como dije antes, esta ciudad posee
+    Com he dit abans, aquesta ciutat
 
-    dispositivos de defensa.{:clear }Pueden ser muy útiles. Luchar junto
+    poseeix dispositius de defensa.{:clear }Poden ser molt útils. Lluitar al seu
 
-    a ellos debería simplificaros las cosas.
+    costat hauria de simplificar-vos les coses.
 - id: 9017
   text: >-
-    ¡Nosotros vigilamos a los sincorazón!{:clear }¡Vuestro cometido es enfrentaros
+    Nosaltres vigilem els sensecor!{:clear }La vostra comesa és
 
-    a ellos! ¡Buena suerte! ♪
+    enfrontar-vos-hi! Bona sort! ♪
 - id: 9018
   text: >-
-    El PCM está usando la máquina de
+    El PCM està utilitzant la màquina
 
-    fabricar sincorazón del estudio.{:clear }También tiene el control del sistema
+    de fabricar sensecor de l'estudi.{:clear }També té el control del sistema de
 
-    de defensa. Esto se pone feo.
+    defensa. Això comença a ser preocupant.
 - id: 9019
   text: >-
-    Sé que Pooh y vosotros sois buenos amigos.{:clear }Deberíamos esperar a Merlín, pero me
+    Sé que el Pooh i vosaltres sou bons amics.{:clear }Hauríem d'esperar el Merlí, però
 
-    gustaría saber si Pooh está bien.
+    m'agradaria saber si el Pooh està bé.
 - id: 12075
   text: >-
-    Todos arrimáis el hombro para salvar
+    Tots hi poseu l'espatlla per salvar
 
-    lo que consideráis importante.{:clear }Y seguís adelante porque estáis
+    el que considereu important.{:clear }I seguiu endavant perquè esteu
 
-    juntos. Sería difícil hacerlo solos.
+    junts. Seria difícil fer-ho sols.
 - id: 12317
-  text: ¡Maléfica! {:delay 64 00}{:clear }{:delay 28 00}{:clear }¡Maléfica!
+  text: Malèfica! {:delay 64 00}{:clear }{:delay 28 00}{:clear }Malèfica!
 - id: 12318
-  text: Puede que sí hayan acabado con ella.
+  text: Pot ser que sí hagin acabat amb ella.
 - id: 12319
   text: >-
-    Oh, y este castillo no es lo que me
+    I aquest castell sí que no me l'esperava així.
 
-    esperaba. No tiene brillo ni nada.
+    No brilla, no res.
 - id: 12320
-  text: ¿Qué pasará ahora con nuestro plan?
+  text: Què passarà ara amb el nostre pla?
 - id: 12321
-  text: ¡Es Bastión Hueco!
+  text: És Baluard Balmat!
 - id: 12322
-  text: ¡Ahí va! Ahora parece distinto.
+  text: Òndia! Es veu com diferent ara.
 - id: 12323
-  text: Espero que León y su panda estén bien.
+  text: Espero que el Léon i la colla estiguin bé.
 - id: 12324
   text: >-
-    Oh, oh. Me parece que
+    Oh, oh. Em sembla que
 
-    vamos a tener que pelear.
+    haurem de lluitar.
 - id: 12325
-  text: '{:unk06 02}{:unk13 0E 01 54 01}{:unk08 03 00 02}¿¡Tío Gilito!?'
+  text: '{:unk06 02}{:unk13 0E 01 54 01}{:unk08 03 00 02}Oncle Garrepa!?'
 - id: 12326
-  text: '{:unk13 A5 00 55 00}{:unk08 01 00 06}¿Eh? ¿Quién...?'
+  text: '{:unk13 A5 00 55 00}{:unk08 01 00 06}Eh? Qui...?'
 - id: 12327
   text: >-
-    {:unk13 3B 01 47 00}{:unk08 01 00 07}Es el tío de Donald... ¡un
+    {:unk13 3B 01 47 00}{:unk08 01 00 07}És el tiet del Donald...
 
-    magnate de los negocios!{:clear }Antes de aparecer los sincorazón,
+    un magnat dels negocis!{:clear }Abans d'aparèixer els sensecor,
 
-    viajaba por los mundos en
+    viatjava pels mons en
 
-    una nave gumi con el rey.{:clear }Estaba ayudando a establecer
+    una nau gumi amb el rei.{:clear }Estava ajudant a establir un
 
-    un sistema de tráfico entre mundos.
+    sistema de tràfic entre mons.
 - id: 12328
-  text: '{:unk06 02}{:unk13 D7 00 54 01}{:unk08 03 01 01}¡Un sistema de tránsito!'
+  text: '{:unk06 02}{:unk13 D7 00 54 01}{:unk08 03 01 01}Un sistema de trànsit!'
 - id: 12329
-  text: >-
-    {:unk13 18 01 4B 00}{:unk08 01 00 06}¿Qué es
-
-    ese jaleo?
+  text: '{:unk13 18 01 4B 00}{:unk08 01 00 06}Què és aquest enrenou?'
 - id: 12330
   text: >-
-    {:unk13 18 01 4B 00}{:unk08 01 00 06}¡Vaya, pero si es Donald!{:clear }¡Y Goofy!
+    {:unk13 18 01 4B 00}{:unk08 01 00 06}Vaja, però si és el Donald!{:clear }I el Goofy!
 
-    ¡Hola, muchachos!{:clear }¡Eh, tenéis muy
+    Hola, xicots!{:clear }Eh, teniu un molt
 
-    buen aspecto!
+    bon aspecte!
 - id: 12331
   text: >-
-    {:unk13 D5 00 55 01}{:unk08 01 01 01}Tú también,
+    {:unk13 D5 00 55 01}{:unk08 01 01 01}Tu també,
 
-    Tío Gilito.
+    Oncle Garrepa.
 - id: 12332
   text: >-
-    {:unk13 F0 00 F5 00}{:unk08 01 01 01}Ay, no creáis...{:clear }No consigo reproducir
+    {:unk13 F0 00 F5 00}{:unk08 01 01 01}Ai, no creieu...{:clear }No consegueixo reproduïr
 
-    el sabor de mi viejo helado
+    el sabor del meu vell gelat
 
-    favorito.{:clear }Ganaría una fortuna
+    preferit.{:clear }Guanyaria una fortuna
 
-    si pudiera...
+    si pogués...
 - id: 12333
-  text: '{:unk13 54 01 50 00}{:unk08 01 00 05}¡Malísimo!'
+  text: '{:unk13 54 01 50 00}{:unk08 01 00 05}Dolentíssim!'
 - id: 12334
-  text: ¡Eh! ¿Qué pasa aquí?
+  text: Eh! Què passa aquí?
 - id: 12335
   text: >-
-    Es el mecanismo de defensa
+    És el mecanisme de
 
-    de la ciudad.
+    defensa de la ciutat.
 - id: 12336
-  text: ¡Yuffie!
+  text: Yuffie!
 - id: 12337
-  text: ¡Cuidado!
+  text: Compte!
 - id: 12338
-  text: ¡Hola, chicos!
+  text: Hola, nois!
 - id: 12339
-  text: Veo que seguís en plena forma.
+  text: Veig que seguiu en plena forma.
 - id: 12340
-  text: ¿Qué esperabas? {:delay 55 00}{:clear }{:delay 0A 00}{:clear }Veo que a ti te va muy bien.
+  text: Què esperaves? {:delay 55 00}{:clear }{:delay 0A 00}{:clear }Veig que a tu et va molt bé.
 - id: 12341
-  text: ¿Qué te esperabas tú?
+  text: Què t'esperaves tu?
 - id: 12342
-  text: ¿Qué tal los demás?
+  text: Com van els altres?
 - id: 12343
-  text: ¡Genial!
+  text: Genial!
 - id: 12344
   text: >-
-    Oye, Yuffie,
+    Ei, Yuffie,
 
-    ¿has visto al rey y a Riku?
+    has visto el rei i el Riku?
 - id: 12345
   text: No.
 - id: 12346
   text: >-
-    Pero tenía la sensación
+    Però tenia la sensació
 
-    de que os volvería a ver.
+    que us tornaria a veure.
 - id: 12347
   text: >-
-    "Quizá no volvamos a vernos,
+    "Potser no tornem a veure'ns,
 
-    pero jamás nos olvidaremos."
+    però mai ens n'oblidarem."
 - id: 12348
-  text: ¿Se supone que ese era León?
+  text: Se suposa que aquell era el Léon?
 - id: 12349
   text: >-
-    Todos están trabajando
+    Tots estan treballant
 
-    en casa de Merlín. {:delay AF 00}{:clear }{:delay 0A 00}{:clear }¡Vamos!
+    a casa del Merlí. {:delay AF 00}{:clear }{:delay 0A 00}{:clear }Som-hi!
 - id: 12350
   text: >-
-    ¡El Comité de Reconstrucción
+    El Comité de Reconstrucció
 
-    de Bastión Hueco!
+    de Baluard Balmat!
 - id: 12351
-  text: ¡Cuanto tiempo!
+  text: Quant de temps!
 - id: 12352
-  text: ¡Vaya! ¡Qué bien os veo!
+  text: Vaja! Què bé que us veig!
 - id: 12353
-  text: Lo sabía.
+  text: Ho sabia.
 - id: 12354
-  text: ¿Qué sabías?
+  text: Què sabias?
 - id: 12355
   text: >-
-    Hace poco, de repente, todos nos
+    Fa poc, de cop, tots ens recordem
 
-    acordamos de vosotros. Todos a la vez.
+    de vosaltres. Tots a la vegada.
 - id: 12356
   text: >-
-    ¿Os... acordasteis? {:delay 50 00}{:clear }{:delay 0A 00}{:clear }¡Espera! ¿Quieres decir que
+    Us... en vau recordar? {:delay 50 00}{:clear }{:delay 0A 00}{:clear }Espera! Vols dir que
 
-    nos habíais olvidado?
+    ens havíeu oblidat?
 - id: 12357
-  text: ¡Gracias!
+  text: Gràcies!
 - id: 12358
-  text: ¿Dónde habéis estado todo este tiempo?
+  text: On heu estat tot aquest temps?
 - id: 12359
-  text: Estábamos durmiendo.
+  text: Estàvem dormint.
 - id: 12360
-  text: ¿Dónde? ¿En una nevera?
+  text: On? En una nevera?
 - id: 12361
   text: >-
-    ¡Qué más da! Es estupendo.
+    Tant se val! És fantàstic.
 
-    ¡Todos juntos otra vez!
+    Tots junts un altre cop!
 - id: 12362
   text: >-
-    Oíd... mm... Estamos buscando a Riku
+    Escolteu... mm... Estem buscant el Riku
 
-    y al rey. ¿Los habéis visto?
+    i el rei. Els heu vist?
 - id: 12363
-  text: Ya veo.
+  text: Bé.
 - id: 12364
   text: >-
-    Lo siento. Pero decidnos si podemos
+    Ho sento. Però dieu-nos si podem
 
-    ayudar en algo, ¿vale?
+    ajudar en qualsevol cosa, d'acord?
 - id: 12365
-  text: Vale. Gracias.
+  text: D'acord. Gràcies.
 - id: 12366
-  text: No nos deis las gracias aún.
+  text: No ens doneu les gràcies encara.
 - id: 12368
   text: >-
-    ¿Te refieres a los incorpóreos
+    Et refereixes als
 
-    y a los sincorazón?
+    incorporis i els sensecor?
 - id: 12369
-  text: ¡Exacto!
+  text: Exacte!
 - id: 12370
   text: >-
-    Creo que os vendría
+    Crec que us vindria
 
-    bien nuestra ayuda.
+    bé la nostra ajuda.
 - id: 12371
-  text: Entonces, vamos al grano.
+  text: Llavors, anem per feina.
 - id: 12372
   text: >-
-    Sora, Donald, Goofy...{:delay 78 00}{:clear }Esperábamos que los tres pudierais
+    Sora, Donald, Goofy...{:delay 78 00}{:clear }Esperàvem que els tres poguéssiu
 
-    echarnos una mano por aquí.
+    donar-nos un cop de mà per aquí.
 - id: 12373
-  text: Como que íbamos a negarnos.
+  text: Com si anéssim a negar-nos.
 - id: 12374
-  text: '{:delay 83 00}{:clear }Olvidaba con quién estoy hablando.'
+  text: '{:delay 83 00}{:clear }Oblidava amb qui estic parlant.'
 - id: 12375
-  text: ¡Eh! ¿Qué quieres decir con eso?
+  text: Eh! Què vols dir amb això?
 - id: 12376
   text: >-
-    Tómatelo como uno de los
+    Pren-t'ho com un dels
 
-    cumplidos de León.
+    compliments del Léon.
 - id: 12377
   text: >-
-    Seguidme hasta el patio interior.
+    Seguiu-me fins el pati interior.
 
-    Hay algo que tenéis que ver.
+    Hi ha una cosa que heu de veure.
 - id: 12378
   text: >-
-    ¡Oh! Imaginaba que erais vosotros.
+    Oh! Imaginava que éreu vosaltres.
 
-    ¡Justo a tiempo!
+    Just a temps!
 - id: 12379
-  text: ¡Es Merlín!
+  text: És el Merlí!
 - id: 12380
-  text: >-
-    ¡Sora y sus compañeros
-
-    nos van a ayudar!
+  text: El Sora i la colla ens ajudaran!
 - id: 12381
-  text: ¡Estupendo! ¡Contamos con vosotros!
+  text: Fantàstic! Comptem amb vosaltres!
 - id: 12382
-  text: ¡Hecho!
+  text: Fet!
 - id: 12383
   text: >-
-    Ah, sí. ¿Les has dado
+    Ah, sí. Els has donat
 
-    los carnés, querida?
+    els carnets, estimada?
 - id: 12384
-  text: ¡Oh!
+  text: Oh!
 - id: 12385
   text: >-
-    Tomad...
+    Teniu...
 
-    Son para vosotros.{:delay B4 00}{:clear }León pensó que os gustaría tenerlas.
+    Són per a vosaltres.{:delay B4 00}{:clear }El Léon va pensar que us agradaria tenir-les.
 - id: 12386
   text: >-
-    ¡Miembro Honorífico del Comité de
+    Membro Honorífic del Comitè de
 
-    Reconstrucción de Bastión Hueco!
+    Reconstrucció de Baluard Balmat!
 - id: 12387
-  text: ¡Carnés de miembro!
+  text: Carnets de membre!
 - id: 12388
-  text: Es genial, ¿eh?
+  text: És genial, eh?
 - id: 12389
-  text: Eh, gracias, León... ¿Eh?
+  text: Eh, gràcies, Léo-... Eh?
 - id: 12390
   text: >-
-    ¡Oh, no! ¡Tenemos que irnos
+    Oh, no! Hem d'anar-nos
 
-    al patio interior!
+    al pati interior!
 - id: 12391
-  text: Mirad eso.
+  text: Mireu allò.
 - id: 12392
   text: ''
 - id: 12393
   text: >-
-    Queremos reconstruir Bastión Hueco
+    Volem reconstruir Baluard Balmat
 
-    para que sea como antes. {:delay C3 00}{:clear }{:delay 1E 00}{:clear }Puede que incluso mejor.
+    per a que sigui com abans. {:delay C3 00}{:clear }{:delay 1E 00}{:clear }Potser fins i tot millor.
 - id: 12394
   text: >-
-    Queda mucho por hacer,
+    Queda molt per fer,
 
-    pero podremos con todo...
+    però podrem amb tot...
 - id: 12395
-  text: Excepto... con eso.
+  text: Excepte... amb allò.
 - id: 12396
-  text: Y eso.
+  text: I allò.
 - id: 12397
-  text: Es cosa nuestra.
+  text: Ens n'encarregarem.
 - id: 12398
-  text: Me alegro de oír eso.
+  text: Vaja, està bé escoltar això.
 - id: 12399
   text: >-
-    Dime, Sora...
+    Llavors, Sora...
 
-    ¿tienes idea de lo que está pasando?
+    tens idea del que està passant?
 - id: 12400
   text: >-
-    Hay un tal Pete que va por ahí
+    Hi ha un tal Pete que va per allà
 
-    tramando algo con los sincorazón.
+    tramant alguna cosa amb els sensecor.
 - id: 12401
   text: >-
-    Ese no sabe ni hacer
+    Aquell llondro no sap ni
 
-    la "o" con un canuto. {:delay B8 00}{:clear }Los que deben preocuparnos
+    cantar l'abecedari. {:delay B8 00}{:clear }Els que han de preocupar-nos
 
-    son los incorpóreos...
+    són els incorporis...
 - id: 12402
   text: >-
-    ¡Y los de esa
+    I els d'aquella
 
-    Organización {XIII} también!
+    Organització {XIII} també!
 - id: 12403
-  text: ¿Nos llamabais?
+  text: Ens cridàveu?
 - id: 12404
-  text: Lo estáis haciendo bien.
+  text: Ho esteu fent bé.
 - id: 12405
-  text: ¿Quiénes sois?
+  text: Qui hi ha!?
 - id: 12406
-  text: Esto es digno de celebración.
+  text: Això és digne de celebració.
 - id: 12407
   text: >-
-    La llave espada...
+    La clau espasa...
 
-    Un arma realmente maravillosa.{:delay FA 00}{:clear }{:delay 37 00}{:clear }Si estuviera en...
+    Una arma realment meravellosa.{:delay FA 00}{:clear }{:delay 37 00}{:clear }Si fos en mans...
 
-    manos más capaces...
+    més capaces...
 - id: 12408
-  text: ¡Dad la cara!
+  text: Doneu la cara!
 - id: 12409
-  text: ¡La Organización {XIII}!
+  text: L'Organització {XIII}!
 - id: 12410
-  text: Bien. Así acabaremos con esto.
+  text: Bé. Així hi posem ja punt i final.
 - id: 12411
-  text: ¡Qué lástima! {:delay 78 00}{:clear }{:delay 19 00}{:clear }Creía que podríamos ser amigos...
+  text: Quina llàstima! {:delay 78 00}{:clear }{:delay 19 00}{:clear }I mira que pensava que podríem ser amics...
 - id: 12412
-  text: ¡Alto!
+  text: Alto!
 - id: 12413
-  text: ¿¡Qué pretendéis!?
+  text: Què preteneu!?
 - id: 12414
-  text: Vaya. Vaya.
+  text: Vaja. Vaja.
 - id: 12415
-  text: ¡Aparta!
+  text: Aparta!
 - id: 12416
-  text: ¿Te parece de buena educación{:delay 7D 00}{:clear }{:delay 19 00}{:clear }cerrarme el paso así?
+  text: Et sembla de bona educació{:delay 7D 00}{:clear }{:delay 19 00}{:clear }barrar-me el pas així?
 - id: 12417
-  text: ¡He dicho que te apartes!
+  text: He dit que t'apartis!
 - id: 12420
   text: >-
-    Verás, eso funcionaría si...
+    Vejam, això funcionaria si...
 
-    yo fuera un simple mequetrefe.
+    jo fos un simple pocatraça.
 - id: 12429
-  text: ¡Vaya!... {:delay 37 00}{:clear }{:delay 19 00}{:clear }Pues no lo sé.
+  text: Vaja!... {:delay 37 00}{:clear }{:delay 19 00}{:clear }Doncs no ho sé.
 - id: 12431
-  text: ¡Espera!
+  text: Espera!
 - id: 12435
-  text: Sí, tienes razón. ¡Solo hay un Sora!
+  text: Sí, tens raó. Només hi ha un Sora!
 - id: 12436
   text: >-
     ¡El Miembro Honorífico del Comité
