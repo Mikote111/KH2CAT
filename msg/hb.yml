@@ -3023,7 +3023,7 @@
 
     munt aquest últim any.{:clear }No em refereixo només al teu cos.
 
-    T'has tornat encara més fort.{:clear }Aquell és el Sora que conec.
+    T'has tornat encara més fort.{:clear }Aquest és el Sora que conec.
 - id: 17871
   text: >-
     El sistema de defensa ha estat
@@ -3374,7 +3374,7 @@
     {:chardelay 52 00}És clar, per què no?
 - id: 18912
   text: >-
-    Necesito mejorar mi monopatín.
+    Necessito millorar el meu monopatí.
 
     Podries ajudar-me?
 - id: 18913
@@ -3383,7 +3383,7 @@
 
     {:chardelay 33 00}No, estic molt ocupat.
 
-    {:chardelay 52 00}Segur, per què no?
+    {:chardelay 52 00}Sí, per què no?
 - id: 19322
   text: >-
     Tens alguna pàgina del llibre del
@@ -3487,7 +3487,7 @@
   text: >-
     {:unk08 02 00 06}Vols enfrontar-te a una versió més forta
 
-    del Axel a partir de les seves dades?
+    de l'Axel a partir de les seves dades?
 
     {:chardelay 33 00}Ara no.
 
