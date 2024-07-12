@@ -1,0 +1,2588 @@
+﻿- id: 831
+  text: ''
+- id: 832
+  text: Segur que això és el Coliseu?
+- id: 833
+  text: És per allà!
+- id: 834
+  text: Uff... Quasi ens perdem.
+- id: 836
+  text: Els sensecor!
+- id: 3460
+  text: >-
+    Hem entrenat molt, però no sé
+
+    si serà suficient per lluitar contra l'Hades.{:clear }Serà millor que li demanem
+
+    a l'Hèrcules aquella Pedra de l'Olimp.
+- id: 3461
+  text: >-
+    L'Hèrcules ha tornat.{:clear }Sembla que està buscant
+
+    algú. Què deu passar?
+- id: 3462
+  text: >-
+    La maledicció de l'Inframón, no?
+
+    Sí, és una llauna.{:clear }Però si aconsegueixes superar aquella
+
+    prova, seràs a un pas de ser un heroi.
+- id: 3463
+  text: >-
+    Vols practicar, no?
+
+    D'acord, ara veuràs el que és suar!
+- id: 3464
+  text: ※ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 3465
+  text: >-
+    Sempre s'ha d'entrenar. La clau per
+
+    progressar és saber equipar-se bé.
+- id: 3466
+  text: >-
+    L'Hèrcules està molt bé.
+
+    Només necessita un descans.{:clear }Oi que sí, noi meravella?
+- id: 3467
+  text: '[Renilla amb tristesa]'
+- id: 3468
+  text: >-
+    El tipus de negre va apagar el foc que
+
+    bloquejava l'entrada i va entrar a la cova.{:clear }Sincerament, em teniu preocupat.
+
+    Prepareu-vos molt bé abans d'entrar.
+- id: 3469
+  text: ※ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 3471
+  text: >-
+    L'Hades mai es rendeix. Al final,
+
+    aconseguirà el que vol d'Hèrcules.
+- id: 3472
+  text: >-
+    En aquell estat, l'Hèrcules
+
+    no podrà derrotar l'Auron!{:clear }Per fi, el poderós heroi cau!
+- id: 3473
+  text: >-
+    La cambra de l'Hades està
+
+    al fons d'aquesta cova.{:clear }Cada vegada que em demana que hi vagi,
+
+    un calfred em recorre l'esquena!
+- id: 3474
+  text: >-
+    Aquesta inscripció és per als tornejos
+
+    regulars, no per a la Copa Hades.
+- id: 3476
+  text: >-
+    L'Hèrcules ha anat en busca
+
+    de la Pedra de l'Olimp.{:clear }Mentrestant, no hauríeu d'estar
+
+    entrenant, aprenents d'heroi?
+- id: 3477
+  text: >-
+    Estic ocupat. Si no tens
+
+    res a dir, ves-te'n.
+- id: 3478
+  text: >-
+    T'estaré vigilant,
+
+    escollit de la clau espasa.{:clear }Je, je, je, je...
+- id: 3479
+  text: Dirigeix-te a la sortida!
+- id: 3481
+  text: Protegeix la Megara i acaba amb els enemics!
+- id: 3482
+  text: Derrota el Pete abans que la cova s'enfonsi!
+- id: 3498
+  text: Se n'ha anat?
+- id: 3499
+  text: No hi comptis.
+- id: 3500
+  text: Ja us en aneu?
+- id: 3501
+  text: >-
+    No està gens malament.
+
+    Ets un heroe o algo así?
+- id: 3502
+  text: No... Res d'això. Només soc un...
+- id: 3503
+  text: '... Auron.'
+- id: 3504
+  text: És el meu nom.
+- id: 3505
+  text: Soc el Sora.
+- id: 3506
+  text: Donald.
+- id: 3507
+  text: Goofy!
+- id: 3508
+  text: >-
+    Pot ser que ens hagi reunit el destí.
+
+    Potser necessiteu un escolta.
+- id: 3509
+  text: Escolta? Gràcies, però no.
+- id: 3511
+  text: Què? Està tancat!
+- id: 3512
+  text: Ha de cedir!
+- id: 3513
+  text: "{:delay 5A 00}Obre't d'una vegada! {:delay 14 00}"
+- id: 3514
+  text: ''
+- id: 3515
+  text: "{:delay 0F 00}S'obrirà amb allò? {:delay 2C 01}"
+- id: 3516
+  text: '{:delay 0A 00}Sí, em sembla que sí.'
+- id: 3517
+  text: Afanya't!
+- id: 3519
+  text: ''
+- id: 3520
+  text: Som-hi!
+- id: 3521
+  text: ''
+- id: 3522
+  text: Gràcies, però estic bé.
+- id: 3523
+  text: I qui sou vosaltres?
+- id: 3524
+  text: >-
+    Jo soc el Sora, aquests
+
+    són el Donald i el Goofy. {:delay AF 00}{:clear }Venim a veure com
+
+    li va a l'Hèrcules.
+- id: 3525
+  text: Coneixeu l'home meravella?
+- id: 3526
+  text: Sí! També som herois!
+- id: 3527
+  text: "{:delay 2A 00}{:clear }Voldràs dir aprenents d'heroi, Donald."
+- id: 3528
+  text: '{:delay 48 00}{:clear }Sembla que tenim un amic en comú.{:delay 9C 00}{:clear }Em dic Megara.{:delay 6C 00}{:clear }El meus amics em diuen Meg.'
+- id: 3529
+  text: "{:unk13 4E 01 87 00}{:unk06 00}{:unk08 01 00 05}I com va l'Hèrcules?"
+- id: 3530
+  text: >-
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 00 06}L'home meravella? Bé,
+
+    lluita en el Coliseu
+
+    tots els dies.{:clear }Com es sol dir,
+
+    "la feina d'un heroi
+
+    mai s'acaba".{:clear }Si volgués, podria deixar-lo,
+
+    però continua lluitant.{:clear }Tot i que fins i tot l'home
+
+    meravella té els seus límits.{:clear }I aquests rivals són durs
+
+    de pelar; enviats especials
+
+    de l'Hades mateix...
+- id: 3531
+  text: "{:unk13 5E 01 DC 00}{:unk06 02}{:unk08 03 00 05}L'Hades!?"
+- id: 3532
+  text: >-
+    {:unk13 18 01 50 00}{:unk06 00}{:unk08 01 00 05}Exacte. El Senyor de l'Inframón.
+
+    Ara em dirigia a veure'l.{:clear }Potser puc aconseguir que li
+
+    doni un respir a l'Hèrcules.{:clear }Si li passés alguna cosa
+
+    a aquell noi, jo...
+- id: 3533
+  text: >-
+    {:unk13 5E 01 96 00}{:unk06 00}{:unk08 01 01 05}Òndia...{:clear }Sembla que sou
+
+    més que amics!
+- id: 3534
+  text: '{:unk13 5E 01 96 00}{:unk06 00}{:unk08 01 01 05}'
+- id: 3535
+  text: '{:unk13 FA 00 50 00}{:unk06 01}{:unk08 01 00 05}Oh... eh, no... vull dir...'
+- id: 3536
+  text: >-
+    {:unk13 61 01 76 00}{:unk06 00}{:unk08 01 00 06}Nosaltres anirem a
+
+    parlar amb l'Hades.{:clear }No m'ho perdonaria,
+
+    si et passés alguna
+
+    cosa pel camí.
+- id: 3537
+  text: >-
+    {:unk13 BE 00 5A 00}{:unk06 00}{:unk08 01 00 06}Ho dius de debò?
+
+    Bé, sembla que
+
+    saps el que fas.{:clear }Crec que acceptaré
+
+    la teva oferta.
+- id: 3538
+  text: >-
+    {:unk13 BE 00 5A 00}{:unk06 00}{:unk08 01 00 06}Però... que quedi entre
+
+    nosaltres l'asumpte de la
+
+    xerrada amb l'Hades, d'acord?
+- id: 3539
+  text: '{:unk13 72 01 96 00}{:unk06 01}{:unk08 01 01 04}Som una tomba!'
+- id: 3540
+  text: L'Organització!
+- id: 3541
+  text: Sí.
+- id: 3542
+  text: Hora de tocar el dos!
+- id: 3543
+  text: Doncs molt bé...
+- id: 3544
+  text: >-
+    D'on treuen aquests borinots?
+
+    Mare meva!
+- id: 3545
+  text: >-
+    Bah, no són més que uns
+
+    embrolladors, tots ells!{:delay B4 00}{:clear }Bé... eh...
+
+    què faràs amb l'Hèrcules?
+- id: 3546
+  text: >-
+    Ha fet miques a tots els
+
+    lluitadors que li has enviat.{:delay F6 00}{:clear }Aviat no hi cabrà ni una
+
+    agulla a l'Inframón.
+- id: 3548
+  text: >-
+    Ei, per què no envies a
+
+    algú que ja estigui mort{:delay BA 00}{:clear }i li estalvies les molèsties?
+- id: 3549
+  text: >-
+    Mort? Bona idea!
+
+    I coneixo el guerrer perfecte.
+- id: 3550
+  text: ''
+- id: 3551
+  text: Jo també tinc por, Donald.
+- id: 3552
+  text: Hades, dona la cara!
+- id: 3553
+  text: ''
+- id: 3554
+  text: Uufff... Què hi ha allà abaix?
+- id: 3555
+  text: >-
+    Es el calabós més profund
+
+    de l'Inframon.{:delay 6E 00}{:clear }{:delay 28 00}{:clear }Aquesta vegada trauré el més
+
+    dolent de tots els dolents.
+- id: 3556
+  text: Et refereixes a...?
+- id: 3557
+  text: ''
+- id: 3558
+  text: Aniré al gra.{:delay 42 00}{:clear }T'oferiré un tracte.
+- id: 3559
+  text: >-
+    Et deixo sortir de la garjola.
+
+    Sense lligams. Lliure com un ocell.
+- id: 3560
+  text: I tot per una simple feina.
+- id: 3561
+  text: >-
+    Lluitar contra l'Hèrcules en el Coliseu...
+
+    a mort.
+- id: 3562
+  text: >-
+    Aquesta és la meva història.
+
+    I tu no en formes part.
+- id: 3563
+  text: Has oblidat amb qui parles? {:delay B4 00}{:clear }Soc el Senyor dels Morts!
+- id: 3564
+  text: Jun! No m'estranya que ningú vulgui morir.
+- id: 3565
+  text: T'enteraràs!
+- id: 3566
+  text: ''
+- id: 3567
+  text: Hades!
+- id: 3568
+  text: Vosaltres!?
+- id: 3569
+  text: Lluita!
+- id: 3570
+  text: Aixeca't!
+- id: 3571
+  text: Alguna cosa no va bé.
+- id: 3572
+  text: Em sento una mica estrany...
+- id: 3573
+  text: >-
+    Exacte! Veréis, esa es la clave.{:delay AA 00}{:clear }En el Inframundo, "héroe"
+
+    es igual a "nada". Lo da el lugar.
+- id: 3574
+  text: >-
+    A l'Inframon, els herois
+
+    són zeros. Ve amb el lloc.
+- id: 3575
+  text: Fugim!
+- id: 3576
+  text: Però haig de parlar amb l'Hades!
+- id: 3577
+  text: Què has dit?
+- id: 3578
+  text: >-
+    No podem lluitar amb ell aquí!
+
+    Hem d'anar-nos-en... ara!
+- id: 3579
+  text: >-
+    Tinc els sensecor
+
+    per tot l'Inframon,{:delay BA 00}{:clear }així que deixa'm a mi a aquells mocosos.{:delay BA 00}{:clear }Mira, nano, tu segueix intentant
+
+    convertir l'Hèrcules en un sensecor.{:delay 08 01}{:clear }Llavors sí que serà meu.
+- id: 3582
+  text: L'Inframon em pertany!{:delay B4 00}{:clear }{:delay 2A 00}{:clear }Jo mateix me'n ocuparé!
+- id: 3584
+  text: Cèrber, endavant!
+- id: 3585
+  text: >-
+    Som-hi, ganàpia,
+
+    pren-te un descans avui.{:delay AA 00}{:clear }{:delay 08 00}{:clear }Pels vells temps...
+- id: 3587
+  text: >-
+    Han vingut a veure'm.
+
+    Han vingut a veure un heroi.{:delay BE 00}{:clear }No puc fallar-los.
+- id: 3589
+  text: >-
+    No et preocupis, Meg. {:delay 4E 00}{:clear }Tot anirà bé. Per a què necessita
+
+    descansar un heroi? Eh?
+- id: 3590
+  text: >-
+    Tot anirà bé. Per a què necessita
+
+    descansar un heroi? Eh?
+- id: 3591
+  text: Sora, no em fallis.
+- id: 3592
+  text: '{:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 05}Ufff...'
+- id: 3593
+  text: '{:unk13 B6 01 82 00}{:unk06 00}{:unk08 01 00 05}Eh?'
+- id: 3594
+  text: "{:unk13 84 00 1F 01}{:unk06 00}{:unk08 01 01 01}On s'ha ficat l'Auron?"
+- id: 3595
+  text: >-
+    {:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 00 05}Ell sap cuidar-se.{:clear }Busquem la Meg. Llavors ja
+
+    ho intentarem un altre cop.
+- id: 3596
+  text: >-
+    Aviam si m'ha quedat clar...{:delay 46 00}{:clear }La clau espasa d'aquest
+
+    mocós obre qualsevol pany?
+- id: 3597
+  text: Correcte.
+- id: 3598
+  text: >-
+    {:delay 49 00}{:clear }T'he parlat de la passada de coliseu{:delay 68 00}{:clear }que tenim a l'Inframon?{:delay 9F 00}{:clear }Fa que el de dalt sembli
+
+    una piscineta al seu costat.
+- id: 3600
+  text: >-
+    Doncs allà és on acabarem{:delay 54 00}{:clear }amb la ratxa triomfal de
+
+    d'aquell pallasso de l'Hèrcules.
+- id: 3601
+  text: >-
+    Hi ha un problema.
+
+    El Zeus l'ha clausurat.
+- id: 3602
+  text: ''
+- id: 3603
+  text: ''
+- id: 3604
+  text: Bingo!{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }Pisparem la clau i{:delay 78 00}{:clear }reobrirem l'Infernódrom.
+- id: 3605
+  text: >-
+    Sento dir-ho, però aquella
+
+    clau és molt particular.{:delay AE 00}{:clear }Ella escull el seu portador.
+
+    I aquell xaval no és un estaquirot.
+- id: 3606
+  text: ''
+- id: 3607
+  text: Aquí fa falta un toc femení.
+- id: 3608
+  text: '{:unk13 1D 01 E6 00}{:unk06 00}{:unk08 01 00 04}Òndia, això em porta records!'
+- id: 3609
+  text: >-
+    Sora! Donald! Goofy!
+
+    Quan hi heu arribat?
+- id: 3610
+  text: Hola, Hèrcules!
+- id: 3611
+  text: Hola!
+- id: 3612
+  text: Com va!
+- id: 3613
+  text: Una altra aventura?
+- id: 3614
+  text: >-
+    Sí. Busco uns amics, em
+
+    carrego uns sensecor...
+- id: 3615
+  text: "Aprenents d'heroi: sempre ocupats."
+- id: 3616
+  text: I tant!
+- id: 3617
+  text: >-
+    {:unk13 F0 00 5F 00}{:unk06 00}{:unk08 01 00 05}Bé, heu trobat
+
+    els vostres amics?
+- id: 3618
+  text: >-
+    {:unk13 5E 01 69 00}{:unk06 00}{:unk08 01 00 06}Encara busquem.
+
+    Quan hem arribat aquí,
+
+    ens hem trobar amb la Meg...
+- id: 3619
+  text: >-
+    {:unk13 5E 01 69 00}{:unk06 00}{:unk08 01 00 06}Meg...mega...problemes!
+
+    Així que hem hagut d'ajudar
+
+    algú en problemes.{:clear }Hem decidit donar a
+
+    l'Hades una bona lliçó...{:clear }... però en l'Inframon
+
+    les nostres forces
+
+    no serveixen de res.{:clear }Se t'acudeix alguna cosa?
+- id: 3620
+  text: >-
+    {:unk13 54 01 57 00}{:unk06 00}{:unk08 01 00 05}Bé, existeix una pedra
+
+    que protegeix contra la
+
+    maledicció de l'Inframon.{:clear }Els deus del Mont
+
+    Olimp l'utilizen quan
+
+    han d'anar allà.
+- id: 3621
+  text: '{:unk13 68 01 86 00}{:unk06 00}{:unk08 01 00 07}Creieu que podríem utilitzar-la?'
+- id: 3622
+  text: '{:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}És clar, per què no!{:clear }Us la conseguiré.'
+- id: 3623
+  text: '{:unk13 95 01 E8 00}{:unk06 00}{:unk08 01 01 05}Gràcies!'
+- id: 3624
+  text: '{:unk13 1E 01 9F 00}{:unk06 00}{:unk08 01 01 05}És molt amable per part teva!'
+- id: 3625
+  text: >-
+    {:unk13 EC 00 3D 00}{:unk06 00}{:unk08 01 00 05}Encara que tingueu la Pedra de 
+
+    l'Olimp, l'Hades no és pas poca cosa.{:clear }I jo tinc un combat avui, o sigui
+
+    que no puc acompanyar-vos...
+- id: 3626
+  text: >-
+    {:unk13 40 01 35 00}{:unk06 00}{:unk08 01 00 04}Sabeu què necessiteu?
+
+    Entrenar!{:clear }Per què no aneu a
+
+    parlar amb el Fil?
+- id: 3627
+  text: '{:unk13 22 01 6E 00}{:unk06 00}{:unk08 01 01 05}Bé, bona idea!'
+- id: 3628
+  text: >-
+    Hola, campió. {:delay 48 00}{:clear }Com et sents?{:delay 54 00}{:clear }Més et val descansar
+
+    per al combat de demà.{:delay B4 00}{:clear }Ningú vol pagar per veure
+
+    un heroi esgotat, m'entens?{:delay 20 01}{:clear }Recorda sempre:{:delay 6C 00}{:clear }la victòria es basa en dues senzilles paraules:{:delay D8 00}{:clear }menjar,{:delay 46 00}{:clear }banyar-se{:delay 42 00}{:clear }i dormir.
+- id: 3629
+  text: >-
+    {:delay 32 00}{:clear }Però si són els
+
+    aprenents d'heroi!
+- id: 3630
+  text: Què bé que et veig!
+- id: 3631
+  text: >-
+    Millor que mai!{:delay 60 00}{:clear }Com esteu?{:delay 48 00}{:clear }Us heu convertit ja
+
+    en autèntics herois?
+- id: 3632
+  text: >-
+    Com esteu?{:delay 48 00}{:clear }Us heu convertit ja
+
+    en autèntics herois?
+- id: 3633
+  text: Tranquils que tot arribarà.{:delay 84 00}{:clear }Bé... Com va?
+- id: 3634
+  text: >-
+    {:unk13 7C 01 50 00}{:unk06 00}{:unk08 01 00 06}Ja, ja, ja!
+
+    Vosaltres tres us
+
+    encarregareu de l'Hades?
+- id: 3635
+  text: '{:unk13 A3 00 96 00}{:unk06 00}{:unk08 01 01 05}Què té de graciós!?'
+- id: 3636
+  text: >-
+    {:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 01 05}Teniu agalles. Això m'agrada.{:clear }Eh, mai se sap... coses
+
+    més rares s'han vist, no?
+
+    Posem fil a l'agulla!
+- id: 3637
+  text: >-
+    {:unk13 95 00 02 01}{:unk06 00}{:unk08 01 01 06}Bé, haig d'anar-me'n
+
+    un moment.
+- id: 3638
+  text: '{:unk13 6B 01 75 00}{:unk06 00}{:unk08 01 00 06}A on?'
+- id: 3639
+  text: '{:unk13 C8 00 04 01}{:unk06 00}{:unk08 01 01 05}No és cosa teva.'
+- id: 3640
+  text: >-
+    {:unk13 12 01 42 00}{:unk06 00}{:unk08 01 00 05}Ho sento, xicots...{:clear }Han robat la
+
+    Pedra de l'Olimp.
+- id: 3641
+  text: '{:unk13 F6 00 A3 00}{:unk06 02}{:unk08 03 01 07}Què!?'
+- id: 3642
+  text: '{:unk13 82 01 7E 00}{:unk06 00}{:unk08 01 01 06}Qui?'
+- id: 3643
+  text: >-
+    {:unk13 32 01 46 00}{:unk06 00}{:unk08 01 00 04}No ho sabem encara.{:clear }L'únic segur és que ha
+
+    estat un tipus de negre,
+
+    amb una caputxa.{:clear }I que els seus camarades
+
+    eren un munt de
+
+    criatures blanques.
+- id: 3644
+  text: '{:unk13 D6 00 37 00}{:unk06 00}{:unk08 01 00 05}El coneixeu?'
+- id: 3645
+  text: >-
+    {:unk13 40 01 64 00}{:unk06 00}{:unk08 01 01 05}Crec que sí.{:clear }Eh, si aconseguim recuperar
+
+    la Pedra de l'Olimp, podem
+
+    quedar-nos-la una estona?
+- id: 3646
+  text: '{:unk13 C8 00 46 00}{:unk06 00}{:unk08 01 00 05}És clar.'
+- id: 3647
+  text: >-
+    {:unk13 13 01 34 00}{:unk06 00}{:unk08 01 00 05}Per cert, heu vist
+
+    la Meg per aquí?
+- id: 3648
+  text: "{:unk13 DC 00 46 00}{:unk06 00}{:unk08 01 00 05}Oh, d'acord..."
+- id: 3649
+  text: >-
+    Què et passa, heroiet?{:delay 79 00}{:clear }Et sents sobrepassat?{:delay 3C 00}{:clear }{:delay 18 00}{:clear }No em diguis?{:delay 3F 00}{:clear }Creia que mantenir-se en forma
+
+    era part dels deures d'un heroi.{:delay A4 00}{:clear }Tu m'entens.
+- id: 3650
+  text: Ah, ja! Hades, hem de parlar!
+- id: 3651
+  text: >-
+    He vingut a compartir
+
+    notícies molt sucoses.{:delay A2 00}{:clear }Sembla ser que, la teva
+
+    estimada, dolça i petita Meg...
+- id: 3652
+  text: "... ha anat i s'ha perdut per l'Inframon."
+- id: 3653
+  text: És a dir, que l'has segrestrada!
+- id: 3654
+  text: >-
+    Sí... bé... però
+
+    per a què entrar en detalls?
+- id: 3655
+  text: >-
+    {:delay 49 00}{:clear }Ara no pots anar-te'n. {:delay 6E 00}{:clear }A veure, avui tens un combat
+
+    molt important contra...{:delay 4F 01}{:clear }la sanguinària... ¡Hidra! {:delay 8D 00}{:clear }{:delay 13 00}{:clear }Si no et quedes, qui sap quants
+
+    accidents li podrien passar?
+- id: 3656
+  text: Ja, tots causats per tu.
+- id: 3657
+  text: >-
+    Com he dit...
+
+    A qui li importen els detalls?
+- id: 3658
+  text: Ets un cobard!
+- id: 3659
+  text: Bé, no tots podem ser herois.
+- id: 3660
+  text: Podeu ocupar-vos-en?
+- id: 3661
+  text: És clar! Som herois!
+- id: 3662
+  text: Només aprenents, Donald.
+- id: 3663
+  text: >-
+    Tu t'encarregues de l'Hidra
+
+    i nosaltres de la resta.
+- id: 3664
+  text: Compto amb vosaltres.
+- id: 3665
+  text: Busca la Meg.
+- id: 3666
+  text: '{:unk13 4A 01 50 00}{:unk06 02}{:unk08 03 01 05}Fil!'
+- id: 3667
+  text: '{:unk13 81 00 9F 00}{:unk06 00}{:unk08 01 00 06}Ugh, ugh...'
+- id: 3668
+  text: '{:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 05}Què ha passat?'
+- id: 3669
+  text: >-
+    {:unk13 C2 00 58 00}{:unk06 00}{:unk08 01 00 05}He vist un tipus estrany
+
+    vestit de negre.{:clear }He intentat seguir-lo, però m'ha
+
+    descobert. Després d'això, només
+
+    sé que he començat a veure estrelles.
+- id: 3670
+  text: '{:unk13 54 01 67 00}{:unk06 02}{:unk08 03 00 07}Vestit de negre!?'
+- id: 3671
+  text: >-
+    {:unk13 FA 00 50 00}{:unk06 00}{:unk08 01 01 05}És el que va robar
+
+    la Pedra de l'Olimp.
+- id: 3672
+  text: '{:unk13 4A 01 2E 00}{:unk06 00}{:unk08 01 01 06}Cap on es dirigia?'
+- id: 3673
+  text: "{:unk13 96 00 82 00}{:unk06 00}{:unk08 01 00 06}A l'Inframon."
+- id: 3674
+  text: >-
+    {:unk13 2C 01 B4 00}{:unk06 00}{:unk08 01 00 07}Mala hierba ese tipo, sí.
+
+    Lo único que quería era
+
+    encontrar un héroe suplente...{:clear }por si Hércules necesitaba
+
+    tomarse un descanso.
+- id: 3675
+  text: >-
+    {:unk13 B4 00 AA 00}{:unk06 00}{:unk08 01 01 06}¿Héroes, eh?
+
+    ¡Haberlo dicho!
+- id: 3676
+  text: '{:unk13 75 01 01 01}{:unk06 02}{:unk08 03 00 06}¿¡Conocéis a alguien!?'
+- id: 3677
+  text: '{:unk13 C8 00 78 00}{:unk06 00}{:unk08 01 00 05}Ah, sí, claro...'
+- id: 3678
+  text: '{:unk13 55 01 46 00}{:unk06 00}{:unk08 01 00 06}Chicos...'
+- id: 3679
+  text: >-
+    {:unk13 12 01 45 00}{:unk06 00}{:unk08 01 01 05}La maldición del Inframundo
+
+    me está afectando.
+- id: 3680
+  text: >-
+    {:unk13 B4 00 47 00}{:unk06 00}{:unk08 01 01 04}¡Debemos recuperar esa
+
+    Piedra del Olimpo cuanto antes!
+- id: 3681
+  text: ¡Ah! ¡Tú!
+- id: 3682
+  text: Un momento...
+- id: 3683
+  text: ¿Roxas?
+- id: 3684
+  text: ¿Cómo?
+- id: 3685
+  text: Oohh, es inútil...
+- id: 3686
+  text: ¿Eh? ¿De qué estás hablando?
+- id: 3687
+  text: >-
+    Veamos...{:delay 75 00}{:clear }{:delay 25 00}{:clear }"Si el sujeto no respondiera, {:delay 8E 00}{:clear }empléese la violencia para liberar
+
+    su verdadera naturaleza."{:delay FC 00}{:clear }{:delay 2E 00}{:clear }Perfecto. {:delay 48 00}{:clear }Se han equivocado encargándome
+
+    esto a mí.
+- id: 3688
+  text: ¡Eres muy rarito!
+- id: 3689
+  text: ''
+- id: 3690
+  text: ¡Él debe de ser el ladrón!
+- id: 3691
+  text: ¡Menuda grosería!
+- id: 3692
+  text: '{:delay 6C 00}{:clear }Roxas, vuelve con nosotros.'
+- id: 3693
+  text: ¡Y dale con Roxas!
+- id: 3694
+  text: ¡Eh, mirad!
+- id: 3695
+  text: ¡Vamos! ¡Meg nos necesita!
+- id: 3696
+  text: ¡Meg!
+- id: 3697
+  text: Ya casi estamos.
+- id: 3698
+  text: '{:delay AE 00}{:clear }¡Esa sí que es una llave!'
+- id: 3699
+  text: ¡Vaya! ¡Gracias por tu ayuda!{:delay 84 00}{:clear }{:delay 54 00}{:clear }¡Que tengas un buen día!
+- id: 3700
+  text: ¡Sora! ¡Detrás de ti!
+- id: 3701
+  text: >-
+    {:delay 84 00}{:clear }¿Qué pasa? ¿No sabéis luchar
+
+    en el Inframundo?
+- id: 3702
+  text: Eso lo veremos.
+- id: 3703
+  text: ¡Son demasiados!
+- id: 3704
+  text: ¡Vámonos!
+- id: 3705
+  text: Siento la tardanza.
+- id: 3706
+  text: >-
+    Sacad a Meg de aquí.
+
+    Nos vemos en el Coliseo.
+- id: 3707
+  text: ¿Y tú qué?
+- id: 3708
+  text: >-
+    Les enseñaré lo que pasa cuando uno se
+
+    mete con un auténtico héroe.
+- id: 3709
+  text: ¡Alto ahí!
+- id: 3710
+  text: Sora... No puedo abandonarle.
+- id: 3711
+  text: Estará bien.
+- id: 3712
+  text: >-
+    Mira, hasta Hércules tiene sus límites.
+
+    No puede ganar eternamente.
+- id: 3713
+  text: Pues iremos a ayudarle.
+- id: 3714
+  text: ¡Saca de aquí a Meg!
+- id: 3715
+  text: >-
+    {:delay 3C 00}{:clear }Este sitio me da escalofríos.{:delay 6C 00}{:clear }{:delay 15 00}{:clear }¡Me encargaré de vosotros
+
+    la próxima vez!
+- id: 3716
+  text: >-
+    Voy a señalar este día
+
+    en el calendario.{:delay D8 00}{:clear }¡Será el fin de ese
+
+    héroe de pacotilla!
+- id: 3717
+  text: >-
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 00 05}¡Pero si es el más famoso
+
+    de los fracasados! Esta vez sí
+
+    que la has hecho gorda.
+- id: 3718
+  text: >-
+    {:unk13 4A 01 78 00}{:unk06 01}{:unk08 01 01 04}A nadie le gustan los
+
+    malos perdedores, Hades.
+- id: 3719
+  text: '{:unk13 16 01 2D 00}{:unk06 02}{:unk08 03 00 04}¡Corta el rollo, nene-llave!'
+- id: 3720
+  text: '{:unk13 4A 01 5A 00}{:unk06 00}{:unk08 01 01 06}Entonces déjame a mí.'
+- id: 3721
+  text: >-
+    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 07}A nadie le gustan los
+
+    malos perdedores, Hades.
+- id: 3722
+  text: >-
+    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 04}Sí, ya, lo que tú digas.{:clear }Eh, oye, ¿no tenías tú un
+
+    asuntillo con la Hidra?
+
+    Uff, a saber en qué anda...
+- id: 3723
+  text: >-
+    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 04}He oído que las cosas
+
+    están complicadas allí
+
+    arriba, campeón.
+- id: 3724
+  text: '{:unk13 AA 01 D2 00}{:unk06 02}{:unk08 03 01 05}¡Alto!'
+- id: 3725
+  text: >-
+    {:unk13 C8 00 46 00}{:unk06 00}Siento las prisas, pero
+
+    tengo otros asuntillos
+
+    que atender.
+- id: 3726
+  text: No puede ser...
+- id: 3727
+  text: ¡Campeón! ¡Estás a salvo!
+- id: 3728
+  text: He fallado...
+- id: 3729
+  text: ¡Tú no tienes la culpa!
+- id: 3730
+  text: Os he dejado a todos indefensos.
+- id: 3731
+  text: >-
+    Hades tenía razón.
+
+    Estoy acabado.
+- id: 3732
+  text: >-
+    Bah, venga ya, campeón.
+
+    ¡Yo no te entrené para pensar así!
+- id: 3733
+  text: Mi héroe...
+- id: 3734
+  text: >-
+    Fil tiene razón.
+
+    No puedes agobiarte.
+- id: 3735
+  text: Menudo héroe...
+- id: 3736
+  text: ¡Ayudémosle!
+- id: 3737
+  text: ¡Sí!
+- id: 3738
+  text: ¿Hay sitio para uno más?
+- id: 3739
+  text: ¡Nos apuntamos!
+- id: 3740
+  text: ''
+- id: 3741
+  text: Os he fallado. Solo soy...{:delay 96 00}{:clear }{:delay 50 00}un inútil.
+- id: 3742
+  text: >-
+    Tú no tienes la culpa.
+
+    Eh, hasta un dios estaría agotado.
+- id: 3743
+  text: >-
+    Tiene razón.
+
+    Deberías descansar un poco.
+- id: 3744
+  text: >-
+    Además, no habrá Juegos
+
+    en una temporada.
+- id: 3745
+  text: >-
+    No os preocupéis por el fortachón.
+
+    Yo cuidaré de él.{:delay 14 01}{:clear }Sora,{:delay 54 00}{:clear }Donald,{:delay 4E 00}{:clear }Goofy...{:delay 42 00}{:clear }os debo un gran favor.
+- id: 3746
+  text: >-
+    Eh, no pasa nada.{:delay 54 00}{:clear }{:delay 39 00}{:clear }Avísanos si Hades o los
+
+    sincorazón dan la lata,{:delay AE 00}{:clear }y nos encargaremos.
+- id: 3748
+  text: ¡Sí! ¡Para eso están los héroes!
+- id: 3749
+  text: ¿Desde cuándo sois héroes?
+- id: 3750
+  text: >-
+    Hablaremos de eso otro día.
+
+    Ahora nos vamos.
+- id: 3751
+  text: Vale. Aquí estaremos.
+- id: 3752
+  text: >-
+    ¡Ahí va! Espero que te
+
+    recuperes pronto, Hércules.
+- id: 3753
+  text: Sí...
+- id: 3754
+  text: ¿Fil?
+- id: 3755
+  text: Bueno... Cuidaos, chicos.{:delay 7E 00}{:clear }Quedaos un poco más la próxima vez.{:delay 6C 00}{:clear }Tenemos mucho que entrenar.
+- id: 3757
+  text: En fin, nos vamos.
+- id: 3758
+  text: >-
+    Ah, se me olvidaba.
+
+    ¡La Piedra del Olimpo!
+- id: 3759
+  text: >-
+    {:unk13 B4 00 78 00}{:unk06 00}{:unk08 01 01 06}¿Creéis que Hades
+
+    está aquí?
+- id: 3760
+  text: '{:unk13 7C 01 DC 00}{:unk06 00}{:unk08 01 00 06}¡Averigüémoslo!'
+- id: 3761
+  text: '{:unk13 96 00 A0 00}{:unk06 00}{:unk08 01 01 05}¿Y bien?'
+- id: 3762
+  text: '{:unk13 68 01 96 00}{:unk06 00}{:unk08 01 00 05}¡Vía libre!'
+- id: 3763
+  text: >-
+    {:unk13 AA 00 7D 00}{:unk06 00}{:unk08 01 01 05}Ni rastro de los incorpóreos
+
+    ni de los sincorazón... al
+
+    menos por ahora.
+- id: 3764
+  text: '{:unk13 69 01 CB 00}{:unk06 00}{:unk08 01 01 05}¿Qué es eso?'
+- id: 3765
+  text: '{:unk13 96 00 64 00}{:unk06 00}{:unk08 01 00 05}El Infiernódromo.'
+- id: 3766
+  text: >-
+    {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 00 05}Hubo un tiempo en que los
+
+    demonios luchaban aquí...
+
+    sin piedad alguna.{:clear }Pero a Zeus no le gustaba
+
+    la violencia sin sentido, así
+
+    que clausuró el lugar.
+- id: 3767
+  text: '{:unk13 5E 01 C8 00}{:unk06 02}{:unk08 01 01 05}¿Y por qué se ha reabierto?'
+- id: 3768
+  text: >-
+    {:unk13 96 00 96 00}{:unk06 00}{:unk08 01 00 05}Algún necio debe de haber
+
+    roto el sello.
+- id: 3769
+  text: '{:unk13 5E 01 96 00}{:unk06 00}{:unk08 01 01 05}Menudo idiota.'
+- id: 3770
+  text: '{:unk13 96 00 96 00}{:unk06 00}{:unk08 01 00 05}Ejem.'
+- id: 3771
+  text: >-
+    {:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 01 05}¿Adónde vas ahora, Auron?
+
+    ¡Tenemos mucho de que hablar!
+- id: 3772
+  text: >-
+    {:unk13 A2 00 64 00}{:unk06 00}{:unk08 01 01 05}Si queréis hacer algo,
+
+    ayudad a vuestros amigos.
+- id: 3773
+  text: Hola.
+- id: 3774
+  text: Hércules, ¿te encuentras mejor?
+- id: 3775
+  text: >-
+    Bueno, lo de siempre.{:delay 78 00}{:clear }El fortachón piensa que sus días
+
+    de gloria han pasado.{:delay BA 00}{:clear }Y Fil cree que es todo psicológico.
+- id: 3776
+  text: >-
+    ¡Ahí va, Hércules!
+
+    ¡Sabemos que eres un héroe!
+- id: 3777
+  text: Sí, claro, gran memo.
+- id: 3778
+  text: >-
+    ¿Cómo puedes estar triste
+
+    en un día tan glorioso?
+- id: 3779
+  text: >-
+    El Infiernódromo se abre
+
+    y tienes que llenar las gradas.
+- id: 3780
+  text: >-
+    ¡Tus seguidores no se conformarían con
+
+    nada que no sea un héroe titulado!
+- id: 3781
+  text: >-
+    Bueno, si no te apetece,
+
+    siempre puedes...{:delay 78 00}{:clear }no sé, perder.
+- id: 3782
+  text: ¡Qué más quisieras!
+- id: 3783
+  text: >-
+    ¿Cómo dices? Perdona.{:delay 7E 00}{:clear }Yo no soy egoísta como esos estirados
+
+    tan repelentes del Olimpo.
+- id: 3784
+  text: >-
+    ¡Represento a las masas!
+
+    ¡Y tengo una idea digna de ellas!
+- id: 3785
+  text: >-
+    Los Juegos, damas y caballeros...
+
+    ¡han vuelto!
+- id: 3786
+  text: >-
+    Su fiel servidor, Hades...{:delay A8 00}{:clear }¡El sin par Señor de...
+
+    los Muertos...
+- id: 3787
+  text: >-
+    os trae los mejores juegos{:delay 72 00}{:clear }para celebrar la reapertura
+
+    del mejor coliseo!
+- id: 3788
+  text: >-
+    Daremos respuesta a la
+
+    gran incógnita,{:delay 7C 00}{:clear }¿quién se merece el título
+
+    de Mejor Héroe?
+- id: 3789
+  text: >-
+    ¡Estos Juegos van a zanjar el
+
+    debate de una vez por todas!{:delay B4 00}{:clear }El ganador será el rey supremo...
+- id: 3790
+  text: ¿De qué? Lo habéis adivinado,{:delay A2 00}{:clear }¡de la Copa Hades!
+- id: 3791
+  text: >-
+    Y os aseguro que el "Gran" Hércules
+
+    estará allí... {:delay AE 00}{:clear }Porque si no...
+- id: 3792
+  text: '... no volverá a ver a su novia.'
+- id: 3793
+  text: ¡Miserable!
+- id: 3794
+  text: ¡Qué amable eres, chico!
+- id: 3795
+  text: '{:unk13 C8 00 5A 00}{:unk06 00}{:unk08 01 00 05}¿Contra quién luchamos primero?'
+- id: 3796
+  text: '{:unk13 9A 00 5F 00}{:unk06 00}{:unk08 01 01 05}Veamos...'
+- id: 3797
+  text: '{:unk13 68 01 78 00}{:unk06 00}{:unk08 01 00 06}Contra "Golpe giratorio".'
+- id: 3798
+  text: >-
+    {:unk13 73 01 7B 00}{:unk06 00}{:unk08 01 00 06}¡Mirad! ¡Auron también
+
+    está en el torneo!
+- id: 3799
+  text: >-
+    {:unk13 57 01 6B 00}{:unk06 00}{:unk08 01 00 06}¡Oh, oh! ¡Quizá tengamos que
+
+    enfrentarnos a él en la final!
+- id: 3800
+  text: '{:unk13 C8 00 5A 00}{:unk06 00}{:unk08 01 00 05}¿Es digno de ser un héroe?'
+- id: 3801
+  text: >-
+    {:unk13 E4 00 58 00}{:unk06 00}{:unk08 01 00 06}Bueno, no creo que sea
+
+    mala persona...
+- id: 3802
+  text: >-
+    {:unk13 E8 00 45 00}{:unk06 00}{:unk08 01 00 06}Pero tú eres el único
+
+    héroe por aquí, Hércules.
+
+    Ya lo sabes.
+- id: 3803
+  text: >-
+    {:unk13 A2 00 2D 00}{:unk06 00}{:unk08 01 01 04}Tal vez lo haya sido...
+
+    Ahora solo soy un fraca...
+- id: 3804
+  text: '{:unk13 09 01 82 00}{:unk06 02}{:unk08 01 00 06}¡Déjalo ya!'
+- id: 3805
+  text: >-
+    {:unk13 86 00 94 00}{:unk06 00}{:unk08 01 01 06}¿Qué tal te ha ido,
+
+    campeón?
+- id: 3806
+  text: >-
+    {:unk13 4C 01 56 00}{:unk06 00}{:unk08 01 01 06}Ya no soy el que era.
+
+    Lamento haberos arrastrado
+
+    a esto, amigos.
+- id: 3807
+  text: >-
+    {:unk13 DB 00 76 00}{:unk06 00}{:unk08 01 00 06}¡No tires la toalla todavía,
+
+    Hércules! ¡Te necesitamos
+
+    en las semifinales!
+- id: 3808
+  text: >-
+    {:unk13 7D 01 A0 00}{:unk06 00}{:unk08 01 00 06}Ya estamos en
+
+    las semifinales...
+- id: 3809
+  text: >-
+    {:unk13 27 01 9A 00}{:unk06 02}{:unk08 03 00 06}¡Porras!
+
+    ¿¡Contra "Mala cosa"!?
+- id: 3810
+  text: '{:unk13 E2 00 5A 00}{:unk06 00}{:unk08 01 00 05}¿Son buenos?'
+- id: 3811
+  text: >-
+    {:unk13 2C 01 96 00}{:unk06 00}{:unk08 01 00 05}Parece que son muy "malos"...
+
+    ¡pero no les tenemos miedo!
+- id: 3812
+  text: '{:unk13 66 01 4F 00}{:unk06 00}{:unk08 01 01 06}¡Hemos llegado a la final!'
+- id: 3813
+  text: >-
+    {:unk13 F7 00 97 00}{:unk06 00}{:unk08 01 01 05}¡Si ganamos, seremos
+
+    unos verdaderos héroes!
+- id: 3814
+  text: >-
+    {:unk13 2A 01 5B 00}{:unk06 00}{:unk08 01 01 05}Ah, por eso estás
+
+    tan contento.
+- id: 3815
+  text: >-
+    {:unk13 53 01 3A 00}{:unk06 00}{:unk08 01 01 06}No podemos ser aprendices
+
+    de héroe para siempre, ¿no?
+- id: 3816
+  text: >-
+    {:unk13 C8 00 96 00}{:unk06 00}{:unk08 01 00 05}Trataré de no
+
+    meter la pata.
+- id: 3817
+  text: '{:unk13 DC 00 AD 00}{:unk06 00}{:unk08 01 01 05}Basta ya...'
+- id: 3818
+  text: '{:unk13 5B 00 40 01}{:unk06 00}{:unk08 01 00 05}Mirad. Allí.'
+- id: 3819
+  text: >-
+    {:unk13 7C 00 D6 00}{:unk06 00}{:unk08 01 00 05}Es nuestro último
+
+    adversario, ¿no?
+- id: 3820
+  text: '{:unk13 80 01 69 00}{:unk06 00}{:unk08 01 00 05}¡Auron!'
+- id: 3821
+  text: '{:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 01 05}¿Y vosotros sois?'
+- id: 3822
+  text: '{:unk13 4F 00 85 00}{:unk06 00}{:unk08 01 01 05}¿Eh?'
+- id: 3823
+  text: '{:unk13 CE 00 AA 00}{:unk06 00}{:unk08 01 00 05}¿Auron...?'
+- id: 3824
+  text: >-
+    {:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 01 05}Debo venceros para
+
+    redimir mis crímenes.
+- id: 3825
+  text: '{:unk13 64 00 82 00}{:unk06 02}{:unk08 01 01 05}¡Eh!'
+- id: 3826
+  text: '{:unk13 54 01 46 00}{:unk06 00}{:unk08 01 00 05}¿A cuento de qué venía eso?'
+- id: 3827
+  text: >-
+    Bueno, déjame ver.
+
+    ¿Cuál es tu crimen, prisionero?
+- id: 3828
+  text: >-
+    Existir. Ese es mi crimen...
+
+    y es inexcusable.
+- id: 3829
+  text: Ajá... Bien, magnífico.
+- id: 3830
+  text: >-
+    ¿Qué le pasa a Auron?
+
+    Nunca se había comportado así.
+- id: 3831
+  text: ''
+- id: 3832
+  text: >-
+    Vale, has cometido un errorcillo
+
+    de nada: existir.
+- id: 3833
+  text: >-
+    Pero te perdono.{:delay 97 00}{:clear }Si cumples tu parte de
+
+    nuestro pequeño trato,{:delay 83 00}{:clear }estoy dispuesto a hacer
+
+    la vista gorda.
+- id: 3834
+  text: Entiendo. Derrotaré a Hércules.
+- id: 3835
+  text: Y a esos pesados de sus amigos.
+- id: 3836
+  text: ¿Qué? No, solo a Hércules.
+- id: 3837
+  text: Aahh... ¿Acaso has olvidado quién manda aquí?
+- id: 3838
+  text: >-
+    A Hércules y a los otros tres,
+
+    ¿está claro?
+- id: 3839
+  text: Cristalino, Hades.
+- id: 3840
+  text: Mi señor Hades.
+- id: 3841
+  text: Mi señor Hades...
+- id: 3842
+  text: Bien.{:delay 47 00}{:clear }{:delay 3D 00}{:clear }Ahora, vete.
+- id: 3843
+  text: ¡Así es como controla a Auron!
+- id: 3844
+  text: '{:unk13 78 00 82 00}{:unk06 02}{:unk08 03 01 05}¡Menudo idiota!'
+- id: 3845
+  text: >-
+    {:unk13 36 01 5A 00}{:unk06 00}{:unk08 01 00 05}Seguro que se lo tomaría
+
+    como un cumplido.
+- id: 3846
+  text: >-
+    {:unk13 56 01 3C 00}{:unk06 00}{:unk08 01 00 06}No soporto ver a Auron
+
+    servir a fines tan bajos...{:clear }¡Tenemos que ayudarle!
+- id: 3847
+  text: >-
+    {:unk13 78 00 4B 00}{:unk06 02}{:unk08 03 01 06}¡Andando, vamos
+
+    tras él!
+- id: 3848
+  text: ¿Qué ocurre, Sora?
+- id: 3849
+  text: >-
+    ¡Auron está en apuros!
+
+    ¡Hades le ha lavado el cerebro!
+- id: 3850
+  text: Está usando una especie de muñeco.
+- id: 3851
+  text: >-
+    ¿Sabes qué?
+
+    Eso me resulta familiar.
+- id: 3852
+  text: >-
+    {:delay 72 00}{:clear }Hades debe estar usando ese muñeco
+
+    para dominar la voluntad de Auron.
+- id: 3853
+  text: ¿Qué hacemos?
+- id: 3854
+  text: >-
+    Tratad de encontrar ese muñeco.{:delay 66 00}{:clear }{:delay 1E 00}{:clear }Tiene que estar en alguna
+
+    parte del Inframundo.
+- id: 3855
+  text: ¡Vale! ¡Yo me encargo!
+- id: 3856
+  text: >-
+    Dime que no estás
+
+    pensando en marcharte.{:delay 6C 00}{:clear }{:delay 1C 00}{:clear }Tienes un combate.
+- id: 3857
+  text: >-
+    Lucharé contra Auron en la final.
+
+    Cara a cara.
+- id: 3858
+  text: ¿Cómo has dicho?
+- id: 3859
+  text: Intentaré conseguiros algo de tiempo.
+- id: 3860
+  text: Pero...
+- id: 3861
+  text: >-
+    Daos prisa.
+
+    Cuento con vosotros.
+- id: 3862
+  text: >-
+    ¡Enhorabuena!
+
+    ¡Trato hecho!
+- id: 3863
+  text: Gracias.
+- id: 3864
+  text: >-
+    ¡Con una condición!{:delay 42 00}{:clear }El portador de la llave espada
+
+    y sus fieles amigos{:delay 84 00}{:clear }deben enfrentarse al ganador
+
+    en un combate final. ¿Qué me dices?
+- id: 3865
+  text: El público se pondrá como loco.
+- id: 3866
+  text: >-
+    Más les vale. ¡Les he prometido
+
+    el combate de su vida eterna!
+- id: 3867
+  text: >-
+    {:delay 48 00}Pardillos. Me lo están
+
+    poniendo muy fácil.
+- id: 3868
+  text: ¡Esto sí que es un espectáculo!
+- id: 3869
+  text: ¡Aquí está!
+- id: 3870
+  text: ''
+- id: 3871
+  text: ¿Eh?
+- id: 3872
+  text: ¿Qué pasaaaa?
+- id: 3873
+  text: >-
+    ¡Aún estamos a tiempo!
+
+    ¡Volvamos!
+- id: 3874
+  text: >-
+    Sí, pero ahora...
+
+    No puedo aceptarlo.
+- id: 3875
+  text: ¿Qué sentido tiene todo esto?
+- id: 3876
+  text: Pero... ¡tiene que haber otra forma!
+- id: 3877
+  text: ¡Vuestras muertes habrán sido en vano!
+- id: 3878
+  text: ¡Tenéis que vivir!
+- id: 3879
+  text: >-
+    ¡Claro! Esto pertenece
+
+    al corazón de Auron.
+- id: 3880
+  text: >-
+    ¡Ahí va! Ha debido de tener
+
+    una vida muy dura.
+- id: 3881
+  text: >-
+    Sí, pero, al final, eso es lo
+
+    que le ha hecho tan fuerte.
+- id: 3882
+  text: ¡Vamos a devolvérselo!
+- id: 3883
+  text: >-
+    ¿Incorpóreos?
+
+    ¿De dónde han salido?
+- id: 3884
+  text: ¡Eh! ¡Fuera de aquí!
+- id: 3885
+  text: >-
+    No sé qué son,
+
+    pero mejor no preguntar.
+- id: 3886
+  text: Más vale que nos piremos.
+- id: 3887
+  text: ¡Ahora! ¡Acaba con él!
+- id: 3888
+  text: ¡Auron! ¡No lo hagas!
+- id: 3889
+  text: >-
+    ¡Eh, Auron!
+
+    ¡Esto es tuyo!
+- id: 3890
+  text: Sora... Donald... Goofy.
+- id: 3891
+  text: ¡Auron!
+- id: 3892
+  text: ¡Esos malditos!
+- id: 3893
+  text: ¡Prisionero!
+- id: 3894
+  text: >-
+    ¿Qué ha sido de nuestro
+
+    mutuo acuerdo?{:delay 90 00}{:clear }{:delay 24 00}{:clear }Podemos hacer borrón y cuenta nueva,
+
+    pero tienes que ayudarme.
+- id: 3895
+  text: Creo habértelo dicho ya.
+- id: 3896
+  text: >-
+    Esta es mi historia,
+
+    y tú no formas parte de ella.
+- id: 3897
+  text: >-
+    ¡Ya basta! {:delay 90 00}{:clear }{:delay 4E 00}{:clear }¡Se acabó el juego!
+
+    He respetado las reglas hasta ahora.
+- id: 3898
+  text: >-
+    Está bien, lo confieso.
+
+    Esperaba que el fortachón perdiera,{:delay F4 00}{:clear }pero ha sido un combate justo.
+
+    Vamos, ¿tan malo es eso? ¿Eh?
+- id: 3899
+  text: ¿En serio? ¿Un combate justo?
+- id: 3900
+  text: '{:delay 53 00}¡Ríe todo lo que quieras!{:delay 53 00}{:clear }{:delay 49 00}{:clear }¡Quien ríe el último ríe mejor!'
+- id: 3901
+  text: ¿Quieres saber por qué?
+- id: 3902
+  text: >-
+    Porque ahora vamos a
+
+    jugar con mis reglas.
+- id: 3903
+  text: ''
+- id: 3904
+  text: ¡Meg!
+- id: 3905
+  text: ¡Hércules!
+- id: 3906
+  text: >-
+    Mira que te lo advertí
+
+    desde el principio.{:delay 85 00}{:clear }Si no hay combate,
+
+    te quedas sin novia.
+- id: 3907
+  text: ¡No!
+- id: 3908
+  text: ¡Meg! ¡Aguanta!
+- id: 3909
+  text: >-
+    Me parece que el fortachón
+
+    se ha caído de las eliminatorias.
+- id: 3910
+  text: ¡Pues te las verás con nosotros!
+- id: 3911
+  text: Oohh, sí. Esto promete.
+- id: 3912
+  text: ''
+- id: 3913
+  text: Es imposible.
+- id: 3914
+  text: ¿Y eso?
+- id: 3915
+  text: ¡Porque esto es el Inframundo!
+- id: 3916
+  text: ¡Ahí va! ¿Y cómo le ganamos?
+- id: 3917
+  text: >-
+    Creo que un auténtico
+
+    héroe os vendría bien.
+- id: 3918
+  text: Pero... Tú...
+- id: 3919
+  text: Te debo una, Hades.
+- id: 3920
+  text: >-
+    No dudé en dar mi vida por Meg.
+
+    Y eso me hizo recordar...
+- id: 3921
+  text: >-
+    que es la fuerza del corazón lo que
+
+    te convierte en un auténtico héroe.
+- id: 3922
+  text: No volveré a olvidarlo.
+- id: 3923
+  text: Pero déjate de florituras.
+- id: 3924
+  text: >-
+    Ya sabes, todos los enamorados
+
+    cometen locuras.
+- id: 3925
+  text: ¿Qué os hace tanta gracia, estúpidos?
+- id: 3926
+  text: >-
+    ¡Os la vais a cargar!
+
+    ¡Cómo os atrevéis!
+- id: 3927
+  text: '{:delay CC 00}{:clear }Esto...{:delay 48 00}{:clear }no ha acabado...{:delay 72 00}{:clear }'
+- id: 3928
+  text: ¿Qué vas a hacer ahora?
+- id: 3929
+  text: >-
+    He pasado mi vida
+
+    defendiendo a los demás.
+- id: 3930
+  text: >-
+    Pero ya...
+
+    no me queda nadie a quien proteger.
+- id: 3931
+  text: >-
+    Tal vez sea hora de escribir
+
+    mi propia historia.
+- id: 3932
+  text: >-
+    Sí, te lo mereces, Auron,
+
+    después de todo lo que has sufrido.
+- id: 3933
+  text: Supongo que... debería agradecéroslo.
+- id: 3934
+  text: No hace falta.
+- id: 3935
+  text: Bien.
+- id: 3936
+  text: >-
+    Es decir...
+
+    sí que podrías agradecérnoslo un poco.
+- id: 3937
+  text: Deberías decir lo que sientes.
+- id: 3938
+  text: >-
+    Desde luego que podría
+
+    dedicaros unas palabras.
+- id: 3939
+  text: Gracias por entrometeros.
+- id: 3940
+  text: ¡Eh! ¿Qué significa eso?
+- id: 3941
+  text: >-
+    ¡Gracias otra vez, chicos!
+
+    Sois los mejores.
+- id: 3942
+  text: Disculpa por habernos entrometido.
+- id: 3943
+  text: >-
+    Ohh... ¿Por qué lo dices?
+
+    Nosotros no pensamos eso.
+- id: 3944
+  text: >-
+    De verdad.
+
+    Gracias, Sora, Donald... Goofy.
+- id: 3945
+  text: Bueno, ¿adónde vais ahora?
+- id: 3946
+  text: Pues ya sabes...
+- id: 3947
+  text: >-
+    Parece que vosotros dos,
+
+    pichoncitos, estaréis bien{:delay C0 00}{:clear }sin nosotros rondando por aquí.
+- id: 3948
+  text: Sí, tenemos que irnos.
+- id: 3949
+  text: >-
+    Ajá. Antes de que nos
+
+    entrometamos.
+- id: 3950
+  text: Eso es.
+- id: 3951
+  text: >-
+    ¿Pretendéis dejarme
+
+    sin trabajo, pavos?
+- id: 3952
+  text: >-
+    Si no dejáis de arrasar en todos los
+
+    desafíos, ¿a quién voy a entrenar?
+- id: 3953
+  text: >-
+    ¡Eh, no puedes dejarme ahora, Fil!{:delay 8D 00}{:clear }Tengo que estar en plena forma
+
+    por si Hades vuelve a aparecer.
+- id: 3954
+  text: ¡Eh! ¿Ya somos héroes de verdad?
+- id: 3955
+  text: ¡Eso! Vamos, Fil. Enróllate.
+- id: 3956
+  text: Vamos a ver...{:delay 6C 00}{:clear }Bueno, os falta algo de sabiduría.
+- id: 3957
+  text: Y estáis un poco... verdes todavía.
+- id: 3958
+  text: Vale, vale, lo hemos captado.
+- id: 3959
+  text: Mira, chaval, yo no decido.
+- id: 3960
+  text: Y lo dice ahora.
+- id: 3961
+  text: >-
+    Si por mí fuera,
+
+    no tendríais problema.{:delay A8 00}{:clear }¡Os nombraría héroes al instante!
+- id: 3962
+  text: ¿¡De verdad!?
+- id: 3963
+  text: ¡Repítelo!
+- id: 3964
+  text: >-
+    Pensándolo bien,{:delay 36 00}{:clear }si esa es vuestra mejor cara de héroe,
+
+    todavía tenéis mucho que mejorar.
+- id: 3965
+  text: ¡Eh! ¿Qué quieres decir?
+- id: 3966
+  text: ¡Largo!
+- id: 3967
+  text: ¡Fil!
+- id: 3968
+  text: ¡Déjame en paz!
+- id: 3969
+  text: ¿Has visto eso?
+- id: 3970
+  text: ¡Vaya, fíjate!
+- id: 3971
+  text: '{:icon dynamic-triangle}Diario'
+- id: 3972
+  text: Practicar
+- id: 3973
+  text: Maníaco
+- id: 3974
+  text: ''
+- id: 3975
+  text: >-
+    ¡Rompe las vasijas y recoge
+
+    tantas esferas como puedas!
+- id: 3976
+  text: ''
+- id: 3977
+  text: ''
+- id: 3978
+  text: >-
+    ¡Rompe las vasijas y recoge
+
+    tantas esferas como puedas!
+- id: 3979
+  text: ''
+- id: 3980
+  text: Sí
+- id: 3981
+  text: No
+- id: 3982
+  text: Elige una tabla de entrenamiento.
+- id: 3983
+  text: ¿Quieres esta tabla?
+- id: 3984
+  text: '{:icon dynamic-triangle}Diario'
+- id: 3993
+  text: Copa Dolor y Pánico
+- id: 3994
+  text: Copa Cerbero
+- id: 3995
+  text: Copa Titán
+- id: 3996
+  text: Copa Diosa del Destino
+- id: 3999
+  text: '{:width 81}Copa Paradoja de Dolor y Pánico'
+- id: 4000
+  text: Copa Paradoja de Cerbero
+- id: 4001
+  text: Copa Paradoja de Titán
+- id: 4002
+  text: Copa Paradoja de Hades
+- id: 4005
+  text: Copa Dolor y Pánico
+- id: 4006
+  text: >-
+    Lucha junto a tus amigos.
+
+    No puedes usar el indicador
+
+    de Fusión, pero los Límites
+
+    consumen menos PM que
+
+    de costumbre.
+- id: 4007
+  text: >-
+    No ganas experiencia.
+
+    {:color #F0F00080}Nivel del torneo: 25{:reset}
+- id: 4008
+  text: Copa Cerbero
+- id: 4009
+  text: >
+    Sora lucha solo.
+
+    El indicador de Fusión se
+
+    llena más rápido que de
+
+    costumbre y Sora puede
+
+    usar Fusión estando solo.
+- id: 4010
+  text: >-
+    No ganas experiencia.
+
+    {:color #F0F00080}Nivel del torneo: 30{:reset}
+- id: 4011
+  text: Copa Titán
+- id: 4012
+  text: >
+    En este torneo, Sora
+
+    lucha solo, pero puede
+
+    usar Invocar.
+- id: 4013
+  text: >-
+    No ganas experiencia.
+
+    {:color #F0F00080}Nivel del torneo: 45{:reset}
+- id: 4014
+  text: Copa Diosa del Destino
+- id: 4015
+  text: >
+    Lucha junto a tus
+
+    amigos.
+
+    Las reglas varían
+
+    según la ronda.
+- id: 4016
+  text: >-
+    No ganas experiencia.
+
+    {:color #F0F00080}Nivel del torneo: 55{:reset}
+- id: 4023
+  text: '{:width 81}Copa Paradoja de Dolor y Pánico'
+- id: 4024
+  text: >-
+    Lucha junto a tus amigos.
+
+    No puedes usar el indicador
+
+    de Fusión, pero los Límites
+
+    consumen menos PM que
+
+    de costumbre.
+- id: 4025
+  text: >-
+    No ganas experiencia.
+
+    {:color #F0F00080}Niv. del torneo: 60{:reset}
+- id: 4026
+  text: Copa Paradoja de Cerbero
+- id: 4027
+  text: >
+    Sora lucha solo.
+
+    El indicador de Fusión se
+
+    llena más rápido que de
+
+    costumbre y Sora puede
+
+    usar Fusión estando solo.
+- id: 4028
+  text: >-
+    No ganas experiencia.
+
+    {:color #F0F00080}Niv. del torneo: 70{:reset}
+- id: 4029
+  text: Copa Paradoja de Titán
+- id: 4030
+  text: >
+    En este torneo, Sora
+
+    lucha solo, pero puede
+
+    usar Invocar.
+- id: 4031
+  text: >-
+    No ganas experiencia.
+
+    {:color #F0F00080}Niv. del torneo: 80{:reset}
+- id: 4032
+  text: Copa Paradoja de Hades
+- id: 4033
+  text: >
+    Lucha junto a tus
+
+    amigos.
+
+    En este torneo no hay
+
+    reglas especiales.
+- id: 4034
+  text: >-
+    No ganas experiencia.
+
+    {:color #F0F00080}Niv. del torneo: 99{:reset}
+- id: 4041
+  text: Sí
+- id: 4042
+  text: No
+- id: 4043
+  text: ¿A qué torneo te apuntas?
+- id: 4044
+  text: ¿En qué torneo te apuntas?
+- id: 4045
+  text: ¿A qué torneo te apuntas?
+- id: 7511
+  text: >-
+    La clasificación de la Copa Hades,
+
+    en la que tan bien luchaste.
+- id: 7512
+  text: >-
+    La clasificación de la Copa
+
+    Hércules, en la que venciste.
+- id: 7513
+  text: >-
+    La clasificación de la Copa Pegaso,
+
+    en la que combatiste con valentía.
+- id: 7514
+  text: >-
+    La clasificación de un torneo
+
+    memorable, la Copa Fil.
+- id: 7518
+  text: El trofeo de la Copa Hades.
+- id: 7519
+  text: El trofeo de la Copa Hércules.
+- id: 7520
+  text: El trofeo de la Copa Pegaso.
+- id: 7521
+  text: El escudo de la Copa Fil.
+- id: 7523
+  text: >-
+    Solo hay una regla:
+
+    ¡juego limpio!
+- id: 7651
+  text: >-
+    El Coliseo era tan bonito.
+
+    Y mira ahora...{:clear }Hades tenía razón. No tengo
+
+    madera de héroe...
+- id: 7652
+  text: >-
+    Se necesita algo más que fuerza
+
+    bruta para ser un héroe.{:clear }Un corazón fuerte, por ejemplo.
+- id: 7653
+  text: >-
+    ¡El gran héroe suele tener mejor
+
+    pinta con una sonrisa triunfal!
+- id: 7654
+  text: >-
+    [Relincha
+
+    de felicidad]
+- id: 8036
+  text: >-
+    ¡Derrota a los sincorazón y ve hacia la salida!
+
+    ¡No te molestes en atacar a Hades ahora!
+- id: 8037
+  text: ¡El sendero está abierto! ¡Adelante!
+- id: 8038
+  text: >-
+    ¡Protege a Megara y acaba
+
+    con los enemigos!
+- id: 8039
+  text: >-
+    ¡Lucha junto a Hércules y derrota a Pete
+
+    antes de que la cueva se derrumbe!
+- id: 8040
+  text: ¡Derrota a todos los incorpóreos!
+- id: 8041
+  text: >-
+    ¡Derrota a todos los incorpóreos!
+
+    Si usas los comandos de reacción
+
+    con {:icon dynamic-triangle}, ¡la batalla será más fácil!
+- id: 12076
+  text: ※ₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 12078
+  text: >-
+    ¡Ja! ¡Hércules ya debe de estar
+
+    pidiendo compasión!{:clear }¿Qué? ¿También has
+
+    venido a verle perder?
+- id: 12079
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Ayudar a Hercules?
+
+    {:chardelay 33 00}Aún no.
+
+    {:chardelay 09 00}¡Por supuesto!
+- id: 15586
+  text: Bienvenidos a la Copa Paradoja de Hades.
+- id: 16140
+  text: >-
+    Hércules solía entrenar
+
+    con Fil, ¿no?{:clear }No creo que nadie nazca
+
+    siendo ya un héroe.
+- id: 16141
+  text: >-
+    Tenemos que romper esas cosas
+
+    rápidamente y recoger las esferas.{:clear }Creo que deberíamos apuntar
+
+    a las que están amontonadas.
+- id: 16142
+  text: >-
+    A través de esta cueva, llegaréis
+
+    a la sala donde está Hades.{:clear }En el Inframundo perderéis fuerza.
+
+    Cuidado con las piedras que caen.
+- id: 16143
+  text: >-
+    La maldición del Inframundo
+
+    consume nuestras fuerzas.{:clear }También a vosotros os habrá
+
+    debilitado. No lo olvidéis.
+- id: 16144
+  text: >-
+    Me encantaría ir a rescatar a
+
+    Megara sin perder tiempo...{:clear }¡Por favor, Sora, ayúdala hasta
+
+    que acabe con la Hidra!
+- id: 16145
+  text: >-
+    Auron es realmente poderoso. Quizá
+
+    lo niegue, pero debe de ser un héroe.
+- id: 16146
+  text: >-
+    Debemos mantener nuestra promesa
+
+    a Megara, aunque Hades nos ignore.{:clear }{:theme 0A}Deberíamos irnos{:reset}.
+
+    Ya pensaremos en algo.
+- id: 16147
+  text: >-
+    Ha llegado la hora de la verdad.
+
+    Si aparece uno grande, que no escape.
+- id: 16148
+  text: ¡Derrota a todos los sincorazón!
+- id: 16149
+  text: >-
+    ¡Derrota a todos los sincorazón!
+
+    Si usas los comandos de reacción
+
+    con {:icon dynamic-triangle}, ¡la batalla será más fácil!
+- id: 16150
+  text: ¡Derrota a todos los sincorazón!
+- id: 16151
+  text: >-
+    ¡Derrota a todos los sincorazón!
+
+    Si usas los comandos de reacción
+
+    con {:icon dynamic-triangle}, ¡la batalla será más fácil!
+- id: 16162
+  text: >-
+    Estoy agotado. No creo que
+
+    pueda ganar el torneo...
+- id: 16163
+  text: >-
+    Por poco. Tú y tus amigos
+
+    me habéis salvado, Sora.
+- id: 16164
+  text: >-
+    Ese es el tal Auron que
+
+    vosotros conocéis, ¿no?{:clear }¡Qué extraño! No pareció
+
+    reconoceros...
+- id: 16165
+  text: >-
+    En ese estado, Hércules nunca
+
+    ganará el combate.{:clear }¿Podéis ayudarle? Por favor.
+- id: 16166
+  text: >-
+    Nunca he visto a Hércules
+
+    tan decaído.{:clear }Se siente responsable
+
+    por lo que ocurrió en el Olimpo.
+- id: 16167
+  text: >-
+    ¿Adónde vais tan deprisa?
+
+    ¿Ya habéis hablado con {:theme 0A}Auron{:reset}?
+- id: 16168
+  text: >-
+    Ese tipo ha entrado en la {:theme 0A}Cueva
+
+    de los Muertos{:reset}. ¿Será amigo de Hades?
+- id: 16169
+  text: >-
+    Ese tipo tenía los ojos vidriosos,
+
+    como si solo pensara en luchar.{:clear }¿Hércules tendrá que enfrentarse
+
+    a él en el combate final?
+- id: 16170
+  text: >-
+    En ese estado, Hércules no os
+
+    hará ganar mucho tiempo.{:clear }¡Por favor, id a los {:theme 0A}aposentos de Hades{:reset}
+
+    y recuperad el muñeco!
+- id: 16171
+  text: >-
+    En este sitio, tienen lugar toda
+
+    clase de torneos.{:clear }Si quieres participar en alguno,
+
+    solo tienes que hablar con Pánico.
+- id: 16172
+  text: >-
+    Si queréis entrar en la Copa Hades,
+
+    consultad antes la clasificación.{:clear }Si después de eso tenéis agallas
+
+    para participar, os apuntaré.
+- id: 16175
+  text: >-
+    Aquí podéis apuntaros para la Copa
+
+    Hades. ¡Si os gusta el dolor, adelante!
+- id: 16176
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Participar en la Copa Hades?
+
+    {:chardelay 33 00}Eh, no gracias.
+
+    {:chardelay 09 00}¡Sí, me apunto!
+- id: 16177
+  text: >-
+    Ahora llegan las semifinales.
+
+    Procura no perder demasiado rápido.
+- id: 16178
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}¿Continuar a las semifinales?
+
+    {:chardelay 33 00}Todavía no estoy listo.
+
+    {:chardelay 09 00}¡Vamos!
+- id: 16179
+  text: >-
+    Si Hércules pierde, nuestro trabajo
+
+    será mucho más fácil.{:clear }Pero si gana...
+
+    No, eso no sucederá...
+- id: 16442
+  text: >-
+    Hércules no está muy bien.
+
+    Tal vez tengamos que ayudarle.{:clear }Si estás nervioso, podemos entrar en
+
+    calor en los torneos del Infiernódromo.
+- id: 16475
+  text: >-
+    ¿Quién habrá roto el sello
+
+    del Inframundo?{:clear }El único que se beneficia
+
+    con eso es Hades.
+- id: 16476
+  text: >-
+    La Copa Hades se juega por equipos,
+
+    así que unámonos a Hércules.{:clear }En el Inframundo, se disputan,
+
+    además, otros torneos.{:clear }Si tenemos tiempo, deberíamos
+
+    probarlos también.
+- id: 16477
+  text: >-
+    Aunque esté deprimido, es bueno
+
+    tener a Hércules de nuestro lado.{:clear }Confío en que reaccionará
+
+    cuando le necesitemos.
+- id: 16575
+  text: >-
+    ¡Eh!
+
+    ¡Esa roca se parece a Megara!{:clear }¡Apuesto a que ahí es
+
+    donde la tienen cautiva!
+- id: 16576
+  text: >-
+    ¡Todo gracias a la llave espada!{:clear }Megara debe de estar por ahí.
+
+    ¡Vamos!
+- id: 16577
+  text: >-
+    La Piedra del Olimpo ha eliminado
+
+    la maldición del Inframundo.{:clear }Siento volver mis fuerzas, como si
+
+    me quitaran un peso de encima.
+- id: 16578
+  text: >-
+    Seguro que Megara no es la
+
+    única que nos está esperando.{:clear }Ten mucho cuidado,
+
+    Sora.
+- id: 16579
+  text: >-
+    [Relincha para que vayáis al
+
+    Coliseo]
+- id: 16580
+  text: >-
+    Si lucháis con un enemigo grande,
+
+    buscad su punto débil.{:clear }Dos consejos: mantened
+
+    la calma, manteneos alerta ¡y moveos!
+- id: 16581
+  text: >-
+    ¡Sora, hay problemas en el Coliseo!{:clear }¡Ve para allá! Nosotros
+
+    haremos lo que podamos.
+- id: 16984
+  text: El trofeo de la Copa Titán.
+- id: 16985
+  text: El trofeo de la Copa Cerbero.
+- id: 16986
+  text: El trofeo de la Copa Dolor y Pánico.
+- id: 16987
+  text: El trofeo de la Copa Diosa del Destino.
+- id: 16988
+  text: El trofeo de la Copa Paradoja de Hades.
+- id: 16989
+  text: >-
+    ¡La Copa Hades mostrará quién es
+
+    un héroe verdadero! ¿Quién ganará?
+- id: 16990
+  text: Las llamas impiden el paso.
+- id: 16991
+  text: Prohibida la entrada.
+- id: 17094
+  text: >-
+    Por aquí entran al Coliseo
+
+    los contendientes.
+- id: 17241
+  text: ''
+- id: 17242
+  text: ''
+- id: 17243
+  text: ''
+- id: 17585
+  text: >-
+    La luz se ha apagado.
+
+    Ya no puedes entrar.
+- id: 17711
+  text: >-
+    Bueno, bueno, ¿qué hace aquí
+
+    el elegido de la llave espada?{:clear }¿No deberías estar ayudando
+
+    a ese ‛campeón’ cobarde?
+- id: 17842
+  text: '{:unk13 BE 00 4C 00}{:unk06 00}{:unk08 01 01 05}¿Qué te ha parecido eso?'
+- id: 17843
+  text: >-
+    {:unk13 49 01 48 00}{:unk06 00}{:unk08 01 00 06}¡Esto no ha terminado, muchacho!
+
+    Tenéis mucho que entrenar aún.{:clear }Ya os relajaréis cuando hayáis
+
+    concluido vuestro entrenamiento.
+- id: 17844
+  text: '{:unk13 BE 00 4C 00}{:unk06 00}{:unk08 01 01 05}¡No hay problema!'
+- id: 18108
+  text: ¡Salta sobre el lomo de la Hidra!
+- id: 18109
+  text: ¡Ataca a Hades con Halosfera!
+- id: 18739
+  text: >-
+    ¡Vence a la Hidra!
+
+    ¡Lucha junto a tus amigos!
+- id: 18740
+  text: ¡Lucha junto a Hércules para vencer a Hades!
+- id: 18767
+  text: >-
+    ¡Derrota a Cerbero!
+
+    Si usas los comandos de reacción
+
+    con {:icon dynamic-triangle}, ¡la batalla será más fácil!
+- id: 18768
+  text: >-
+    ¡Derrota a las creaciones de Demyx
+
+    antes de que se acabe el tiempo!
+- id: 18771
+  text: >-
+    {:unk13 1C 01 7A 00}{:unk06 00}{:unk08 01 01 05}Si queréis participar en un torneo,
+
+    no tenéis más que decírmelo.
+- id: 18772
+  text: >-
+    {:unk13 C7 00 7C 00}{:unk06 00}{:unk08 01 01 05}Su Majestad Perniciosa hoy está
+
+    bondadosa, así que no os
+
+    preocupéis por morir y eso.{:clear }¡Es vuestro día de suerte!
+- id: 18773
+  text: >-
+    {:unk13 BF 00 82 00}{:unk06 00}{:unk08 01 01 05}Yo me ocupo de las inscripciones
+
+    para la Copa Hades. ¡Dolor no
+
+    tiene nada que ver con eso!
+- id: 18993
+  text: >-
+    {:unk13 15 01 8C 00}{:unk06 00}{:unk08 01 01 05}Y si triunfáis, ¡obtendréis montones
+
+    de premios fabulosos!
+- id: 19009
+  text: >-
+    {:unk13 A3 00 8C 00}{:unk06 00}{:unk08 01 01 05}Hay un montón de
+
+    torneos, así que estad
+
+    pendientes.
+- id: 19010
+  text: >-
+    {:unk13 5E 01 7C 00}{:unk06 00}{:unk08 01 00 05}Sí, es una buena manera
+
+    de pasar el tiempo.
+- id: 19303
+  text: ¡Modo puntuación doble!
+- id: 19356
+  text: >-
+    Aquí puedes apuntarte a los torneos.
+
+    Puedes participar cuantas veces quieras.
+- id: 19357
+  text: >-
+    En cuanto Auron entre en razón,
+
+    ¡Hades nos las pagará!{:clear }Pero si vamos a encargarnos de él,
+
+    necesitaremos la ayuda de Hércules.
+- id: 19358
+  text: >-
+    Si le damos el muñeco, Auron
+
+    debería entrar en razón.{:clear }¡Hablemos con el tipo púrpura
+
+    y volvamos al Infiernódromo!
+- id: 19392
+  text: ¡Derrota a los enemigos antes de que se acabe el tiempo!
+- id: 19393
+  text: ¡Lucha en la oscuridad y vence a todos los enemigos!
+- id: 19394
+  text: ¡Vence a tus enemigos antes de quedarte sin puntos!
+- id: 19395
+  text: ¡Hay que sobrevivir hasta que el tiempo se acabe!
+- id: 19409
+  text: ¡Llega a la ronda 30 con las reglas de la Copa Dolor y Pánico!
+- id: 19410
+  text: ¡Llega a la ronda 20 con las reglas de la Copa Titán!
+- id: 19411
+  text: ¡Llega a la ronda 40 con las reglas de la Copa Cerbero!
+- id: 19412
+  text: >-
+    Olvídate de los enemigos menores.
+
+    ¡Encárgate del jefe!
+- id: 19413
+  text: >-
+    No puedes usar el indicador de Fusión,
+
+    ¡pero los Límites consumen menos PM!
+- id: 19414
+  text: >-
+    ¡Puedes usar las Formas, y el indicador de
+
+    Fusión se llena más rápidamente!
+
+    ¡Para ganar el torneo,derrota a todos los
+
+    enemigos antes de que se acabe el tiempo!
+- id: 19415
+  text: >-
+    El comando Fusión no está disponible.
+
+    ¡Estás solo, pero puedes usar Invocar!
+
+    Cuando sufres daños, pierdes puntos.
+
+    ¡Si los pierdes todos, el juego terminará!
+- id: 19422
+  text: >-
+    ¡En este torneo
+
+    no hay reglas!
+
+    ¡Da lo mejor de ti!
+- id: 19423
+  text: >-
+    No puedes usar el indicador de Fusión,
+
+    ¡pero los Límites consumen menos PM!
+
+    ¡Llega a la ronda 30 con estas reglas!
+- id: 19424
+  text: >-
+    Estás solo, ¡pero puedes usar Formas, y
+
+    el indicador de Fusión se llena rápidamente!
+
+    ¡Llega a la ronda 40 con estas reglas!
+- id: 19425
+  text: >-
+    Estás solo. No puedes usar Fusión,
+
+    pero sí Invocar. Cuando sufres daños,
+
+    pierdes puntos. Si se agotan, se acabó.
+
+    ¡Llega a la ronda 20!
+- id: 19430
+  text: >-
+    ¡En este torneo
+
+    no hay reglas!
+
+    ¡Da lo mejor de ti!
+- id: 19468
+  text: '{:scale 13}Desde la ronda'
+- id: 19479
+  text: ¿Estás seguro?
+- id: 19549
+  text: ¡Sora está solo!
+- id: 19550
+  text: ¡Sora está solo!
+- id: 19559
+  text: ¡Lucha junto a tus amigos y derrota a todos los enemigos!
+- id: 19594
+  text: >-
+    En este torneo no hay reglas.
+
+    ¡Da lo mejor de ti!
+
+    Olvídate de los enemigos menores.
+
+    ¡Encárgate del jefe!
+- id: 19595
+  text: >-
+    En este torneo no hay reglas.
+
+    ¡Da lo mejor de ti!
+
+    Olvídate de los enemigos menores.
+
+    ¡Encárgate del jefe!
+- id: 19596
+  text: ¡Tenéis que sobrevivir hasta que el tiempo se acabe!
+- id: 19628
+  text: Bueno... Mejor os dejo solos...
+- id: 19751
+  text: Coliseo del Olimpo
+- id: 19865
+  text: ¡Nos vemos!
+- id: 19866
+  text: ¡Lo conseguimos!
+- id: 19872
+  text: ¡Sora, espera!
+- id: 19874
+  text: ¡Atacad!
+- id: 19884
+  text: ¡Hércules! ¡Hércules!
+- id: 19885
+  text: ¡Gracias! ¡Espero que hayáis disfrutado!
+- id: 20166
+  text: >-
+    Parece un viejo libro
+
+    titulado "Esencias intangibles".
+- id: 20167
+  text: >-
+    {:unk08 02 00 06}Una Esencia intangible, un ente
+
+    oscuro ligado a un arma.
+
+    {:chardelay 33 00}Mejor no arriesgarse.
+
+    {:chardelay A1 00}¡Habrá que examinarla!
+- id: 20604
+  text: ¡Pulsa {:icon dynamic-triangle} para comenzar el duelo! ¡Deshazte rápido de los enemigos que aparezcan!
+- id: 21392
+  text: '{:unk13 AA 00 D2 00}{:unk06 00}{:unk08 01 00 06}¿Qué es este libro?'
+- id: 21393
+  text: >-
+    {:unk13 F0 00 5E 01}{:unk06 00}{:unk08 01 00 02}En la cubierta pone...
+
+    "Esencias intangibles".
+- id: 21394
+  text: >-
+    {:unk13 68 01 68 01}{:unk06 00}{:unk08 01 00 02}Yo no lo tocaría.{:clear }Esto es el Inframundo
+
+    y cualquiera sabe...
+- id: 21395
+  text: >-
+    {:unk13 E6 00 5E 01}{:unk06 00}{:unk08 01 00 02}Tiene razón.
+
+    ¡Podría ser una trampa!
+- id: 21396
+  text: '{:unk13 A0 00 5A 00}{:unk06 00}{:unk08 01 00 06}¿Ajiah?'
+- id: 21397
+  text: '{:unk13 40 01 AA 00}{:unk06 02}{:unk08 03 00 06}¿¡Otra vez tú!?'
+- id: 21398
+  text: >-
+    {:unk13 54 01 3C 00}{:unk06 00}{:unk08 01 00 05}Vamos, no os lo toméis{:clear }tan a la tremenda.{:clear }Lo que tengo aquí deja
+
+    en baratija a la Piedra del Olimpo.
+- id: 21399
+  text: >-
+    {:unk13 72 01 41 00}{:unk06 00}{:unk08 01 00 05}La sombra remanente de una
+
+    existencia ya extinta...{:clear }Una Esencia intangible.
+- id: 21400
+  text: >-
+    {:unk13 68 01 78 00}{:unk06 00}{:unk08 01 01 06}¿Esencia intangible?
+
+    ¿Hablas del libro ese?
+- id: 21401
+  text: '{:unk13 A0 00 78 00}{:unk06 00}{:unk08 01 00 05}No solo del libro.'
+- id: 21402
+  text: >-
+    {:unk13 AA 00 73 00}{:unk06 00}{:unk08 01 00 05}Son entes oscuros ligados
+
+    al arma que un día empuñaron.
+- id: 21403
+  text: >-
+    {:unk13 8C 00 8C 00}{:unk06 00}{:unk08 01 01 05}Enfrentarte a ellos quizá
+
+    te ayude a ver más allá...{:clear }Quizá así tu verdadero yo
+
+    abra finalmente los ojos.
+- id: 21404
+  text: >-
+    {:unk13 A0 00 32 00}{:unk06 00}{:unk08 01 01 06}¿Por qué me sueltas
+
+    todo ese rollo?
+- id: 21405
+  text: >-
+    {:unk13 82 00 8C 00}{:unk06 00}{:unk08 01 01 05}Tú eres el elegido.
+
+    ¡Dale al coco!
+- id: 21406
+  text: >-
+    {:unk13 0E 01 37 00}{:unk06 00}{:unk08 01 00 06}¿Qué es lo que...?
+
+    ¿Esencia intangible?...
+- id: 21407
+  text: >-
+    {:unk13 7C 01 C3 00}{:unk06 02}{:unk08 03 01 05}¡No hay tiempo para eso!
+
+    ¡Hay que rescatar a Megara!
+- id: 21408
+  text: '{:unk13 AA 00 41 00}{:unk06 02}{:unk08 03 01 06}¡Es verdad!'
+- id: 21499
+  text: "{:delayandfade 07 78} \nMegara andaba muy preocupada por\nHércules, ya que parecía fatigado\ncon tanta lucha, y por eso decidió\nvisitar a Hades y pedirle que le\ndiera un respiro al héroe.\n \n¿Megara sola en el Inframundo?\n¡Eso sí que es preocupante!,\npiensa Sora, razón por la que se\nofrece a ir en su lugar.\n \n"
+- id: 21500
+  text: "{:delayandfade 0A 78} \nTras despedirse de Auron,\nSora y los suyos deciden volver\ncon Meg para recomponer filas.\n \nSin embargo, los siniestros\nplanes de Hades ya están en\nmarcha.\n \n \n \n"
+- id: 21501
+  text: "{:delayandfade 07 78} \nSora quiere averiguar más sobre\nla maldición del Inframundo y\nHércules parece conocer algo\nque podría anular sus efectos:\nla Piedra del Olimpo.\n \nPero no es la maldición lo único\npreocupante, pues Hades es un\nduro rival contra el que solo Fil\npodría preparar al grupo.\n"
+- id: 21502
+  text: "{:delayandfade 0A 78} \nFil acoge con una gran risotada\nla petición de Sora y decide sin\nreparos entrenar al grupo.\n \n \n \n \n \n"
+- id: 21503
+  text: "{:delayandfade 07 78} \nUna vez terminado el entrenamiento,\nHércules sobrecoge a todos con\nuna terrible noticia: un encapuchado\nha robado la Piedra del Olimpo.\n \nSora y sus amigos no pueden\nquedarse de brazos cruzados\ny salen raudos en busca del\nmalhechor.\n \n"
+- id: 21504
+  text: "{:delayandfade 08 78} \nDe camino al Inframundo, los amigos\nse topan con Fil, que yace en\nel suelo tras haber caído derrotado\na manos de un encapuchado.\n \nLas cosas se han puesto muy feas\ny ahora todo depende del elegido\nde la llave espada.\n \n"
+- id: 21505
+  text: "{:delayandfade 0A 78} \nHades no deja escapar la ocasión\npara anunciar a Sora y los suyos\nel nefasto futuro que se cierne\nsobre el Olimpo.\n \n¿A qué se referirá realmente\nel díscolo dios?\n \n \n"
+- id: 21506
+  text: "{:delayandfade 07 78} \nEl Olimpo parece más animado\nque de costumbre, todo gracias\na la reapertura del Infiernódromo,\nun coso en el que se disputan\ncombates contra bestias.\n \nHabiendo monstruos de por medio,\nSora sabe que Hércules podría\nestar en apuros, así que se\napresura en busca del héroe.\n"
+- id: 21507
+  text: "{:delayandfade 07 B4} \nLos tres amigos junto a Hércules se inscriben\nen la Copa Hades y batallan con tesón hasta\nprocurarse un lugar en las finales.\n \n \n \n \n \n \n \n"
+- id: 21508
+  text: "{:delayandfade 0A 78} \nAuron aparece de repente,\naunque no actúa como él mismo,\nlo que queda claro cuando fija\nsu espada en Hércules.\n \n¿Qué habrá provocado tal reacción\nen el enigmático guerrero?\n \n \n"
