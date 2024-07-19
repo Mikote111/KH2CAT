@@ -64,6 +64,24 @@ assets:
         source:
           - name: msg/he.yml
             language: text
+  - name: msg/sp/ca.bar
+    method: binarc
+    source:
+      - name: ca
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/ca.yml
+            language: text
+  - name: msg/sp/di.bar
+    method: binarc
+    source:
+      - name: di
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/di.yml
+            language: text
   - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
     method: copy
     source:
