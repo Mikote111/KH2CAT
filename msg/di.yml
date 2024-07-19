@@ -1,0 +1,92 @@
+﻿- id: 16794
+  text: Kairi! Espera!
+- id: 16795
+  text: >-
+    Ei, et ve de gust anar a l'illa? {:delay AA 00}{:clear } {:delay 32 00}{:clear }El Tidus i el Wakka estan embolicats amb
+
+    el seu partit i no hi volen anar amb mi.
+- id: 16796
+  text: Avui no, ho sento.
+- id: 16797
+  text: Vaja.. Per què no?
+- id: 16798
+  text: >-
+    Et recordes d'aquells nois que
+
+    passaven el temps amb nosaltres?
+- id: 16799
+  text: El Riku?
+- id: 16800
+  text: Sí.
+- id: 16801
+  text: Em pregunto què deu ser d'ell.{:delay 78 00}{:clear }{:delay 3C 00}El trobo molt a faltar.
+- id: 16802
+  text: >-
+    És molt lluny, però sé
+
+    que el tornarem a veure.
+- id: 16803
+  text: És clar! És clar que sí.
+- id: 16804
+  text: I l'altre noi?
+- id: 16805
+  text: Quin altre noi?
+- id: 16806
+  text: >-
+    Aquell que sempre estava
+
+    amb el Riku i amb mi.{:delay BF 00}{:clear }Jugàvem junts en aquella illa. {:delay 5B 00}{:clear } {:delay 4B 00}{:clear }La seva veu solia ser-hi sempre...
+
+    però ja no.{:delay 13 01}{:clear }No puc recordar la seva
+
+    cara, ni el seu nom.{:delay A2 00}{:clear } {:delay 32 00}{:clear }I em sap molt de greu.{:delay 64 00}{:clear } {:delay 28 00}{:clear }Així que vaig decidir que...{:delay 6E 00}{:clear } {:delay 22 00}{:clear }No aniré a l'illa fins
+
+    que no en recordi tot.
+- id: 16807
+  text: Segur que no t'ho has inventat?
+- id: 16808
+  text: Naminé?
+- id: 16809
+  text: Estàs bé?
+- id: 16810
+  text: Kairi...?
+- id: 16811
+  text: Què és això?
+- id: 16812
+  text: >-
+    Una carta...{:delay 6B 00}{:clear }L'hi vaig escriure ahir... {:delay 61 00}{:clear }al noi que no recordo. {:delay 76 00}{:clear }Jo sé que, sigui on sigui,
+
+    El trobaré...{:delay D1 00}{:clear }algun dia. {:delay 68 00}{:clear }I quan vaig acabar d'escriure-la, 
+
+    vaig recordar que vam fer una promesa,{:delay EE 00}{:clear }alguna cosa important.{:delay 77 00}{:clear }Amb aquesta carta comença. Ho sé.
+- id: 16813
+  text: Vaja...{:delay 89 00}{:clear }Espero que li arribi.
+- id: 16814
+  text: Segur que sí.
+- id: 16815
+  text: Començava per la "S"...
+- id: 16816
+  text: Oi?...{:delay 43 00}{:clear }Sora?
+- id: 16817
+  text: Restauració al 79%.
+- id: 16818
+  text: Potser... esperar no sigui el més adequat.
+- id: 16819
+  text: Això mateix pensava jo! {:delay 76 00}{:clear }Si tens un somni, no esperis. Actua.{:delay BC 00}{:clear }És una de les normes de la vida.{:delay 88 00}{:clear }Et queda clar?
+- id: 16820
+  text: Qui ets tu?
+- id: 16821
+  text: Axel. {:delay 3C 00}{:clear }{:delay 33 00}Resulta que soc un conegut del Sora.
+- id: 16822
+  text: Per què no anem a veure'l?
+- id: 16823
+  text: '...Sora?'
+- id: 16824
+  text: >-
+    Tenim una cosa en comú, Kairi. {:delay AF 00}{:clear }Tots dos trobem a faltar
+
+    algú que ens importa. {:delay ED 00}{:clear }Ei... Sento com si
+
+    ja fóssim amics.
+- id: 16825
+  text: Doncs no sembles gaire amigable!
