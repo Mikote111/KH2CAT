@@ -55,6 +55,15 @@ assets:
         source:
           - name: msg/eh.yml
             language: text
+  - name: msg/sp/he.bar
+    method: binarc
+    source:
+      - name: he
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/he.yml
+            language: text
   - name: msg/sp/ca.bar
     method: binarc
     source:
