@@ -1426,645 +1426,639 @@
   text: Faran mal als ciutadans?
 - id: 10280
   text: >-
-    No, els duran flors, nano. {:delay 8E 00}{:clear }No sé quiénes son esos
+    No, els duran flors, nano. {:delay 8E 00}{:clear }No sé qui són aquests Organitzadors, {:delay 78 00}{:clear }però et diré que fan que els
 
-    de la Organización, {:delay 78 00}{:clear }pero te diré que hacen que los
-
-    piratas parezcamos gente de bien.
+    pirates semblem gent de bé.
 - id: 10281
-  text: Jack... {:delay 3C 00}{:clear }{:delay 54 00}{:clear }Entonces... tenemos que ayudar.
+  text: Jack... {:delay 3C 00}{:clear }{:delay 54 00}{:clear }Llavors... hem d'ajudar.
 - id: 10282
-  text: ¡Pues vayamos a toda vela!
+  text: Doncs hissa vela i som-hi!
 - id: 10283
-  text: ¡De este me encargo yo!
+  text: D'aquest me n'encarrego jo!
 - id: 10284
-  text: ¡Y ahora, a romper la maldición!
+  text: I ara, a trencar la maledicció!
 - id: 10285
-  text: ¡La maldición ha desaparecido!
+  text: La maledicció ha desaparegut!
 - id: 10286
-  text: Pues explicadme esto...
+  text: Llavors expliqueu això...
 - id: 10287
   text: >-
-    Oh, ya entiendo.{:delay 7E 00}{:clear }Jack debe de estar maldito por
+    Oh, ja ho entenc.{:delay 7E 00}{:clear }El Jack deu estar maleït per
 
-    culpa del monstruo, no por el oro.
+    culpa del monstre, no per l'or.
 - id: 10288
-  text: ¡Vaya! Entonces, sin problemas.
+  text: Oh, cap problema, doncs.
 - id: 10289
   text: >-
-    Tranquilo, Jack.{:delay 42 00}{:clear }Solo tenemos que vencer al
+    Tranquil, Jack.{:delay 42 00}{:clear }Només hem de vèncer
 
-    monstruo, nada más.
+    el monstre, res més.
 - id: 10290
-  text: ¡Coged el oro!
+  text: Agafeu l'or!
 - id: 10291
-  text: Mucho mejor.
+  text: Molt millor.
 - id: 10292
-  text: No del todo, compañero.
+  text: No del tot, company.
 - id: 10293
-  text: Sora... ¡Bravo!
+  text: Sora... Bravo!
 - id: 10295
-  text: ¿Pero quién era ese gañán?
+  text: Però qui era aquell paio?
 - id: 10296
   text: >-
-    Es miembro de una organización
+    És membre d'una organització
 
-    que se dedica a reunir corazones.{:delay CC 00}{:clear }Primero sueltan a los sincorazón
+    que es dedica a reunir cors.{:delay CC 00}{:clear }Primer deixen anar els sensecor
 
-    en distintos mundos,{:delay BA 00}{:clear }nosotros los derrotamos,
+    en diferents mons,{:delay BA 00}{:clear }nosaltres els derrotem,
 
-    y luego se llevan los corazones.{:delay 8C 00}{:clear }Así no los detendremos nunca.
+    i després s'enduen els cors.{:delay 8C 00}{:clear }Així no els aturarem mai.
 - id: 10297
-  text: ¿Y cuál es el plan?
+  text: Quin és el pla, llavors?
 - id: 10298
   text: >-
-    Tenemos que encontrar su guarida y
+    Hem de trobar la seva guarida i
 
-    acabar con ellos de una vez por todas.
+    acabar amb ells d'una vegada per totes.
 - id: 10299
   text: >-
-    Navegando por estas aguas he oído
+    Navegant per aquestes aigües he sentit
 
-    muchos relatos, pero ninguno como este.
+    molts relats, però cap com aquest.
 - id: 10300
-  text: ¿Podemos ayudaros en algo?
+  text: Podem ajudar d'alguna manera?
 - id: 10301
   text: Mmm...
 - id: 10302
-  text: ¿Nada que podamos hacer?
+  text: Res que poguem fer?
 - id: 10303
-  text: Sí que hay algo.
+  text: Sí que n'hi ha.
 - id: 10304
   text: >-
-    Está claro que no
+    Està clar que no ens interessa tenir per
 
-    nos interesa tener por aquí{:delay 88 00}{:clear }a esos encapuchados
+    aquí cap encaputxat ni els sensecor.{:delay 8A 00}{:clear }Arruinarien el negoci dels
 
-    ni a los sincorazón.{:delay 8A 00}{:clear }Arruinarían el negocio
-
-    a los honrados piratas.
+    pirates honrats.
 - id: 10305
   text: >-
-    Por eso fuiste a Port Royal.{:delay 87 00}{:clear }Y nosotros pensando que
+    Per això vas anar a Port Royal.{:delay 87 00}{:clear }I nosaltres pensant que
 
-    querías salvar a todos...
+    volies salvar-nos a tots...
 - id: 10306
   text: >-
-    Un pirata siempre busca
+    Un pirata sempre busca
 
-    sacar tajada, Srta. Swann.
+    treure'n nyapa, Srta. Swann.
 - id: 10307
   text: >-
-    ¡Qué pena! Nos tenías engañados.
+    Quina pena! Ens tenies enganyats.
 
-    Creíamos que habías pasado página.
+    Creiem que havies passat pàgina.
 - id: 10308
   text: >-
-    La cuestión es...
+    La qüestió és...
 
-    ¿qué hay tras la página? ¿Comprendes?
+    Què hi ha rere la pàgina? Entens?
 - id: 10309
   text: >-
-    Ah, claro...
+    Ah, és clar...
 
-    Una recompensa. ¿En qué has pensado?
+    Una recompensa. En què has pensat?
 - id: 10310
-  text: La bella espada de Sora.
+  text: La bella espasa d'en Sora.
 - id: 10311
-  text: ¿Eh?
+  text: Eh?
 - id: 10312
-  text: Bueno, vale.
+  text: D'acord, molt bé.
 - id: 10313
-  text: Espera. Ha sido demasiado fácil. {:delay A9 00}{:clear }¿Dónde está la pega?
+  text: Espera. Ha sigut massa fàcil. {:delay A9 00}{:clear }On és la trava?
 - id: 10314
-  text: Ohh, ya veo...
+  text: Ara, ho veus?
 - id: 10315
-  text: Siempre tendrás la "Perla", Jack.
+  text: Sempre tindràs la "Perla", Jack.
 - id: 10316
   text: >-
-    Así es. {:delay 50 00}{:clear }Pero algún día reuniré a
+    Cert. {:delay 50 00}{:clear }Però algun dia reuniré la tripulació més sanguinària
 
-    la tripulación más sanguinaria{:delay 78 00}{:clear }que se haya visto y vendré
+    que mai s'hagi vist per treure't aquella espasa. {:delay 8E 00}{:clear }Espero que ençà la
 
-    a quitarte esa espada. {:delay 8E 00}{:clear }Para entonces,
-
-    espero saber cómo he de empuñarla.
+    sàpiga empunyar.
 - id: 10317
   text: >-
-    Y si lo consigo,
+    I si triomfo,
 
-    tal vez os pida que vengáis conmigo.{:delay E1 00}{:clear }Esa sería mi recompensa.
+    potser us demani que vingueu amb mi.{:delay E1 00}{:clear }Aquella seria la meva recompensa.
 - id: 10318
-  text: Hecho.
+  text: Fet.
 - id: 10319
   text: >-
-    Puede que algún día
+    Potser algun dia en Jack aconsegueix
 
-    Jack consiga blandir la llave espada{:delay B0 00}{:clear }después de todo.
+    brandar la clau espada després de tot.
 - id: 10320
-  text: ¿Y eso?
+  text: Això per què?
 - id: 10321
   text: >-
-    ¡Ajiah! Jack y Sora se parecen
+    Ajiah! El Jack i el Sora
 
-    un poco, ¿no creéis?
+    s'assemblen una mica, no creieu?
 - id: 10322
-  text: ¡Qué va!
+  text: No, i ara!
 - id: 10323
   text: >-
-    Hay quien dice que Jack Sparrow es el peor
+    Hi ha qui diu que en Jack Sparrow és el
 
-    pirata que jamás haya navegado por el Caribe.
+    pitjor pirata que mai hagi navegat pel Carib.
 - id: 10324
-  text: Nadie puede decir eso en serio.
+  text: Ningú pot dir això de debò.
 - id: 10325
   text: >-
-    Cierto. Nosotros sabemos
+    Cert. Nosaltres sabem
 
-    que es el mejor.
+    que n'és el millor.
 - id: 10326
-  text: Espero que volvamos a verle.
+  text: Espero que tornem a veure'l.
 - id: 10427
-  text: Ah, pero a la luz de la luna...
+  text: Ah, però amb la llum de la lluna...
 - id: 10431
-  text: ¡Es una emboscada! ¡Tendrás que vencerlos a todos o huir al interior del barco!
+  text: És una emboscada! Hauràs de vèncer-los tots o fugir a l'interior del vaixell!
 - id: 10432
   text: >-
-    Cuando Barbossa me capturó,
+    Quan el Barbossa em va capturar,
 
-    no quería que supiera...{:clear }que era la hija del gobernador.{:clear }Por eso le di el nombre de Turner.
+    no volia que sapigués...{:clear }que era la filla del governador.{:clear }Per això li vaig donar el nom de Turner.
 
-    ¡No sabía que nos llevaría a esto!
+    No sabia que ens duria a això!
 - id: 14156
-  text: ¡Vence a Barbossa con ayuda de Jack!
+  text: Venç el Barbossa amb l'ajuda del Jack!
 - id: 14157
   text: >-
-    ¡Vence a Barbossa con ayuda de Jack!
+    Venç el Barbossa amb l'ajuda del Jack!
 
-    ¡Derrota al sincorazón que causa la
+    Derrota el sensecor que causa la
 
-    oscuridad, y luego lucha con Barbossa!
+    foscor, i després lluita amb el Barbossa!
 
-    ¡Si usas magia, será más fácil!
+    Si utilitzes màgia, serà més fàcil!
 - id: 15191
-  text: ¡Queda una pieza! ¡Busca a los incorpóreos en otros lugares!
+  text: Queda una peça! Busca els incorporis en altres llocs!
 - id: 15192
-  text: ¡Quedan dos piezas! ¡Busca a los incorpóreo en otros lugares!
+  text: Queden dues peces! Busca els incorporis en altres llocs!
 - id: 15193
-  text: ¡El incorpóreo ha escapado!
+  text: L'incorpori ha escapat!
 - id: 15229
   text: >-
-    ¡Vence al incorpóreo y recupera el oro
+    Venç l'incorpori i recupera
 
-    antes de que escape!
+    l'or abans que escapi!
 - id: 15230
   text: >-
-    ¡Busca al incorpóreo oculto en la
+    Busca l'incorpori ocult en la
 
-    oscuridad y recupera la pieza de oro!
+    foscor i recupera'n la peça d'or!
 - id: 15231
   text: >-
-    ¡Busca al incorpóreo oculto
+    Busca l'incorpori ocult
 
-    y recupera la pieza de oro!
+    i recupera'n la peça d'or!
 - id: 15232
   text: >-
-    ¡El incorpóreo aparecerá cuando hayas
+    L'incorpori apareixerà quan
 
-    vencido a todos los piratas!
+    hagis vençut tots els pirates!
 
-    ¡Si usas la luz de la luna,
+    Si utilitzes la llum de la lluna,
 
-    te resultará más fácil!
+    et serà més fàcil!
 - id: 15233
   text: >-
-    ¡Vence al incorpóreo y recupera el oro
+    Venç l'incorpori i recupera'n
 
-    antes de que escape!
+    l'or abans que escapi!
 - id: 15234
   text: >-
-    ¡Vence al incorpóreo y recupera el oro
+    Venç l'incorpori i recupera'n
 
-    antes de que escape!
+    l'or abans que escapi!
 - id: 15851
   text: >-
-    ¿Quieres alcanzar a la {:theme 0A}"Perla Negra"{:reset}?
+    Vols atrapar la {:theme 0A}"Perla Negra"{:reset}? Llavors
 
-    Entonces déjate de rodeos y vámonos.
+    deixa't estar de ximpleries i anem-nos-en.
 - id: 15852
   text: >-
-    Será mejor que {:theme 0A}volvamos a Port Royal{:reset}.
+    Serà millor que {:theme 0A}tornem a Port Royal{:reset}.
 
-    Allí estaremos a salvo.
+    Allà estarem fora de perill.
 - id: 15853
-  text: ¡Eh! ¡Quita tus manos de mi timón!
+  text: Eh! Aparta les teves mans del meu timó!
 - id: 15854
   text: >-
-    Yo tampoco confío en piratas,
+    Jo tampoc confio en pirates,
 
-    pero espero que Jack sea majo.{:clear }Debemos llevar a casa a Elizabeth,
+    però espero que el Jack sigui bo.{:clear }Hem de dur a casa l'Elizabeth,
 
-    así que volvamos {:theme 0A}a Port Royal{:reset}.
+    així que tornem {:theme 0A}a Port Royal{:reset}.
 - id: 15855
   text: >-
-    Asociarse a los sincorazón... ¡Eso es 
+    Associar-se als sensecor... Això és 
 
-    caer muy bajo, incluso para un pirata!{:clear }¡No queda más remedio que
+    caure molt baix, fins i tot per a un pirata!{:clear }No tenim més remei que
 
-    poner rumbo a la Isla de Muerta!
+    posar rumb a l'Isla de Muerta!
 - id: 15856
   text: >-
-    Seguro que Jack estará bien.{:clear }Es uno de esos tipos que sale bien
+    Seguro que el Jack estarà bé.{:clear }És un d'aquells tipus
 
-    de todos los líos.
+    que sempre se'n surt.
 - id: 15857
   text: >-
-    Will fue capturado mientras trataba
+    El Will va ser capturat
 
-    de ayudarnos.{:clear }¡Sé que nuestros enemigos están
+    mentre intentava ajudar-nos.{:clear }Sé que els nostres enemics estan a
 
-    al acecho, pero no podemos abandonarle!
+    l'aguait, però no podem abandonar-lo!
 - id: 15858
   text: >-
-    A saber dónde estarán esos tipos.
+    A saber on seran aquells tipus.
 
-    ¡Habrá que buscarles por todas partes!{:clear }Dudo que estén en la ciudad.
+    Haurem de buscar-los per tot arreu!{:clear }Dubto que siguin a la ciutat.
 
-    A ver, ¿por dónde empezamos?
+    Aviam, per on comencem?
 - id: 15859
   text: >-
-    Los incorpóreos han robado
+    Els incorporis han robat
 
-    cuatro piezas de oro, ¿no?{:clear }Mmm... Me pregunto dónde
+    quatre peces d'or, no?{:clear }Mmm... Em pregunto
 
-    pueden estar.
+    on poden ser.
 - id: 15860
   text: >-
-    Si alguien invoca "parlamento", se deben
+    Si algú invoca el "parlament", s'han
 
-    suspender las hostilidades y negociar.{:clear }Así de simple.
+    suspendre les hostilitats i negociar.{:clear }Així de simple.
 
-    Hasta los piratas tenemos un código.
+    Fins i tot els pirates tenim un codi.
 - id: 15861
   text: >-
-    Fuimos arrojados de la "Perla Negra"
+    Vam ser llençats de la Perla Negra
 
-    al "Interceptor" por ese sincorazón.{:clear }Si el "Interceptor" no fuera tan sólido,
+    a l'Interceptor per aquell sensecor.{:clear }Si l'Interceptor no fos tan sòlid, ens
 
-    nos habríamos hundido antes de llegar aquí.
+    hauríem enfonsat abans d'arribar aquí.
 - id: 15862
   text: >-
-    Este parece ser el sitio al que llegan
+    Aquest sembla ser el lloc on hi
 
-    los barcos naufragados.{:clear }Quizá haya un bote en buen estado
+    arriben els vaixells naufragats.{:clear }Pot ser que hi hagi un bot en bon estat
 
-    que podamos usar. {:theme 0A}Echemos un vistazo.{:reset}
+    que poguem utiltizar. {:theme 0A}Fem-hi un cop d'ull.{:reset}
 - id: 15863
   text: >-
-    ¡Apuesto a que esos sincorazón
+    Segur que aquells sensecor
 
-    nos esperan en la ciudad!{:clear }Están usando el poder del oro azteca...
+    ens esperen a la ciutat!{:clear }Estan utilitzant el poder de l'or asteca...
 
-    ¡Tendremos que confiar en nuestra magia!
+    Haurem de confiar en la nostra màgia!
 - id: 15864
   text: >-
-    Bueno, ya tenemos las piezas de oro.
+    Bé, ja tenim les peces d'or.
 
-    Ahora solo queda devolverlas.{:clear }Probablemente, la Organización {XIII} esté en
+    Ara només falta retornar-les.{:clear }Probablement, l'Organització {XIII} sigui
 
-    la ciudad. El arca debe de estar allí.
+    a la ciutat. L'arca deu ser allà.
 - id: 15865
   text: >-
-    ¡Es una emboscada! ¡Tendrás que vencerlos a
+    És una emboscada! Hauràs de vèncer-los
 
-    todos o huir al interior del barco!
+    a tots o fugir a l'interior del vaixell!
 - id: 15900
   text: >-
-    No quiero oír hablar de monstruos
+    No vull sentir parlar de
 
-    ni de maldiciones.{:clear }Pienso zarpar de todos modos,
+    monstres ni de malediccions.{:clear }Penso partir de totes maneres, així
 
-    así que daos prisa. A vuestros puestos.
+    que afanyeu-vos cap els vostres llocs.
 - id: 15901
   text: >-
-    Jack no quiere ayudarnos.{:clear }Debemos enfrentarnos a la Organización {XIII},
+    El Jack no vol ajudar-nos.{:clear }Hem d'enfrontar-nos a l'Organització {XIII},
 
-    pero necesitamos un barco.
+    però necessitem un vaixell.
 - id: 15902
   text: >-
-    La Organización {XIII} está ahora
+    L'Organització {XIII} és ara
 
-    en este mundo, ¿no?{:clear }Seguro que no traman nada bueno.
+    en aquest món, no?{:clear }Segur que no tramen res de bo.
 
-    Será mejor que estemos en guardia.
+    Serà millor que estiguem en guàrdia.
 - id: 15904
   text: >-
-    ¿Quieres probar esa
+    Vols provar aquella
 
-    tabla deslizante otra vez?
+    taula lliscant un altre cop?
 - id: 15905
   text: >-
-    A pesar de todo, me sigue
+    Malgrat tot, em segueix
 
-    fascinando la vida en altamar.{:clear }Creo que me gustaría
+    fascinant la vida en altamar.{:clear }Crec que m'agradaria
 
-    viajar un poco más.
+    viatjar una mica més.
 - id: 15916
-  text: ¿Parece que hay brisita, no?
+  text: Quina brisa, eh?
 - id: 15917
   text: >-
-    Temía que Donald acabara maldito
+    Temia que el Donald acabés
 
-    por culpa de ese oro.{:clear }Seguro que se enfada conmigo por
+    maleït per culpa d'aquell or.{:clear }Segur que s'enfada amb mi per
 
-    pensarlo... Ya sabes cómo es Donald.
+    pensar-hi... Ja saps com és el Donald.
 - id: 15960
   text: >-
-    Vamos ya tras el barco de Will,
+    Anem a pel vaixell del Will,
 
-    por favor. Temo por él.
+    si us plau. Temo per ell.
 - id: 15961
   text: >-
-    ¡Esas malditas piezas de oro nos han
+    Aquelles maleïdes peces d'or ens
 
-    causado un montón de problemas!{:clear }¡Y todo porque hay gente que intenta
+    han causat un munt de problemes!{:clear }I tot perquè hi ha gent que intenta
 
-    robar tesoros! ¡Diantres!
+    robar tresors! Carall!
 - id: 16669
-  text: '{:unk13 9F 00 04 01}{:unk08 01 00 02}¡Por supuesto!{:clear }Yo soy Sora.'
+  text: '{:unk13 9F 00 04 01}{:unk08 01 00 02}És clar!{:clear }Jo soc en Sora.'
 - id: 16670
   text: >-
-    {:unk13 9F 00 04 01}{:unk08 01 00 02}Estos son Donald
+    {:unk13 9F 00 04 01}{:unk08 01 00 02}Aquests són en
 
-    y Goofy.
+    Donald i en Goofy.
 - id: 17009
   text: >-
-    {:unk13 97 01 46 00}{:unk08 01 00 06}Esos piratas
+    {:unk13 97 01 46 00}{:unk08 01 00 06}Aquells pirates
 
-    estaban malditos.
+    estaven maleïts.
 - id: 17010
   text: >-
-    {:unk13 1B 01 39 00}{:unk08 01 01 06}Creí que habíamos visto el fin
+    {:unk13 1B 01 39 00}{:unk08 01 01 06}Creia que havíem vist la fi
 
-    de la maldición del oro azteca...{:clear }¿Por qué entonces...?
+    de la maledicció de l'or asteca...{:clear }Com és llavors...?
 - id: 17011
   text: >-
-    {:unk13 3D 01 42 00}{:unk08 01 00 05}¡Espera, Jack!
+    {:unk13 3D 01 42 00}{:unk08 01 00 05}Espera, Jack!
 
-    Necesito tu ayuda.
+    Necessito la teva ajuda.
 - id: 17012
   text: >-
-    {:unk13 51 01 3B 00}{:unk08 01 00 05}Los piratas malditos
+    {:unk13 51 01 3B 00}{:unk08 01 00 05}Els pirates maleïts
 
-    han regresado. Will
+    han tornat. El Will
 
-    quería saber por qué...{:clear }así que fue a la Isla
+    volia saber per què...{:clear }així que ha anat a
 
-    de Muerta...{:clear }a inspeccionar
+    l'Isla de Muerta...{:clear }a inspeccionar
 
-    el oro azteca.{:clear }Temo que algo le haya
+    l'or asteca.{:clear }Temo que li hagi 
 
-    ocurrido. Tienes que
+    passat alguna cosa. 
 
-    llevarme con él.
+    M'hi has de dur.
 - id: 17105
   text: >-
-    Barbossa estará en la Isla de Muerta,
+    En Barbossa deu ser a l'Isla de Muerta,
 
-    intentando deshacer la maldición. ¡Deprisa!
+    intentant desfer la maledicció. De pressa!
 - id: 17106
   text: >-
-    ¿Qué diablos haré yo regresando
+    Què diables faré jo tornant
 
-    a la Isla de Muerta...?
+    a l'Isla de Muerta...?
 - id: 17107
   text: >-
-    Vamos a tener que navegar por todo
+    Haurem de navegar per tot
 
-    el lugar para dar con el maldito oro.
+    el lloc per trobar el maleït or.
 - id: 17108
   text: >-
-    Entonces volvemos a la ciudad, ¿no?
+    Llavors tornem a la ciutat, no?
 
-    Partiremos en cuanto estéis listos.
+    Partirem quant estigueu llestos.
 - id: 17109
   text: >-
-    ¡No puedo creer que Will haya vuelto a
+    No puc creure que el Will hagi tornat a
 
-    {:theme 0A}la Isla de Muerta{:reset}! ¿¡Qué pretende!?
+    {:theme 0A}l'Isla de Muerta{:reset}! Què pretén!?
 - id: 17110
   text: >-
-    Elizabeth está muy preocupada.
+    L'Elizabeth està molt preocupada.
 
-    Hay que encontrar a Will pronto.
+    Hem de trobar el Will aviat.
 - id: 17352
-  text: ¡Se te ha caído la pieza de oro!
+  text: T'ha caigut la peça d'or!
 - id: 17353
-  text: ¡Han robado el medallón! ¡Recupéralo rápido!
+  text: Han robado el medalló! Recupera'l ràpid!
 - id: 17354
-  text: ¡Recupera el medallón! ¡Rápido!
+  text: Recupera el medalló! Ràpid!
 - id: 17426
   text: >-
-    Parece que Barbossa ha hecho
+    Sembla que el Barbossa
 
-    de las suyas...{:clear }Pero ya tengo la información
+    ha fet de les seves...{:clear }Però ja tinc la informació
 
-    que necesito. Cuando queráis.
+    que necessito. Quan vulgueu.
 - id: 17427
   text: >-
-    Will es un herrero, y la chica
+    El Will és un ferrer, i la noia
 
-    que han secuestrado es la hija...{:clear }de uno de sus
+    que han segrestrat és la filla...{:clear }d'un dels seus
 
-    mejores clientes.{:clear }Pero, si me preguntas, diría que Will
+    millors clients.{:clear }Però, si em preguntes, diria que el Will
 
-    parece más un espadachín que un herrero.
+    sembla més un espadatxí que un ferrer.
 - id: 17428
   text: >-
-    Parece que el pirata que estaba
+    Sembla que el pirata que era
 
-    con Pete se llama Barbossa.{:clear }La gente dice que cuando quiere algo
+    amb el Pete es diu Barbossa.{:clear }La gent diu que quan vol alguna cosa
 
-    nada le detiene. ¿Qué andará buscando?
+    res l'atura. Què deu estar buscant?
 - id: 17687
   text: >-
-    Aunque me pese, he de reconocer
+    Encara que me pesi, he de reconèixer
 
-    que no todos los pirata son iguales.{:clear }Muchas gracias a ti, Sora.
+    que no tots els pirates són iguals.{:clear }Moltes gràcies a tu, Sora.
 
-    Y, por supuesto, a Jack.
+    I, òbviament, al Jack.
 - id: 17688
   text: >-
-    No es la primera vez que veo piratas
+    No és la primera vegada que veig
 
-    malditos, no me sorprende.{:clear }Esos miembros de la Organización {XIII}
+    pirates maleïts, no em sorprén.{:clear }Aquells membres de l'Organització {XIII}
 
-    no son personas reales.{:clear }Son... otra cosa,
+    no són persones reals.{:clear }Són... una altra cosa,
 
-    ¿no?
+    oi?
 - id: 18341
   text: >-
-    ‛Para usar en caso de ataque pirata.
+    ‛Per utilitzar en cas d'atac pirata.
 
-    Comodoro Norrington."
+    Comodor Norrington."
 - id: 18342
-  text: '"Un presente para los piratas."'
+  text: '"Un present par als pirates."'
 - id: 18343
   text: >-
-    "Un símbolo de paz y prosperidad
+    "Un símbol de pau i prosperitat
 
-    en Port Royal."
+    a Port Royal."
 - id: 18344
-  text: Timón del "Interceptor", un navío de la marina.
+  text: Timó de l'Interceptor, un navili de la marina.
 - id: 18345
-  text: Para usar contra piratas.
+  text: Per utilitzar contra pirates.
 - id: 18346
   text: >-
-    Manejar este cañón es peligroso.
+    Manejar aquest canó és perillós.
 
-    Fue instalado con sumo cuidado.
+    Va ser instal・lat amb peus de plom.
 - id: 18347
-  text: Aquí hay muchas raciones.
+  text: Aquí hi ha moltes racions.
 - id: 18348
   text: >-
-    Este barco está listo
+    Aquest vaixell és a
 
-    para el combate.
+    punt per al combat.
 - id: 18349
   text: >-
-    Puedes percibir un leve olor
+    Pots percebre una lleu olor
 
-    a grasa y pólvora.
+    de greix i pólvora.
 - id: 18350
   text: >-
-    El timón de la "Perla Negra",
+    El timó de la Perla Negra,
 
-    el barco más rápido jamás construido.
+    el vaixell més ràpid mai construït.
 - id: 18351
   text: >-
-    La campana está abollada.
+    La campana està abonyegada.
 
-    Habrá sido cosa de los piratas.
+    Haurà estat cosa dels pirates.
 - id: 18352
   text: >-
-    Hay riquezas y abalorios de todo tipo,
+    Hi ha molts guarniments preciosos,
 
-    pero el arca está vacía.
+    pero l'arca és buida.
 - id: 18353
   text: >-
-    Parece el botín de las corredurías
+    Sembla una part del botí del
 
-    de Barbossa. El arca está vacía.
+    Barbossa. Però l'arca és buida.
 - id: 18354
   text: >-
-    Jack no ha perdido el tiempo pirateando.
+    En Jack no ha perdut el temps piratejant.
 
-    El arca, eso sí, está vacía.
+    L'arca, això sí, és buida.
 - id: 18355
   text: >-
-    Aquellos que roben el oro serán
+    Aquells que roben l'oro seran
 
-    maldecidos con la inmortalidad.
+    maleïts amb la immortalitat.
 - id: 18356
-  text: Esto es lo que queda del "Interceptor".
+  text: Això és el que queda de l'Interceptor.
 - id: 18405
-  text: Este lugar no es accesible ahora.
+  text: Aquest lloc no és accessible ara.
 - id: 18710
   text: >-
-    ¡Trata de usar ataques mágicos y físicos
+    Intenta utilitzar atacs màgics i
 
-    para derrotar al sincorazón!
+    físics per derrotar el sensecor!
 - id: 18711
   text: >-
-    ¡Puedes usar magia para recoger las piezas
+    Pots utilitzar màgia per recollir les
 
-    de oro en poder del sincorazón!
+    peces d'oro de les mans del sensecor!
 
-    ¡Devuélvelas al arca para ayudar
+    Retorna-les a l'arca per ajudar
 
-    a vencer a los enemigos!
+    a vèncer els enemics!
 - id: 18918
   text: >-
-    He encontrado algo extraño. Es una
+    He trobat una cosa estranya. És un post
 
-    tabla con ruedas. ¿Sabrás usarla?
+    amb rodes. Creus que podràs utilitzar-lo?
 - id: 18919
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Parece divertido. ¿Quieres probar?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Sembla divertit. Vols provar-ho?
 
-    {:chardelay 33 00}Mmm, creo que no.
+    {:chardelay 33 00}Mmm, crec que no.
 
-    {:chardelay 52 00}Sí, me la llevo.
+    {:chardelay 52 00}Sí, me l'enduc.
 - id: 18920
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Parece un monopatín.
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Sembla un monopatí.
 
-    ¿Lo pruebo?
+    El provo?
 
-    {:chardelay 33 00}Mmm, creo que no.
+    {:chardelay 33 00}Mmm, crec que no.
 
-    {:chardelay 52 00}Sí, me lo llevo.
+    {:chardelay 52 00}Sí, me l'enduc.
 - id: 19109
   text: >-
-    Parece que esta campana se
+    Sembla que aquesta campana
 
-    usa para indicar las horas.
+    s'utilitza per indicar les hores.
 - id: 19110
   text: >-
-    Este barco está muy bien equipado
+    Aquest vaixell està molt ben equipat
 
-    para ser un navío de la marina.
+    per ser un navili de la marina.
 - id: 19111
   text: >-
-    Este cañón es una prueba
+    Aquest canó és una prova
 
-    de las intenciones de Barbossa.
+    de les intencions del Barbossa.
 - id: 19347
-  text: ¡Trata de usar magia para recoger las piezas de oro en poder del sincorazón, y devuélvelas al arca!
+  text: Intenta utilitzar màgia per recollir les peces d'or a mà del sensecor, i retorna-les a l'arca!
 - id: 19348
-  text: ¡El jefe sincorazón está robando el oro! ¡Detenlo!
+  text: El sensecor líder està robant l'or! Atura'l!
 - id: 19619
-  text: ¡Derrota al sincorazón que causa la oscuridad!
+  text: Derrota el sensecor que causa la foscor!
 - id: 19745
   text: Port Royal
 - id: 19877
-  text: ¡No lo entiendo!
+  text: No ho entenc!
 - id: 19878
-  text: ¡Vamos!
+  text: Som-hi!
 - id: 19879
-  text: ¿Por qué no funciona?
+  text: Per què no funciona?
 - id: 19880
-  text: ¡Necesitas más sangre!
+  text: Necessites més sang!
 - id: 19881
-  text: ¡Acaba de una vez!
+  text: Acaba d'una vegada!
 - id: 20187
   text: >-
-    {:unk08 02 00 06}Una Esencia intangible, un ente
+    {:unk08 02 00 06}Una Essència intangible, una
 
-    oscuro ligado a un arma.
+    entitat fosca lligada a una arma.
 
-    {:chardelay 33 00}Mejor no arriesgarse.
+    {:chardelay 33 00}Millor no arriscar-s'hi.
 
-    {:chardelay A1 00}¡Habrá que examinarla!
+    {:chardelay A1 00}Fem-li un cop d'ull!
 - id: 20614
-  text: ¡Pulsa {:icon dynamic-triangle} para comenzar el duelo! ¡Identifica al original y no le des tregua!
+  text: Prem {:icon dynamic-triangle} per començar el duel! Identifica i ataca l'original!
 - id: 21548
-  text: "{:delayandfade 07 78} \nSora y sus amigos dan buena\ncuenta de los rivales y obligan a\nPete a poner tierra de por medio.\n \nSin embargo, Barbossa y sus\nesbirros parecen tener otro\nobjetivo en mente y se apresuran\nhacia el corazón de Port Royal.\n \n \n"
+  text: "{:delayandfade 07 78} \nMentre el Sora i els seus amics es\ndefensen dels pirates, el Pete fuig\nde l'escena, deixant-los enrere.\n \nDecidits en acabar amb els pirates\nmaleïts que quedaven, s'afanyen\ncap el poble.\n \n \n"
 - id: 21549
-  text: "{:delayandfade 07 78} \nSora y Will no tardan en hacer\nbuenas migas y juntos se proponen\nsalvar a la Srta. Elizabeth Swann,\nhija del gobernador de Port Royal.\n \nDecididos, se apresuran hacia\nel puerto, donde está fondeado\nel barco de los piratas.\n \n"
+  text: "{:delayandfade 07 78} \nEs troben amb un home anomenat Will\nTurner, que està ocupat en salvar\nl'Elizabeth, la filla del governador.\n \nAixí que tot junts es dirigeixen al port\non la nau pirata es troba. Més els val\nafanyar-s'hi si la volen atrapar!\n \n"
 - id: 21550
-  text: "{:delayandfade 07 78} \nEl valiente grupo arriba a\nla Isla de Muerta.\n \nNada más llegar, tanto Jack,\nalentado por la idea de recuperar\nsu amada \"Perla Negra\", como\nWill, que solo piensa en salvar\na Elizabeth, se adentran sin\ncontemplaciones en la isla.\n \n"
+  text: "{:delayandfade 07 78} \nEl valent grup arriba a\nl'Isla de Muerta.\n \nNomés en arribar, tant el Jack,\nalenat per la idea de recuperar\nla seva estimada Perla Negra,\ncom el Will, que només pensa en\nsalvar l'Elizabeth, s'endinsen\nsense miraments en l'illa.\n \n"
 - id: 21551
-  text: "{:delayandfade 0A 5A} \nQuedarse vigilando la retaguardia\nno es un plan que guste a Sora,\npor lo que decide ir en auxilio\nde sus camaradas.\n \n \n \n \n \n \n"
+  text: "{:delayandfade 0A 5A} \nQuedar-se vigilant la retaguarda\nno és un pla que li agradi al Sora,\naixí que decideix anar a ajudar\nels seus camarades.\n \n \n \n \n \n \n"
 - id: 21552
-  text: "{:delayandfade 0A 78} \nAl volver al barco, Sora se\npercata de la ausencia de Jack.\nEs entonces cuando Will narra\ntodo lo sucedido en la isla...\n \n \n \n \n"
+  text: "{:delayandfade 0A 78} \nEn tornar al vaixell, el Sora\nse n'adona de l'absència del Jack.\nÉs aleshores quan el Will narra\ntot el que ha passat a l'illa...\n \n \n \n \n"
 - id: 21553
-  text: "{:delayandfade 0A 78} \nWill no se fía de los piratas,\ny mucho menos de uno como Jack.\nEsa es la razón de que decidiera\nabandonarlo en la isla y volver\na Port Royal.\n \n \n \n"
+  text: "{:delayandfade 0A 78} \nEn Will no es refia dels pirates,\ni encara menys d'un com el Jack.\nAquella és la raó que decidís\nabandonar-lo en l'illa i tornar\na Port Royal.\n \n \n \n"
 - id: 21554
-  text: "{:delayandfade 07 78} \nAtrapados en la bodega del navío\ny rodeados de barriles de pólvora,\ntodos parecen condenados a acabar\nen el fondo de los mares.\n \nPero gracias a la astucia del\nlegendario Jack y a la destreza\nde Sora con su llave espada,\nel grupo sale ileso una vez más.\n \n"
+  text: "{:delayandfade 07 78} \nAtrapats a la bodega del navili\ni rodejats de barrils de pólvora,\ntots semblen condemnats a acabar\nen el fons dels mars.\n \nPerò gràcies a l'astúcia del\nllegendari Jack i a la destresa\ndel Sora amb la seva clau espasa,\nel grup en surt il・lés un cop més.\n \n"
 - id: 21555
-  text: "{:delayandfade 0A 78} \nLas cosas no parecen estar\nnada tranquilas en Port Royal\ncuando Sora y los suyos\nllegan de nuevo a puerto.\n \n \n \n"
+  text: "{:delayandfade 0A 78} \nLes coses no semblen estar\ngens tranquil・les a Port Royal\nquan el Sora i els seus\narriben de nou a port.\n \n \n \n"
 - id: 21556
-  text: "{:delayandfade 07 78}La maldición del oro azteca\nsigue afectando a los piratas,\nrazón por la que Will se ha\nmarchado a la Isla de Muerta\nen busca de respuestas.\n \nSora y los suyos abordan de\nnuevo la \"Perla Negra\" y siguen\nlos pasos del valeroso joven.\n \n"
+  text: "{:delayandfade 07 78}La maledicció de l'or asteca\nsegueix afectant els pirates,\nraó per la qual el Will se n'ha\nanat a l'Isla de Muerta\nen busca de respostes.\n \nEl Sora i els seus aborden de\nnou la Perla Negra i segueixen\nels passos del valerós jove.\n \n"
 - id: 21557
-  text: "{:delayandfade 08 78} \n¡La Organización {XIII} no puede\nsalirse con la suya!\n \nAunque Sora y sus amigos desean\nplantar cara a su enemigo, saben \nque sin las piezas de oro que\nfaltan no tienen ninguna oportunidad,\npor lo que no pierden el tiempo\ny dan caza a quienes se\nlas llevaron.\n"
+  text: "{:delayandfade 08 78} \nL'Organització {XIII} no pot\nensortir-se'n!\n \nEncara que el Sora i els seus amics\ndesitgen plantar cara al seu enemic,\nsaben que sense las peces d'or que\nfalten no hi tenen cap oportunitat,\naixí que no perden el temps\ni busquen a qui les ha robat.\n"
