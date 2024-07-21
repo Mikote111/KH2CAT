@@ -118,144 +118,144 @@ assets:
   - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/tt0field.2dd/SP_tt0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/tt0field.2dd/SP_tt0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/al0field.2dd/SP_al0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/al0field.2dd/SP_al0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/di0field.2dd/SP_di0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/di0field.2dd/SP_di0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/lk0field.2dd/SP_lk0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/lk0field.2dd/SP_lk0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/lm0field.2dd/SP_lm0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/lm0field.2dd/SP_lm0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/mu0field.2dd/SP_mu0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/mu0field.2dd/SP_mu0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/nm0field.2dd/SP_nm0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/nm0field.2dd/SP_nm0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/po0field.2dd/SP_po0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/po0field.2dd/SP_po0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/tr0field.2dd/SP_tr0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/tr0field.2dd/SP_tr0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/wi0field.2dd/SP_wi0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/wi0field.2dd/SP_wi0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/wm0field.2dd/SP_wm0field_2dd0.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/wm0field.2dd/SP_wm0field_2dd1.png
     method: copy
     source:
-    - name: remastered/menu/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
