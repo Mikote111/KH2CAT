@@ -91,6 +91,7 @@ assets:
         source:
           - name: msg/nm.yml
             language: text
+  #PANTALLA D'INICI
   - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
     method: copy
     source:
@@ -103,6 +104,19 @@ assets:
     method: copy
     source:
     - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
+  - name: remastered/menu/sp/title.2ld/SP_title_2l11.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/title.2ld/SP_title_2ld11.png
+  # MENÚ PER GUARDAR
   - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
     method: copy
     source:
@@ -111,10 +125,24 @@ assets:
     method: copy
     source:
     - name: remastered/menu/sp/eventviewer.2ld/SP_eventviewer_2ld50.png
+  #MENÚ PRINCIPAL
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
     method: copy
     source:
     - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld1.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/camp.2ld/SP_camp_2ld1.png
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld2.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/camp.2ld/SP_camp_2ld2.png
+  - name: remastered/menu/sp/camp.2ld/SP_camp_2ld3.png
+    method: copy
+    source:
+    - name: remastered/menu/sp/camp.2ld/SP_camp_2ld3.png
+  #INTERFÍCIE PRINCIPAL GAMEPLAY
   - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
     method: copy
     source:
