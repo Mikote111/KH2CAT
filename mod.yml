@@ -3,6 +3,7 @@ description: Gaudeix de la segona entrega numerada de la saga Kingdom Hearts amb
 assets:
   - name: msg/sp/sys.bar
     method: binarc
+    package: kh2_first
     source:
       - name: sys
         type: list
@@ -12,6 +13,7 @@ assets:
             language: text
   - name: msg/sp/es.bar
     method: binarc
+    package: kh2_first
     source:
       - name: es
         type: list
@@ -21,6 +23,7 @@ assets:
             language: text
   - name: msg/sp/title.bar
     method: binarc
+    package: kh2_first
     source:
       - name: title
         type: list
@@ -30,6 +33,7 @@ assets:
             language: text
   - name: msg/sp/tt.bar
     method: binarc
+    package: kh2_first
     source:
       - name: tt
         type: list
@@ -39,6 +43,7 @@ assets:
             language: text
   - name: msg/sp/hb.bar
     method: binarc
+    package: kh2_fifth
     source:
       - name: hb
         type: list
@@ -48,6 +53,7 @@ assets:
             language: text
   - name: msg/sp/eh.bar
     method: binarc
+    package: kh2_fifth
     source:
       - name: eh
         type: list
@@ -57,6 +63,7 @@ assets:
             language: text
   - name: msg/sp/he.bar
     method: binarc
+    package: kh2_fifth
     source:
       - name: he
         type: list
@@ -66,6 +73,7 @@ assets:
             language: text
   - name: msg/sp/ca.bar
     method: binarc
+    package: kh2_fifth
     source:
       - name: ca
         type: list
@@ -75,6 +83,7 @@ assets:
             language: text
   - name: msg/sp/di.bar
     method: binarc
+    package: kh2_fifth
     source:
       - name: di
         type: list
@@ -84,6 +93,7 @@ assets:
             language: text
   - name: msg/sp/nm.bar
     method: binarc
+    package: kh2_fifth
     source:
       - name: nm
         type: list
@@ -94,196 +104,267 @@ assets:
   #PANTALLA D'INICI
   - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
   - name: remastered/menu/sp/title.2ld/SP_title_2l11.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/title.2ld/SP_title_2ld11.png
   # MENÚ PER GUARDAR
   - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
   - name: remastered/menu/sp/eventviewer.2ld/SP_eventviewer_2ld50.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/eventviewer.2ld/SP_eventviewer_2ld50.png
   #MENÚ PRINCIPAL
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld1.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/camp.2ld/SP_camp_2ld1.png
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld2.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/camp.2ld/SP_camp_2ld2.png
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld3.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/menu/sp/camp.2ld/SP_camp_2ld3.png
   #INTERFÍCIE PRINCIPAL GAMEPLAY
   - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/tt0field.2dd/SP_tt0field_2dd0.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/tt0field.2dd/SP_tt0field_2dd1.png
     method: copy
+    package: kh2_first
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/al0field.2dd/SP_al0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/al0field.2dd/SP_al0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/di0field.2dd/SP_di0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/di0field.2dd/SP_di0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/lk0field.2dd/SP_lk0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/lk0field.2dd/SP_lk0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/lm0field.2dd/SP_lm0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/lm0field.2dd/SP_lm0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/mu0field.2dd/SP_mu0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/mu0field.2dd/SP_mu0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/nm0field.2dd/SP_nm0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/nm0field.2dd/SP_nm0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/po0field.2dd/SP_po0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/po0field.2dd/SP_po0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/tr0field.2dd/SP_tr0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/tr0field.2dd/SP_tr0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/wi0field.2dd/SP_wi0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/wi0field.2dd/SP_wi0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   - name: remastered/field2d/sp/wm0field.2dd/SP_wm0field_2dd0.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
   - name: remastered/field2d/sp/wm0field.2dd/SP_wm0field_2dd1.png
     method: copy
+    package: kh2_fifth
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
+  #BARRA D'ORDRES
+  - name: remastered/field2d/sp/al0field.2dd/SP_al0command_2dd0.png
+    method: copy
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/sp/al0field.2dd/SP_al0command_2dd0.png
+  - name: remastered/field2d/sp/bb0field.2dd/SP_bb0command_2dd0.png
+    method: copy
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/sp/bb0field.2dd/SP_bb0command_2dd0.png
+  - name: remastered/field2d/sp/ca0field.2dd/SP_ca0command_2dd0.png
+    method: copy
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/sp/ca0field.2dd/SP_ca0command_2dd0.png
+  #BOTIGA MOGURI
+  - name: remastered/menu/sp/itemshop.2ld/SP_itemshop_2ld1.png
+    method: copy
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/sp/itemshop.2ld/SP_itemshop_2ld1.png
+  
