@@ -346,21 +346,21 @@ assets:
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   #BARRA D'ORDRES
-  - name: remastered/field2d/sp/al0field.2dd/SP_al0command_2dd0.png
+  - name: remastered/field2d/sp/al0command.2dd/SP_al0command_2dd0.png
     method: copy
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/al0field.2dd/SP_al0command_2dd0.png
-  - name: remastered/field2d/sp/bb0field.2dd/SP_bb0command_2dd0.png
+    - name: remastered/field2d/sp/al0command.2dd/SP_al0command_2dd0.png
+  - name: remastered/field2d/sp/bb0command.2dd/SP_bb0command_2dd0.png
     method: copy
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/bb0field.2dd/SP_bb0command_2dd0.png
-  - name: remastered/field2d/sp/ca0field.2dd/SP_ca0command_2dd0.png
+    - name: remastered/field2d/sp/bb0command.2dd/SP_bb0command_2dd0.png
+  - name: remastered/field2d/sp/ca0command.2dd/SP_ca0command_2dd0.png
     method: copy
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/ca0field.2dd/SP_ca0command_2dd0.png
+    - name: remastered/field2d/sp/ca0command.2dd/SP_ca0command_2dd0.png
   #BOTIGA MOGURI
   - name: remastered/menu/sp/itemshop.2ld/SP_itemshop_2ld1.png
     method: copy
