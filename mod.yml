@@ -346,6 +346,11 @@ assets:
     source:
     - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
   #BARRA D'ORDRES
+  - name: remastered/field2d/sp/tt0command.2dd/SP_tt0command_2dd0.png
+    method: copy
+    package: kh2_first
+    source:
+    - name: remastered/field2d/sp/tt0command.2dd/SP_tt0command_2dd0.png
   - name: remastered/field2d/sp/al0command.2dd/SP_al0command_2dd0.png
     method: copy
     package: kh2_fifth
