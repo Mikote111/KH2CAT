@@ -371,6 +371,11 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/field2d/sp/wi0command.2dd/SP_wi0command_2dd0.png
+  - name: remastered/field2d/sp/zz0command.2dd/SP_zz0command_2dd0.png
+    method: copy
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/sp/zz0command.2dd/SP_zz0command_2dd0.png
   #BOTIGUES
   - name: remastered/menu/sp/itemshop.2ld/SP_itemshop_2ld1.png
     method: copy
