@@ -361,7 +361,17 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/field2d/sp/ca0command.2dd/SP_ca0command_2dd0.png
-  #BOTIGA MOGURI
+  - name: field2d/sp/wi0command.2dd
+    method: copy
+    package: kh2_fifth
+    source:
+    - name: field2d/sp/wi0command.2dd
+  - name: remastered/field2d/sp/wi0command.2dd/SP_wi0command_2dd0.png
+    method: copy
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/sp/wi0command.2dd/SP_wi0command_2dd0.png
+  #BOTIGUES
   - name: remastered/menu/sp/itemshop.2ld/SP_itemshop_2ld1.png
     method: copy
     package: kh2_fifth
