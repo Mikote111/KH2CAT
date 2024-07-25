@@ -351,6 +351,16 @@ assets:
     package: kh2_first
     source:
     - name: remastered/field2d/sp/tt0command.2dd/SP_tt0command_2dd0.png
+  - name: remastered/field2d/sp/tt3command.2dd/SP_tt3command_2dd0.png
+    method: copy
+    package: kh2_first
+    source:
+    - name: remastered/field2d/sp/tt3command.2dd/SP_tt3command_2dd0.png
+  - name: remastered/field2d/sp/tt4command.2dd/SP_tt4command_2dd0.png
+    method: copy
+    package: kh2_first
+    source:
+    - name: remastered/field2d/sp/tt4command.2dd/SP_tt4command_2dd0.png
   - name: remastered/field2d/sp/al0command.2dd/SP_al0command_2dd0.png
     method: copy
     package: kh2_fifth
@@ -366,6 +376,11 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/field2d/sp/ca0command.2dd/SP_ca0command_2dd0.png
+  - name: remastered/field2d/sp/dc0command.2dd/SP_dc0command_2dd0.png
+    method: copy
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/sp/dc0command.2dd/SP_dc0command_2dd0.png
   - name: field2d/sp/wi0command.2dd
     method: copy
     package: kh2_fifth
