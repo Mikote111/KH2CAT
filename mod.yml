@@ -127,7 +127,7 @@ assets:
     package: kh2_first
     source:
     - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
-  - name: remastered/menu/sp/title.2ld/SP_title_2l11.png
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld11.png
     method: copy
     package: kh2_first
     source:
