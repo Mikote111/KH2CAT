@@ -1,0 +1,1371 @@
+﻿- id: 4661
+  text: El Pooh serà a casa?
+- id: 4662
+  text: Ah!
+- id: 4663
+  text: >-
+    Hola, os Pooh! Com estàs?
+
+    Trobes molta mel últimament?
+- id: 4664
+  text: >-
+    Oh, sí.{:delay 4E 00}{:clear }De fet, era a punt de fer la
+
+    meva gimnàstica per a la panxeta.{:delay 1A 01}{:clear }Vols acompanyar-m'hi, Sora?
+- id: 4665
+  text: És clar! M'hi apunto!
+- id: 4666
+  text: Eh?
+- id: 4667
+  text: Pooh!
+- id: 4668
+  text: >-
+    Com m'alegra que estiguis bé,
+
+    Pooh!
+- id: 4669
+  text: >-
+    I jo m'alegro de la teva visita.{:delay 90 00}{:clear }Però ara anava a fer la meva
+
+    gimnàstica per a la panxeta.{:delay EA 00}{:clear }Si vols ens veiem després,
+
+    qualcú que no conec.
+- id: 4670
+  text: Ah... és clar.
+- id: 4671
+  text: Bé, com li va al Piglet?
+- id: 4672
+  text: >-
+    No conec a ningú
+
+    amb aquell nom.{:delay 9C 00}{:clear }A veure, per on anava jo?
+
+    Ai, sí. La meva gimnàstica.
+- id: 4673
+  text: Pooh?
+- id: 4674
+  text: Ei, Pooh?
+- id: 4675
+  text: >-
+    Aquí passa alguna cosa molt rara.{:delay 8A 00}{:clear }{:delay 56 00}Serà millor que torni
+
+    per preguntar-hi al Merlí.
+- id: 4676
+  text: Digue'm... què passa, fill?
+- id: 4677
+  text: >-
+    Oh... només estava pensant...
+
+    i meditant.
+- id: 4678
+  text: Hauries de sortir disparat d'aquí.
+- id: 4679
+  text: Per què?
+- id: 4680
+  text: >-
+    Per què? Perquè és
+
+    el Dia del Vent, és clar.
+- id: 4681
+  text: >-
+    De dedò? Oh... Aleshores...
+
+    Feliç Dia del Vent!
+- id: 4682
+  text: >-
+    Vaja, crec que li aniré a desitjar
+
+    a tot el món un feliç Dia del Vent.
+- id: 4683
+  text: >-
+    Oh, quina llauna!
+
+    I qui serà "tot el món"?
+- id: 4684
+  text: Ai!
+- id: 4685
+  text: Serà el Pooh per aquí?
+- id: 4686
+  text: >-
+    Ah!!! Socors! Socors!
+
+    Que algú em-em-em salvi!
+- id: 4687
+  text: Piglet!
+- id: 4688
+  text: Sora! Ajuda'm! Si us plau!
+- id: 4689
+  text: Aguanta, petitot!
+- id: 4690
+  text: '{:unk13 2C 01 50 00}{:unk06 00}{:unk08 01 00 05}Ja no hi ha perill!'
+- id: 4691
+  text: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Menys mal!
+
+    Gràcies, Sora.
+- id: 4692
+  text: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Oh, allà ve
+
+    l'os Pooh.
+- id: 4693
+  text: '{:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}Pooh! Estàs bé!'
+- id: 4694
+  text: >-
+    {:unk13 4A 01 3C 00}{:unk06 00}{:unk08 01 01 05}Vaja, hola.
+
+    Encantat de conèixer-te.{:clear }{:delay 1E 00}Feliç Dia del Vent.
+- id: 4695
+  text: >-
+    {:unk13 B2 00 03 01}{:unk06 02}{:unk08 01 01 06}Encantat de co-conèixer-me?
+
+    Però, Pooh. Si soc jo, el Piglet.{:clear }{:delay 1E 00}No et recordes de mi?
+- id: 4696
+  text: '{:unk13 4A 01 3C 00}{:unk06 00}{:unk08 01 00 05}I de mi? Som amics!'
+- id: 4697
+  text: >-
+    {:unk13 4A 01 46 00}{:unk06 00}{:unk08 01 01 05}De debò? Mmm...
+
+    Ho sento, no me'n recordo.
+- id: 4698
+  text: >-
+    {:unk13 96 00 82 00}{:unk06 00}{:unk08 01 00 06}Oh, Pooh...
+
+    Això és mo-molt trist!
+- id: 4699
+  text: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Adeu, Sora!
+
+    Adeu, Pooh!
+- id: 4700
+  text: '{:unk13 2C 01 C8 00}{:unk06 00}{:unk08 01 00 04}Piglet...'
+- id: 4701
+  text: >-
+    {:unk13 5E 01 E6 00}{:unk06 00}{:unk08 01 00 05}Ai, mare. Això és
+
+    bastant rar, no?
+- id: 4702
+  text: >-
+    {:unk13 57 01 DE 00}{:unk06 00}{:unk08 01 00 05}Sembla que estem
+
+    en problemes seriosos!
+- id: 4703
+  text: Salta, Piglet! Jo t'agafo!
+- id: 4704
+  text: Ai, m-m-mare!
+- id: 4705
+  text: >-
+    Tu pots, Piglet!
+
+    Només has de ser valent!
+- id: 4706
+  text: Sora...
+- id: 4707
+  text: Està bé, S-Sora. Ho intentaré...
+- id: 4708
+  text: >-
+    Allò fa bastanta por.
+
+    Espero que estiguis bé, Piglet.
+- id: 4709
+  text: Oh, Pooh,{:delay 60 00}{:clear }t'has recordat del meu nom?{:delay 78 00}{:clear }De veritat que te n'has recordat?
+- id: 4710
+  text: >-
+    Doncs és clar, Piglet.{:delay 7D 00}{:clear }Però penso que avui et dire
+
+    "el meu amic Piglet el valent".
+- id: 4711
+  text: >-
+    Jo? Valent?{:delay 7A 00}{:clear }És fàcil ser-ne quan tens un amic
+
+    tan meravellós com tu, Pooh.
+- id: 4712
+  text: Me n'alegro per vosaltres!
+- id: 4713
+  text: >-
+    Ah, i gràcies per rescatar
+
+    el meu amic Piglet...{:delay A8 00}{:clear }qualcú que no conec.
+- id: 4714
+  text: Ah, eh... és clar. De res.
+- id: 4715
+  text: Oh, ma-ma-ma-mare!
+- id: 4716
+  text: Som-hi!
+- id: 4717
+  text: Igor! Pooh! Esteu bé?
+- id: 4718
+  text: >-
+    Vaja! Quina pena, Igor!
+
+    Després de tanta feina...
+- id: 4719
+  text: >-
+    No importa. Segur que s'hauria
+
+    caigut de totes maneres.
+- id: 4720
+  text: >-
+    Bé, jo t'ajudaré a arreglar
+
+    casa teva, Igor.
+- id: 4721
+  text: >-
+    Ah, hola, Piglet.{:delay A9 00}{:clear }Gràcies per oferir-t'hi, però no vull
+
+    carregar-me el teu dia de diversió.
+- id: 4722
+  text: Hola, Piglet.
+- id: 4723
+  text: I hola, qualcú que no conec.
+- id: 4724
+  text: >-
+    Pooh, aquest és l'Igor.
+
+    Coneixes l'Igor, oi?
+- id: 4725
+  text: Mmm... El coneixo?
+- id: 4726
+  text: Em pregunto què li haurà passat.
+- id: 4727
+  text: >-
+    Ah, tinc una idea!{:delay 7E 00}{:clear }Potser al Pooh li fa tant mal
+
+    a la panxeta que s'oblida de les coses.{:delay F6 00}{:clear }Si le portem mel,
+
+    segur que se'n recordarà.
+- id: 4728
+  text: >-
+    Doncs... Eh...
+
+    No perdem res per provar.
+- id: 4729
+  text: Pot ser que funcioni. O potser no.
+- id: 4730
+  text: >-
+    Primer s'ha de trobar
+
+    una mica de mel.
+- id: 4731
+  text: >-
+    Si el que busqueu és mel,
+
+    conec el lloc perfecte.{:delay 18 01}{:clear }Seguiu-me.
+- id: 4732
+  text: Simplement estupend!
+- id: 4733
+  text: Aquest és el lloc de què us parlava.
+- id: 4734
+  text: Vaja! Mireu!
+- id: 4735
+  text: Què bo per a la meva panxeta!
+- id: 4736
+  text: Però, de qui deu ser tota aquesta mel?
+- id: 4737
+  text: '{:unk13 FA 00 4A 01}{:unk06 02}{:unk08 01 00 00}Oh, no!'
+- id: 4738
+  text: '{:unk13 FA 00 4A 01}{:unk06 02}{:unk08 01 00 00}La meva mel!'
+- id: 4739
+  text: >-
+    {:unk13 04 01 4A 01}{:unk06 01}{:unk08 01 00 00}Pooh, t'has menjat
+
+    tota la meva mel!?
+- id: 4740
+  text: >-
+    {:unk13 73 01 70 00}{:unk06 00}{:unk08 01 00 06}Ei, hola.
+
+    Encantat de conèixer-te.
+- id: 4741
+  text: '{:unk13 04 01 4A 01}{:unk06 00}{:unk08 01 00 00}Què has dit?'
+- id: 4742
+  text: '{:unk13 73 01 70 00}{:unk06 00}{:unk08 01 00 06}Allò és per a mi també?'
+- id: 4743
+  text: >-
+    {:unk13 9A 00 58 00}{:unk06 00}{:unk08 01 01 05}Vaja, creia haver-li
+
+    trobat un lloc segur...
+- id: 4744
+  text: >-
+    {:unk13 4F 01 41 00}{:unk06 00}{:unk08 01 00 06}Ho sento. És culpa nostra.
+
+    Nosaltres va dur el Pooh aquí.
+- id: 4745
+  text: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Eh, hola, Sora...
+
+    Què bé tornar-te a veure.
+- id: 4746
+  text: >-
+    {:unk13 7C 01 46 00}{:unk06 00}{:unk08 01 00 05}Igualment...
+
+    De debò, disculpa'ns.
+- id: 4747
+  text: >-
+    {:unk13 9C 00 43 00}{:unk06 00}{:unk08 01 01 05}Està bé. Ja sé que
+
+    quan al Pooh li agafa
+
+    gana res l'atura.
+- id: 4748
+  text: >-
+    {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 01 06}Disculpa, qualcú que no
+
+    conec. En queda una mica més?
+- id: 4749
+  text: >-
+    {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 01 06}Et trobes bé,
+
+    Pooh?
+- id: 4750
+  text: >-
+    {:unk13 4A 01 46 00}{:unk06 00}{:unk08 01 01 06}De debò t'has oblidat
+
+    de mi completament?
+
+    Qué diables està passant?
+- id: 4751
+  text: >-
+    {:unk13 FF 00 64 00}{:unk06 00}{:unk08 01 01 06}Hi ha una mica més de mel?
+
+    Em fa soroll la panxeta.
+- id: 4752
+  text: >-
+    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 01 06}És això! Té tanta gana
+
+    que no pot recordar res!
+- id: 4753
+  text: >-
+    {:unk13 52 01 38 01}{:unk06 00}{:unk08 01 00 04}Vaja, nosaltres també
+
+    ho pensem!
+- id: 4754
+  text: >-
+    {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 01 06}Doncs donem-li
+
+    tota la mel que vulgui!
+- id: 4755
+  text: >-
+    {:unk13 EB 00 B4 00}{:unk06 00}{:unk08 01 00 06}Jo no
+
+    n'esperaria molt.
+- id: 4756
+  text: >-
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 00 05}Pensava que el Pooh s'havia
+
+    menjat tota la teva mel, Conill...
+- id: 4757
+  text: >-
+    {:unk13 2C 01 50 00}{:unk06 00}{:unk08 01 01 06}No, en tinc més.{:clear }Sempre guardo racions
+
+    d'emergència. Però les amago.
+- id: 4758
+  text: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Carai, quina situació...'
+- id: 4759
+  text: >-
+    Vinga, Pooh.
+
+    menja't tota la que vulguis.
+- id: 4760
+  text: Vaja, gràcies!
+- id: 4761
+  text: >-
+    Perdona'm, amable desconegut,{:delay 6F 00}{:clear }però, no sabràs on puc trobar
+
+    un parell de potets més de mel?
+- id: 4762
+  text: >-
+    Crec que la meva panxeta em diu que
+
+    allà dins hi ha una mica més de mel.
+- id: 4763
+  text: Estic atrapado!
+- id: 4764
+  text: >-
+    Ahh... Segueix sense recordar-se'n.{:delay 85 00}{:clear }Es pot saber què
+
+    li ha picat a l'os Pooh?
+- id: 4765
+  text: >-
+    Sigui el que sigui,
+
+    més val que l'ajudem.
+- id: 4766
+  text: Sí, i ràpid!
+- id: 4767
+  text: Ah, quina llauna més llaunosa!
+- id: 4768
+  text: Una,{:delay 46 00}{:clear }dues,{:delay 46 00}{:clear }tres!
+- id: 4769
+  text: Tot arreglat, Pooh.
+- id: 4770
+  text: >-
+    Si fos tu no n'estaria tan segur.{:delay B6 00}{:clear }Però mira'l, no es recorda ni
+
+    de qui soc jo.{:delay 26 01}{:clear }Potser és per aquest vent
+
+    tan fort.{:delay A2 00}{:clear }O pot ser que necessiti més mel.{:delay 99 00}{:clear }O que estigui sonàmbul i vagi somiant...
+- id: 4771
+  text: >-
+    Doncs si estic somiant...
+
+    cosa que suposo que podria ser,{:delay 18 01}{:clear }espero arribar aviat a la part{:delay 73 00}{:clear }en la que em tornes a convidar
+
+    a menjar, Conill.
+- id: 4772
+  text: >-
+    És veritat!
+
+    Tu sempre vens a menjar!{:delay C4 00}{:clear }Espera! Pooh!{:delay 58 00}{:clear }M'has dit Conill!
+- id: 4773
+  text: Doncs és clar, Conill!
+- id: 4774
+  text: Què me'n dius de l'Igor?{:delay 58 00}{:clear }També et recordes de l'Igor, Pooh?
+- id: 4775
+  text: Ah, com va, Igor?{:delay 8E 00}{:clear }M'alegro molt de veure't.
+- id: 4776
+  text: Gràcies per reparar en mi, Pooh.
+- id: 4777
+  text: >-
+    Hola a tu també, 
+
+    qualcú que no conec.
+- id: 4778
+  text: >-
+    Bé, almenys ja et recordes
+
+    del Conill i l'Igor.
+- id: 4779
+  text: Hola!
+- id: 4780
+  text: Vaja, hola, Sora.
+- id: 4781
+  text: >-
+    Sí, com va,
+
+    qualcú que no conec?
+- id: 4782
+  text: >-
+    L'Igor m'ha dit que el Pooh
+
+    no es trobava molt bé{:delay B4 00}{:clear }i he pensat que el pobre
+
+    podria necessitar això.
+- id: 4783
+  text: >-
+    Espero que amb això
+
+    Pooh es millori!
+- id: 4784
+  text: >-
+    Un regal! Per a mi?{:delay 99 00}{:clear }Els regals són el que més
+
+    li agrada als tiggers!{:delay 7B 00}{:clear }I ni tant sols és el meu aniversari!
+
+    Ju, ju, ju!
+- id: 4785
+  text: Però Tigger! No és per a tu!
+- id: 4786
+  text: Espera, Tigger!
+- id: 4787
+  text: Ai, mare!
+- id: 4788
+  text: Vinga! Anem a per ell!
+- id: 4789
+  text: >-
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 05}¿¡Quieres decir que Pooh
+
+    se ha olvidado incluso de mí!?
+- id: 4790
+  text: '{:unk13 7C 01 04 01}{:unk06 00}{:unk08 01 00 05}Sí, Tigger.'
+- id: 4791
+  text: >-
+    {:unk13 C5 00 46 00}{:unk06 00}{:unk08 01 01 07}La ampolla que tu vas confondre
+
+    amb un regal era una medicina
+
+    per curar el Pooh.
+- id: 4792
+  text: >-
+    {:unk13 BE 00 55 00}{:unk06 00}{:unk08 01 01 05}Eh, qui necessita medicines!?
+
+    Fer uns "tiggerífics" bots
+
+    segur que li retorna la memòria!
+- id: 4793
+  text: '{:unk13 FA 00 69 00}{:unk06 00}{:unk08 01 01 05}I bé, Pooh?'
+- id: 4794
+  text: >-
+    {:unk13 AA 00 64 00}{:unk06 00}{:unk08 01 00 05}Allò sona divertit,
+
+    qualcú que no conec.
+- id: 4795
+  text: >-
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}Res, eh? Mmm...{:clear }Ah! Ja! Hem de fer bots tots
+
+    junts! Això ho deu solucionar!
+- id: 4796
+  text: >-
+    {:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Algú necessita una...{:clear }lecció sobre com fer bots?
+
+    Doncs aquella és la meva especialitat.
+- id: 4797
+  text: >-
+    Ju, ju! A que ja et recordes de mi?
+
+    Oi que sí, osset?
+- id: 4798
+  text: >-
+    Bé, recordo que fer bots
+
+    sempre em fa entrar gana.
+- id: 4799
+  text: >-
+    Amb tants bots i segueix
+
+    sense recordar-se'n?
+- id: 4800
+  text: Si us plau, ves amb compte amb allò.
+- id: 4801
+  text: >-
+    Ah... Ho sento, Piglet...{:delay 5A 00}{:clear }però com el Pooh no es recordava de mi,
+
+    m'he quedat del tot "confusat".{:delay BD 00}{:clear }No tinc ganes de fer bots.
+- id: 4802
+  text: >-
+    Però, Tigger,{:delay 30 00}{:clear }sempre havia pensat que fer bots és
+
+    el que millor saben fer els tiggers.
+- id: 4803
+  text: >-
+    Pooh!{:delay 64 00}{:clear }Te'n recordes!{:delay 76 00}{:clear }Al final t'has recordat
+
+    del teu vell amic Tigger!
+- id: 4804
+  text: Em pregunto qui deu ser.
+- id: 4805
+  text: >-
+    Ah, bé...
+
+    Potser me'n recordo demà.
+- id: 4806
+  text: '{:unk13 E6 00 50 00}{:unk06 00}{:unk08 01 01 06}Hola a tots...'
+- id: 4807
+  text: '{:unk13 E6 00 50 00}{:unk06 00}{:unk08 01 01 06}Oh, oh... On és el Pooh?'
+- id: 4808
+  text: '{:unk13 04 01 5D 01}{:unk06 00}{:unk08 01 01 01}Ha entrat allà.'
+- id: 4809
+  text: >-
+    {:unk13 E9 00 7F 00}{:unk06 00}{:unk08 01 00 04}Creieu que hi haurà un
+
+    monstre amagat allà dins?
+- id: 4810
+  text: >-
+    {:unk13 DC 00 6B 00}{:unk06 00}{:unk08 01 00 05}Un monstre... Carai.{:clear }Això em recorda quan el meu
+
+    estimat cosí Alfons...
+- id: 4811
+  text: >-
+    {:unk13 32 01 86 00}{:unk06 00}{:unk08 01 00 06}Ei. I què hi feu
+
+    tots parats?{:clear }Si de debò us preocupa l'os
+
+    Pooh, anem a buscar-lo!
+- id: 4812
+  text: >-
+    {:unk13 4A 01 6E 00}{:unk06 00}{:unk08 01 01 05}Això és just el que
+
+    estava pensant!
+- id: 4813
+  text: '{:unk13 36 01 36 01}{:unk06 00}{:unk08 01 01 07}Sí, som-hi!'
+- id: 4814
+  text: >-
+    {:unk13 04 01 82 00}{:unk06 00}{:unk08 01 00 04}Però si realment hi ha un monstre,
+
+    serà millor prendre-hi precaucions.
+- id: 4815
+  text: >-
+    {:unk13 F0 00 46 00}{:unk06 00}{:unk08 01 00 05}Sembla que tenim
+
+    una mica de temps.{:clear }Per què no segueixo
+
+    des d'on ho vaig deixar?{:clear }El meu cosí, o sigui, el fill
+
+    de la germana menor del meu...
+- id: 4816
+  text: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Sora, tu què creus que
+
+    hem de fer?
+- id: 4817
+  text: "{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Bé, no tenim per què alterar-nos...{:clear }No hi heu d'anar, si no voleu.{:clear }Però... abans de partir..."
+- id: 4818
+  text: Pooh! Ets aquí!
+- id: 4819
+  text: Ei! T'hem estat buscant!
+- id: 4820
+  text: >-
+    Estava buscant un amic
+
+    molt estimat{:delay 91 00}{:clear }a qui recordo que li vaig fer
+
+    una promesa molt important.
+- id: 4821
+  text: I l'has trobat?
+- id: 4822
+  text: >-
+    No. He buscat i buscat, però
+
+    no sembla ser per enlloc.
+- id: 4823
+  text: Ah, Pooh! O sigui que ets aquí!
+- id: 4824
+  text: >-
+    Però Tigger... havies de fer-me
+
+    aquell bot tan boter?
+- id: 4825
+  text: >-
+    Vaja! Creia que t'havia
+
+    atrapat un monstre.
+- id: 4826
+  text: >-
+    Ai, mare!{:delay 67 00}{:clear }No hi havia pensat.{:delay A0 00}{:clear }Espero que un monstre no
+
+    s'hagi cruspit el meu amic!
+- id: 4827
+  text: Intenta recordar-te'n, Pooh.{:delay 79 00}{:clear }No és el Sora qui busques?
+- id: 4828
+  text: Oohh! El monstre!
+- id: 4829
+  text: >-
+    No, són els sorolls de la teva panxeta.{:delay AA 00}{:clear }Deus estar afamat.{:delay 7E 00}{:clear }Anem a casa, a veure si et
+
+    trobem una mica de mel.
+- id: 4830
+  text: Allò m'agradaria, Sora.
+- id: 4831
+  text: Pooh! Per fi te n'has recordat!
+- id: 4832
+  text: M'he recordat de què, Sora?
+- id: 4833
+  text: Pooh...
+- id: 4834
+  text: M'encanta quan estàs alegre, Sora.
+- id: 4835
+  text: I a mi, Pooh.
+- id: 4836
+  text: Oohh... la panxeta m'està sonant.
+- id: 4837
+  text: Molt bé! Anem a casa doncs!
+- id: 4838
+  text: '{:unk13 A1 00 5A 00}{:unk06 02}{:unk08 03 00 05}Ai, mare!'
+- id: 4839
+  text: '{:unk13 7B 00 7B 00}{:unk06 02}{:unk08 03 00 05}Estàs bé?'
+- id: 4840
+  text: "{:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}Sora? Ets tu?{:clear }Ajuda'm!"
+- id: 4841
+  text: >-
+    {:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Sí. Ja he viscut aquesta
+
+    situació abans. Sé el
+
+    que s'ha de fer.{:clear }Escolteu-me bé...
+- id: 4842
+  text: Què estaves fent aquí?
+- id: 4843
+  text: >-
+    Estava pensant...{:delay 5A 00}{:clear }Potser hi ha una manera
+
+    de fer que no te'n vagis.
+- id: 4844
+  text: Vols dir perquè em quedi?
+- id: 4845
+  text: >-
+    Sí.{:delay 57 00}{:clear }Hi haurà alguna manera possible
+
+    de fer que no te'n tornis a anar?
+- id: 4846
+  text: Pooh...
+- id: 4847
+  text: >-
+    No et preocupis...{:delay 28 00}{:clear }{:delay 48 00}{:clear }Prometo que tornaré a
+
+    visitar-te de tant en tant.
+- id: 4848
+  text: >-
+    I no podria ser
+
+    "d'ara en ara"?{:delay D9 00}{:clear }Això em sembla una mica millor.{:delay B8 00}{:clear }Sora, si vaig a buscar-te,
+
+    et trobaré?
+- id: 4849
+  text: >-
+    Jo sempre seré amb tu... aquí.{:delay C8 00}{:clear }No fa falta que vagis enlloc.{:delay 78 00}{:clear }Tu queda't aquí i podràs
+
+    veure'm sempre que vulguis.
+- id: 4850
+  text: >-
+    Aleshores,
+
+    només haig de quedar-me aquí?
+- id: 4851
+  text: Sí, això és tot.
+- id: 4852
+  text: M'ho promets?
+- id: 4853
+  text: T'ho prometo!
+- id: 4854
+  text: Jo també t'ho prometo.
+- id: 4855
+  text: I el Ret i jo també.
+- id: 4856
+  text: Sens dubte!
+- id: 4857
+  text: >-
+    Vine a visitar-nos quan vulguis,
+
+    Sora.
+- id: 4858
+  text: Gràcies.
+- id: 4859
+  text: >-
+    A més, haig d'explicar-te les aventures
+
+    en el mar del meu tiet Albert.
+- id: 4860
+  text: Doncs t'hi quedaràs una bona estona.
+- id: 4862
+  text: Adeu, Sora.
+- id: 4863
+  text: Gràcies, Talp.
+- id: 4864
+  text: >-
+    Si alguna vegada et sents sol,{:delay 56 00}{:clear }comença a fer bots i pensa
+
+    en el teu amic Tigger!
+- id: 4865
+  text: Ho faré, Tigger!
+- id: 4866
+  text: Te'n vas?
+- id: 4867
+  text: Sí. Me n'haig d'anar.
+- id: 4868
+  text: >-
+    Bé, no em posaré trist,{:delay 95 00}{:clear }perquè tu sempre, sempre,
+
+    seràs aquí.{:delay AB 00}{:clear }Oi, Sora?
+- id: 4869
+  text: I tots vosaltres...{:delay 3F 00}{:clear }també sou aquí.
+- id: 4870
+  text: Adeu!
+- id: 4871
+  text: ''
+- id: 4872
+  text: ''
+- id: 4873
+  text: ''
+- id: 4874
+  text: ''
+- id: 4875
+  text: ''
+- id: 4876
+  text: ''
+- id: 4877
+  text: ''
+- id: 4878
+  text: ''
+- id: 4879
+  text: ''
+- id: 4880
+  text: ''
+- id: 4881
+  text: ''
+- id: 4882
+  text: ''
+- id: 4883
+  text: ''
+- id: 4884
+  text: ''
+- id: 4885
+  text: ''
+- id: 4886
+  text: ''
+- id: 4887
+  text: ''
+- id: 4888
+  text: ''
+- id: 4889
+  text: ''
+- id: 4890
+  text: ''
+- id: 4891
+  text: ''
+- id: 4892
+  text: ''
+- id: 4893
+  text: ''
+- id: 4894
+  text: ''
+- id: 4895
+  text: ''
+- id: 4896
+  text: ''
+- id: 4897
+  text: ''
+- id: 4898
+  text: ''
+- id: 4899
+  text: ''
+- id: 4900
+  text: ''
+- id: 4901
+  text: ''
+- id: 4902
+  text: ''
+- id: 4903
+  text: ''
+- id: 4904
+  text: ''
+- id: 4905
+  text: ''
+- id: 7896
+  text: >-
+    Aquesta és l'enèsima vegada
+
+    que veig el Pooh així!{:clear }Sora, no t'aturis.
+
+    Ves i treu-li aquell pot.
+- id: 7897
+  text: >-
+    Sora? Ets tu, Sora?
+
+    Socors!
+- id: 7898
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Estarà menjant mel?
+
+    {:chardelay 33 00}Deixa'l en pau.
+
+    {:chardelay 09 00}Ajudem-lo!
+- id: 7899
+  text: >-
+    Hola, qualcú que no conec.
+
+    Avui és un dia formós, no et sembla?
+- id: 7900
+  text: >-
+    Hola, Sora. Fa un día preciós.
+
+    Perfecte per menjar mel!{:clear }I per fer exercici.
+
+    Avui també podríem jugar!
+- id: 7901
+  text: >-
+    En realitat, encara queda mel,
+
+    però jo no hi arribo.
+- id: 7902
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Passar-li la mel?
+
+    {:chardelay 33 00}Potser jo tampoc hi arribo.
+
+    {:chardelay 09 00}Jo me n'encarrego!
+- id: 7903
+  text: >-
+    No és fàcil recollir mel
+
+    a les esquenes del Pooh.{:clear }Però en veure'l tan feliç,
+
+    em dic: "tant és!".
+- id: 7904
+  text: >-
+    Si puc menjar mel,
+
+    et seguiré on sigui.{:clear }Però promet-me que m'ajudaràs si em
+
+    fico en embolics, qualcú que no conec.
+- id: 7905
+  text: >-
+    Al Pooh li fan por les abelles. Intenta
+
+    evitar que es fiqui en un rusc.{:clear }Manten-te al seu costat i no
+
+    deixis que se n'allunyi massa.
+- id: 7906
+  text: >-
+    Vinga, segueix-me.{:clear }Passa a davant, si vols.
+
+    Jo vaig molt a poc a poc.
+- id: 7907
+  text: >-
+    Sembla que el Talp s'ha avançat
+
+    per fer alguns preparatius.{:clear }Algun dia, ell ens
+
+    protegirà a tots.
+- id: 7908
+  text: >-
+    Avui construiré una casa! Tot i que estic
+
+    segur que alguna cosa sortirà malament.
+- id: 7909
+  text: >-
+    No facis cap ximpleria
+
+    mentre reculls la mel.{:clear }Pots anar a per mel totes les vegades
+
+    que vulguis, però escull-hi un camí segur.
+- id: 7910
+  text: >-
+    Mira aquella persona flotant per allà.
+
+    Deu ser molt divertit!
+- id: 7911
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}S'estarà divertint?
+
+    {:chardelay 33 00}Sí, quina enveja!
+
+    {:chardelay 09 00}Está ballant-la! L'hem d'ajudar!
+- id: 7912
+  text: >-
+    M'alegro que el Pooh
+
+    s'hagi recordat de mi.{:clear }És horrible que un amic a qui
+
+    estimes tant t'oblidi completament.
+- id: 7913
+  text: >-
+    Esquiva i trenca les coses
+
+    que volen cap a tu.{:clear }Algunes coses no es trenquen fàcilment
+
+    i hauràs de provar-hi una altra cosa.
+- id: 7914
+  text: >-
+    Jo, jo! No tot es
+
+    soluciona fàcilment.{:clear }Si estàs encallat, pren-te el teu
+
+    temps per buscar-hi una solució.
+- id: 7915
+  text: >-
+    Si algú dels altres està en
+
+    problemes, ajuda'l, si us plau.{:clear }Jo ajudaré en tot el que pugui.
+- id: 7916
+  text: >-
+    Què feu tots aquí?
+
+    Passarà res especial?{:clear }Un concurs de mel, per ventura?
+
+    O una carrera?
+- id: 7917
+  text: >-
+    Sigui on sigui, el Tigger
+
+    sempre va fent bots.{:clear }Solíem fer-ho tots junts, però es
+
+    veu que el Pooh també l'ha oblidat.
+- id: 7918
+  text: >-
+    Si el Tigger parés
+
+    més atenció...{:clear }Això és terrible. Hem de
+
+    recuperar aquella medicina.
+- id: 7919
+  text: >-
+    Trepitja els globus.
+
+    En esclatar, t'enlairaran.{:clear }També pots parlar amb el Ret.
+
+    Ell coneix altres maneres de saltar.
+- id: 7920
+  text: >-
+    Has d'aturar el Tigger de
+
+    seguida o se la prendrà tota!
+- id: 7921
+  text: >-
+    El Tigger em va ensenyar
+
+    el secret de fer bots.{:clear }Si saltes de nou de seguida que
+
+    aterres, podràs fer un salt diferent!
+- id: 7923
+  text: >-
+    Encara no se'n recorda? És rar...{:clear }Ja sé! Fem bots tots junts!
+
+    Això li refrescarà la memòria!
+- id: 7924
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Fer bots?
+
+    {:chardelay 33 00}No puc.
+
+    {:chardelay 09 00}Provem-ho!
+- id: 7925
+  text: >-
+    Ju, ju, ju, ju!
+
+    Soc el millor del món fent bots.♩{:clear }Tant se val qui siguis, botar
+
+    solucionarà tots els teus problemes! ♩
+- id: 7927
+  text: >-
+    Vols dir que el Pooh
+
+    va venir sol a aquest lloc?{:clear }Bah, tant se val.
+
+    De pressa! Anem a buscar-lo!
+- id: 7928
+  text: >-
+    Aquest lloc és fosc i
+
+    sembla un laberint!{:clear }Si em perdo, em trobaràs, oi?
+
+    Compto amb tu!
+- id: 7929
+  text: >-
+    Per més que el busco,
+
+    no el trobo.{:clear }El terra és lliscant. Espero
+
+    no caure i perdre la meva cua.
+- id: 7930
+  text: >-
+    Puc sentir un brunzit d'ales.
+
+    Espero que no hi hagi abelles per aquí.{:clear }Sora, si ens ataquen les abelles,
+
+    ocupa-te'n, si us plau.
+- id: 7931
+  text: >-
+    Mmm...
+
+    Aquest lloc sembla perillós.{:clear }Molt bé, colla, estigueu alerta
+
+    mentre anem per aquí.
+- id: 7932
+  text: >-
+    No imaginava que aquí hi hagués
+
+    la mel que agrada al Pooh.{:clear }Les parets són dures, però cauen a trossos.
+
+    Compte amb les roques que cauen.
+- id: 7933
+  text: >-
+    Ei, Sora, potser hauríem
+
+    d'anar a buscar el Pooh.
+- id: 7934
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Anar a buscar a Pooh?
+
+    {:chardelay 33 00}Pensem-nos-ho dos cops.
+
+    {:chardelay 09 00}És clar que sí. Som-hi.
+- id: 13954
+  text: >-
+    A on em dus, amable
+
+    qualcú que no conec?{:clear }Sigui on sigui, espero
+
+    que hi hagi mel a dolls.
+- id: 13955
+  text: >-
+    A l'Igor sempre li
+
+    cau la cua.{:clear }Moltes vegades hem
+
+    d'ajudar-lo a buscar-la.
+- id: 13956
+  text: >-
+    Si saltes bé, pots
+
+    trepitjar els globus.{:clear }Quants més trepitgis, més alt arribaràs.
+
+    Qui sap què trobaràs allà dalt?
+- id: 13972
+  text: >-
+    Vols que faci bots amb aquell qualcú
+
+    que no conec? Trobaré res de mel?{:clear }Em sembla olorar una cosa
+
+    bona que ve del cel.
+- id: 16084
+  text: >-
+    Conec aquella veu. Ets tu, Sora, oi?
+
+    Estic encallat un altre cop! Ajuda'm!
+- id: 16085
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Sembla ser el Pooh.
+
+    {:chardelay 33 00}Mirem una mica més.
+
+    {:chardelay 09 00}Anem a ajudar-lo!
+- id: 16086
+  text: >-
+    Hola, Sora.
+
+    Vols aconseguir més mel?
+- id: 16087
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Anar a per una mica de mel?
+
+    {:chardelay 33 00}Ara no la necessito.
+
+    {:chardelay 09 00}Sí, som-hi!
+- id: 16088
+  text: >-
+    Avui sí que fa molt de vent. Si no
+
+    vas amb compte, pots sortir volant!
+- id: 16089
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Intentar anar-hi volant?
+
+    {:chardelay 33 00}Prefereixo anar-hi a peu.
+
+    {:chardelay 09 00}Volem!
+- id: 16090
+  text: >-
+    Ju, ju, ju, ju! Fer bots t'animarà!
+
+    Vinga, Sora, intenta-ho!
+- id: 16091
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Fer bots amb el Tigger?
+
+    {:chardelay 33 00}Ho sento, estic ocupat.
+
+    {:chardelay 09 00}Sí, vinga!
+- id: 16092
+  text: >-
+    Vull anar amb tots a fer-hi un cop d'ull.
+
+    Ajudaràs tu també, Sora?
+- id: 16093
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Anar a buscar-lo?
+
+    {:chardelay 33 00}Tinc coses a fer.
+
+    {:chardelay 09 00}És clar que sí!
+- id: 18087
+  text: >-
+    M'ho he passat molt bé flotant
+
+    per allà, qualcú que no conec.{:clear }Recordo haver flotat abans
+
+    en un globus...
+- id: 18088
+  text: >-
+    L'altre dia estava encantat
+
+    de tenir tota aquella mel.{:clear }Podríem anar-ne a buscar en una altra
+
+    ocasió, qualcú que no conec.
+- id: 18089
+  text: >-
+    Un cop, tots ens vam vestir com
+
+    el Tigger i ens vam posar a fer bots.{:clear }Si vols, un dia podem repetir-ho,
+
+    qualcú que no conec.
+- id: 18090
+  text: >-
+    És divertit fer bots
+
+    tots junts.{:clear }Però, no sé per qué, tots
+
+    cauen sempre a sobre de ma casa.
+- id: 18091
+  text: >-
+    Estic tan content que el Pooh
+
+    s'hagi recordat de tu, Sora.{:clear }Però em pregunto per què
+
+    no et recordava al principi.
+- id: 18092
+  text: >-
+    Si la pròxima vegada que ens veiem
+
+    ma casa està acabada, t'hi convidaré.{:clear }Tot i que dubto que l'acabi...
+- id: 18093
+  text: >-
+    Hi ha altres amics en el
+
+    Bosc dels Cent Acres.{:clear }Pero no els he vist últimament.
+
+    Espero que tots estiguin bé.
+- id: 18094
+  text: >-
+    Pot ser que al Tigger li agradi fer bots,
+
+    però li fan por les altures.{:clear }Pot ser que soni contradictori, però,
+
+    no és contradictori el món, per ventura? Jo, jo!
+- id: 18095
+  text: >-
+    M'alleujar que el Pooh hagi
+
+    recobrat la memèria.{:clear }Volia cantar per celebrar-ho, però no
+
+    sé per què els altres no m'han deixat.
+- id: 18096
+  text: >-
+    Els dies de gandulejar, com avui,
+
+    són els millors.{:clear }Els dies de tempesta, l'arbre on hi tinc el
+
+    meu niu cruix tant que no puc ni pensar-hi!
+- id: 18097
+  text: >-
+    Mmm... Què faré si esclata el
+
+    globus mentre estic recollint mel?{:clear }No et preocupis! Soc tan fort
+
+    que una cosa així no m'aturaria!
+- id: 18098
+  text: >-
+    El Piglet pot semblar un caguetes, però
+
+    quan es compromet amb alguna cosa, compleix!{:clear }Em va sorprendre que entrés a buscar el Pooh
+
+    per un forat que fins i tot a mi m'esglaiava!
+- id: 18099
+  text: >-
+    El meu somni és construir
+
+    el túnel suprem.{:clear }Si alguna vegada arribo a fer-lo
+
+    realitat, t'hi enviaré una invitació, Sora!
+- id: 18100
+  text: >-
+    El Duc mai es queda sense paraules.
+
+    A vegades també diu coses molt estranyes!
+- id: 18101
+  text: >-
+    El Tigger m'ensenyarà un
+
+    nou salt ben súper!{:clear }Es diu el "molta revolta
+
+    revoladora" o una cosa així!
+- id: 18102
+  text: >-
+    Explorar pot fer una mica de por,
+
+    però és molt divertit!{:clear }Tots estan sempre buscant amorets
+
+    o coses així, i jo també hi vull anar!
+- id: 18103
+  text: >-
+    L'altre dia, quan estava explorant
+
+    jo sol, vaig conèixer un nou amic.{:clear }És divertit tenir amics.
+- id: 18104
+  text: >-
+    Si el Pooh no està bé,
+
+    tots ho passem malament.{:clear }Som un grup molt unit i
+
+    volem que tots estiguin bé.
+- id: 18324
+  text: Des d'aquest arbre, es veu tot el turó.
+- id: 18325
+  text: >-
+    Segur que des d'aquí la
+
+    lluna es veu molt bé.
+- id: 18326
+  text: >-
+    Deu voler dir:
+
+    "Toca la campana".
+- id: 18327
+  text: Veus una bonica cortina.
+- id: 18328
+  text: Perceps el dolç aroma de la mel.
+- id: 18329
+  text: 'Hi hauria de dir: "Pastanaga".'
+- id: 18330
+  text: 'Han volgut posar: "Cabdell".'
+- id: 18331
+  text: 'Sembla ser que hi diu: "Carbassa".'
+- id: 18332
+  text: Aquesta és l'entrada a la casa del Conill.
+- id: 18333
+  text: "En aquesta bústia s'hi llegeix: \"Conill\"."
+- id: 18334
+  text: Roba estesa a eixugar.
+- id: 18335
+  text: És molt gran per pescar.
+- id: 18336
+  text: 'En aquesta bústia hi posa: "Piglet".'
+- id: 18337
+  text: Només el Piglet podria passar per aquesta porta.
+- id: 18338
+  text: Deu ser el nom de l'avi del Piglet.
+- id: 18339
+  text: "En aquestes bústies s'hi llegeix: \"Cangu\" i \"Ret\"."
+- id: 18340
+  text: 'En aquesta bústia hi posa: "Cangu".'
+- id: 18521
+  text: >-
+    {:unk13 64 01 DA 00}{:unk06 00}{:unk08 01 01 05}Què divertit!
+
+    Ho fem un altre cop?
+- id: 18522
+  text: >-
+    {:unk13 CD 00 5A 00}{:unk06 00}{:unk08 01 01 06}Si el Pooh menja d'aquella manera,
+
+    haurem de trobar més mel!
+- id: 18523
+  text: >-
+    {:unk13 2E 01 3F 00}{:unk06 00}{:unk08 01 01 05}Carai, els teus bots podrien ser
+
+    més "boters".
+- id: 18524
+  text: "{:unk13 37 01 83 00}{:unk06 00}{:unk08 01 00 05}On s'ha ficat l'os...?"
+- id: 18525
+  text: '{:unk13 9B 01 69 00}{:unk06 00}{:unk08 01 00 05}Genial...'
+- id: 18722
+  text: Colpejar
+- id: 18723
+  text: Accelerar
+- id: 18996
+  text: "{:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Sora? Ets tu?{:clear }Ajuda'm!"
+- id: 19374
+  text: >-
+    {:unk13 67 01 DC 00}{:unk06 00}{:unk08 01 01 05}Sembla que som
+
+    en greus problemes!{:clear }Sora, t'importaria
+
+    ocupar-te del pobre Piglet?
+- id: 19396
+  text: >-
+    Doncs suposo que fer bots
+
+    no és la solució.{:delay B8 00}{:clear }Gairebé m'entren ganes de no
+
+    tornar a fer bots mai més.
+- id: 19754
+  text: Bosc dels Cent Acres
+- id: 19888
+  text: '{:delay B4 00}És genial!{:delay 4E 00}{:clear }'
+- id: 21520
+  text: "{:delayandfade 07 78} \nEn Sora salva el Piglet, però no sembla\nque el Pooh tingui ni la més remota\nidea de qui és el seu amic!\n \nDesconcertat i afligit per la\nmala memòria del Pooh, poc més\nhi pot dir, puix una forta\nráfega de vent torna a endur-se'l\nenlaire.\n \n"
+- id: 21521
+  text: "{:delayandfade 0A 78} \nQuan el Pooh ja comença a acabar-se\nla mel, el Conill apareix clarament\nairejat, puix havia treballat molt\nper reunir tota aquella mel.\n \nTot canvia però, quan veu com\nd'estrany es comporta  el Pooh,\naixí que suggereix donar-li\nencara més mel. Pot ser que el Pooh\nes recuperi si té la panxeta ben plena!\n \n"
+- id: 21522
+  text: "{:delayandfade 0A 78} \nEl Tigger està convençut que\nel Pooh recuperarà la memòria\nsi tots es posen a saltar amb\nalegria.\n \nAl Sora, el Donald i el Goofy\nels sembla una bona idea i,\nsense dubtar-ne, s'apunten\nal festival de salts.\n \n"
+- id: 21523
+  text: "{:delayandfade 0A 78} \nEl Pooh s'ha endinsat sol en\nuna cova. Ai, aquest Pooh!\n \nAquell és un lloc molt perillós,\naixí que el Sora i els seus amics no\ns'ho pensen i surten a buscar-lo.\n \n \n"
+- id: 21524
+  text: "{:delayandfade 08 78} \nEn arribar al Turó de les estrelles,\nel Sora es troba el Pooh amb\nel caparró encallat en un gran\npot de mel.\n \nTot i que al principi el Sora no està\nmolt segur de si hauria d'intervenir,\nacaba donant un cop de mà a l'apurat\ndel Pooh.\n \n"

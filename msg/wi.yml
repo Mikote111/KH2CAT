@@ -1,0 +1,961 @@
+﻿- id: 5517
+  text: >-
+    Acabo de veure passar el Pete, i
+
+    després l'altre Pete perseguint-lo!{:clear }Què passa aquí!?
+- id: 5518
+  text: >-
+    Trobaràs el Pete en el {:theme 0A}moll{:reset}.{:clear }Si no és allà, segur que ha sortit amb
+
+    el seu vaixell. És el seu gran orgull!
+- id: 5519
+  text: >-
+    Què és això? Sembla una finestra,
+
+    però té una estranya marca...{:clear }M'agradaria fer-hi un cop d'ull,
+
+    tot i que fa una mica de por.
+- id: 5520
+  text: >-
+    Ai, em fa mal el cap...
+
+    Per què m'heu atacat així?{:clear }Si n'esteu penedits, afanyeu-vos i
+
+    atrapeu el tipus que ha robat el meu vaixell!
+- id: 5521
+  text: >-
+    Hi ha un quarto a l'altre costat
+
+    d'aquella finestra, i això no és tot.{:clear }Estan llençant fora els mobles.
+
+    Aviat només serà un quarto buit.
+- id: 5522
+  text: Mireu! La Pedra Angular és allà!
+- id: 5523
+  text: >-
+    Què passa?
+
+    Tot és en blanc i negre.
+- id: 5524
+  text: >-
+    Eh, això sembla com...
+
+    Ah... Mm... Ehhh...
+- id: 5525
+  text: Déjà vu?
+- id: 5526
+  text: Sí, exacte!
+- id: 5527
+  text: Sí? Havíeu estat aquí abans?
+- id: 5528
+  text: >-
+    Ei, vosaltres! Heu vist
+
+    algú amb pinta de dolent?
+- id: 5529
+  text: Com que jo!
+- id: 5530
+  text: >-
+    Bah! No tinc temps per
+
+    bregar amb aixafaterrossos,{:delay C6 00}{:clear }així que passaré de vosaltres.
+- id: 5531
+  text: Heus aquí el nostre dolent.
+- id: 5532
+  text: >-
+    Què us passa, escarransits?
+
+    Teniu res en contra meu?
+- id: 5533
+  text: És clar que sí!
+- id: 5534
+  text: Veig que busqueu brega!
+- id: 5535
+  text: Oh!
+- id: 5536
+  text: No tan ràpid!
+- id: 5537
+  text: Això!
+- id: 5538
+  text: Però què teniu en contra meu?
+- id: 5539
+  text: Qui sou? Sou nous per aquí?
+- id: 5540
+  text: Deixa't estar de rotllos!
+- id: 5541
+  text: Carai!
+- id: 5542
+  text: Ai, ai, ai!
+- id: 5543
+  text: >-
+    Ei, aquí hi ha alguna cosa
+
+    que no encaixa molt bé.{:delay 06 01}{:clear }Segur que ell és el Pete?
+- id: 5544
+  text: >-
+    Doncs és clar que soc el Pete.
+
+    El capità del vaixell de vapor.{:delay E4 00}{:clear }Així que pareu de molestar-me!
+- id: 5545
+  text: Fumeu el camp!
+- id: 5546
+  text: Carai! Potser hi hem ficat la pota.
+- id: 5547
+  text: >-
+    Començo a pensar el mateix.{:delay B0 00}{:clear }Ni tant sols ha cridat
+
+    els sensecor.
+- id: 5548
+  text: >-
+    Perdoni que l'haguem
+
+    atacat així, capità Pete.
+- id: 5549
+  text: >-
+    Ah si? Bé, si ho sentiu de debò,
+
+    aneu i porteu-me el meu vaixell.
+- id: 5550
+  text: Sí, senyor!
+- id: 5551
+  text: Uuhh... La meva esquena!
+- id: 5552
+  text: >-
+    {:unk13 6F 01 72 00}{:unk06 00}{:unk08 01 00 06}Estava segur que
+
+    el Pete era el dolent.
+- id: 5553
+  text: >-
+    {:unk13 76 00 14 01}{:unk06 00}{:unk08 01 01 07}Ah, allò seria
+
+    massa simple.
+- id: 5554
+  text: >-
+    {:unk13 D8 00 69 00}{:unk06 00}{:unk08 01 00 05}Vinga, nois. Busquem
+
+    aquell vaixell de vapor.
+- id: 5555
+  text: >-
+    {:unk13 82 01 7C 00}{:unk06 00}{:unk08 01 00 06}Bé, hem dit que
+
+    ho faríem, però...
+- id: 5556
+  text: >-
+    {:unk13 7A 00 F6 00}{:unk06 00}{:unk08 01 01 05}Ei! Tenim una
+
+    porta a trobar!
+- id: 5557
+  text: '{:unk13 8F 01 90 00}{:unk06 00}{:unk08 01 00 05}Ai, sí!'
+- id: 5558
+  text: '{:unk13 AF 00 C8 00}{:unk06 00}{:unk08 01 01 06}No veig cap porta.'
+- id: 5559
+  text: '{:unk13 51 01 7D 00}{:unk06 00}{:unk08 01 01 05}Eh? Què és allò?'
+- id: 5560
+  text: '{:unk13 6A 01 9E 00}{:unk06 00}{:unk08 01 01 04}No veig res de res...'
+- id: 5561
+  text: Mireu! La Pedra Angular és allà!
+- id: 5562
+  text: >-
+    Què passa?
+
+    Tot és en blanc i negre.
+- id: 5563
+  text: >-
+    Eh, això sembla com...
+
+    Ah... Mm... Ehhh...
+- id: 5564
+  text: Déjà vu?
+- id: 5565
+  text: Sí, exacte!
+- id: 5566
+  text: Sí? Havíeu estat aquí abans?
+- id: 5567
+  text: '{:unk13 E1 00 C2 00}{:unk06 00}{:unk08 01 01 05}Què ha sigut això?'
+- id: 5568
+  text: >-
+    {:unk13 8E 01 82 00}{:unk06 00}{:unk08 01 01 05}Els sensecor
+
+    en surten...
+- id: 5569
+  text: '{:unk13 18 01 F5 00}{:unk06 00}{:unk08 01 01 07}... i nosaltres hi entrem.'
+- id: 5570
+  text: '{:unk13 31 01 A5 00}{:unk06 00}{:unk08 01 01 05}I això què vol dir?'
+- id: 5571
+  text: '{:unk13 B3 01 85 00}{:unk06 00}{:unk08 01 00 05}Eh?'
+- id: 5572
+  text: '{:unk13 3B 01 40 00}{:unk06 00}{:unk08 01 01 06}Desfem-nos-en!'
+- id: 5573
+  text: '{:unk13 9D 00 6D 00}{:unk06 00}{:unk08 01 01 06}I aleshores, què farem?'
+- id: 5574
+  text: '{:unk13 4A 01 43 00}{:unk06 00}{:unk08 01 01 06}Ja hi pensarem després!'
+- id: 5575
+  text: El rei!
+- id: 5576
+  text: Vaja! Sembla una mica canviat, no?...
+- id: 5577
+  text: Vinga! Hem d'ajudar-lo!
+- id: 5578
+  text: Necessita la nostra ajuda!
+- id: 5579
+  text: Uufff!
+- id: 5580
+  text: Eh?
+- id: 5581
+  text: Foc!
+- id: 5582
+  text: El rei!
+- id: 5583
+  text: Vaja! Sembla una mica canviat, no?...
+- id: 5584
+  text: Vinga! Hem d'ajudar-lo!
+- id: 5585
+  text: Foc!
+- id: 5586
+  text: Necessita la nostra ajuda!
+- id: 5587
+  text: Majestat!
+- id: 5588
+  text: Un problema menys!
+- id: 5589
+  text: Ei!
+- id: 5590
+  text: ''
+- id: 5591
+  text: La ciutat s'ha encongit!
+- id: 5592
+  text: O potser nosaltres hem crescut.
+- id: 5593
+  text: >-
+    Ei! Mireu quins canonets
+
+    de joguina!
+- id: 5594
+  text: Ouch!
+- id: 5595
+  text: El rei!
+- id: 5596
+  text: Vaja! Sembla una mica canviat, no?...
+- id: 5597
+  text: Què creieu que intenta dir-nos?
+- id: 5598
+  text: Oh! Són els sensecor!
+- id: 5599
+  text: ''
+- id: 5600
+  text: La ciutat ha encongit!
+- id: 5601
+  text: O potser nosaltres hem crescut.
+- id: 5602
+  text: >-
+    Ei! Mireu quins canonets
+
+    de joguina!
+- id: 5603
+  text: Ouch!
+- id: 5604
+  text: Què diu?
+- id: 5605
+  text: Oh! Són els sensecor!
+- id: 5606
+  text: Nano, quina cosa més rara!
+- id: 5607
+  text: Mira, Sora! Allà!
+- id: 5608
+  text: Què estan construint?
+- id: 5609
+  text: ''
+- id: 5610
+  text: Compte!
+- id: 5611
+  text: Sensecor! Ho sabia!
+- id: 5612
+  text: El rei!
+- id: 5613
+  text: Vaja! Sembla una mica canviat, no?...
+- id: 5614
+  text: Ens heu salvat!
+- id: 5615
+  text: I ara, a pels sensecor!
+- id: 5616
+  text: Què estan construint?
+- id: 5617
+  text: ''
+- id: 5618
+  text: Compte!
+- id: 5619
+  text: Sensecor! Ho sabia!
+- id: 5620
+  text: Gràcies, Majestat!
+- id: 5621
+  text: I ara, a pels sensecor!
+- id: 5622
+  text: Què us ha semblat això!?
+- id: 5623
+  text: Ei, mireu!
+- id: 5624
+  text: Ets un idiota!{:delay 8B 00}{:clear }No n'encertes ni una!
+- id: 5625
+  text: >-
+    I a més a més... has tingut
+
+    la ridícula idea que podies{:delay F9 00}{:clear }ocupar el meu lloc en la meva absència.
+- id: 5626
+  text: >-
+    Per ara, estàs acabat.{:delay AE 00}{:clear }Recorda les meves paraules,{:delay 47 00}{:clear }no hi haurà lloc per a tu quan
+
+    aconseguim la victòria!
+- id: 5627
+  text: Maleït inútil.
+- id: 5628
+  text: Pe... però jo...
+- id: 5629
+  text: >-
+    Per l'amor de Déu!
+
+    No feia falta que digués tot allò.
+- id: 5630
+  text: >-
+    Molt bé, l'he feta
+
+    bona de tant en tant.{:delay B5 00}{:clear }però alguna cosa bé hauré fet.
+- id: 5631
+  text: Recordo que fa ja molts anys...
+- id: 5632
+  text: >-
+    Ah... Com trobo a
+
+    faltar aquells temps!{:delay C5 00}{:clear }El que donaria per tornar enrere...
+- id: 5633
+  text: El que donaria jo...
+- id: 5634
+  text: '{:delay 78 00}{:clear }Eh?'
+- id: 5635
+  text: ''
+- id: 5636
+  text: Fascinant...{:delay 8B 00}{:clear }Això sembla un portal al passat!
+- id: 5637
+  text: Sí! Ha estat la cosa més estranya!
+- id: 5638
+  text: >-
+    Para de contemplar-lo!{:delay 94 00}{:clear }{:delay 14 00}{:clear }I comença a pensar en
+
+    la manera d'utilitzar-lo!
+- id: 5639
+  text: D'acord...
+- id: 5640
+  text: >-
+    Pot ser que consideri donar-te
+
+    una oportunitat per redimir-te.
+- id: 5641
+  text: >-
+    Oh, gràcies!
+
+    Pots comptar amb mi!{:delay C7 00}{:clear }Però... què faig?
+- id: 5642
+  text: Paciència, estimat...
+- id: 5643
+  text: >-
+    Què tenim aquí? Vaja, però
+
+    si és la Pedra Angular de Llum...
+- id: 5644
+  text: >-
+    Mmm... Aconseguirem arrabassar
+
+    el castell a aquells necis{:delay FC 00}{:clear }si actuem amb cautela.
+- id: 5645
+  text: Escolta'm bé.
+- id: 5646
+  text: >-
+    A l'altre costat d'aquest portal,{:delay 78 00}{:clear }començaran en breus la remodelació
+
+    d'aquell miserable castell.
+- id: 5647
+  text: >-
+    Mentre, la seva preada Pedra
+
+    Angular de Llum es troba desprotegida,{:delay 66 01}{:clear }albergant encara tot el seu poder.
+- id: 5648
+  text: La Pedra Angular... de Llum?
+- id: 5649
+  text: >-
+    Sí! És aquella maleïda esfera la
+
+    que ens impedeix entrar al castell.
+- id: 5650
+  text: Oohh...
+- id: 5651
+  text: Ho vas entenent?
+- id: 5652
+  text: Ehhh...
+- id: 5653
+  text: >-
+    Doncs ves-te'n. És l'hora de demostrar
+
+    la teva vàlua! I no em fallis un altre cop!
+- id: 5654
+  text: Que no torni a fallar, diu...
+- id: 5655
+  text: Ja sé!{:delay 3C 00}{:clear }Faré miques aquella Pedra Angular!
+- id: 5656
+  text: >-
+    Però abans...
+
+    haig de recuperar el meu vell vaixell.
+- id: 5657
+  text: '{:unk13 A0 01 52 00}{:unk06 00}{:unk08 01 00 05}Què era allò?'
+- id: 5658
+  text: >-
+    {:unk13 D4 00 5B 00}{:unk06 00}{:unk08 01 01 05}Algú tenia
+
+    un bon enuig.
+- id: 5659
+  text: '{:unk13 7B 00 C1 00}{:unk06 00}{:unk08 01 01 05}No entenc res.'
+- id: 5660
+  text: >-
+    {:unk13 49 01 63 00}{:unk06 00}{:unk08 01 00 07}Anem a ocupar-nos
+
+    primer dels sensecor.{:clear }Aquest lloc és net, però en
+
+    queden tres per revisar.
+- id: 5661
+  text: '{:unk13 67 00 6D 00}{:unk06 00}{:unk08 01 01 05}Una porta?'
+- id: 5662
+  text: '{:unk13 02 01 26 01}{:unk06 00}{:unk08 01 00 05}Em resulta familiar...'
+- id: 5663
+  text: >-
+    {:unk13 63 01 59 00}{:unk06 00}{:unk08 01 01 05}Sí, és el portal que
+
+    el Merlí va crear!
+- id: 5664
+  text: >-
+    {:unk13 97 00 52 00}{:unk06 00}{:unk08 01 01 05}Llavors hauria de venir
+
+    directe cap aquí, no?
+- id: 5665
+  text: '{:unk13 6A 01 67 00}{:unk06 00}{:unk08 01 01 05}Segur que sí! O això penso...'
+- id: 5666
+  text: "{:unk13 99 00 54 00}{:unk06 00}{:unk08 01 01 05}Fem-li un cop d'ull!"
+- id: 5667
+  text: '{:unk13 E5 00 E5 00}{:unk06 02}{:unk08 03 01 06}Malèfica!'
+- id: 5668
+  text: '{:unk13 42 01 45 00}{:unk06 00}{:unk08 01 01 05}Ho deu haver sabut sempre!'
+- id: 5669
+  text: >-
+    {:unk13 D0 00 60 00}{:unk06 00}{:unk08 01 00 05}Vejam... si aquella porta està
+
+    connectada al passat...
+- id: 5670
+  text: >-
+    {:unk13 24 01 DC 00}{:unk06 01}{:unk08 01 01 05}No, no, no!
+
+    Dona aquí.
+- id: 5671
+  text: '{:unk13 4B 01 3F 00}{:unk06 00}{:unk08 01 01 06}Eh?'
+- id: 5672
+  text: >-
+    {:unk13 FA 00 5D 00}{:unk06 00}{:unk08 01 00 05}Llavors som
+
+    al passat!
+- id: 5673
+  text: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Què!?'
+- id: 5674
+  text: '{:unk13 1A 01 45 00}{:unk06 00}{:unk08 01 01 06}Vaja!'
+- id: 5675
+  text: >-
+    {:unk13 F9 00 41 00}{:unk06 00}{:unk08 01 01 06}Si som
+
+    al passat...
+- id: 5676
+  text: >-
+    {:unk13 6E 01 D9 00}{:unk06 00}{:unk08 01 00 05}... podem canviar
+
+    el futur!
+- id: 5677
+  text: >-
+    {:unk13 CD 00 42 00}{:unk06 00}{:unk08 01 00 06}Un moment, nois!
+
+    Recordeu el que ha dit el Merlí?{:clear }Que confiava en nosaltres.{:clear }I que havíem de
+
+    resistir-ne la tentació!
+- id: 5678
+  text: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}'
+- id: 5679
+  text: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}'
+- id: 5680
+  text: '{:unk13 DE 00 5D 01}{:unk06 00}{:unk08 01 01 03}Ei, només feia broma.'
+- id: 5681
+  text: >-
+    {:unk13 FF 00 69 00}{:unk06 00}{:unk08 01 01 05}A més, qui voldria
+
+    canviar el futur?
+- id: 5682
+  text: '{:unk13 39 01 71 00}{:unk06 00}{:unk08 01 01 05}Bé... què fem?'
+- id: 5683
+  text: >-
+    {:unk13 E8 00 48 00}{:unk06 00}{:unk08 01 00 05}Portes, vilans...
+
+    Uff! Em fa mal el cap!
+- id: 5684
+  text: >-
+    {:unk13 DC 00 1B 01}{:unk06 00}{:unk08 01 01 07}Almenys sabem que
+
+    anem pel bon camí!
+- id: 5685
+  text: O sigui, que sí que era el Pete!
+- id: 5686
+  text: Ah! Ens ha enganyat!
+- id: 5687
+  text: Però hi ha alguna cosa que segueix sense encaixar.
+- id: 5688
+  text: ''
+- id: 5689
+  text: >-
+    El Pete que hem conegut aquí tenia una mica
+
+    de mal geni, però no semblava un mal nano...
+- id: 5690
+  text: Mireu!
+- id: 5691
+  text: '{:delay BC 00}{:clear }El castell ja és nostre!'
+- id: 5692
+  text: Aquell és el Pete que coneixem!
+- id: 5693
+  text: És ell!
+- id: 5694
+  text: Oh, no!
+- id: 5695
+  text: La Pedra Angular no hi és!
+- id: 5696
+  text: Però això vol dir...
+- id: 5697
+  text: >-
+    que la foscor s'apoderarà del
+
+    castell! Hem d'afanyar-nos!
+- id: 5698
+  text: Ei, alto!
+- id: 5699
+  text: >-
+    Ni de broma, maco!{:delay 71 00}{:clear }Mira per on he trobat l'aixafaterrossos
+
+    que m'ha robat el vaixell!
+- id: 5700
+  text: Però si vas ser tu!
+- id: 5701
+  text: Exacte! Jo!{:delay 6B 00}{:clear }Bé, jo, jo no! Algú que se m'assembla!
+- id: 5702
+  text: Oh, quin embolic.
+- id: 5703
+  text: Espera!!!!
+- id: 5704
+  text: Calla!
+- id: 5705
+  text: >-
+    El teu futur està en joc, amic,
+
+    així que aparta i dona'm el vaixell!
+- id: 5706
+  text: La Pedra Angular!
+- id: 5707
+  text: A per ell!
+- id: 5708
+  text: Bé!
+- id: 5709
+  text: Me les pagareu!
+- id: 5710
+  text: És la Pedra Angular!
+- id: 5711
+  text: >-
+    Donald, ja tornarem
+
+    a per ella després!
+- id: 5712
+  text: El Pete es dirigeix cap al portal!
+- id: 5713
+  text: ''
+- id: 5714
+  text: Ja! Segueixes sent un pagerol!
+- id: 5715
+  text: Lluita contra nosaltres!
+- id: 5716
+  text: ''
+- id: 5717
+  text: T'ho mereixes!
+- id: 5718
+  text: Hmph!
+- id: 5719
+  text: El portal!
+- id: 5720
+  text: I no tornis mai més!
+- id: 5721
+  text: Sora!
+- id: 5722
+  text: Sí, ho sé!
+- id: 5723
+  text: >-
+    Pot dir-me algú què ha passat aquí?
+
+    I qui carai era aquell fantotxe?
+- id: 5724
+  text: Com? Aquell fantotxe era...
+- id: 5725
+  text: Sora, és un secret!
+- id: 5726
+  text: Secret? Quin secret? Bah, és igual.{:delay CD 00}{:clear }Sento haver-vos ficat en tot aquest embolic.
+- id: 5727
+  text: Està bé, però no t'hi acostumis!
+- id: 5728
+  text: >-
+    I per demostrar-vos el meu agraïment,{:delay 91 00}{:clear }us deixo pilotar el meu vaixell de vapor.
+
+    És la millor nau del riu!
+- id: 5729
+  text: >-
+    Vinga, el meu contramestre
+
+    Mickey arriba tard.
+- id: 5730
+  text: ''
+- id: 5731
+  text: >-
+    Suposo que el castell
+
+    ja és fora de perill.
+- id: 5732
+  text: Hauríem de tornar.
+- id: 5733
+  text: >-
+    Espereu!
+
+    Ja que som al passat...
+- id: 5734
+  text: Donald!
+- id: 5735
+  text: ''
+- id: 5736
+  text: ''
+- id: 5737
+  text: ''
+- id: 5738
+  text: ''
+- id: 5739
+  text: ''
+- id: 5740
+  text: ''
+- id: 5741
+  text: ''
+- id: 5742
+  text: ''
+- id: 5743
+  text: ''
+- id: 5744
+  text: ''
+- id: 5745
+  text: ''
+- id: 5746
+  text: ''
+- id: 5747
+  text: ''
+- id: 5748
+  text: ''
+- id: 5749
+  text: ''
+- id: 5750
+  text: ''
+- id: 5751
+  text: ''
+- id: 5752
+  text: ''
+- id: 5753
+  text: ''
+- id: 5754
+  text: ''
+- id: 5755
+  text: ''
+- id: 5756
+  text: ''
+- id: 5757
+  text: ''
+- id: 5758
+  text: ''
+- id: 5759
+  text: ''
+- id: 5760
+  text: ''
+- id: 5761
+  text: ''
+- id: 5762
+  text: ''
+- id: 5763
+  text: ''
+- id: 5764
+  text: ''
+- id: 5765
+  text: ''
+- id: 8097
+  text: Derrota tots els sensecor i protegeix els mobles!
+- id: 8098
+  text: >-
+    Derrota tots els sensecor
+
+    i protegeix els mobles!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 8099
+  text: Derrota tots els sensecor i evita que l'edifici es cremi!
+- id: 8100
+  text: >-
+    Derrota tots els sensecor i
+
+    evita que l'edifici es cremi!
+- id: 8101
+  text: Acaba amb tots els sensecor i protegeix la ciutat!
+- id: 8102
+  text: >-
+    Derrota tots els sensecor
+
+    i protegeix la ciutat!
+
+    Pots utilitzar el canó!
+- id: 8103
+  text: Derrota els sensecor abans que caigui la bastimentada!
+- id: 8104
+  text: >-
+    Derrota tots els sensecor
+
+    abans que caigui la bastimentada!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 10376
+  text: >-
+    Haig de trobar el pocavergonya
+
+    que m'ha robat el vaixell!
+- id: 13138
+  text: S'ha trencat el cable!
+- id: 15223
+  text: >-
+    Aquell nano deu tenir coratge per
+
+    haver robat així el meu vaixell...{:clear }És estrany. Em resultava
+
+    bastant familiar...
+- id: 16032
+  text: Trenca la gàbia abans que el Pete escapi!
+- id: 16033
+  text: >-
+    Trenca la gàbia abans que el Pete escapi
+
+    i recupera'n la Pedra Angular de Llum!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 16839
+  text: >-
+    Sembla que al Pete li han robat
+
+    el vaixell.{:clear }El que no entenc és per què
+
+    algú faria una cosa així.
+- id: 16840
+  text: >-
+    El Pete ha recuperat el seu vaixell!
+
+    I ha tornat a ser el vell Pete.{:clear }Res és el mateix sense el
+
+    so del xiulet del seu vapor.
+- id: 16841
+  text: >-
+    Oh, no! Hi ha foc a l'altre costat
+
+    d'aquella finestra! Hem d'apagar-lo!{:clear }Però com ho farem? N'hi haurà prou
+
+    amb llençar-ne aigua a la finestra?
+- id: 16842
+  text: >-
+    Des d'aquest turó pots arribar al
+
+    moll, a l'embarcador o al canal.{:clear }És un lloc genial per caminar. Siguis
+
+    on siguis, sempre acabes aquí.
+- id: 16843
+  text: >-
+    És genial que construeixin un castell,
+
+    però trobaré a faltar aquest passeig.{:clear }Pot ser que els demani que facin un jardí
+
+    per sortir-hi a caminar dins del castell.
+- id: 16844
+  text: >-
+    Aquí és on es construirà
+
+    el Castell Disney.{:clear }Ara només és un camp buit, però
+
+    segur que serà un edifici enorme!
+- id: 16845
+  text: >-
+    Acostumes a venir molt, ¿no? Si penses
+
+    comprar terrenys, ara és el moment.{:clear }Quan construeixin el castell, el
+
+    preu de la terra es dispararà!
+- id: 16846
+  text: >-
+    No podem deixar que el
+
+    Pete escapi d'aquest món.{:clear }A més, alguna cosa estranya passa
+
+    amb aquella Pedra Angular de Llum...
+- id: 16847
+  text: >-
+    Hi ha una ciutat rere aquella finestra.
+
+    Quina classe de truc és aquest?{:clear }Hi ha un canó enmig de la ciutat.
+
+    Podem disparar tot el que vingui!
+- id: 16848
+  text: >-
+    Jo també vull arribar al vaixell del
+
+    Pete, però abans hi són els sensecor.
+- id: 16852
+  text: >-
+    Acabo de veure el Pete perseguint-se
+
+    a sí mateix una altra vegada!{:clear }Finestres misterioses, més d'un
+
+    Pete... Què passa en aquest món!?
+- id: 16853
+  text: >-
+    Estic cansada de mirar aquesta estranya
+
+    finestra. Necessito un altre passatemps.{:clear }He vist el Pete còrrer cap al canal.
+
+    Estarà passant-hi res?
+- id: 16854
+  text: >-
+    El Pete ha passat corrent cap a l'{:theme 0A}embarcador{:reset}.{:clear }Mai he vist a ningú còrrer així.
+
+    Estarà entrenant per a una carrera?
+- id: 16855
+  text: >-
+    Bé, a què ve tanta pressa?
+
+    Se't veu esgotat.{:clear }Si no et prens un descans de tant
+
+    en tant, pots acabar malament.
+- id: 16992
+  text: Brilla amb una llum radiant.
+- id: 16993
+  text: Aquí es construirà el Castell Disney.
+- id: 16994
+  text: '"Willy", el vaixell de vapor del Pete.'
+- id: 18487
+  text: >-
+    Aquell era el Pete, no?{:clear }M'ho sembla o se'l veu
+
+    una mica canviat?
+- id: 18488
+  text: >-
+    Per aquella finestra, es veu una obra
+
+    en construcció. És molt estrany!{:clear }A més sembla bastant inestable. Si
+
+    es trenca aquella corda, s'ensorrarà!
+- id: 18489
+  text: >-
+    Resolent els greuges de les
+
+    finestres, sembla que podem veure-hi...{:clear }el que ha passat en el passat immediat.{:clear }Vejam què passa si els resolem
+
+    tots.
+- id: 18748
+  text: Desfes-te del Pete!
+- id: 18749
+  text: >-
+    Desfes-te del Pete!
+
+    L'altre Pete t'ajudarà en la batalla!
+- id: 19086
+  text: La Pedra Angular ha desaparegut.
+- id: 19087
+  text: Taquilla de bitllets de vaixell.
+- id: 19088
+  text: Un petit port.
+- id: 19089
+  text: Està assegurada amb peces de metall.
+- id: 19090
+  text: >-
+    Prohibida l'entrada
+
+    a causa del foc.
+- id: 19091
+  text: >-
+    Sembla que els van llençar
+
+    fora a corre cuita.
+- id: 19092
+  text: >-
+    Aquest és el cotxe de bombers
+
+    que va entrar corrent a l'escena.
+- id: 19093
+  text: >-
+    Ha de mantenir calent
+
+    l'amo quan és a casa.
+- id: 19094
+  text: >-
+    Està fermament assegurat,
+
+    així que no es mourà.
+- id: 19095
+  text: >-
+    Un preciós arbre de Nadal.
+
+    Qui el deu haver decorat?
+- id: 19758
+  text: Riu Etern
+- id: 19861
+  text: >-
+    Ei! Què feu!?
+
+    Deixeu-me anar! Deixeu-me anar!
+- id: 20610
+  text: Prem {:icon dynamic-triangle} per començar el duel! Ataca fins que el comptador arribi a zero.
+- id: 21365
+  text: S'han de protegir els mobles!
+- id: 21366
+  text: I gairebé no queden mobles!
+- id: 21367
+  text: Protegeix l'edifici de les flames!
+- id: 21368
+  text: L'edifici no aguantarà molt més!
+- id: 21369
+  text: Estan atacant la ciutat! Para'ls utilitzant Trepitjada!
+- id: 21370
+  text: La ciutat caurà!
+- id: 21371
+  text: S'ha trencat un cable! La bastimentada caurà!
+- id: 21372
+  text: Si es trenca un altre cable caura la bastimentada!
+- id: 21373
+  text: S'han trencat tots els cables...
+- id: 21536
+  text: "{:delayandfade 08 78} \nSegons el Merlí, en aquest estrany món\nhi hauria d'haver un altre portal com\nel del Castell Disney...\n \nNo obstant això, en lloc d'una porta,\nel que el Sora troba és una finestra...\nen la que s'hi veu el grup instants\nabans d'arribar al món en blanc i negre!\n \n"
+- id: 21537
+  text: "{:delayandfade 0A 78} \nI allà no s'acaba tot.\nDesprès d'allò, sorgeixen altres quatre finestres.\nDecidits a esbrinar-ne més, el Sora i els altres\nno dubten a endinsar-se'n en la primera.\n \n \n \n"
+- id: 21538
+  text: "{:delayandfade 0A 78} \nLa finestra mostra la Malèfica\ndonant una bona reprimenda\na algú, tot i que el blanc de\nles seves ires és un misteri.\n \nHauria de seguir apuntant\nla resta de finestres per poder\nesbrinar-ne més coses.\n \n \n"
+- id: 21539
+  text: "{:delayandfade 0A 78} \nLa finestra mostra un portal\nidèntic al que el Merlín va\nconjurar en el Castell de Disney.\n \nAmb el misteri a mig resoldre,\nel Sora i els seus amics no tenen més\nremei que seguir el seu periple\na través de les finestres.\n \n \n"
+- id: 21540
+  text: "{:delayandfade 08 78} \nEl portal connecta amb el passat!\n \nEl pla de Malèfica és modificar\nel passat per fer-se amb el\nCastell Disney.\n \nAmb les idees ja més clares,\nsembla ser que ha arribat el moment\nde veure què hi ha la quarta finestra.\n \n"

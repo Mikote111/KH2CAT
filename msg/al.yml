@@ -1,0 +1,1715 @@
+﻿- id: 39
+  text: Agrabah! Ja som aquí!
+- id: 40
+  text: >-
+    Aahh! Em pregunto com deuen
+
+    estar l'Aladdín i la Jasmín.
+- id: 41
+  text: >-
+    Potser el Riku
+
+    és amb ells!
+- id: 42
+  text: Òndia! I el rei?
+- id: 43
+  text: Seguiu somiant, nanos.
+- id: 44
+  text: >-
+    Vinga, Donald,
+
+    tu estaves pensant el mateix.
+- id: 45
+  text: No, no és veritat!
+- id: 46
+  text: Oh, oh. Aquell és... ehhh...
+- id: 47
+  text: És en Iago!
+- id: 48
+  text: Espereu! Us equivoqueu.
+- id: 49
+  text: Sí que ets en Iago!
+- id: 50
+  text: >-
+    Sí, però he canviat!
+
+    He mudat les plomes.{:delay D2 00}{:clear }De debò! S'han acabat els trucs.
+
+    Ho prometo!
+- id: 52
+  text: No me'n fio ni un pèl.
+- id: 53
+  text: Heu de creure'm!
+- id: 54
+  text: Sora, anem-nos-en!
+- id: 55
+  text: >-
+    Em vaig quedar tancat a la llàntia
+
+    amb en Yafar. Us en recordeu?{:delay D2 00}{:clear }Doncs al final me'n vaig escapar,
+
+    però van passar coses i...
+- id: 57
+  text: Doncs... lliure com un ocell, oi?
+- id: 58
+  text: Passi-ho bé!
+- id: 59
+  text: >-
+    Nois...
+
+    no us fa una mica de pena?
+- id: 60
+  text: Vull demanar perdó a l'Aladdín i la Jasmín.{:delay B4 00}{:clear }Podríeu potser vosaltres ajudar-m'hi?
+- id: 62
+  text: >-
+    És clar!
+
+    Podem fer-ho, no?
+- id: 63
+  text: Compte!
+- id: 64
+  text: >-
+    D'on surten
+
+    tots aquests?
+- id: 65
+  text: Seguiu-me!
+- id: 66
+  text: >-
+    {:unk13 72 01 2C 01}{:unk08 01 01 01}Ai, seriem morts
+
+    si no fos pel Iago.{:clear }Oi que sí, amics?
+- id: 68
+  text: "{:unk13 52 01 EA 00}{:unk08 01 00 01}Te'n debem una."
+- id: 69
+  text: '{:unk13 68 01 FA 00}{:unk08 03 01 01}Perfecte!'
+- id: 70
+  text: >-
+    {:unk13 1F 01 18 01}{:unk08 01 00 03}Però serà cosa teva
+
+    guanyar-te l'Aladdín i
+
+    la Jasmín.{:clear }Hauràs de comportar-te,
+
+    entesos?
+- id: 71
+  text: >-
+    {:unk13 7C 01 96 00}{:unk08 01 01 01}Està bé.
+
+    Entesos.
+- id: 72
+  text: >-
+    {:unk13 96 00 64 00}{:unk08 01 01 06}D'això,
+
+    on és l'Aladdín?
+- id: 73
+  text: >-
+    {:unk13 5E 01 2C 01}{:unk08 01 01 00}Apostaria que és
+
+    en el palau.
+- id: 74
+  text: '{:unk13 68 01 C8 00}{:unk08 01 00 01}Doncs som-hi!'
+- id: 75
+  text: Jasmín!
+- id: 76
+  text: Sora! Donald! Goofy!
+- id: 77
+  text: Altesa!
+- id: 78
+  text: >-
+    Mai vagi tenir l'oportunitat
+
+    de donar-vos les gràcies.
+- id: 79
+  text: >-
+    Vau ajudar l'Aladdín a derrotar aquell
+
+    horrible Jafar i vau salvar Agrabah.
+- id: 80
+  text: Res de l'altre món.
+- id: 81
+  text: >-
+    Tot i que... sembla que els
+
+    sensecor han tornat a ballar-la.
+- id: 82
+  text: >-
+    Podem ajudar-vos
+
+    de cap manera?
+- id: 83
+  text: Per ara estem bé.
+- id: 84
+  text: >-
+    I sempre compteu
+
+    amb l'Aladdín.
+- id: 85
+  text: >-
+    Doncs... últimament
+
+    no és el mateix.
+- id: 86
+  text: >-
+    És a causa
+
+    dels sensecor?
+- id: 87
+  text: No n'estic segura.
+- id: 88
+  text: De vegades, és l'Aladdín alegre de sempre,{:delay D2 00}{:clear }però d'altres... sembla molt afligit.
+- id: 91
+  text: >-
+    Surt del palau i
+
+    es passa el dia per allà sol.{:delay F6 00}{:clear }He parlat amb ell,
+
+    però diu que no li passa res.
+- id: 97
+  text: Que bona.
+- id: 102
+  text: Atura't, lladre!
+- id: 103
+  text: Hola, Sora!
+- id: 104
+  text: Torna a aquí!
+- id: 105
+  text: Si no controles aquella bola de pèls...
+- id: 106
+  text: Posa-li una corretja!
+- id: 107
+  text: Miri, ho sento...
+- id: 108
+  text: Hauria de fer-te vergonya, Abú!
+- id: 109
+  text: Estem en paus?
+- id: 110
+  text: ''
+- id: 111
+  text: Abú!
+- id: 112
+  text: >-
+    Nois, perdoneu per allò d'abans.
+
+    Tenia una mica de pressa.
+- id: 114
+  text: Què et passava?
+- id: 115
+  text: >-
+    Ja coneixes l'Abú.
+
+    No es pot resistir a una llàntia.
+- id: 116
+  text: Res d'excuses!
+- id: 117
+  text: ''
+- id: 118
+  text: '{:unk13 B4 00 46 00}{:unk08 01 01 05}Suposo que no estàs tan deprimit, eh?'
+- id: 119
+  text: >-
+    {:unk13 E5 00 35 00}{:unk08 01 01 07}Qui ha dit
+
+    que n'estigui?
+- id: 120
+  text: >-
+    {:unk13 A0 00 46 00}{:unk08 01 01 04}La princesa Jasmín.{:clear }Està preocupada per les
+
+    teves continues escapades
+
+    a la ciutat.
+- id: 121
+  text: '{:unk13 C8 00 5E 01}{:unk08 01 01 02}Li estàs fent el salt?'
+- id: 122
+  text: '{:unk13 16 01 3E 00}{:unk08 01 01 07}I ara!'
+- id: 123
+  text: >-
+    {:unk13 A9 00 45 00}{:unk08 01 01 07}Però...
+
+    Ja veig que a la Jasmín
+
+    no se li escapa cap.
+- id: 124
+  text: >-
+    {:unk13 BA 00 39 00}{:unk08 01 01 07}Mireu, el Geni i la catifa
+
+    va sortir a veure el món.{:clear }És el que el Geni
+
+    sempre va voler.{:clear }I me n'alegro mucho per
+
+    ell i tot això, però...
+- id: 126
+  text: '{:unk13 8A 00 3C 00}{:unk08 01 01 04}El trobes a faltar.'
+- id: 127
+  text: >-
+    {:unk13 CC 00 3C 00}{:unk08 01 00 06}És clar.{:clear }La vida ha de ser molt
+
+    avorrida sense el Geni...
+- id: 129
+  text: >-
+    {:unk13 FA 00 64 00}Sí.{:clear }Per això vinc aquí.
+
+    Hi ha gent, moviment.{:clear }Sempre hi passa
+
+    alguna cosa.
+- id: 131
+  text: >-
+    {:unk13 B4 00 54 01}Veieu el que us dic?{:clear }Avui, per exemple, vaig i
+
+    em trobo amb vosaltres...{:clear }Aquest lloc és ple
+
+    de sorpreses.
+- id: 133
+  text: '{:unk13 67 00 33 00}{:unk08 01 01 04}Ei, Sora...'
+- id: 134
+  text: '{:unk13 DC 00 64 00}{:unk08 01 01 05}Iago!?'
+- id: 135
+  text: >-
+    {:unk13 EC 00 5D 00}{:unk08 01 01 06}Sí, a veure... Vol disculpar-se
+
+    pels problemes que ha causat.
+- id: 136
+  text: '{:unk13 F0 00 64 00}{:unk08 01 01 05}Oh, de debò?'
+- id: 137
+  text: >-
+    {:unk13 40 01 54 01}{:unk08 01 01 02}Òndia, l'hi sap tant
+
+    de greu que tremola!
+- id: 138
+  text: '{:unk13 B4 00 78 00}{:unk08 01 01 05}És... és... aquella llàntia!'
+- id: 139
+  text: '{:unk13 BE 00 3C 00}{:unk08 01 01 07}Què passa?'
+- id: 140
+  text: '{:unk13 A2 00 40 01}{:unk08 01 01 00}Era la seva llàntia!'
+- id: 141
+  text: >-
+    {:unk13 B4 00 0E 01}{:unk08 01 01 00}Ja sabeu, la que
+
+    conté el Jafar!
+- id: 142
+  text: >-
+    {:unk13 54 01 40 01}{:unk08 01 01 00}Au va. N'hi ha un
+
+    milió d'iguals.
+- id: 143
+  text: >-
+    {:unk13 D8 00 27 01}{:unk06 02}{:unk08 03 01 00}Ei! Hi vaig estar
+
+    tancat durant mesos! La
+
+    distingiria entre un milió!
+- id: 145
+  text: >-
+    {:unk13 31 01 3C 00}{:unk08 01 00 06}Doncs serà millor que anem
+
+    a parlar amb el mercader.
+- id: 146
+  text: '{:unk13 BE 00 4B 00}{:unk08 01 00 06}Venim amb tu.'
+- id: 147
+  text: >-
+    {:unk13 40 01 50 00}{:unk08 01 01 05}Ens agradaria molt comprar-li
+
+    aquella preciosa llàntia.
+- id: 148
+  text: >-
+    {:unk13 75 00 F5 00}{:unk08 01 01 00}És clar.
+
+    Sempre que...{:clear }pogueu pagar-la.
+- id: 149
+  text: '{:unk13 6E 01 53 00}{:unk08 01 00 05}Cap problema!'
+- id: 150
+  text: >-
+    {:unk13 68 01 D2 00}{:unk08 01 01 05}Sí, podem pagar-la
+
+    amb el tresor reia...
+- id: 151
+  text: '{:unk13 68 01 50 00}{:unk08 01 00 05}Donald!'
+- id: 152
+  text: >-
+    {:unk13 BB 00 D9 00}{:unk08 01 01 04}Si voleu puc mostrar-vos
+
+    altres llànties.
+- id: 153
+  text: >-
+    {:unk13 A0 00 50 00}{:unk08 01 01 07}No, aquella és la
+
+    que necessitem.
+- id: 154
+  text: >-
+    {:unk13 90 00 D7 00}{:unk08 01 01 04}Ah, bé...
+
+    potser pogueu
+
+    persuadir-me...
+- id: 155
+  text: >-
+    {:unk13 F0 00 04 01}{:unk08 01 00 05}si em porteu
+
+    un tresor que superi
+
+    la meva imaginació.{:clear }Una cosa, diguem-ne,
+
+    digna d'un sultà...
+- id: 157
+  text: >-
+    {:unk13 AF 00 50 00}{:unk08 01 00 05}Riqueses?
+
+    Podria ser complicat...
+- id: 158
+  text: >-
+    {:unk13 40 01 B4 00}{:unk08 01 01 04}N'hi ha a dolls
+
+    en el palau.
+- id: 159
+  text: >-
+    {:unk13 40 01 64 00}{:unk08 01 00 04}Sí, però no em
+
+    pertanyen. I no
+
+    puc demanar-les.{:clear }No vull preocupar
+
+    la Jasmín ni
+
+    el Sultà.
+- id: 161
+  text: >-
+    {:unk13 4A 01 ED 00}{:unk08 01 01 00}Ei, ja ho tinc...{:clear }Què us sembla el tresor de
+
+    la Cova de les Meravelles?
+- id: 162
+  text: >-
+    {:unk13 A2 00 11 01}{:unk08 01 01 01}Molt bé, Iago.
+
+    Guia'ns-hi!{:clear }És possible que quan
+
+    aconseguim el tresor...{:clear }comenci a acceptar
+
+    les teves disculpes.
+- id: 164
+  text: '{:unk13 8C 00 50 00}{:unk08 01 00 06}Podeu comptar amb mi!'
+- id: 165
+  text: És aquí!
+- id: 166
+  text: Sí, allò servirà.
+- id: 167
+  text: >-
+    És perfecte! Segur que
+
+    el mercader s'hi conforma.
+- id: 168
+  text: Sí, sembla molt valuós.
+- id: 169
+  text: >-
+    Perfecte! Anem a
+
+    recuperar la llàntia.
+- id: 170
+  text: >-
+    Hem de mantenir el Jafar tancat
+
+    o intentarà destruir Agrabah!
+- id: 171
+  text: Quiets!
+- id: 172
+  text: Ei! Ni se t'acudeixi, Donald!
+- id: 173
+  text: Per què sempre passa això!
+- id: 174
+  text: Uff!
+- id: 175
+  text: Som-hi!
+- id: 176
+  text: Hola?
+- id: 177
+  text: Deixa de queixar-te i dona-me-la!
+- id: 178
+  text: >-
+    Si home!
+
+    Em donaran una fortuna per ella.{:delay AD 00}{:clear }Aquesta llàntia em farà ric!
+- id: 179
+  text: Gràcies!
+- id: 180
+  text: És meva!
+- id: 181
+  text: Porc de la llàntia!
+- id: 182
+  text: Deixa'm estar!
+- id: 183
+  text: La tinc!
+- id: 184
+  text: No val!
+- id: 185
+  text: Je, je! He guanyat!
+- id: 186
+  text: Molt bé, Iago!
+- id: 187
+  text: Ben fet!
+- id: 188
+  text: No la deixis anar!
+- id: 189
+  text: Compte! Darrere teu!
+- id: 190
+  text: Bon intent, cervell de pardal!
+- id: 191
+  text: >-
+    Ja veureu quan el Yafar quedi lliure!
+
+    Serà una meravella de sensecor!
+- id: 192
+  text: He tornat!!!!!
+- id: 193
+  text: Al! Quant de temps!
+- id: 195
+  text: Com està el meu princepet preferit?
+- id: 196
+  text: >-
+    Els viatges còsmics són un
+
+    rotllo si no vas amb un amic.
+- id: 197
+  text: >-
+    I pensar que et vaig deixar aquí abandonat,
+
+    sense el teu Geni... Ah, què inhumà!
+- id: 199
+  text: Geni?
+- id: 200
+  text: Ei, Al, et veig més plenet.
+- id: 201
+  text: >-
+    Ah, doncs és clar!
+
+    La feliç vida dels enamorats.
+- id: 202
+  text: Alaaaddín!{:delay 32 00}{:clear }Jasmín!
+- id: 204
+  text: M'ho estic imaginant...
+- id: 205
+  text: >-
+    Soc un pesat!
+
+    Un plom gran i blau!
+- id: 207
+  text: >-
+    Bah, tant és!
+
+    Me n'alegro tant de veure't!
+- id: 209
+  text: Geni!
+- id: 210
+  text: ''
+- id: 211
+  text: '{:delay 6C 00}{:clear }No tornaràs a deixarme en ridícul!'
+- id: 212
+  text: >-
+    {:delay 48 00}{:clear }Passaré al pla B!{:delay 5A 00}{:clear }Em desfaré de vosaltres
+
+    d'una vegada per totes!
+- id: 214
+  text: >-
+    Tu!{:delay 36 00}{:clear }És l'última vegada
+
+    que t'hi entremets!{:delay 90 00}{:clear }Ara veuràs!
+- id: 215
+  text: '{:delay 66 00}Perfecte!{:delay 51 00}{:clear }'
+- id: 216
+  text: ''
+- id: 217
+  text: >-
+    {:unk13 B7 00 9D 00}{:unk08 01 01 04}Us ho asseguro.{:clear }No us penedireu de donar-me
+
+    una altra oportunitat.{:clear }Ho juro!
+- id: 220
+  text: >-
+    {:unk13 6F 01 AC 00}{:unk08 01 00 01}Eehh...
+
+    Princesa Jasmín,{:clear }segur que vols
+
+    aquell ocell en
+
+    el galliner?
+- id: 221
+  text: >-
+    {:unk13 CA 00 9B 00}{:unk08 01 01 05}Oh, em sembla que en Iago ha
+
+    demostrat les seves bones intencions.
+- id: 222
+  text: >-
+    {:unk13 6F 01 AC 00}{:unk08 01 00 01}Ah, és clar.
+
+    Probablement
+
+    tens raó.
+- id: 223
+  text: >-
+    {:unk13 BE 00 31 01}{:unk08 01 01 03}Quants problemes podria
+
+    causar un sol ocell sorollós?
+- id: 224
+  text: >-
+    {:unk13 9A 00 37 00}{:unk08 01 01 06}Això sí que no t'ho
+
+    negaré, amic.
+- id: 225
+  text: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}Què fareu
+
+    ara, Sora?
+- id: 226
+  text: >-
+    {:unk13 22 01 CC 00}{:unk08 01 01 01}Bé, ens alegrem
+
+    d'haver-vos vist de nou...{:clear }però encara hem de
+
+    trobar el Riku i el rei.{:clear }Em sembla que és l'hora
+
+    de partir.
+- id: 227
+  text: >-
+    {:unk13 93 01 6F 00}{:unk08 01 00 00}Espero que
+
+    els trobeu.
+- id: 228
+  text: '{:unk13 7C 01 82 00}{:unk08 01 00 05}I jo!'
+- id: 229
+  text: >-
+    {:unk13 15 01 5E 01}{:unk08 01 00 00}Ei, on és
+
+    l'Aladdín?
+- id: 230
+  text: >-
+    {:unk13 1C 01 7D 00}{:unk08 01 00 05}L'he vist corrent rere
+
+    l'Abú de camí a la ciutat.{:clear }No crec que trigui
+
+    a tornar.
+- id: 231
+  text: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}L'Al no es pot perdre la gran
+
+    festa de comiat d'en Sora!{:clear }Vaig a per ell i el porto
+
+    en un tres i no res!
+- id: 232
+  text: Abú!
+- id: 233
+  text: Atrapeu-lo!
+- id: 235
+  text: >-
+    L'haurà robat a la Cova de les
+
+    Meravelles sense que ens n'adonéssim.
+- id: 236
+  text: Abú!
+- id: 237
+  text: >-
+    Hi ha coses a les que
+
+    és difícil resistir-s'hi.
+- id: 238
+  text: Bah! Qui necessita això?
+- id: 240
+  text: "{:delay 71 00}M'ha quedat enganxada!"
+- id: 241
+  text: Sora... què passa?
+- id: 242
+  text: Ha arribat l'hora d'anar-nos-en.
+- id: 243
+  text: Hi tornareu?
+- id: 244
+  text: Hi tornarem! Ho prometo!
+- id: 245
+  text: Benvinguts! Benvinguts!
+- id: 246
+  text: '{:unk13 B4 00 40 01}{:unk08 03 01 02}Ostres!'
+- id: 247
+  text: '{:unk13 68 01 18 01}{:unk08 01 00 00}El que trenca, paga!'
+- id: 248
+  text: '{:unk13 F1 00 89 00}{:unk08 01 01 01}Ah! Hola, amics.'
+- id: 249
+  text: >-
+    {:unk13 53 01 E6 00}{:unk08 01 01 01}Ostres! T'ho has montat
+
+    sense estar-te de res!
+- id: 250
+  text: >-
+    {:unk13 03 01 9F 00}{:unk08 01 00 03}Si us plau...
+
+    No soc sinó un
+
+    honest mercader.{:clear }El que veieu és fruit
+
+    de tota la meva
+
+    dedicació i esforç.
+- id: 252
+  text: '{:unk13 04 01 8C 00}{:unk08 01 00 05}Òndia, doncs no està gens malament.'
+- id: 253
+  text: >-
+    {:unk13 68 01 40 01}{:unk08 01 00 00}I tot està en venda!
+
+    T'interessa res?
+- id: 254
+  text: >-
+    {:unk13 8F 00 B9 00}{:unk08 01 01 03}No, gràcies. Ei,
+
+    has vist un tipus
+
+    vestit de negre?{:clear }És un membre de
+
+    l'Organització {XIII}.
+- id: 256
+  text: >-
+    {:unk13 68 01 40 01}{:unk08 01 00 00}Qui, jo? No,
+
+    crec que no...
+- id: 257
+  text: '{:unk13 78 00 C8 00}{:unk08 01 00 04}Us ho asseguro!'
+- id: 258
+  text: >-
+    {:unk13 5F 01 EC 00}{:unk08 01 00 01}D'acord. Llavors,
+
+    seguirem investigant.
+- id: 259
+  text: Sora! No deixis que escapi!
+- id: 260
+  text: Què ha passat?
+- id: 261
+  text: >-
+    És increïble... Aquell estúpid mercader
+
+    ha deixat sortir el Jafar de la llàntia!
+- id: 262
+  text: Jafar!?
+- id: 263
+  text: Aladdín, entrega'm la llàntia màgica.
+- id: 264
+  text: I ara, rates de carreu, acomiadeu-vos.
+- id: 265
+  text: Aixafeu aquells mocosos!
+- id: 266
+  text: >-
+    {:unk13 8C 00 50 00}{:unk08 01 01 06}Serà millor que
+
+    tingueu compte.
+- id: 267
+  text: '{:unk13 68 01 2C 01}{:unk08 01 00 00}Eh?'
+- id: 268
+  text: >-
+    {:unk13 42 01 45 00}{:unk08 01 00 05}Estic segur que el
+
+    Jafar vol fer-se amb
+
+    Agrabah un altre cop.{:clear }Però sé que també
+
+    busca venjança.
+- id: 270
+  text: >-
+    {:unk13 96 00 5A 00}{:unk08 01 01 06}Deu seguir irritat
+
+    per l'asumpte de
+
+    la llàntia.
+- id: 271
+  text: >-
+    {:unk13 A0 00 78 00}{:unk08 01 00 00}En Iago era allà quan en
+
+    Jafar va ser alliberat.
+
+    Vinga, Iago. Xerra-ho.
+- id: 272
+  text: >-
+    {:unk13 A0 00 50 00}{:unk08 01 00 05}¡Eh! ¡Ya os he dicho
+
+    todo lo que sé!
+- id: 273
+  text: >-
+    {:unk13 4C 01 F9 00}{:unk08 01 01 02}Aquesta és la teva única
+
+    oportunitat, Iago.{:clear }Si arribo a descobrir que
+
+    ens has mentit o amagat
+
+    alguna cosa, ho pagaràs.{:clear }No tornaré a parlar-te
+
+    mai més!
+- id: 277
+  text: >-
+    {:unk13 60 01 F9 00}{:unk08 01 01 00}No ho suporto més!
+
+    Sí que sé on és en Jafar!
+- id: 278
+  text: '{:unk13 9D 00 41 00}{:unk08 01 00 04}On?'
+- id: 279
+  text: >-
+    {:unk13 96 00 2C 01}{:unk08 01 01 00}Uh, eh, vull dir,
+
+    mireu, jo, ehem...
+
+    Ai, no hauria...
+- id: 280
+  text: '{:unk13 7C 01 64 00}{:unk08 03 00 06}Iago!'
+- id: 281
+  text: '{:unk13 EA 00 61 00}{:unk08 01 00 05}És a les Ruïnes Enterrades.'
+- id: 282
+  text: >-
+    {:unk13 54 01 04 01}{:unk08 01 00 00}Anem a per ell.
+
+    Ves tu davant!
+- id: 283
+  text: >-
+    Quin desastre!
+
+    Serà millor que fem mitja volta.
+- id: 284
+  text: Hi hauria d'haver una manera...
+- id: 285
+  text: Au va nano, aquesta és fàcil!
+- id: 286
+  text: Al, vell amic!
+- id: 287
+  text: >-
+    Per a això serveix tenir
+
+    un geni de col・legueta!
+- id: 288
+  text: >-
+    És a dir, com pots deixar-me en
+
+    la banqueta en un moment així?
+- id: 289
+  text: >-
+    En gran, Al! Deixa'ls bocabadats.{:delay F0 00}{:clear }Dona'ls una bona dosi d'espectacle!
+
+    Què em dius, nano?
+- id: 291
+  text: Hola, Geni!
+- id: 292
+  text: Sora!
+- id: 293
+  text: >-
+    Us ensenyo una coseta
+
+    a la què dic "Agrana-tempestes"?
+- id: 294
+  text: Ahà!
+- id: 295
+  text: Endavant, Geni!
+- id: 296
+  text: >-
+    La veritat és que una tempesteta
+
+    de sorra és massa fàcil...
+- id: 297
+  text: >-
+    Aviam si a la pròxima em fas
+
+    suar una mica. Eh, Al?
+- id: 298
+  text: I ara què fem?
+- id: 299
+  text: Just a temps, catifa!
+- id: 300
+  text: S'ha acabat el joc, Jafar!
+- id: 301
+  text: Segur que és aquí?
+- id: 302
+  text: Iago?
+- id: 303
+  text: >-
+    Si us plau, compreneu-ho.
+
+    No ha estat idea meva!
+- id: 304
+  text: >-
+    Ha estat en Yafar.
+
+    M'ha obligat a dur-vos aquí.{:delay B4 00}{:clear }Vosaltres no el coneixeu com jo!
+
+    Pot arribar a ser molt convincent!{:delay FA 00}{:clear }Em va dir que si no cooperava,
+
+    me anava a...
+- id: 307
+  text: On és?
+- id: 308
+  text: Au va, Al, m'has de perdonar.
+- id: 309
+  text: On és en Jafar!?
+- id: 310
+  text: >-
+    Doncs... Mmm... Vejam...{:delay 7E 00}{:clear }En aquests moments deu
+
+    estar atacant el palau...
+- id: 311
+  text: >-
+    No vaig tenir elecció! Els seus ulls
+
+    brillaven d'una manera molt rara!
+- id: 312
+  text: El que tu diguis.
+- id: 313
+  text: >-
+    Iago, se suposa que ets el nostre amic.{:delay 8C 00}{:clear }Però has estat jugant a dues bandes
+
+    només per salvar-te la pell.
+- id: 315
+  text: Sabia que no havies canviat!
+- id: 316
+  text: Ho sento!
+- id: 317
+  text: Som-hi!
+- id: 318
+  text: >-
+    Descansa una mica, catifa.
+
+    T'ho has guanyat.
+- id: 319
+  text: Anem-nos-en ràpid o en Jafar...!
+- id: 320
+  text: Millor acopa el bec.
+- id: 321
+  text: El palau és per allà! De pressa!
+- id: 322
+  text: >-
+    Ja veuràs, Jafar! Al final
+
+    tindràs el que et mereixes!
+- id: 323
+  text: Oh, i tant que sí, princesa.
+- id: 324
+  text: >-
+    Tot Agrabah serà meu,
+
+    mentre tu...
+- id: 325
+  text: >-
+    {:delay 60 00}{:clear }Tu, com a reina meva, ploraràs
+
+    al meu costat tot l'eternitat!
+- id: 326
+  text: Bah, si us plau!
+- id: 327
+  text: >-
+    {:delay 36 00}{:clear }En aquests moments, el teu estimat
+
+    Aladdín està xiuxiuejant el teu nom...{:delay 18 01}{:clear }amb el seu últim sospir!
+- id: 328
+  text: ''
+- id: 329
+  text: Què estaves dient, Jafar?
+- id: 330
+  text: >-
+    Com goses desafiar-me,
+
+    maleït ocellot!
+- id: 331
+  text: Al!
+- id: 332
+  text: Iago!
+- id: 333
+  text: Us reunireu amb ell...
+- id: 334
+  text: >-
+    {:delay A0 00}{:clear }No! Com és possible que una
+
+    colla de rates de carrer...{:delay B8 01}{:clear }em derroti un altre cop?
+- id: 335
+  text: No et fiquis amb rates de carrer!
+- id: 336
+  text: >-
+    Us heu enfrontat cara a cara
+
+    contra en Jafar i no m'hi has convidat, Al?
+- id: 337
+  text: >-
+    Ho sento, Geni.
+
+    Tot ha sigut molt ràpid.
+- id: 338
+  text: >-
+    Jo que tenia unes remenadetes
+
+    bestials per lluir-les.
+- id: 339
+  text: Però encara et necessiten, Geni!
+- id: 341
+  text: Qui reconstruirà Agrabah?
+- id: 342
+  text: >-
+    Digues que sí!{:delay 48 00}{:clear }En marxa una súper
+
+    reforma per a Agrabah!{:delay 84 00}{:clear }Quan n'acabi no podreu
+
+    ni reconèixer el lloc!
+- id: 346
+  text: Millor deixa-la com era!
+- id: 347
+  text: De debò? La mateixa de sempre?
+- id: 348
+  text: Com vulguis.
+- id: 349
+  text: >-
+    I voilà! La pròxima vegada deixa-m'hi
+
+    afegir unes quantes piscines, d'acord?
+- id: 351
+  text: Suposo que Agrabah ja és fora de perill.
+- id: 352
+  text: Sí. Gràcias, nois.
+- id: 353
+  text: I tu porta't bé, entesos?
+- id: 354
+  text: >-
+    És clar que sí!
+
+    S'han acabat les males partides! He canviat!{:delay 38 01}{:clear }Tant de bo fos tan bon amic com el Geni.
+
+    Si no puc demostrar-vos la meva amistat,{:delay 2C 01}{:clear }què pensareu de mi?
+- id: 357
+  text: >-
+    No, Iago... No és això.{:delay 96 00}{:clear }Els amics no han de demostrar res.{:delay 78 00}{:clear }El que és important és que es diverteixin
+
+    quan són junts. Això és tot.
+- id: 359
+  text: >-
+    Bé...
+
+    i què feu per divertir-vos?
+- id: 360
+  text: Fem això!
+- id: 361
+  text: No em referia a allò.
+- id: 362
+  text: Bé... en fi...
+- id: 363
+  text: Ai, el meu bec!
+- id: 364
+  text: >-
+    Òndia, Iago!
+
+    Espero que no t'hagis fet mal.
+- id: 365
+  text: >-
+    Bé...
+
+    almenys puc volar.
+- id: 366
+  text: Compte!
+- id: 367
+  text: ''
+- id: 368
+  text: >-
+    Eh? Aquell era el meu senyal? Em toca?{:delay 9C 00}{:clear }Vinga, Al, no puc construir
+
+    una autopista o així?
+- id: 370
+  text: >-
+    Ehm, tranquil.
+
+    No t'atabalis, Geni!
+- id: 371
+  text: És que ja no aguanto més!
+- id: 372
+  text: >-
+    {:delay 60 00}{:clear }Sora! Donald! Goofy!
+
+    Sou la bomba!{:delay D8 00}{:clear }Si algun cop us ve de gust una altra gresca
+
+    còsmica, fumeu-me un toc d'atenció, d'acord?
+- id: 374
+  text: Fet!
+- id: 375
+  text: T'estem molt agraïts, Sora.{:delay A8 00}{:clear }No t'oblidis de nosaltres, d'acord?
+- id: 376
+  text: Mai.
+- id: 377
+  text: >-
+    Sora... una cosa més. Sobre aquell
+
+    amic a qui esteu buscant...
+- id: 378
+  text: El trobareu. Confia en mi.
+- id: 379
+  text: >-
+    {:unk13 7C 01 50 00}{:unk08 01 00 06}Suposo que ja ho
+
+    sabeu tot, no?
+- id: 380
+  text: >-
+    {:unk13 A7 00 30 01}{:unk08 01 01 01}Tard o d'hora aquestes
+
+    coses surten a la llum.
+- id: 381
+  text: '{:unk13 90 01 3C 00}{:unk08 01 00 06}Molt cert.'
+- id: 382
+  text: >-
+    {:unk13 DC 00 5B 00}{:unk08 01 01 06}Anava jo d'amagatotis pel palau
+
+    per a, eh, prendre quelcom prestat...{:clear }quan vaig sentir aquella veu.
+
+    Les seves paraules van ser:{:clear }"Allibera'm, i et donaré una
+
+    recompensa sense parió"
+- id: 384
+  text: >-
+    {:unk13 DE 00 3C 00}{:unk08 01 01 07}"Qui ets?", vaig preguntar.
+
+    La veu va parlar un altre cop.{:clear }"El legítim Sultà
+
+    d'Agrabah!, va dir;
+
+    "atrapat per uns vilans’.{:clear }Com vaig poder
+
+    creure'm tal
+
+    bola?{:clear }Potser era sota
+
+    l'encanteri d'en Jafar.
+
+    Sí! Debia ser allò!
+- id: 388
+  text: >-
+    {:unk13 DE 00 4A 00}{:unk08 01 01 04}Ja, i segur que el tresor no
+
+    hi va tenir res a veure, oi?
+- id: 389
+  text: >-
+    {:unk13 CA 00 56 01}{:unk08 01 01 02}Potser una miqueta.{:clear }Però en Jafar mai no
+
+    em va donar res...
+- id: 390
+  text: >-
+    {:unk13 0F 01 70 00}{:unk08 01 00 06}Aleshores, d'on has tret
+
+    totes les teves riqueses?
+- id: 391
+  text: >-
+    {:unk13 53 01 7F 00}{:unk08 01 01 05}De l'home vestit de
+
+    negre, de qui si no!
+- id: 392
+  text: "{:unk13 54 01 96 00}{:unk08 01 00 05}L'Organització {XIII}!?"
+- id: 393
+  text: '{:unk13 07 01 5F 00}{:unk08 01 01 05}Ho sabia!'
+- id: 394
+  text: '{:unk13 C8 00 18 01}{:unk08 01 01 01}Perdoneu-me.'
+- id: 395
+  text: >-
+    {:unk13 F9 00 81 00}{:unk08 01 01 05}El tresor era un regal perquè
+
+    no li digués a ningú que en
+
+    Jafar havia tornat.{:clear }Va dir que destruiria el Jafar
+
+    després de convertir-lo en
+
+    un... "sensecor".{:clear }Així que no era necessari
+
+    pertorbar Agrabah.
+- id: 398
+  text: "{:unk13 16 01 64 00}{:unk08 01 00 07}I t'ho vas creure?"
+- id: 399
+  text: >-
+    {:unk13 AA 00 64 00}{:unk08 01 01 06}Soc un mercader.
+
+    I un dels millors.{:clear }Si el preu és bo, em
+
+    creuria qualsevol cosa.
+- id: 400
+  text: >-
+    {:unk13 B0 00 59 01}Hagués estat una
+
+    estupenda transacció,
+
+    si no m'haguessin vist...
+- id: 401
+  text: '{:unk13 59 01 2E 00}{:unk08 01 00 05}Oh, ets tan amable...'
+- id: 402
+  text: >-
+    Oh! Seré ric! La meva botiga
+
+    desbordarà de riqueses!
+- id: 403
+  text: Ahhh...
+- id: 4065
+  text: >-
+    No em desprendré d'aquesta llàntia
+
+    tret que me ofereixis una fortuna!{:clear }Ja saps, com les dels palaus o
+
+    les enterrades en els deserts...
+- id: 4066
+  text: >-
+    Els mercaders hem de
+
+    pensar en els diners.{:clear }Últimament no hi ha hagut
+
+    res aprofitable, per desgràcia.
+- id: 4079
+  text: >-
+    Ves a la torre abans que
+
+    es tanquin les portes!
+- id: 4084
+  text: ''
+- id: 4085
+  text: ''
+- id: 4086
+  text: ''
+- id: 4088
+  text: >-
+    Avui se n'ha tornat a anar.
+
+    I si aquest cop no torna?
+- id: 4089
+  text: >-
+    Ei! Segons com,
+
+    té una novia secreta!
+- id: 4090
+  text: >-
+    Ja sé! Aniré a
+
+    esbrinar qui és!
+- id: 4091
+  text: "{:delay 4E 00}{:clear }Iago!{:delay 3C 00}{:clear }Ràpid, Sora! Atrapa'l!"
+- id: 4092
+  text: >-
+    Jo avisaré els guàrdies
+
+    i a tot el palau!
+- id: 4093
+  text: La cosa és que... en Iago no és...
+- id: 4094
+  text: Mira que dir-li allò...
+- id: 4095
+  text: ''
+- id: 4096
+  text: >-
+    Ei, hauríem de parlar amb l'Aladdín.
+
+    Ha d'estar per la ciutat, no?
+- id: 4098
+  text: >-
+    Bona idea.
+
+    Em pregunto què deu haver estat fent.
+- id: 4099
+  text: '... molt aviat!'
+- id: 4100
+  text: '{:icon dynamic-cross}Següent'
+- id: 4101
+  text: '{:icon dynamic-cross}Fi'
+- id: 7943
+  text: >-
+    En Jafar deu estar planejant
+
+    prendre el {:theme 0A}palau{:reset}.{:clear }Seguro que no pensa compartir
+
+    amb mi les riqueses que hi trobi!
+- id: 8059
+  text: Venç els sensecor!
+- id: 8061
+  text: Venç tots els sensecor!
+- id: 8062
+  text: >-
+    Venç tots els sensecor!
+
+    Recorda que utilitzar Límits i
+
+    Fusió farà les batalles més fàcils!
+- id: 8063
+  text: Venç tots els sensecor!
+- id: 8064
+  text: >-
+    Derrota tots els sensecor!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 8065
+  text: Examina el monument!
+- id: 8066
+  text: >-
+    Derrota tots els sensecor!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 13029
+  text: >-
+    Per què mai em passa
+
+    res de bo? Ningú em{:clear }regalarà res ni em
+
+    plouran tresors del cel?
+- id: 14142
+  text: Venç tots els enemics!
+- id: 14143
+  text: >-
+    Els sensecor continuaran apareixent
+
+    fins que els derrotis tots.
+
+    Si desapareixen tots els pisos,
+
+    hauràs de començar de nou!
+- id: 14144
+  text: Si no derrotes tots els enemics abans que desaparegui l'últim pis, hauràs de començar de nou!
+- id: 14145
+  text: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 14146
+  text: >-
+    ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+
+    ₓₓₓₓₓₓₓₓₓ
+- id: 14155
+  text: Si desapareix aquest pis, hauràs de començar de nou!
+- id: 14276
+  text: Du l'Abú al pedestal i apaivaga l'ira de les estàtues!
+- id: 14277
+  text: >-
+    Protegeix l'Abú i ajuda'l a
+
+    arribar sa i estalbvi al pedestal!
+- id: 14278
+  text: Quan arribi el moment, digues a l'Abú que salti per sobre les onades!
+- id: 17013
+  text: La porta és tancada.
+- id: 17014
+  text: Emporta't el que hi ha dins!
+- id: 17015
+  text: Salta dins!
+- id: 17016
+  text: Una gemma flotant.
+- id: 17017
+  text: >-
+    Potser pots fer encaixar
+
+    alguna cosa en el buit del pedestal.
+- id: 17018
+  text: Potser no té energia.
+- id: 17019
+  text: No passa res.
+- id: 17020
+  text: Endú-t el que hi ha dins!
+- id: 17021
+  text: Salta dins!
+- id: 17022
+  text: Endú-t el que hi ha dins!
+- id: 17023
+  text: Salta dins!
+- id: 17024
+  text: >-
+    Completa la teva tasca
+
+    en el temps assignat.
+- id: 17025
+  text: >-
+    {:unk08 02 00 06}Activar?
+
+    {:chardelay 33 00}Ara no.
+
+    {:chardelay 09 00}Sí, l'activaré.
+- id: 17026
+  text: >-
+    Completa la teva tasca
+
+    en el temps assignat.
+- id: 17027
+  text: >-
+    {:unk08 02 00 06}Activar?
+
+    {:chardelay 33 00}Millor no.
+
+    {:chardelay 09 00}Endavant!
+- id: 17028
+  text: >-
+    Has superat la prova...
+
+    Poseeixes una gran força!
+- id: 17029
+  text: >-
+    Has superat la prova...
+
+    Poseeixes una gran força!
+- id: 17030
+  text: 'Pròxima parada: abaix!'
+- id: 17031
+  text: 'Pròxima parada: dalt!'
+- id: 17032
+  text: La porta està segellada màgicament.
+- id: 17055
+  text: Persegueix l'ombra d'en Jafar!
+- id: 17056
+  text: En Jafar està llençant encanteris! Atura'l!
+- id: 17057
+  text: Activa tots els interruptors!
+- id: 17058
+  text: Activa un interruptor més!
+- id: 17059
+  text: Si utilitzes màgia per activar l'interruptor, hauràs de ser precís. El color i la formació t'indicaran el moment just.
+- id: 17060
+  text: Ves a la torre abans que es tanquin les portes!
+- id: 17062
+  text: Activa dos interruptors més!
+- id: 17063
+  text: >-
+    Aquell tipus que perseguia el mercader
+
+    us està causant problemes, no?{:clear }Si algú roba aquella llàntia, no hi haurà
+
+    més que desgràcies. De pressa, Sora!
+- id: 17064
+  text: >-
+    Recordes quan l'Aladdín es va
+
+    enamorar de la princesa Jasmín?{:clear }Quant ens va costar impedir que
+
+    en Jafar s'apoderés del palau!
+- id: 17065
+  text: >-
+    En Pete també és en aquest món!{:clear }Deu anar rere aquella llàntia! Se
+
+    l'ha d'atrapar abans que la trobi!
+- id: 17066
+  text: >-
+    Passant sota aquests enderrocs,
+
+    hauríem d'arribar al palau.{:clear }Serà millor seguir el Iago,
+
+    si no volem perdre'ns.
+- id: 17067
+  text: >-
+    El mercader va fugir amb
+
+    la llàntia {:theme 0A}cap al palau{:reset}!{:clear }Serà millor que anem amb compte.
+
+    Pot ser que en Pete ataqui un altre cop!
+- id: 17068
+  text: >-
+    En Jafar deu ser
+
+    per allà {:theme 0A}dalt{:reset}.{:clear }Prepareu-vos per al que vingui,
+
+    amics!
+- id: 17069
+  text: >-
+    Hem arribat a les ruïnes! Que
+
+    pràctiques són les catifes màgiques!
+- id: 17070
+  text: Òndia, aquest lloc és un caos.{:clear }Em pregunto què hi deu fer en Jafar.
+- id: 17071
+  text: >-
+    No puc creure'm el que
+
+    ha fet el mercader!{:clear }Serà millor acabar amb això
+
+    abans que en Jafar la faci bona!
+- id: 17072
+  text: >-
+    Aquesta botiga només era runa,
+
+    i ara sembla un palau.{:clear }Segur que està aliat
+
+    amb en Jafar!
+- id: 17073
+  text: >-
+    Segons en Iago, en Jafar és
+
+    a les ruïnes del desert.{:clear }Hi hauríem de poder
+
+    arribar des de l'{:theme 0A}oasis{:reset}.
+- id: 17074
+  text: >-
+    Veus aquells núvols sinistres?
+
+    Allà és la {:theme 0A}Cova de las Meravelles{:reset}.{:clear }És un lloc perillós, però anant-hi
+
+    junts, no tindrem problemes.
+- id: 17075
+  text: >-
+    A la {:theme 0A}Cova de les Meravelles{:reset}
+
+    hi trobarem suficients riqueses
+
+    per acontentar el mercader.{:clear }Pero no sé si n'hi haurà suficients
+
+    per acontentar-me a mi...
+- id: 17076
+  text: >-
+    Hi ha alguna cosa en la mirada
+
+    d'en Donald que no m'agrada.
+- id: 17077
+  text: >-
+    La catifa està esgotada. Sembla
+
+    que digui "anem-nos-en ja al palau".
+- id: 17095
+  text: >-
+    Aquest gerro pudent
+
+    és ple d'insectes.
+- id: 17689
+  text: >-
+    El palau és per allà, el veus?
+
+    {:theme 0A}És aquell enorme edifici amb cúpula.{:reset}{:clear }Hi ha d'haver algú.
+
+    Gràcies per protegir-me!
+- id: 17690
+  text: >-
+    La{:theme 0A} Cova de les Meravelles {:reset}
+
+    és plena de trampes.{:clear }Necessitareu quelcom més que
+
+    força per sortir-ne d'una peça.
+- id: 17691
+  text: >-
+    Aquella estàtua porta custodiant
+
+    les riqueses contra possibles
+
+    saquejadors centenars d'anys.{:clear }No oblideu que soc aquí per
+
+    ajudar... si no és molt perillós.
+- id: 17692
+  text: >-
+    Sembla que aquell
+
+    Pete no és per aquí.{:clear }Deu haver anat al {:theme 0A}palau{:reset}. Hauríeu
+
+    d'atrapar-lo tan aviat com pugueu.
+- id: 17693
+  text: >-
+    Qui hagués dit que l'Aladdín
+
+    acabaria conquerint la Jasmín!?{:clear }Allò demostra que pots aconseguir
+
+    qualsevol cosa si t'ho proposes!
+- id: 17694
+  text: >-
+    Jo diria que gairebé
+
+    hem arribat.{:clear }TAnt de bo aconseguim el que
+
+    volem sense ficar-nos en embolics.
+- id: 17695
+  text: >-
+    No, de debò! En Jafar és en
+
+    aquelles{:theme 0A} ruïnes{:reset}, us ho juro!{:clear }No menteixo! Potser seria
+
+    millor que no hi anéssiu...
+- id: 17696
+  text: >-
+    L'altre cop, vau impedir que en
+
+    Jafar prengués el control del palau.{:clear }Aquesta vegada, a més de controlar
+
+    el palau, vol venjar-se...{:clear }de vosaltres.
+- id: 17697
+  text: >-
+    Què curiós! No està gens
+
+    malament això d'ajudar la gent.{:clear }Com sempre era jo el que...{:clear }causava problemes, això em
+
+    resulta completament nou.
+- id: 17698
+  text: >-
+    Per què no tornem? No, no podem.
+
+    Tot i que ho hauríem de fer...
+- id: 17727
+  text: Ves cap a l'ombra d'en Jafar!
+- id: 18117
+  text: >-
+    Jafar? Probablement intenti prendre
+
+    el {:theme 0A}palau{:reset}, o alguna altra bogeria.{:clear }No m'interessen els seus plans,
+
+    si no n'obtinc cap benefici.{:clear }Ell és cosa vostra.
+- id: 18118
+  text: >-
+    El meu nou producte es ven com
+
+    xocolata calenta! Vols provar-lo?
+- id: 18119
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Provar-lo?
+
+    {:chardelay 33 00}No m'interessa.
+
+    {:chardelay 52 00}És clar. Si és de franc...
+- id: 18741
+  text: >-
+    Venç els sensecor!
+
+    Són vulnerables a certs
+
+    tipus de màgia. Busca'n la més
+
+    adequada per derrotar-los!
+- id: 18742
+  text: Escapa de les ruïnes!
+- id: 18743
+  text: >-
+    Escapa de les ruïnes i derrota
+
+    els enemics que hi trobis!
+- id: 18744
+  text: >-
+    Has de vèncer en Jafar!
+
+    Si utiltizes la catifa per accelerar,
+
+    podràs eludir els seus atacs!
+- id: 18814
+  text: >-
+    Si no fos pel que va
+
+    passar l'últim cop...{:clear }L'Aladdín i la Jasmín
+
+    no serien junts.{:clear }Així que de certa manera,
+
+    m'ho haurien d'agrair!{:clear }Segur que em perdonaran.
+- id: 18815
+  text: >-
+    Mira aqueste lloc! És un fàstic!
+
+    Què és això, un abocador?{:clear }Un moment. És una botiga!
+
+    Però qui hi voldria comprar?
+- id: 18816
+  text: >-
+    Sembla que l'Aladdín és en el {:theme 0A}palau{:reset}.
+
+    Espero que tots estiguin bé.{:clear }M'agradaria tornar a veure
+
+    el Geni ara que és lliure.
+- id: 18904
+  text: >-
+    He ideat una cosa revolucionària. L'he
+
+    anomenat "monopatí" Vols provar-lo?
+- id: 18905
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Provar-lo?
+
+    {:chardelay 33 00}No m'interessa.
+
+    {:chardelay 52 00}És clar!
+- id: 19080
+  text: Una vella catifa usada.
+- id: 19081
+  text: En la llunyania, es veu una tempesta de sorra.
+- id: 19082
+  text: Aquí hi vas un tresor.
+- id: 19083
+  text: >-
+    Aquest munt d'enderrocs
+
+    obstrueix una vella entrada.
+- id: 19084
+  text: >-
+    Sembla que aquesta estàtua
+
+    lloa els qui superen la prova.
+- id: 19199
+  text: >-
+    Preteneu anar a per riqueses
+
+    a la {:theme 0A}Cova de les Meravelles{:reset}?{:clear }Vas de cap al desert.{:clear }Aquell lloc no m'agrada; és perillós, però
+
+    si amb allò em guanyo la teva confiança...
+- id: 19201
+  text: >-
+    La catifa és mic boja.
+
+    Sembla a punt de enlairar-se.
+- id: 19204
+  text: >-
+    Quina alegria tornar a veure't, Sora!
+
+    Què? Aniràs a les ruïnes?{:clear }Bé, per arribar-hi
+
+    has de creuar el desert...{:clear }No m'estaràs amagant
+
+    res, oi?
+- id: 19205
+  text: >-
+    En Jafar era abans el visir de mon pare.
+
+    Un dia el va hipnotitzar i va intentar...{:clear }obligar-me a me casar-m'hi 
+
+    per poder governar Agrabah!
+- id: 19326
+  text: Aquí hi ha un interruptor ocult.
+- id: 19327
+  text: >-
+    {:unk08 02 00 06}Prèmer l'interruptor?
+
+    {:chardelay 33 00}Millor no.
+
+    {:chardelay 09 00}Aviam què passa!
+- id: 19351
+  text: >-
+    O sigui que l'Aladdín només trobava
+
+    a faltar el Geni! Quin descans!{:clear }Què difícil és ser lluny dels
+
+    amics, no?
+- id: 19585
+  text: >-
+    Els interruptors són repartir per allà.
+
+    Has d'activar-los tots.
+- id: 19614
+  text: No, no! Ni parlar-ne!{:delay 96 00}{:clear }Torna aquí!
+- id: 19752
+  text: Agrabah
+- id: 19867
+  text: Oh, nooooo!
+- id: 19887
+  text: És genial!
+- id: 20154
+  text: >-
+    {:unk08 02 00 06}Una Essència intangible, una
+
+    entitat fosca lligada a una arma.
+
+    {:chardelay 33 00}Millor no arriscar-s'hi.
+
+    {:chardelay A1 00}Fem-li un cop d'ull!
+- id: 20606
+  text: Prem {:icon dynamic-triangle} per començar el duel! Ataca sense parar i no deixis que es curi.
+- id: 21509
+  text: "{:delayandfade 0A 78} \nEn Iago salva d'una bona\na tots, el que dona més\ncredibilitat a les seves disculpes.\n \nDesprés de l'escaramussa,\nel grup es dirigeix cap al\npalau per veure l'Aladdín.\n \n \n"
+- id: 21510
+  text: "{:delayandfade 0A 78} \nEl feliç retrobament queda\ninterromput pel Iago, que\nalterat assegura que en\nla llàntia s'hi troba\nconfinat el vil Jafar.\n \n \n \n \n"
+- id: 21511
+  text: "{:delayandfade 0A 78} \nEl murri mercader exigeix\ncom a pagament per la llàntia\nun tresor digne d'un sultà.\n \nUna cosa així, sens dubte\npodria trobar-se en la\nCova de les Meravelles.\n \n \n"
+- id: 21512
+  text: >-
+    {:delayandfade 0A B4}
+
+    Finalment, els actes del Iago li serveixen
+
+    para guanyar-se la confiança de tots.
+
+
+    Resolts els problemes, el Sora 
+
+    i els seus amics es disposen a
+
+    reprendre  la recerca del Riku
+
+    i el rei, però  és aleshores quan
+
+    s'adonen de l'absència de l'Aladdín...
+- id: 21513
+  text: "{:delayandfade 07 B4}\nDe tornada a Agrabah, en Sora pregunta\nal mercader sobre l'Organització {XIII}.\nTot i que resulta evident que no és\nla primera vegada que escolta aquell\nnom, no xerra res.\n\nNo queda més remei que buscar\npistes en un altre lloc.\n \n \n"
+- id: 21514
+  text: "{:delayandfade 0A 78} \nUn cop més, els plans d'en Jafar\nsón apropiar-se d'Agrabah.\n \nPer sort, el Iago revela al\nSora que el malvat personatge\ns'amaga en les Ruïnes Enterrades\ndel desert.\n \n"

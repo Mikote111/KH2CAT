@@ -1,0 +1,806 @@
+﻿- id: 5348
+  text: >-
+    Si us plau, escorta'm fins
+
+    a la sala d'audiències.
+- id: 5349
+  text: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Escortar la Minnie?
+
+    {:chardelay 33 00}Un moment, si us plau.
+
+    {:chardelay 09 00}D'acord, som-hi!
+- id: 5350
+  text: >-
+    La Sala de la Pedra Angular és
+
+    a sota de la {:theme 0A}sala d'audiències{:reset}.{:clear }Rere aquella porta,
+
+    hauries de trobar la manera{:clear }de salvar el castell.
+
+    Si us plau, ves amb compte, Sora.
+- id: 5351
+  text: >-
+    He trobat un lloc encantador.
+
+    Segur que al Donald li agradarà.{:clear }Així que torneu de pressa, d'acord?
+
+    I torneu-ne sense cap rascada!
+- id: 5352
+  text: >-
+    Estic segura que el Merlí
+
+    ens donarà un cop de mà.{:clear }Si us plau, aneu al Baluard Balmat
+
+    i explique-li el que passa aquí.
+- id: 5353
+  text: >-
+    En aquell món, hi haurà
+
+    una porta idèntica a aquesta.{:clear }Has d'utilitzar el teu
+
+    poder per tancar-la!
+- id: 5354
+  text: >-
+    Oh, no!
+
+    El castell és en perill!{:clear }Ves immediatament a veure la reina!
+
+    La trobaràs a la biblioteca!
+- id: 5355
+  text: >-
+    Aquest es l'Hangar gumi.
+
+    Generalment, és un caos.{:clear }Si atravesses el jardí,
+
+    arribaràs a l'entrada del castell.
+- id: 5368
+  text: >-
+    Ah... Mmm... Em pregunto
+
+    on podria ser aquell vell àlbum...
+- id: 5369
+  text: Reina Minnie!
+- id: 5370
+  text: És terrible!
+- id: 5371
+  text: >-
+    Alguna cosa va malament en
+
+    el Saló de la Pedra Angular!
+- id: 5372
+  text: >-
+    Estan creixent espines
+
+    per tot arreu!
+- id: 5373
+  text: >-
+    Ai, rei Mickey, si poguessis sentir-me.{:delay BA 00}{:clear }El castell és en perill!
+
+    Hem de fer alguna cosa aviat!
+- id: 5374
+  text: Donald... Goofy...
+- id: 5375
+  text: On sou?
+- id: 5376
+  text: És el vostre castell?
+- id: 5377
+  text: Fa gust tornar a casa, eh?
+- id: 5378
+  text: Eh?
+- id: 5379
+  text: >-
+    Sabeu què? Hi ha alguna cosa
+
+    que no acaba d'encaixar...
+- id: 5380
+  text: Sí.
+- id: 5381
+  text: Heu tornat!
+- id: 5382
+  text: Moveu-vos! Som-hi!
+- id: 5383
+  text: La reina Minnie vol veure-us!
+- id: 5384
+  text: >-
+    El castillo corre perill!
+
+    A la biblioteca! Ràpid!
+- id: 5385
+  text: >-
+    Majestat! Reina Minnie!
+
+    Hem tornat!
+- id: 5386
+  text: Sou aquí!
+- id: 5387
+  text: Altesa, ens heu cridat, per ventura?
+- id: 5388
+  text: Exacte.
+- id: 5389
+  text: On és el rei?
+- id: 5390
+  text: >-
+    Disculpeu-lo.
+
+    Ell és el nostre amic Sora.
+- id: 5391
+  text: Sora!
+- id: 5392
+  text: >-
+    El rei m'ha parlat molt
+
+    de tu en les seves cartes.{:delay A8 00} {:clear }Diu que ets un jove molt valent.
+- id: 5393
+  text: Sabeu on és?
+- id: 5394
+  text: >-
+    Majesta, què fan els
+
+    sensecor en el vostre castell?
+- id: 5395
+  text: >-
+    Oh, senyor... llavors,
+
+    aquells són els sensecor.
+- id: 5396
+  text: Ens n'encarregarem.
+- id: 5397
+  text: >-
+    Sé que puc comptar amb tu, Sora.{:delay B4 00}{:clear }Bé, hi ha una cosa que vull que veieu.{:delay DE 00}{:clear }Podeus escortar-me fins a
+
+    la sala d'audiències?
+- id: 5398
+  text: Ar!
+- id: 5399
+  text: ''
+- id: 5400
+  text: >-
+    M'he oblidat d'advertir el perill
+
+    a tots els habitants del castell!{:delay B6 00}{:clear }Hem de dir-los que
+
+    s'ocultin en un lloc segur!
+- id: 5401
+  text: Nosaltres els avisarem.
+- id: 5402
+  text: A tot el castell?
+- id: 5403
+  text: Haurem de separar-nos, Donald.
+- id: 5404
+  text: >-
+    Jo m'encarrego
+
+    que tots se n'adonin.
+- id: 5405
+  text: No, Sora, et pots perdre!
+- id: 5406
+  text: >-
+    Bé. Aleshores jo em
+
+    quedaré amb la reina.
+- id: 5407
+  text: Bé!
+- id: 5408
+  text: D'acord! Fins després!
+- id: 5409
+  text: >-
+    Mmm... a la sala
+
+    d'audiencias, oi?
+- id: 5410
+  text: >-
+    Sí, Sora.
+
+    Afanyem-nos-hi.
+- id: 5415
+  text: Espera un moment.
+- id: 5416
+  text: >-
+    Quan van començar els problemes,
+
+    jo mateixa vaig fer segellar aquesta sala.
+- id: 5417
+  text: Molt bé. Endavant.
+- id: 5418
+  text: No! Aquí també!
+- id: 5419
+  text: Jo me n'encarrego.
+- id: 5420
+  text: Au va, doneu-me un respir.
+- id: 5421
+  text: Eh?
+- id: 5422
+  text: Apa!
+- id: 5423
+  text: >-
+    A aquella estança li diem
+
+    el Saló de la Pedra Angular.
+- id: 5424
+  text: >-
+    El nostre castell sempre ha estat
+
+    protegit de tot món maligne...
+- id: 5425
+  text: >-
+    gràcies a la Pedra Angular de
+
+    Llum que guardem allà abaix.
+- id: 5426
+  text: La Pedra Angular... de Llum?
+- id: 5427
+  text: >-
+    Aquesta és la nostra preada
+
+    Pedra Angular.{:delay FC 00}{:clear }Malgrat això...
+- id: 5428
+  text: Aquelles espines...
+- id: 5429
+  text: Em pregunto què vol dir això...
+- id: 5430
+  text: Malèfica!
+- id: 5431
+  text: És impossible!
+- id: 5432
+  text: >-
+    Vaja, vaja, vaja...
+
+    Què tenim aquí?
+- id: 5433
+  text: >-
+    Però si és el miserable escollit de la
+
+    clau espasa i els seus patètics lacais!
+- id: 5434
+  text: Què!? Ara te les veuràs amb mi!
+- id: 5435
+  text: Tot al seu temps.
+- id: 5436
+  text: >-
+    Us asseguro que tots podreu
+
+    participar de la meva venjança,{:delay B6 00}{:clear }però heu de tenir paciència.
+- id: 5437
+  text: Què fas aquí, Malèfica?
+- id: 5438
+  text: >-
+    Ah, reina Minnie.
+
+    Tan radiant com sempre.
+- id: 5439
+  text: >-
+    Nogensmenys, és una miqueta
+
+    "brillant" per al que tinc en ment.{:delay 26 01}{:clear }Hauré d'omplir
+
+    totes les habitacions{:delay C6 00}{:clear }amb el meu "fosc" toc personal.
+- id: 5440
+  text: >-
+    Serà millor que desisteixis,
+
+    si saps el que et convè!
+- id: 5441
+  text: Uuuhh... Quina por!
+- id: 5442
+  text: Molt bé. Pararé...
+- id: 5443
+  text: Quina bruixa!
+- id: 5444
+  text: >-
+    Mai havia passat res semblant.{:delay 96 00}{:clear }He repassat tots els
+
+    arxius de la biblioteca{:delay 93 00}{:clear }i no he trobat cap pista.
+- id: 5446
+  text: Ohhh!
+- id: 5447
+  text: ''
+- id: 5448
+  text: >-
+    Hauríem de preguntar a algú{:delay 60 00}{:clear }que sàpiga coses que
+
+    no surten als llibres!
+- id: 5449
+  text: El mag Merlí!
+- id: 5450
+  text: Sí! És perfecte!
+- id: 5451
+  text: >-
+    Pot ser que el Merlí sàpiga alguna
+
+    cosa sobre tot aquest embolic.{:delay F0 00}{:clear }Anem a demanar-li consell!
+- id: 5452
+  text: El vam veure a Baluard Balmat, oi?
+- id: 5453
+  text: Sí. Doncs som-hi!
+- id: 5454
+  text: >-
+    ... Els sensecor són
+
+    per tot el castell!
+- id: 5455
+  text: La reina Minnie és en perill!
+- id: 5456
+  text: ''
+- id: 5457
+  text: Una imatge val més que mil paraules.
+- id: 5458
+  text: Interessant.
+- id: 5459
+  text: Què està passant, Merlí?
+- id: 5460
+  text: >-
+    Res bo. De fet, em temo
+
+    que és bastant espinós.
+- id: 5461
+  text: ''
+- id: 5462
+  text: Què és allò?
+- id: 5463
+  text: >-
+    Petit, allò és un portal
+
+    a un món molt especial.
+- id: 5464
+  text: >-
+    Algú d'aquell món és
+
+    responsable del que està passant{:delay C6 00}{:clear }en aquest castell.
+
+    D'això n'estic segur.
+- id: 5465
+  text: No em diguis!
+- id: 5466
+  text: >-
+    Sabíem que podíem
+
+    comptar amb tu, Merlí!
+- id: 5467
+  text: Doncs anem a per ell!
+- id: 5468
+  text: Un moment!
+- id: 5469
+  text: >-
+    Sens dubte s'han de
+
+    detenir els culpables,{:delay A2 00}{:clear }però primer hem
+
+    de fer un altra cosa.
+- id: 5470
+  text: >-
+    En algun lloc d'aquell món hi ha
+
+    d'haver un altre portal idèntic a aquest.
+- id: 5471
+  text: >-
+    Crec que els nostres enemics
+
+    estan utilitzant aquell portal.{:delay FC 00}{:clear }Mentre segueixi obert,
+
+    el castell serà en perill.
+- id: 5472
+  text: >-
+    Així que escolta'm bé, Sora.{:delay 72 00}{:clear }Has de trobar aquell portal i
+
+    cloure'l amb la teva clau espasa.
+- id: 5473
+  text: D'acord.
+- id: 5474
+  text: Compta amb nosaltres!
+- id: 5475
+  text: >-
+    I una cosa més. Us endinsareu
+
+    en un món molt especial.
+- id: 5476
+  text: >-
+    Mentre sou allà, la naturalesa d'aquell món
+
+    pot temptar-vos perquè feu accions fosques.{:delay 20 01}{:clear }Heu de resistir aquella temptació tant sí com no!
+- id: 5477
+  text: Què vols dir?
+- id: 5478
+  text: >-
+    Aviat ho sabreu.
+
+    Tinc fe en vosaltres, xicots!
+- id: 5479
+  text: Les espines han desaparegut!
+- id: 5480
+  text: >-
+    Per tots els meus conjurs!
+
+    Els nois han complert la missió.
+- id: 5481
+  text: Hurra!
+- id: 5482
+  text: >-
+    Fem un banquet
+
+    d'avellanas per celebrar-ho!
+- id: 5483
+  text: Benvinguts a casa!
+- id: 5484
+  text: >-
+    Gràcies al vostre valor, el castell està
+
+    fora de perill i tornar a estar protegit.{:delay 0E 01}{:clear }Moltes gràcies per tot!
+- id: 5485
+  text: Bona feina, nois!
+- id: 5486
+  text: >-
+    Bé, espero que no hagueu fet
+
+    cap ximpleria mentre éreu allà.
+- id: 5487
+  text: Doncs és clar que no!
+- id: 5488
+  text: Daisy!
+- id: 5489
+  text: Daisy, he tornat!
+- id: 5490
+  text: Qui?
+- id: 5491
+  text: La Daisy és l'amoret del Donald.
+- id: 5492
+  text: De debò?
+- id: 5493
+  text: ''
+- id: 5494
+  text: >-
+    Donald, em vas prometre
+
+    que tindríem una cita!{:delay A2 00}{:clear }Més et val tenir una
+
+    bona excusa aquest cop!
+- id: 5495
+  text: Però, Daisy, jo...
+- id: 5496
+  text: >-
+    Sé que és una missió important,{:delay 90 00}{:clear }però podries donar senyals
+
+    de vida de tant en tant.
+- id: 5497
+  text: Sora...
+- id: 5498
+  text: Donald!
+- id: 5499
+  text: Ara torno!
+- id: 5500
+  text: Vas a algun lloc?
+- id: 5501
+  text: És clar que no!
+- id: 5502
+  text: Donald!
+- id: 5503
+  text: Mireu!
+- id: 5504
+  text: ''
+- id: 5505
+  text: >-
+    Daisy, necessitem el teu
+
+    Donald una miqueta més.
+- id: 5506
+  text: Quant més?
+- id: 5507
+  text: Ehm... Doncs...
+- id: 5508
+  text: Tornaré molt aviat, Daisy!
+- id: 5509
+  text: >-
+    No us preocupeu, reina Minnie.
+
+    Tornarem.
+- id: 5510
+  text: >-
+    Si us plau, digueu-li al rei
+
+    que el seguim buscant.
+- id: 5511
+  text: Ho faré!
+- id: 5512
+  text: Fins aviat!
+- id: 5513
+  text: Que la saviesa us guiï!
+- id: 7778
+  text: >-
+    He vingut per un
+
+    asumpte de propietats.{:delay 7A 00}{:clear }Mireu, m'he encapritxat
+
+    d'aquest castell.
+- id: 7779
+  text: Quan el castell em pertanyi!
+- id: 7780
+  text: >-
+    Això ha de ser obra
+
+    d'algú molt pervers.
+- id: 7973
+  text: >-
+    El rei és en algun lloc
+
+    fent tot el que pot.{:clear }Jo mateixa ajudaré en el que pugui,
+
+    però, sobretot, necessitem la teva ajuda!
+- id: 8095
+  text: Protegeix la Minnie de camí al tron!
+- id: 8096
+  text: >-
+    Protegeix la Minnie de camí al tron!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 13874
+  text: >-
+    Sabia que el Merlí ens ajudaria!{:clear }Però el nostre problema segueix
+
+    sense resoldre. Confio en tu, Sora!
+- id: 13949
+  text: >-
+    En una batalla gumi, si vences veloçment
+
+    l'enemic, de vegades n'apareix un altre.{:clear }És més feina per a tu, però pots
+
+    trobar-te amb enemics especials!
+- id: 13950
+  text: >-
+    Mentre tu busques gumis,
+
+    dissenyarem una nau.{:clear }Recull-ne tants com et sigui possible.
+
+    T'avisarem quan el plànol estigui a punt.
+- id: 14274
+  text: Protegeix la Minnie de camí a la sala d'audiències!
+- id: 14275
+  text: >-
+    Protegeix la Minnie de
+
+    camí a la sala d'audiències!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 14422
+  text: La Minnie és en perill!
+- id: 14423
+  text: La Minnie és en perill!
+- id: 16042
+  text: >-
+    Si la Sala de la Pedra Angular està així,
+
+    és que el problema és seriós!{:clear }Si com a mínim hi fos el rei!
+
+    Tot i que, amb tu a prop, em sent millor.
+- id: 16043
+  text: >-
+    Vaja! El Merlí pot crear
+
+    portes a altres mons!{:clear }Si us plau, afanya't cap a la Sala de
+
+    la Pedra Angular i salva el castell!
+- id: 16044
+  text: >-
+    Anem a veure el Merlí, no?{:clear }La nau gumi ja és a punt per volar.
+
+    Anem a Baluard Balmat!
+- id: 16045
+  text: >-
+    Apa, un altre món...
+
+    A mi també m'hi agradaria anar .
+- id: 16122
+  text: >-
+    La sala d'audiències és
+
+    rere {:theme 0A}la gran porta {:reset}del corredor.{:clear }Afanya't, Sora!
+- id: 16123
+  text: >-
+    Una munió d'enemics
+
+    s'interposen en el meu camí.{:clear }Ajuda'm a combatre'ls, Sora.
+- id: 16124
+  text: >-
+    Ara hem d'anar a la
+
+    {:theme 0A}sala d'audiències{:reset}. De pressa, Sora!
+- id: 16969
+  text: Aquesta estàtua et resulta familiar.
+- id: 16970
+  text: Aquesta estàtua et resulta familiar.
+- id: 16971
+  text: Aquest deu ser el tron del rei.
+- id: 16972
+  text: Això deu ser del Pluto.
+- id: 16973
+  text: Veus una carta per a algú.
+- id: 16974
+  text: >-
+    "El Castell Disney és protegit
+
+    per poders màgics."
+- id: 16975
+  text: >-
+    "Des del seu tron, el rei
+
+    vigila el saló tancat."
+- id: 16976
+  text: >-
+    "Si la llum sagrada es perd, el
+
+    castell serà engolit per la foscor."
+- id: 16977
+  text: Serà aquest el rei?
+- id: 16978
+  text: Serà un antepassat del rei?
+- id: 16979
+  text: Sembla que et vulgui dur a algun lloc.
+- id: 16980
+  text: >-
+    {:unk08 02 00 06}El segueixes?
+
+    {:chardelay 33 00}No, gràcies.
+
+    {:chardelay 09 00}¡Sí, mostra'm el camí!
+- id: 16981
+  text: És tancada amb un encanteri.
+- id: 16982
+  text: Emet una estranya llum.
+- id: 16983
+  text: Brillaamb con intensitat.
+- id: 18407
+  text: NOT IN GAME
+- id: 19207
+  text: >-
+    El criat està tan ocupat
+
+    netejant que no parlarà amb tu.
+- id: 19757
+  text: Castell Disney
+- id: 20218
+  text: >-
+    {:unk08 02 00 06}A on deu dur això?
+
+    No fa bona espina...
+
+    {:chardelay 33 00}Millor deixar-ho estar.
+
+    {:chardelay A1 00}Fem-li un cop d'ull!
+- id: 20219
+  text: >-
+    {:unk08 02 00 06}El tipus de l'armadura
+
+    deu ser a l'altre costat.
+
+    {:chardelay 33 00}Millor no molestar-lo.
+
+    {:chardelay A1 00}Vull enfrontar-m'hi!
+- id: 20332
+  text: >-
+    Sento una força molt intensa,
+
+    però dubto que sigui la Malèfica.{:clear }No crec que sigui un perill per
+
+    al castell, però aneu amb compte.
+- id: 20333
+  text: >-
+    Alguna cosa passa en el {:theme 0A}Saló de la Pedra Angular{:reset}!
+
+    Podries investigar-ho amb el Donald?{:clear }Goofy, com a capità de la guàrdia,
+
+    has de defendre el castell.
+- id: 20334
+  text: >-
+    Un increïble poder flueix
+
+    de l'obertura.{:clear }Ignoro què és, però t'aconsello
+
+    que vagis amb molt de compte.
+- id: 20335
+  text: >-
+    Mira, Sora! Aquell enorme forat
+
+    ha aparegut enmig de la sala!{:clear }No se suposava que el castell
+
+    era ja fora de perill?
+- id: 20336
+  text: >-
+    Sembla més nerviosa que normalment.
+
+    Alguna cosa no va bé en el {:theme 0A}castell{:reset}.
+- id: 20548
+  text: >-
+    Derrota l'individu misteriós!
+
+    Podràs plantar cara al més
+
+    temible dels adversaris?
+- id: 21409
+  text: Aqua... Ventus...
+- id: 21410
+  text: Una clau espasa?...{:delay 73 00}{:clear }Qui ets?
+- id: 21411
+  text: >-
+    No és la primera vegada
+
+    que ens trobem.{:delay B9 00}{:clear }Però aleshores...
+- id: 21412
+  text: No, aquell no érets tu...{:delay 73 00}{:clear }No ets tu qui vaig escollir...
+- id: 21413
+  text: On és l'altre?
+- id: 21414
+  text: Xe... ha... nort...
+- id: 21415
+  text: Ets tu?
+- id: 21416
+  text: '...'
+- id: 21417
+  text: Xeha... nort...
+- id: 21418
+  text: Xehanort!
+- id: 21419
+  text: Això no s'ha acabat encara!
+- id: 21420
+  text: Ara ho veig. La teva força...{:delay 78 00}{:clear }Allò és el que he sentit en tu...
+- id: 21421
+  text: >-
+    {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Has tornat, jove portador
+
+    de la clau espasa.
+- id: 21422
+  text: >-
+    {:unk13 76 01 3C 00}{:unk06 01}{:unk08 03 00 05}Res queda ja que pugui
+
+    oferir-te.{:clear }Només la rancúnia cap al Xehanort
+
+    té cabuda en el meu ésser.{:clear }Estaries disposat a ser partícip
+
+    d'aquesta, la meva càrrega?
+- id: 21425
+  text: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Ei, Sora!
+
+    Just a temps!
+- id: 21426
+  text: >-
+    {:unk13 86 01 DC 00}{:unk06 02}{:unk08 03 00 05}Alguna cosa no va bé.
+
+    Mira allò!
+- id: 21427
+  text: >-
+    {:unk13 68 01 D2 00}{:unk06 00}{:unk08 01 00 07}Em vaig adonar que
+
+    era allà quan vaig venir
+
+    a veure la Pedra Angular.
+- id: 21428
+  text: >-
+    {:unk13 F0 00 E6 00}{:unk06 00}{:unk08 01 01 06}Crec que podria estar
+
+    connectat amb un altre lloc...
+- id: 21429
+  text: >-
+    {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 05}I si fos un altre
+
+    portal al passat?
+- id: 21430
+  text: >-
+    {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 00 06}A mi em fa olor de trampa
+
+    de l'Organització {XIII}!
+- id: 21431
+  text: >-
+    {:unk13 54 01 50 00}{:unk06 00}{:unk08 01 01 05}Sigui el que sigui, millor
+
+    investigar-ho amb compte.
+- id: 21625
+  text: Les ordres són bloquejades! Fes alguna cosa!
+- id: 21626
+  text: Ja pots utilitzar algunes ordres!
+- id: 21627
+  text: Algunes ordres són bloqueados! Fes alguna cosa!
+- id: 21628
+  text: Ja pots utilitzar les ordres!

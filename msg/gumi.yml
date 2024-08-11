@@ -1,0 +1,2976 @@
+﻿- id: 6219
+  text: Llista de tresors
+- id: 6220
+  text: Material gumi
+- id: 6221
+  text: Gumi Aero
+- id: 6222
+  text: Casc pla
+- id: 6223
+  text: Casc corb
+- id: 6224
+  text: Casc sòlid
+- id: 6225
+  text: Casc esfèric
+- id: 6226
+  text: Gumi Pont
+- id: 6227
+  text: Gumi Pont+
+- id: 6228
+  text: Gumi Envió
+- id: 6229
+  text: Gumi Impuls
+- id: 6230
+  text: Gumi Coet
+- id: 6231
+  text: Gumi Minipropulsor
+- id: 6232
+  text: Gumi Propulsor
+- id: 6233
+  text: '{:width 95}Gumi Rotopropulsor'
+- id: 6234
+  text: Gumi Turbo Sònic
+- id: 6235
+  text: Gumi Rotor
+- id: 6236
+  text: Gumi Megarrotor
+- id: 6237
+  text: Gumi Tempestat
+- id: 6238
+  text: Gumi Huracà
+- id: 6239
+  text: Gumi Tifó
+- id: 6240
+  text: Gumi Cicló
+- id: 6241
+  text: Gumi Vòrtex
+- id: 6242
+  text: Gumi Tempesta
+- id: 6243
+  text: Gumi Àngel
+- id: 6244
+  text: Gumi Penombra
+- id: 6245
+  text: Gumi Barrera
+- id: 6246
+  text: Gumi Mur
+- id: 6247
+  text: Gumi Escut
+- id: 6248
+  text: Gumi Escut+
+- id: 6249
+  text: Gumi Piro
+- id: 6250
+  text: Gumi Piro+
+- id: 6251
+  text: Gumi Piro++
+- id: 6252
+  text: Gumi Glaç
+- id: 6253
+  text: Gumi Glaç+
+- id: 6254
+  text: Gumi Glaç++
+- id: 6255
+  text: Gumi Gravetat
+- id: 6256
+  text: Gumi Gravetat+
+- id: 6257
+  text: Gumi Gravetat++
+- id: 6258
+  text: Gumi Electro
+- id: 6259
+  text: Gumi Electro+
+- id: 6260
+  text: Gumi Electro++
+- id: 6261
+  text: Gumi Cometa
+- id: 6262
+  text: Gumi Meteo
+- id: 6263
+  text: Gumi Artema
+- id: 6264
+  text: Gumi Trepant
+- id: 6265
+  text: Gumi Serra
+- id: 6266
+  text: Gumi Oritxalcum
+- id: 6267
+  text: Gumi Masamune
+- id: 6268
+  text: Gumi Excalibur
+- id: 6269
+  text: Gumi Infinit
+- id: 6270
+  text: Esfera de Neó
+- id: 6271
+  text: Barra de Neó
+- id: 6272
+  text: Gumi Volant
+- id: 6273
+  text: Gumi Paràbola
+- id: 6274
+  text: Gumi Antena
+- id: 6275
+  text: Gumi Radar
+- id: 6276
+  text: Esfera de Llmu
+- id: 6277
+  text: Cubell de Llum
+- id: 6278
+  text: Corona Gumi
+- id: 6279
+  text: Gumi Shuriken
+- id: 6280
+  text: Gumi Repel
+- id: 6281
+  text: Gumi Bumeran
+- id: 6282
+  text: Gumi Lluna
+- id: 6283
+  text: Gumi Puny
+- id: 6284
+  text: Gumi Bomba
+- id: 6287
+  text: Gumi Drenatge
+- id: 6303
+  text: Atracció
+- id: 6307
+  text: Cura ▴
+- id: 6311
+  text: Auto Vital
+- id: 6314
+  text: DUMMY
+- id: 6315
+  text: >-
+    Pots modificar els materials
+
+    gumi per realitzar els teus dissenys.
+
+    Si els hi afegeixes bisells, tubs o
+
+    corbes, la VT de la nau augmentarà.
+- id: 6316
+  text: >-
+    Pots modificar els materials gumi
+
+    per realitzar els teus dissenys.
+
+    La movilitat de la nau augmentarà
+
+    si utilitzes gumis Aero.
+- id: 6329
+  text: Gumi-cabines
+- id: 6330
+  text: Gumi-ales
+- id: 6331
+  text: Gumi-motors
+- id: 6332
+  text: '{:width 90}Gumi-projectils'
+- id: 6333
+  text: Gumi-rajos
+- id: 6334
+  text: Gumi-proteccions
+- id: 6335
+  text: '{:width 92}Gumis opcionals'
+- id: 6336
+  text: Gumi-blancs
+- id: 6337
+  text: Asignar habilitats
+- id: 6339
+  text: Multigumis
+- id: 6340
+  text: Donar-hi forma
+- id: 6341
+  text: Copiar i col・locar
+- id: 6342
+  text: Editar
+- id: 6343
+  text: Pintar
+- id: 6344
+  text: Desfer
+- id: 6345
+  text: Refer
+- id: 6346
+  text: Canvi de mode
+- id: 6349
+  text: Guardar plànol
+- id: 6350
+  text: Sortir
+- id: 6351
+  text: Gumis bisellats
+- id: 6352
+  text: Gumis corbs
+- id: 6353
+  text: Gumis Aero
+- id: 6354
+  text: Col・locar gumis
+- id: 6355
+  text: Agregar-hi bisells
+- id: 6356
+  text: Agregar-hi corbes
+- id: 6357
+  text: Agregar-hi una punta
+- id: 6358
+  text: Còpia normal
+- id: 6359
+  text: Còpia en mirall
+- id: 6365
+  text: >-
+    Canvia les formes dels materials
+
+    gumi abans de col・locar-los.
+- id: 6366
+  text: >-
+    Agrega bisells a un material gumi
+
+    per augmentar la VT de la nau.
+- id: 6367
+  text: >-
+    Agrega corbes a un material gumi
+
+    per augmentar molt la VT de la nau.
+- id: 6368
+  text: >-
+    Agrega aerodinàmica a un material gumi
+
+    per augmentar la movilitat de la nau.
+- id: 6369
+  text: >-
+    Si els agrupes, hi pots col・locar
+
+    múltiples materials gumi a la vegada.
+- id: 6372
+  text: >-
+    Canvia la forma dels gumis
+
+    que ja hagis col・locat.
+- id: 6373
+  text: >-
+    Agrega bisells al material
+
+    gumi seleccionat.
+- id: 6374
+  text: >-
+    Agrega corbes al material
+
+    gumi seleccionat.
+- id: 6375
+  text: >-
+    Afila el material gumi seleccionat
+
+    en la direcció escollida.
+- id: 6376
+  text: >-
+    Clona un o més gumis que hagis
+
+    col・locat i col・loca-hi la còpia.
+- id: 6377
+  text: Còpia el disseny gumi tal com és.
+- id: 6378
+  text: >-
+    Gira el disseny gumi
+
+    abans de copiar-lo.
+- id: 6379
+  text: >-
+    Mou els blocs gumi que has
+
+    col・locat o els treu del muntatge.
+- id: 6380
+  text: Dona color als blocs gumi.
+- id: 6381
+  text: >-
+    Fes un pas enrere i torna el
+
+    montatge a la seva condició prèvia.
+- id: 6382
+  text: >-
+    Desfés l'últim canvi i retorna
+
+    el muntatge a la seva condició prèvia.
+- id: 6383
+  text: >-
+    Canvia a un mode d'edició dissenyat
+
+    per col・locar deco-gumis.
+- id: 6384
+  text: >-
+    Configura l'Editor segons
+
+    les teves preferències.
+- id: 6386
+  text: >-
+    Abandona el muntatge de la
+
+    nau gumi i surt de l'Editor.
+- id: 6387
+  text: Augmenta l'energía total de la nau.
+- id: 6388
+  text: >-
+    Col・loca deco-gumis que
+
+    augmenten la movilitat de la nau.
+- id: 6389
+  text: >-
+    Col・loca deco-gumis que
+
+    augmenten la velocitat de la nau.
+- id: 6390
+  text: >-
+    Col・loca deco-gumis que disparen
+
+    quan prems {:icon dynamic-cross}.
+- id: 6391
+  text: >-
+    Col・loca deco-gumis que llencen rajos
+
+    a objectius propers si prems {:icon dynamic-triangle}.
+- id: 6392
+  text: >-
+    Col・loca deco-gumis que puguin
+
+    bloquejar el foc enemic.
+- id: 6393
+  text: >-
+    No t'oblidis d'incloure
+
+    deco-gumis dels rars i únics.
+- id: 6394
+  text: >-
+    Col・loca deco-gumis que fixen un blanc
+
+    i disparen quan mantens premut {:icon dynamic-cross}.
+- id: 6395
+  text: Assigna unitats d'habilitat.
+- id: 6396
+  text: >-
+    Canvia a un mode d'edició dissenyat
+
+    per col・locar materials gumi.
+- id: 6399
+  text: Començar
+- id: 6400
+  text: Editor gumi
+- id: 6404
+  text: Seleccionar nivell de missió per a volar.
+- id: 6415
+  text: Naus gumi
+- id: 6416
+  text: Nauetes
+- id: 6422
+  text: Mapa dels mons
+- id: 6424
+  text: Atac
+- id: 6425
+  text: Cost
+- id: 6426
+  text: VT
+- id: 6427
+  text: Velocitat
+- id: 6428
+  text: Movilitat
+- id: 6429
+  text: '-'
+- id: 8434
+  text: >-
+    Atreu les esferes que normalment
+
+    són fora de l'abast.
+- id: 8438
+  text: >-
+    Augmenta l'efecte recuperador
+
+    de les esferes de VT.
+- id: 8442
+  text: >-
+    Retorna VT després de la primera
+
+    vegada que l'indicador arriba a 0.
+- id: 8450
+  text: Envola i pren la ruta gumi!
+- id: 8451
+  text: Construeix i millora les naus gumi!
+- id: 8466
+  text: '{:width 84}Construeix naus amb els blocs gumi que has reunit.'
+- id: 8467
+  text: '{:width 84}Construeix nauetes perquè defensin la teva nau gumi.'
+- id: 8473
+  text: Tornar al mapa dels mons.
+- id: 13976
+  text: Canviar formació
+- id: 14075
+  text: Continuar
+- id: 14076
+  text: Reintentar
+- id: 14077
+  text: Foc ràpid
+- id: 14078
+  text: Semiautomàtic
+- id: 14079
+  text: Automàtic
+- id: 14080
+  text: Eix Y
+- id: 14081
+  text: Normal
+- id: 14082
+  text: Invertir
+- id: 14083
+  text: Càmera
+- id: 14084
+  text: Normal
+- id: 14085
+  text: Invertir
+- id: 14086
+  text: Menú gumi
+- id: 14087
+  text: Mapa dels mons
+- id: 14280
+  text: Configuració
+- id: 14281
+  text: Armes gumi
+- id: 14282
+  text: '{:width 90}Gumis de moviment'
+- id: 14283
+  text: '{:width 90}Gumis auxiliars'
+- id: 14289
+  text: Continuar
+- id: 14290
+  text: Menú gumi
+- id: 14291
+  text: Mapa dels mons
+- id: 14648
+  text: >-
+    Guarda en un plànol la nau
+
+    gumi que has construit.
+- id: 14649
+  text: >-
+    Col・loca deco-gumis dissenyars
+
+    per a l'ataque.
+- id: 14650
+  text: >-
+    Col・loca deco-gumis
+
+    de moviment.
+- id: 14651
+  text: >-
+    Col・loca deco-gumis dissenyats
+
+    per a aplicacions especials.
+- id: 14681
+  text: Canó ▴
+- id: 14682
+  text: Làser ▴
+- id: 14683
+  text: Raig ▴
+- id: 14684
+  text: Convertir medalles
+- id: 14685
+  text: Auto Regen
+- id: 14686
+  text: Auto Contra
+- id: 14687
+  text: Convertir costos
+- id: 14688
+  text: Formació activa
+- id: 14689
+  text: '{:width 95}Disseny A'
+- id: 14690
+  text: '{:width 95}Disseny B'
+- id: 14691
+  text: Dissenys realistes
+- id: 14692
+  text: Calcamonies
+- id: 14693
+  text: Dissenys varis A
+- id: 14694
+  text: Dissenys vari B
+- id: 14695
+  text: Dissenys de neó A
+- id: 14696
+  text: Dissenys de neó B
+- id: 14697
+  text: Cost límit ▴
+- id: 14699
+  text: Sistema de nauetes
+- id: 14700
+  text: PH límit ▴
+- id: 14701
+  text: Model Fong
+- id: 14702
+  text: Model Venteguera α
+- id: 14703
+  text: Model PuPu
+- id: 14704
+  text: Model Tonberry
+- id: 14705
+  text: Model Moguri
+- id: 14706
+  text: Model {:width 95}Mandràgora {:width 100}
+- id: 14707
+  text: Model Txocobo
+- id: 14708
+  text: Model Cactili
+- id: 14709
+  text: Model Cait Sith
+- id: 14710
+  text: Model Fenrir
+- id: 14711
+  text: Model Kingdom
+- id: 14712
+  text: Model Secret
+- id: 15148
+  text: '{:width 95}Límit de nauetes ▴'
+- id: 15181
+  text: >-
+    Augmenta el mal que
+
+    causen els atacs de canó.
+- id: 15182
+  text: >-
+    Augmenta el mal que causen
+
+    els atacs làser.
+- id: 15183
+  text: >-
+    Augmenta el mal que causen
+
+    els atacs amb gumi-rajos.
+- id: 15184
+  text: >-
+    Fa que les esferes de medalla apareixin
+
+    més sovint que les esferes de VT.
+- id: 15185
+  text: >-
+    Després d'un temps, retorna
+
+    VT automàticament.
+- id: 15186
+  text: >-
+    Si un enemic et toca, llença
+
+    trets làser automàticament.
+- id: 15187
+  text: >-
+    Et permet abandonar una naueta
+
+    i agregar-ne el se cost a la
+
+    nau gumi.
+- id: 15188
+  text: >-
+    Et permet canviar la formació
+
+    de les nauetes amb {:icon dynamic-l2} i {:icon dynamic-r2}.
+- id: 15189
+  text: >-
+    Et permet canviar l'energia de les
+
+    nauetes a una formació activa amb {:icon dynamic-square}.
+- id: 15196
+  text: Material gumi ₓ 5
+- id: 15197
+  text: Material gumi ₓ 10
+- id: 15198
+  text: Material gumi ₓ 20
+- id: 15420
+  text: Energia
+- id: 15421
+  text: >-
+    Llença dues sèries de trets cap
+
+    a davant. Foc ràpid habilitat.
+- id: 15422
+  text: >-
+    Dues fortes sèries de trets
+
+    cap a endavant. Foc ràpid habilitat.
+- id: 15423
+  text: >-
+    Dues fortes sèries de trets
+
+    cap a endavant. Foc ràpid habilitat.
+- id: 15424
+  text: >-
+    Dues fortes sèries de trets en dues
+
+    direccions. Foc ràpid habilitat.
+- id: 15425
+  text: >-
+    Dues fortes sèries de trets en tres
+
+    direccions. Foc ràpid habilitat.
+- id: 15426
+  text: >-
+    Dues fortes sèries de trets en quatre
+
+    direccions. Foc ràpid habilitat.
+- id: 15427
+  text: >-
+    Llença una sèrie de trets
+
+    que s'escampen en impactar.
+- id: 15428
+  text: >-
+    Llença una sèrie de trets
+
+    que s'escampen en impactar.
+- id: 15429
+  text: >-
+    Llença una poderosa sèrie de trets
+
+    que s'escampen en impactar.
+- id: 15430
+  text: >-
+    Els trets làser busquen blancs
+
+    que han estat fixats. Pots fixar
+
+    dos enemics a la vegada.
+- id: 15431
+  text: >-
+    Els trets làser busquen blancs
+
+    que han estat fixats. Pots fixar
+
+    quatre enemics a la vegada.
+- id: 15432
+  text: >-
+    Els trets làser busquen blancs
+
+    que han estat fixats. Pots fixar
+
+    sis enemics a la vegada.
+- id: 15433
+  text: >-
+    Fixa el blanc en objectius propers
+
+    i hi llença dos trets làser.
+- id: 15434
+  text: >-
+    Fixa el blanc en objectius propers
+
+    i hi llença quatre trets làser.
+- id: 15435
+  text: >-
+    Els trets làser busquen blancs
+
+    fixes. Pots apuntar un objectiu
+
+    difícil i atacar-lo fins a sis
+
+    cops seguits.
+- id: 15436
+  text: >-
+    Danya els enemics que
+
+    xoquen amb el bloc gumi.
+- id: 15437
+  text: >-
+    Danya els enemics que
+
+    xoquen amb el bloc gumi.
+- id: 15438
+  text: >
+    Utilitza l'indicador de Raig per llençar
+
+    un atac frontal que atravessa la
+
+    defensa enemiga. Si hi agregues més
+
+    gumi-rajos, podràs realitzar combos.
+- id: 15439
+  text: >
+    Utilitza l'indicador de Raig per llençar
+
+    un atac vertical que atraviesa la
+
+    defensa enemiga. Si hi agregues més
+
+    gumi-rajos, podràs realitzar combos.
+- id: 15440
+  text: >
+    Utilitza l'indicador de Raig per llençar
+
+    un atac horitzontal que atraviesa la
+
+    defensa enemiga. Si hi agregues més
+
+    gumi-rajos, podràs realitzar combos.
+- id: 15441
+  text: >
+    Utilitza l'indicador de Raig per llençar
+
+    un atac circular que atravessa la
+
+    defensa enemiga. Si hi agregues més
+
+    gumi-rajos, podràs realitzar combos.
+- id: 15442
+  text: >-
+    Consumeix energia, però
+
+    augmenta la velocitat de la nau.
+- id: 15443
+  text: >-
+    Consumeix energia, però
+
+    augmenta la velocitat de la nau.
+- id: 15444
+  text: >-
+    Consumeix energia, però
+
+    augmenta la velocitat de la nau.
+- id: 15445
+  text: >-
+    Consumeix energia, però
+
+    augmenta la velocitat de la nau.
+- id: 15446
+  text: >-
+    Consumeix energia, però
+
+    augmenta la velocitat de la nau.
+- id: 15447
+  text: >-
+    Consumeix energia, però
+
+    augmenta la velocitat de la nau.
+- id: 15448
+  text: >-
+    Consumeix energia, però
+
+    augmenta la velocitat de la nau.
+- id: 15449
+  text: >-
+    Consumeix energia, però
+
+    augmenta la velocitat de la nau.
+- id: 15450
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15451
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15452
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15453
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15454
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15455
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15456
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15457
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15458
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 15459
+  text: >-
+    La nau es ralentitza, però
+
+    s'hi incrementa l'energia
+
+    i n'augmenta el mal que
+
+    causen les armes gumi.
+- id: 15460
+  text: >-
+    La nau es ralentitza, però
+
+    s'hi incrementa l'energia
+
+    i n'augmenta el mal que
+
+    causen les armes gumi.
+- id: 15461
+  text: >-
+    La nau es ralentitza, però
+
+    s'hi incrementa l'energia
+
+    i n'augmenta el mal que
+
+    causen les armes gumi.
+- id: 15462
+  text: >-
+    La nau es ralentitza, però
+
+    s'hi incrementa l'energia
+
+    i n'augmenta el mal que
+
+    causen les armes gumi.
+- id: 15463
+  text: >-
+    La nau es ralentitza, però
+
+    s'hi incrementa l'energia
+
+    i n'augmenta el mal que
+
+    causen les armes gumi.
+- id: 15464
+  text: >-
+    La nau es ralentitza, però
+
+    s'hi incrementa l'energia
+
+    i n'augmenta el mal que
+
+    causen les armes gumi.
+- id: 15465
+  text: >-
+    Bloqueja el foc enemic normal,
+
+    però redueix l'energia de la nau.
+- id: 15466
+  text: >-
+    Bloqueja el foc enemic normal,
+
+    però redueix l'energia de la nau.
+- id: 15467
+  text: >-
+    Bloqueja els atacs amb
+
+    làser dels enemics,
+
+    però redueix l'energia de la nau.
+- id: 15468
+  text: >-
+    Bloqueja els atacs amb
+
+    làser dels enemics,
+
+    però redueix l'energia de la nau.
+- id: 15469
+  text: Augmenta l'energia de la nau.
+- id: 15470
+  text: Augmenta l'energia de la nau.
+- id: 15471
+  text: Augmenta la movilitat de la nau.
+- id: 15472
+  text: >-
+    Et permet fixar blancs més ràpidament,
+
+    però sacrifiques una mica de velocitat.
+
+    Si n'agregues varis, milloraràs
+
+    la resposta del blanc fixe.
+- id: 15473
+  text: >-
+    Et permet fixar blancs més ràpidament,
+
+    però sacrifiques una mica de velocitat.
+
+    Si n'agregues varis, milloraràs
+
+    la resposta del blanc fixe.
+- id: 15474
+  text: >-
+    Et permet fixar blancs més ràpidament,
+
+    però sacrifiques una mica de velocitat.
+
+    Si n'agregues varis, milloraràs
+
+    la resposta del blanc fixe.
+- id: 15475
+  text: >-
+    Consumeix energia, però
+
+    augmenta molt la VT de la nau.
+- id: 15476
+  text: >-
+    Consumeix energia, però
+
+    augmenta molt la VT de la nau.
+- id: 15477
+  text: >-
+    Redueix la VT a 1, però la nau
+
+    comença les missions en mode Bogeria.
+- id: 15478
+  text: >-
+    Danya els enemics que
+
+    xoquen amb el bloc gumi.
+- id: 15479
+  text: >-
+    Absorbeix i redirecciona el foc
+
+    enemic normal. Quants més
+
+    trets absorbeixes, més poderós
+
+    resulta el teu contraatac.
+- id: 15679
+  text: '{:width 90}{:color #8080F080}{:icon dynamic-select}{:reset}{:width 90}: Tancar'
+- id: 15680
+  text: '{:icon dynamic-cross}: Obrir'
+- id: 15681
+  text: '{:icon dynamic-circle}: Enrere'
+- id: 15683
+  text: 'Materials gumi {:color #8080F080}▸{:reset}'
+- id: 15684
+  text: 'Deco-gumis {:color #8080F080}▸{:reset}'
+- id: 15685
+  text: 'Col・locar gumis {:color #8080F080}▸{:reset}'
+- id: 15686
+  text: 'Copiar i col・locar {:color #8080F080}▸{:reset}'
+- id: 15687
+  text: 'Donar-hi forma {:color #8080F080}▸{:reset}'
+- id: 15697
+  text: 'Armes gumi {:color #8080F080}▸{:reset}'
+- id: 15698
+  text: 'Gumis de moviment {:color #8080F080}▸{:reset}'
+- id: 15699
+  text: 'Gumis auxiliars {:color #8080F080}▸{:reset}'
+- id: 15874
+  text: Abans de començar
+- id: 15875
+  text: Mode visor
+- id: 15876
+  text: 'A construir! {:color #8080F080}▸{:reset}'
+- id: 15877
+  text: 'Informació addicional {:color #8080F080}▸{:reset}'
+- id: 15878
+  text: 1. Selecció
+- id: 15879
+  text: 3. Normes
+- id: 15880
+  text: Controls
+- id: 15881
+  text: 2. Seleccionar una àrea
+- id: 15882
+  text: 1. Còpia normal
+- id: 15883
+  text: 1. Modificacions
+- id: 15884
+  text: 3. Afegir-hi puntes
+- id: 15885
+  text: 1. Selecció
+- id: 15886
+  text: 3. Afegir-hi colors
+- id: 16440
+  text: Començar
+- id: 16441
+  text: Cancel・lar
+- id: 16582
+  text: Benvingut a l'Editor!
+- id: 16583
+  text: Els materials gumi
+- id: 16584
+  text: Els deco-gumis
+- id: 16585
+  text: El mode visor
+- id: 16586
+  text: Com construir naus gumi
+- id: 16587
+  text: Quadern d'informació
+- id: 16588
+  text: Col・locar materials gumi
+- id: 16589
+  text: Còpiar formes i col・locar
+- id: 16590
+  text: Canviar formes de gumis
+- id: 16600
+  text: Gumis d'atac
+- id: 16601
+  text: Gumis de moviment
+- id: 16602
+  text: Deco-gumis especials
+- id: 16612
+  text: Seleccionem els gumis!
+- id: 16613
+  text: Normes de col・locació
+- id: 16614
+  text: Controls
+- id: 16615
+  text: Com seleccionar una àrea
+- id: 16616
+  text: Com fer una còpia normal
+- id: 16617
+  text: Bisells i corbes
+- id: 16618
+  text: Com afegir puntes
+- id: 16619
+  text: Escollir colors de la paleta
+- id: 16620
+  text: Afegir color als blocs gumi
+- id: 16634
+  text: >-
+    Les naus gumi són vehicles especials,
+
+    construïts amb {:color #8080F080}blocs gumi{:reset}.
+
+
+    Amb aquest Editor gumi, pots
+
+    construir la teva pròpia nau o
+
+    remodelar naus basades en
+
+    els plànols que hagis adquirit.
+
+
+    {:color #00F0F080}- Prem {:icon dynamic-select} i obtindràs ajuda!{:reset}
+
+    Només prement {:icon dynamic-select},
+
+    pots accedir a aquesta {:color #F0F00080}guia gumi{:reset} en 
+
+    qualsevol moment. Si en fabricar tens
+
+    dubtes, prem {:icon dynamic-select} per rebre asistència.
+- id: 16635
+  text: >-
+    Els materials gumi són {:color #F0F00080}blocs que
+
+    pots adaptar{:reset} d'acord amb les teves
+
+    necessitats a l'hora de construir.
+
+
+    {:color #00F0F080}- Crea una estructura amb materials gumi!{:reset}
+
+    Per treballar amb materials gumi,
+
+    s'utilitzen tres eines bàsiques:
+
+    {:color #8080F080}Col・locar gumis{:reset}, {:color #8080F080}Còpiar i col・locar{:reset}, i
+
+    {:color #8080F080}Donar-hi forma{:reset}.
+
+
+    {:color #00F0F080}- Com es canvia de mode?{:reset}
+
+    Mentre treballes amb materials gumi,
+
+    pots prèmer {:icon dynamic-triangle} o escollir que
+
+    l'ordre {:color #8080F080}Canvi de mode{:reset} canviï
+
+    a {:color #F0F00080}mode d'edició per a deco-gumis{:reset}.
+- id: 16636
+  text: >-
+    Els accessoris gumi, o deco-gumis, són
+
+    blocs que posseixen funcions especials
+
+    i no es poden reformar.
+
+
+    {:color #00F0F080}- Col・loca alguns deco-gumis!{:reset}
+
+    Per col・locar deco-gumis, s'utilitza una
+
+    d'aquestes tres ordres, segons el tipus de gumi:
+
+    {:color #8080F080}Armes gumi{:reset}, {:color #8080F080}Gumis de moviment{:reset}, o
+
+    {:color #8080F080}Gumis auxiliars{:reset}.
+
+
+    {:color #00F0F080}- Com es canvia de mode?{:reset}
+
+    Mentre treballes amb deco-gumis, pots
+
+    prèmer {:icon dynamic-triangle} o escollir que l'ordre
+
+    {:color #8080F080}Canvi de mode{:reset} canviï a {:color #F0F00080}mode de edició
+
+    per a materials gumi{:reset}.
+- id: 16637
+  text: >-
+    En editar, pots veure la nau gumi
+
+    prement {:color #8080F080}{:icon dynamic-start}{:reset} en el menú superior.
+
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Apropar/Allunyar
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+
+    {:color #8080F080}{:icon dynamic-r3}{:reset}: Posició de càmera inicial
+
+    {:icon dynamic-circle}: Sortir del mode visor
+
+
+    {:color #00F0F080}- {:icon dynamic-start} durant l'edició{:reset}
+
+    Si vols tornar al menú superior
+
+    mentre edites, prem {:color #8080F080}{:icon dynamic-start}{:reset}.
+- id: 16638
+  text: >-
+    Existeixen molts tipus de blocs gumi.
+
+    La funcionalitat de la teva nau gumi depèn
+
+    de {:color #F0F00080}la combinació de blocs que utilitzis
+
+    per construir-la{:reset}. Aquesta guia gumi
+
+    t'ensenyarà a utilitzar el sistema
+
+    i a construir naus.
+
+
+    {:color #00F0F080}- Descobreix la guia gumi!{:reset}
+
+    Com utilitzar aquesta guia:
+
+
+    {:icon dynamic-cross}: Obrir l'ajuda seleccionada
+
+    {:icon dynamic-circle}: Tornar a la secció anterior
+
+    {:color #8080F080}{:icon dynamic-select}{:reset}: Tancar la guia gumi
+
+
+    Per seguir llegint, prem {:icon dynamic-cross}!
+- id: 16640
+  text: >-
+    Veure els {:color #8080F080}objectes i funcions especials{:reset}
+
+    que has aconseguit fins al moment
+
+    per a la teva nau gumi.
+- id: 16641
+  text: >-
+    Els materials gumi s'utilitzen principalment
+
+    per crear l'estructura de la nau. Poden
+
+    ser reformats abans de col・locar-se.
+
+    {:color #00F0F080}- Els paràmetres també són importants!{:reset}
+
+    Els paràmetres de la teva nau gumi
+
+    canviaran segons la forma dels
+
+    materials gumi.
+
+    {:color #8080F080}Gumis bisellats{:reset}/{:color #8080F080}Gumis corbs{:reset} -
+
+    {:color #F0F00080}Augmenten la VT{:reset}
+
+    {:color #8080F080}Gumis Aero{:reset} - {:color #F0F00080}Augmenten la movilitat{:reset}
+
+    {:color #8080F080}Multigumis{:reset}
+
+    Per fer-ne més fàcil el procès, els gumis
+
+    bisellats, tubulars i corbs s'agrupen.
+
+    Els paràmetres segueixen iguals als
+
+    dels gumis originals per separat.
+- id: 16642
+  text: >-
+    Copia la forma de un material gumi
+
+    existent per reformar un material gumi
+
+    nou i col・locar-lo a la teva nau.
+
+    {:color #00F0F080}- Mètodes de copiatge{:reset}
+
+    {:color #8080F080}Còpia normal{:reset}
+      Copia el disseny del gumi tal i com és
+      i el col・loca.
+    {:color #8080F080}Còpia en mirall{:reset}
+      Fa la volta i copia el disseny del gumi i
+      el col・loca.
+    {:color #00F0F080}- Si no en tens suficients...{:reset}
+
+    Per copiar i col・locar gumis, has de
+
+    tenir {:color #F0F00080}la mateixa quantitat de materials
+
+    gumi{:reset}. No pots col・locar gumis si no
+
+    en tens la quantitat necessària.
+- id: 16643
+  text: >-
+    Pots reformar materials gumi
+
+    ja col・locats.
+
+    En fer-ho, els paràmetres
+
+    també cambiaran.
+
+
+    {:color #00F0F080}- Tres tipus de reformes{:reset}
+
+    {:color #8080F080}Bisells{:reset}
+      El material gumi seleccionat es
+      convertirà en un gumi bisellat.
+    {:color #8080F080}Corbes{:reset}
+      El material gumi seleccionat es
+      convertirà en un gumi corb.
+    {:color #8080F080}Puntes{:reset}
+      El material gumi seleccionat tindrà
+      una punta en una direcció específica.
+- id: 16644
+  text: >-
+    Pots acolorir els blocs gumi.
+
+    Hi ha varies maneres de fer-ho.
+
+
+    Escull un color quan col・loques el gumi.
+
+    Agrega el color al gumi després
+
+    de haver-lo col・locat.
+
+    Canvia el color d'un gumi.
+
+
+    {:color #00F0F080}- Aconsegueix kits de disseny!{:reset}
+
+    Al principi, només pots acolorir
+
+    els gumis. Però si {:color #F0F00080}aconsegueixes
+
+    kits de disseny{:reset}, també podràs
+
+    utilitzar diferents dissenys.
+- id: 16645
+  text: >-
+    Les unitats d'habilitat són parts que
+
+    {:color #F0F00080}agreguen certes funcions{:reset} a la nau.
+
+    A diferència dels blocs gumi,
+
+    no tenen forma.
+
+    {:color #8080F080}{:icon dynamic-dpad-up-down}{:reset}: Moure cursor
+
+    {:icon dynamic-cross}/{:icon dynamic-triangle}: Col・locar/Treure
+
+
+    {:color #00F0F080}- Assignar habilitats{:reset}
+
+    Cada habilitat té {:color #F0F00080}PH{:reset}. Pots
+
+    assignar habilitats al teu gust
+
+    fins que l'indicador de {:color #F0F00080}PH de
+
+    la nau gumi{:reset} es completi.
+- id: 16646
+  text: >-
+    Canvia la configuració de l'Editor
+
+    d'acord a les teves preferències.
+
+
+    {:color #8080F080}{:icon dynamic-dpad-up-down}{:reset}: Seleccionar configuració
+
+    {:color #8080F080}{:icon dynamic-dpad-left-right}{:reset}: Canviar configuració{:reset}
+
+    {:icon dynamic-circle}: Confirmar selecció i tornar
+
+
+    {:color #00F0F080}- Intentem-ho!{:reset}
+
+    Pots canviar la configuració
+
+    quan vulguis, així que fes-li
+
+    un cop d'ull quan puguis.
+- id: 16647
+  text: >-
+    Quan completes una nau gumi, has de
+
+    guardar-la com {:color #8080F080}plànol original{:reset} utilitzant
+
+    {:color #8080F080}Guardar plànol{:reset} en el menú de l'Editor,
+
+    o {:color #F0F00080}no podràs utilitzar-la{:reset}.
+
+    Si guardes els plànols, pots volar i
+
+    reeditar aquelles naus gumi.
+
+    Tot i així, {:color #F0F00080}les naus gumi que hagin
+
+    excedit els costos no es podran guardar{:reset}.
+
+
+    {:color #00F0F080}- Guardar a cercles de llum{:reset}
+
+    Pots guardar els blocs gumi i els plànols
+
+    que aconsegueixis en els {:color #F0F00080}cercles de llum{:reset}.
+
+    Aquella informació no es guarda
+
+    quan selecciones {:color #8080F080}Guardar plànol{:reset}.
+- id: 16648
+  text: >-
+    Les armes gumi són gumis d'atac.
+
+    {:color #F0F00080}Com major sigui l'energia, major{:reset}
+
+    {:color #F0F00080}serà el mal{:reset} que causi la nau gumi.
+
+
+    {:color #00F0F080}- Aprèn a utilitzar aquests gumis{:reset}
+
+    {:color #8080F080}Gumi-projectils{:reset} - Per disparar
+      un enemic, prem {:icon dynamic-cross}.
+    {:color #8080F080}Gumi-blancs{:reset} - Per fixar
+      l'enemic i disparar-lo, mantèn
+      premut {:icon dynamic-cross}.
+    {:color #8080F080}Gumi-rajos{:reset} - Prem {:icon dynamic-triangle} per
+      atacar utilitzant l'indicador de Raig.
+    {:color #8080F080}Gumi-impactes{:reset} - Pots atacar amb els
+      gumi-impactes col・locats a la teva nau.
+- id: 16649
+  text: >-
+    Els gumis de moviments tenen la capacitat
+
+    de millorar els moviments de la teva nau.
+
+
+    Els {:color #8080F080}gumi-motors{:reset} {:color #F0F00080}consumeixen energia{:reset},
+
+    però augmenten la velocitat de la nau.
+
+    Els {:color #8080F080}gumi-ales{:reset} augmenten la
+
+    {:color #F0F00080}movilitat{:reset} de la nau.
+
+
+    {:color #00F0F080}- Major movilitat{:reset}
+
+    La nau gumi pot fer una {:color #F0F00080}
+
+    tombarella{:reset} amb {:icon dynamic-circle}.
+
+    Això et donarà velocitat i et permetrà
+
+    esquivar millor els atacs enemics.
+- id: 16650
+  text: >-
+    Els gumis auxiliars són blocs especials.
+
+    Existeixen {:color #8080F080}gumi-cabines{:reset},
+
+    {:color #8080F080}gumi-proteccions{:reset} i {:color #8080F080}gumis opcionals{:reset}.
+
+    Cadascun té varies funcions.
+
+
+    {:color #00F0F080}- Gumi-cabines{:reset}
+
+    De tots els gumis auxiliars, el
+
+    {:color #8080F080}gumi-cabina{:reset} n'és el més important.
+
+    Si en col・loques un, la velocitat de la
+
+    nau es reduirà bastant, però
+
+    l'{:color #F0F00080}energia{:reset} augmentarà molt.
+
+
+    Has de col・locar un per a que la nau
+
+    {:color #F0F00080}pugui alliberar tota la seva força{:reset}.
+- id: 16651
+  text: >-
+    A l'inici, no pots construir grans
+
+    naus. Els blocs gumi tenen certs {:color #8080F080}costos{:reset}.
+
+    Pots col・locar gumis fins que es completi el
+
+    {:color #F0F00080}cost de la nau gumi{:reset} que apareix en la part
+
+    superior dreta.
+
+
+    {:color #00F0F080}- Els dos gumis a la vegada!{:reset}
+
+    Els {:color #8080F080}materials gumi{:reset} i els {:color #8080F080}deco-gumis{:reset}
+
+    poden col・locar-se a sobre de l'altre.
+
+
+    {:color #00F0F080}- Cap a on apunta la nau gumi?{:reset}
+
+    La nau gumi apunta en la direcció
+
+    que marca la fletxa de l'espiera.
+
+    La icona que apareix a la part inferior
+
+    dreta també mostra la direcció.
+- id: 16652
+  text: >-
+    {:color #00F0F080}- Canvi de mode{:reset}
+
+    {:color #8080F080}Canvia de mode{:reset} amb {:icon dynamic-triangle}.
+
+
+    {:color #00F0F080}- Desfer/Refer{:reset}
+
+    Utilitza {:icon dynamic-r1} per {:color #8080F080}desfer{:reset}, i {:icon dynamic-r2} per {:color #8080F080}refer{:reset}.
+
+
+    {:color #00F0F080}- Tornar al menú superior{:reset}
+
+    Si prems {:color #8080F080}{:icon dynamic-start}{:reset} mentre edites, tornaràs
+
+    immediatament al menú superior.
+
+
+    {:color #00F0F080}- Reiniciar càmera{:reset}
+
+    Prement {:color #8080F080}{:icon dynamic-r3}{:reset}, pots fer que la
+
+    càmera torni a la seva posició inicial.
+- id: 16654
+  text: >-
+    Copia l'àrea seleccionada i col・loca un altre gumi.
+
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Moure cursor
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar gumi seleccionat
+
+    {:icon dynamic-cross}: Seleccionar el gumi que vulguis copiar
+
+    {:icon dynamic-cross} dos cops: Copiar {:icon dynamic-circle}: Enrere
+
+
+    {:color #00F0F080}- Anem a copiar!{:reset}
+
+    Mou el cursor a la forma que vulguis
+
+    copiar i prem {:icon dynamic-cross}. Ara mou el cursor
+
+    a on vulguis col・locar-la. 
+
+    Utilitza {:color #8080F080}{:icon dynamic-left-analog}{:reset} per rotar i col・locar el gumi. 
+
+    Confirma la direcció en la que vols que miri
+
+    i prem {:icon dynamic-cross} de nou per copiar-lo.
+- id: 16656
+  text: >-
+    Primer, escull el gumi que vulguis col・locar.
+
+
+    {:icon dynamic-cross}: Confirmar {:icon dynamic-circle}: Enrere
+
+
+    {:color #00F0F080}- Mira des de diferents angles!{:reset}
+
+    Pots rotar la càmera amb {:icon dynamic-right-analog}. 
+
+    {:color #8080F080}Quan ho facis, pots revisar la teva nau i els
+
+    blocs gumi des de molts angles diferents.
+
+
+    {:color #00F0F080}- Posem-li color!{:reset}
+
+    En seleccionar un gumi, pots canviar la
+
+    paleta de colors amb {:icon dynamic-l1} i {:icon dynamic-r1}. 
+
+    És recomanable decidir per endavant quins
+
+    colors utilitzar. Per fer-ho, selecciona
+
+    {:color #8080F080}Pintar{:reset} en el menú superior.
+- id: 16657
+  text: >-
+    Pots dirigir més d'un
+
+    gumi a la vegada.
+
+
+    {:icon dynamic-triangle}: Expandir àrea
+
+    {:icon dynamic-triangle} dos vegades: Confirmar àrea
+
+
+    {:color #00F0F080}- Seleccionar una àrea{:reset}
+
+    Prem {:icon dynamic-triangle} al costat de l'àrea
+
+    que vols expandir, i mou el cursor
+
+    per expandir-la. Prem un altre cop {:icon dynamic-triangle}
+
+    per confirmar-ne l'àrea.
+- id: 16658
+  text: >-
+    Per {:color #8080F080}agregar bisells{:reset} i {:color #8080F080}corbes{:reset}, has
+
+    de seleccionar un material gumi.
+
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Moure cursor
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+
+    {:icon dynamic-cross}: Confirmar  {:icon dynamic-circle}: Enrere
+
+    {:icon dynamic-r1}: Desfer {:icon dynamic-r2}: Refer
+
+
+    {:color #00F0F080}- Donem-li forma!{:reset}
+
+    Posa el cursor sobre el gumi que vulguis
+
+    reformar i prem {:icon dynamic-cross}. També pots {:color #F0F00080}
+
+    reformar una àrea{:reset}.
+
+
+    Si comets un error, utilitza aquests botons:
+
+    {:icon dynamic-r1}: {:color #8080F080}Desfer{:reset} {:icon dynamic-r2}: {:color #8080F080}Refer{:reset}.
+- id: 16659
+  text: >-
+    Escull el color que vols utilitzar en
+
+    la {:color #F0F00080}paleta de color{:reset}.
+
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Moure cursor
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+
+    {:icon dynamic-square}/{:icon dynamic-dpad-down}: Obrir mostrari{:reset}
+
+    {:icon dynamic-cross}: Confirmar  {:icon dynamic-circle}: Enrere
+
+    {:icon dynamic-triangle} en el mostrari de color: Canviar color
+
+
+    {:color #00F0F080}- Posa un color a la paleta!{:reset}
+
+    Selecciona una paleta de color amb {:color #8080F080}{:icon dynamic-dpad-left-right}{:reset}, i
+
+    obre el mostrari de color amb {:icon dynamic-square} o {:color #8080F080}{:icon dynamic-dpad-down}{:reset}.
+
+    En el mostrari, selecciona un color i
+
+    prem {:icon dynamic-cross} per agregar-lo a la paleta.
+- id: 16955
+  text: Translúcid
+- id: 16956
+  text: Normal
+- id: 16957
+  text: Opac
+- id: 16958
+  text: Translúcid
+- id: 16959
+  text: Normal
+- id: 17083
+  text: Opac
+- id: 17111
+  text: 1. Tipus de gumi
+- id: 17119
+  text: 4. Guardar plànol
+- id: 17121
+  text: Els tipus de gumi
+- id: 17131
+  text: >-
+    Els blocs que formen la nau gumi
+
+    són {:color #8080F080}materials gumi{:reset} i {:color #8080F080}deco-gumis{:reset}.
+
+    Els {:color #8080F080}materials gumi{:reset} s'utilitzen per donar
+
+    forma a la nau gumi i augmentar la seva VT,
+
+    mentre els {:color #8080F080}deco-gumis{:reset} s'utilitzen per
+
+    agregar varies funcions. {:color #F0F00080}Quan coloquis
+
+    aquests gumis{:reset}, la teva nau estarà completa.
+
+
+    {:color #00F0F080}- Pilotar la nau gumi{:reset}
+
+    Es necessita un sol bloc perquè la teva
+
+    nau gumi s'enlairi! I una nau gumi pot volar
+
+    amb qualsevol forma, o sigui que a crear!
+
+    Però asegura't de tenir suficient
+
+    {:color #8080F080}VT{:reset} o la teva nau durara poc.
+- id: 17321
+  text: Gumi-impactes
+- id: 17322
+  text: >-
+    Col・loca blocs gumi que danyen
+
+    els objectius contra els que xoquen.
+- id: 17579
+  text: >-
+    Quan col・loquis blocs a l'Editor,
+
+    els gumis ja col・locats es veuran
+
+    transparents.
+- id: 17580
+  text: >-
+    Quan col・loquis blocs a l'Editor,
+
+    els gumis ja col・locats es veuran
+
+    translúcids.
+- id: 17581
+  text: >-
+    Quan col・loquis blocs a l'Editor,
+
+    els gumis ja col・locats es veuran
+
+    opacs.
+- id: 17582
+  text: >-
+    Els plànols de l'àrea de muntatge de l'Editor
+
+    per veure la profunditat són quasi translúcids.
+- id: 17583
+  text: >-
+    Els plànols de l'àrea de muntatge de l'Editor
+
+    per veure la profunditat són mig translúcids.
+- id: 17584
+  text: >-
+    Els plànols de l'àrea de muntatge de l'Editor
+
+    per veure la profunditat són opacs.
+- id: 17744
+  text: Presa Raig
+- id: 17746
+  text: Precarrega Raig
+- id: 17747
+  text: >-
+    Augmenta la velocitat amb què
+
+    es completa l'indicador de Raig.
+- id: 17749
+  text: >-
+    Carrega l'indicador de Raig perquè
+
+    puguis utilitzar-lo a l'inici del viatge.
+- id: 17750
+  text: Multigumi
+- id: 17751
+  text: >-
+    Els multigumi serveixen per col・locar
+
+    molts materials gumi a la vegada.
+- id: 18045
+  text: '{:icon gumi-block}'
+- id: 18046
+  text: '{:icon gumi-blueprint}'
+- id: 18047
+  text: '{:icon gumi-brush}'
+- id: 18048
+  text: '{:icon gumi-ship}'
+- id: 18049
+  text: '{:icon gumi-gear}'
+- id: 18319
+  text: Rendiment
+- id: 18321
+  text: Nau
+- id: 18322
+  text: '{:width 90}Àrea de muntatge'
+- id: 18482
+  text: Nivells de missió 1 i 2 disponibles!
+- id: 18483
+  text: Nivell de missió 3 disponible!
+- id: 18485
+  text: Has obtingut una Corona Gumi!
+- id: 18486
+  text: 'Obtingut: {:unk0d }!'
+- id: 18490
+  text: >-
+    {:width 98}El nivell de missió 1 són {:color #F0F00080}recerques de medalles{:reset}.
+
+    Reuneix el número de medalles necessari!
+- id: 18491
+  text: >-
+    {:width 98}El nivell de missió 2 són {:color #F0F00080}atacs enemics{:reset}.
+
+    Destrueix el número de naus indicat!
+- id: 18492
+  text: >-
+    {:width 98}El nivell de missió 3 són {:color #F0F00080}proves de puntuació{:reset}.
+
+    Per dirigir la càmera, utilitza {:icon dynamic-l1} i {:icon dynamic-r1}!
+- id: 18493
+  text: 'Eines{:color #8080F080} ▸{:reset}'
+- id: 18494
+  text: Les eines d'edició
+- id: 18495
+  text: >-
+    Existeixen altres eines a més de les
+
+    utilitzades per col・locar blocs gumi.
+
+
+    {:color #00F0F080}- Eines d'edició{:reset}
+
+    Hi ha tres eines addicionals que
+
+    s'utilitzen per fabricar naus: {:color #8080F080}Pintar{:reset},
+
+    {:color #8080F080}Editar{:reset} i {:color #8080F080}Assignar habilitats{:reset}.
+
+
+    {:color #00F0F080}- Dreceres{:reset}
+
+    Unes altres dues ordres que et poden
+
+    ajudar són {:color #8080F080}Defer{:reset} i {:color #8080F080}Refer{:reset}. Pots
+
+    seleccionar-los en el menú, o prèmer {:icon dynamic-r1}
+
+    per {:color #8080F080}Desfer{:reset} i {:icon dynamic-r2} per {:color #8080F080}Refer{:reset}.
+- id: 18496
+  text: 'Pintar {:color #8080F080}▸{:reset}'
+- id: 18497
+  text: 'Editar {:color #8080F080}▸{:reset}'
+- id: 18498
+  text: Asignar habilitats
+- id: 18500
+  text: Desfer/Refer
+- id: 18501
+  text: Configuració
+- id: 18502
+  text: Canvi de mode
+- id: 18503
+  text: Guardar plànol
+- id: 18504
+  text: Sortir
+- id: 18505
+  text: Gumis de color
+- id: 18506
+  text: Editar nau gumi
+- id: 18507
+  text: Unitats d'habilitat i PH
+- id: 18509
+  text: Cancel・lar i Desfer
+- id: 18510
+  text: Editar configuració
+- id: 18511
+  text: Editar canvis de mode
+- id: 18512
+  text: Guardar nau gumi
+- id: 18513
+  text: Sortir de l'Editor
+- id: 18529
+  text: Guia gumi
+- id: 18533
+  text: >-
+    {:icon dynamic-cross}: Confirmar  {:icon dynamic-square}: Treure
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar gumi  
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera   {:icon dynamic-circle}: Enrere
+- id: 18534
+  text: 2. Col・locació
+- id: 18535
+  text: 4. Gumis Aero
+- id: 18536
+  text: Col・loquem els gumis!
+- id: 18537
+  text: Col・locar gumis Aero
+- id: 18538
+  text: >-
+    A continuació, col・loca el gumi seleccionat.
+
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Moure cursor
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar bloc
+
+    {:icon dynamic-cross}: Confirmar  {:icon dynamic-square}: Treure  {:icon dynamic-circle}: Enrere
+
+
+    {:color #00F0F080}- Coloquem els gumis!{:reset}
+
+    Utilitza el cursor per seleccionar l'àrea
+
+    on vols col・locar-hi el gumi.
+
+    Utilitza {:color #8080F080}{:icon dynamic-left-analog}{:reset} per rotar
+
+    el gumi en la direcció que desitgis.
+
+    Prem {:icon dynamic-cross} per col・locar el gumi.
+
+
+    Si comets un error, ubica el cursor sobre
+
+    el gumi que vulguis treure i prem {:icon dynamic-square}.
+- id: 18539
+  text: >-
+    Els gumis Aero i gumi-ales tenen un mode 
+
+    de col・locació lleugerament diferent.
+
+
+    {:color #00F0F080}- Fes voltes als gumis!{:reset}
+
+    Els gumis Aero es poden fer voltar {:color #8080F080}prement {:icon dynamic-l3}{:reset}.
+
+
+    {:color #00F0F080}- Canvia i col・loca els gumis!{:reset}
+
+    Després de confirmar amb {:icon dynamic-cross},
+
+    pots  utilitzar {:color #8080F080}{:icon dynamic-dpad}{:reset} per canviar
+
+    la posició dels gumis.
+- id: 18540
+  text: >-
+    {:icon dynamic-cross}: Confirmar   {:icon dynamic-square}: Treure
+
+    {:color #8080F080}{:icon dynamic-l3}{:reset}: Rotar gumi
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Fixar la posició
+- id: 18541
+  text: Paràmetres
+- id: 18542
+  text: Paràmetres de blocs gumi
+- id: 18543
+  text: >-
+    Els blocs gumi tenen varis
+
+    paràmetres que determinen la
+
+    funcionalitat de la teva nau gumi.
+
+
+    {:color #8080F080}VT{:reset} - Com més alta sigui la VT, la
+      nau podrà resistir mals més alts.
+    {:color #8080F080}Atac{:reset} - Representa el poder
+      ofensiu de cada gumi.
+    {:color #8080F080}Energia{:reset} - Com més alta sigui l'energia,
+      major serà el poder ofensiu de la nau.
+    {:color #8080F080}Velocitat{:reset} - Representa la velocitat
+      de moviment de la nau gumi.
+    {:color #8080F080}Movilitat{:reset} - Augmenta l'efectivitat
+      de les tombarelles.
+- id: 18544
+  text: >-
+    {:width 90}{:icon dynamic-cross}: Confirmar i executar {:icon dynamic-triangle}: Seleccionar àrea
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar gumi
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera
+- id: 18576
+  text: >-
+    {:icon dynamic-triangle}: Seleccionar àrea   {:icon dynamic-cross}: Executar
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Fixar direcció
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera   {:icon dynamic-circle}: Enrere
+- id: 18578
+  text: 4. Copia en mirall
+- id: 18579
+  text: Com fer una còpia en mirall
+- id: 18580
+  text: >-
+    Copia el gumi seleccionat. Després, fes-li la
+
+    volta i coloca'l de nou.
+
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Moure cursor
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: {:width 95}Direcció gir{:width 100}
+
+    {:icon dynamic-triangle}: Expandir àrea
+
+    {:icon dynamic-triangle} dos cops: Confirmar àrea
+
+    {:icon dynamic-cross}: Copia en mirall
+
+    {:icon dynamic-circle}: Enrere
+
+
+    {:color #00F0F080}- Fem una còpia en mirall!{:reset}
+
+    La {:color #8080F080}còpia en mirall{:reset} es fa en una àrea seleccionada.
+
+    Després de seleccionar-la, utilitza {:color #8080F080}{:icon dynamic-left-analog}{:reset}
+
+    per {:color #F0F00080}seleccionar la direcció en què girarà{:reset}.
+
+    Després, prem {:icon dynamic-cross} per copiar en mirall.
+- id: 18582
+  text: >-
+    {:icon dynamic-cross}: Executar   {:icon dynamic-triangle}: Seleccionar àrea
+
+    {:icon dynamic-r1}: Desfer   {:icon dynamic-r2}: Refer
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera
+- id: 18584
+  text: >-
+    Selecciona diversos materials gumi i
+
+    reforma'ls perquè tinguin punta.
+
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Moure cursor
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: {:width 90}Direcció punta{:width 100}
+
+    {:icon dynamic-triangle}: Expandir àrea
+
+    {:icon dynamic-triangle} dos cops: Confirmar àrea
+
+    {:icon dynamic-cross}: Confirmar {:icon dynamic-circle}: Enrere
+
+    {:icon dynamic-r1}: Desfer  {:icon dynamic-r2}: Refer
+
+
+    {:color #00F0F080}- Agreguem una punta!{:reset}
+
+    Pots {:color #8080F080}agregar una punta{:reset} en una àrea seleccionada.
+
+    Després de confirmar l'àrea, amb 
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset} {:color #F0F00080}selecciona la direcció de la punta{:reset}. 
+
+    Després prem {:icon dynamic-cross} per reformar-la.
+- id: 18593
+  text: 4. Col・locar ales
+- id: 18594
+  text: Col・locar gumis-ales
+- id: 18633
+  text: >-
+    Pots canviar la posició dels gumis
+
+    ja col・locats, o bé treure'ls.
+
+    Hi ha varies coses que pots fer
+
+    amb {:color #8080F080}Editar{:reset}.
+
+    Canviar la posició d'un bloc gumi.
+
+    Canviar la direcció d'un bloc gumi.
+
+    Treure varis blocs gumi junts.
+
+
+    {:color #00F0F080}- Si t'equivoques...{:reset}
+
+    Si per error fas alguna cosa que no
+
+    volies, com treure un grup de blocs
+
+    gumi, prem {:icon dynamic-r1} o selecciona {:color #8080F080}Desfer{:reset}
+
+    per {:color #F0F00080}cancel・lar i refer{:reset}.
+- id: 18684
+  text: Quadern de consells
+- id: 18685
+  text: Vibració
+- id: 18686
+  text: Sí
+- id: 18687
+  text: No
+- id: 18691
+  text: '{:icon dynamic-dpad}: Passar la pàgina {:icon dynamic-circle}: Enrere'
+- id: 18694
+  text: No.
+- id: 18695
+  text: >-
+    Com donar als gumis el color de la paleta.
+
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Moure cursor
+
+    {:icon dynamic-right-analog}: Rotar càmera
+
+    {:icon dynamic-triangle}: Expandir àrea
+
+    {:icon dynamic-triangle} dos cops: Confirmar àrea
+
+    {:icon dynamic-cross}: Confirmar  {:icon dynamic-circle}: Enrere
+
+
+    {:color #00F0F080}- Posem-hi més colors!{:reset}
+
+    Selecciona el color que vulguis utilitzar
+
+    a la paleta de color i prem {:icon dynamic-cross}. Després,
+
+    posa el cursor sobre el gumi que desitges
+
+    acolorir i prem {:icon dynamic-cross}. També pots
+
+    escollir colors quan col・loques gumis,
+
+    o acolorir àrees seleccionades.
+- id: 18696
+  text: 2. Paletes de color
+- id: 18697
+  text: Les paletes de color
+- id: 18698
+  text: >-
+    Pots utilitzar {:color #F0F00080}fins a 16 colors{:reset} en una
+
+    nau gumi. Els trobaràs
+
+    en la paleta de color.
+
+
+    {:color #00F0F080}- Com utilitzar la paleta de color{:reset}
+
+    Si la nau gumi ja està acolorida,
+
+    simplement escull de la paleta un color
+
+    que t'agradi per canviar el color actual.
+
+
+    El color de la paleta seleccionat es
+
+    pot canviar en qualsevol moment.
+- id: 18700
+  text: 5. Kits de disseny
+- id: 18701
+  text: Els kits de disseny
+- id: 18702
+  text: >-
+    Els kits de disseny són colors
+
+    realitzats sobre patrons.
+
+    {:color #F0F00080}Aconsegueix kits de disseny{:reset}
+
+    per agregar estampats als gumis.
+
+
+    {:color #00F0F080}- Com utilitzar kits de disseny{:reset}
+
+    Per obrir els mostraris de kits de
+
+    disseny que hagis aconseguit, obre el
+
+    mostrari de colors i prem {:icon dynamic-triangle}.
+
+    Posa'ls a la paleta de color per
+
+    utilitzar-los als gumis.
+
+
+    Per tornar al mostrari de color,
+
+    prem {:icon dynamic-triangle}.
+- id: 18703
+  text: 4. Seleccionar una àrea
+- id: 18704
+  text: >-
+    {:icon dynamic-cross}: Executar  {:icon dynamic-triangle}: Seleccionar àrea
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera  {:icon dynamic-circle}: Enrere
+- id: 18718
+  text: >-
+    {:icon dynamic-cross}: Agafar/Col・locar   {:icon dynamic-square}: Treure
+
+    {:icon dynamic-triangle}: Seleccionar àrea
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera   {:icon dynamic-circle}: Enrere
+- id: 18719
+  text: 1. Moure gumis
+- id: 18720
+  text: Moure blocs gumi
+- id: 18721
+  text: >-
+    Els gumis es poden moure i treure.
+
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Moure cursor
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar gumi
+
+    {:icon dynamic-triangle}: Expandir àrea  {:icon dynamic-triangle} dos cops: {:width 95}Confirmar{:width 100}
+
+    {:icon dynamic-cross}: Subjectar/Col・locar gumi
+
+    {:icon dynamic-square}: Treure {:icon dynamic-circle}: Enrere
+
+
+    {:color #00F0F080}- Mou els blocs gumi!{:reset}
+
+    Posa el cursor sobre el gumi que vols
+
+    moure i prem {:icon dynamic-cross}. Després arrossega el
+
+    cursor a la posició en què t'agradaria
+
+    col・locar-lo. Rota i fixa el gumi amb {:color #8080F080}{:icon dynamic-left-analog}{:reset}.
+
+    Selecciona la direcció en la que vols
+
+    que apunti i prem {:icon dynamic-cross} per confirmar.
+- id: 18752
+  text: >-
+    {:icon dynamic-cross}: Confirmar  {:icon dynamic-square}: Obrir paleta
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera  {:icon dynamic-circle}: Enrere
+- id: 18759
+  text: >-
+    {:icon dynamic-cross}: Confirmar  {:icon dynamic-l1}{:icon dynamic-r1}: Canviar color
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera  {:icon dynamic-circle}: Enrere
+- id: 18760
+  text: 'Altres ordres {:color #8080F080}▸{:reset}'
+- id: 18761
+  text: Altres ordres del menú
+- id: 18762
+  text: >-
+    Hi ha quatre ordres que poden servir-te
+
+    per editar la teva nau gumi:
+
+    {:color #8080F080}Configuració{:reset}, {:color #8080F080}Canvi de mode{:reset}, {:color #8080F080}Guardar plànol{:reset}
+
+    i {:color #8080F080}Sortir{:reset}.
+
+
+    {:color #00F0F080}- Guardar plànol i Sortir{:reset}
+
+    {:color #8080F080}Guardar plànol{:reset} i {:color #8080F080}Sortir{:reset} són les dues
+
+    ordres més importants per sortir
+
+    del menú de l'Editor de naus gumi. Has
+
+    d'aprendre a dirigir-los molt bé!
+
+
+    {:color #00F0F080}- Ordres i dreceres{:reset}
+
+    Pots canviar els modes d'edició
+
+    per {:color #8080F080}materials gumi{:reset} i {:color #8080F080}deco-gumis{:reset}
+
+    utilitzant {:icon dynamic-triangle} per {:color #8080F080}canvi de mode{:reset}.
+- id: 18763
+  text: >
+    Pots desfer una edició i tornar al
+
+    pas anterior. També pots tornar
+
+    a l'últim pas.
+
+
+    {:icon dynamic-r1}/{:color #8080F080}Desfer{:reset}: Tornar al pas anterior
+
+    {:icon dynamic-r2}/{:color #8080F080}Refer{:reset}: Tornar a l'últim pas
+
+
+    {:color #00F0F080}- Aprofita aquestes ordres!{:reset}
+
+    És divertit editar amb {:icon dynamic-r1} i {:icon dynamic-r2},
+
+    ja que pots corregir errades fàcilment
+
+    o refer el que havies fet.
+
+    Tot i així, la quantitat de cops que
+
+    pots desfer els teus passos és limitada.
+
+    És recomanable {:color #F0F00080}guardar els plànols
+
+    originals{:reset} abans d'editar-los.
+- id: 18765
+  text: >-
+    Pots alternar entre editar
+
+    {:color #8080F080}materials gumi{:reset} i {:color #8080F080}deco-gumis{:reset}.
+
+    I pots fer el mateix amb {:icon dynamic-triangle}.
+
+
+    {:color #00F0F080}- Dos modes d'edició{:reset}
+
+    En Mode d'edició, hi ha un mode
+
+    per editar {:color #F0F00080}materials gumi{:reset}
+
+    i l'altre per {:color #F0F00080}deco-gumis{:reset}.
+
+
+    En {:color #8080F080}canviar modes{:reset}, podràs alternar
+
+    les tres ordres que veus a dalt en el
+
+    menú de l'Editor, i així podràs canviar
+
+    els gumis editables.
+- id: 18766
+  text: >-
+    Acabar una nau gumi i sortir
+
+    de l'Editor.
+
+    Selecciona {:color #8080F080}Guardar plànol{:reset} per
+
+    mantenir la forma de la nau.
+
+
+    {:color #00F0F080}- Guarda sempre els plànols!{:reset}
+
+    En sortir de l'Editor, l'ordre
+
+    {:color #8080F080}Desfer{:reset} no tindrà efecte.
+
+    Ves en compte en seleccionar {:color #8080F080}Sortir{:reset}.
+- id: 18775
+  text: 2. Paràmetres
+- id: 18776
+  text: 3. Col・locar gumis
+- id: 18777
+  text: Normes per col・locar gumis
+- id: 18778
+  text: Complet
+- id: 18779
+  text: Límit ▴
+- id: 18780
+  text: Límit ▴ x2
+- id: 18781
+  text: Habilitat
+- id: 18782
+  text: PH ▴
+- id: 18783
+  text: PH ▴ x2
+- id: 18784
+  text: PH ▴ x3
+- id: 18785
+  text: Dissenys
+- id: 18786
+  text: Naueta
+- id: 18787
+  text: Naueta ▴
+- id: 18788
+  text: Llista d'objectes completa!
+- id: 18789
+  text: Cost límit ▴
+- id: 18790
+  text: Cost límit ▴ x2
+- id: 18791
+  text: Unitat d'habilitat
+- id: 18792
+  text: PH límit ▴
+- id: 18793
+  text: PH límit ▴ x2
+- id: 18794
+  text: PH límit ▴ x3
+- id: 18795
+  text: Kits de disseny
+- id: 18796
+  text: Sistema de nauetes
+- id: 18797
+  text: Límit de nauetes ▴
+- id: 18798
+  text: >-
+    Has completat totes les {:color #8080F080}missions
+
+    gumi{:reset}! i has aconseguit tots els
+
+    {:color #8080F080}blocs gumi{:reset} i els {:color #8080F080}objectes especials{:reset}!
+- id: 18799
+  text: >-
+    El {:color #8080F080}cost{:reset} límit de la nau gumi {:color #F0F00080}ha
+
+    augmentat en 100{:reset}!
+
+
+    Ara el cost màxim d'una nau gumi
+
+    ha augmentat a {:color #8080F080}700{:reset}.
+- id: 18800
+  text: >-
+    El {:color #8080F080}coste{:reset} límit de la nau gumi {:color #F0F00080}ha
+
+    tornat a augmentar en 100{:reset}!
+
+
+    Ara el cost màxim d'una nau gumi
+
+    ha augmentat a {:color #8080F080}800{:reset}.
+- id: 18801
+  text: >-
+    Obtens una {:color #F0F00080}unitat d'habilitat{:reset}!
+
+    Les unitats d'habilitat són parts que
+
+    {:color #F0F00080}agreguen certes funcions{:reset} a la nau gumi.
+
+    A diferència dels blocs gumi, les
+
+    unitats d'habilitat no tenen forma.
+
+    Per {:color #8080F080}assignar habilitats{:reset},
+
+    selecciona aquella ordre en el menú de l'Editor.
+
+
+    {:color #00F0F080}- Com assignar habilitats{:reset}
+
+    Cada habilitat té {:color #F0F00080}PH{:reset}. Pots
+
+    assignar habilitats al teu gust
+
+    fins que l'indicador de {:color #F0F00080}PH de
+
+    la nau gumi{:reset} es completi.
+
+
+    Intenta adquirir moltes habilitats!
+- id: 18802
+  text: >-
+    Els {:color #8080F080}PH{:reset} límit de la nau gumi {:color #F0F00080}han
+
+    augmentat 4 punts{:reset}!
+
+
+    Pots assignar fins a {:color #8080F080}12 PH{:reset}
+
+    a la nau gumi.
+- id: 18803
+  text: >-
+    Els {:color #8080F080}PH{:reset} límit de la nau gumi {:color #F0F00080}han
+
+    tornat a augmentar 4 punts{:reset}!
+
+
+    Pots assignar fins a {:color #8080F080}16 PH{:reset}
+
+    a la nau gumi.
+- id: 18804
+  text: >-
+    Els {:color #8080F080}PH{:reset} límit de la nau gumi {:color #F0F00080}han
+
+    tornat a augmentar 4 punts{:reset}!
+
+
+    Pots assignar fins a {:color #8080F080}20 PH{:reset}
+
+    a la nau gumi.
+- id: 18805
+  text: >-
+    Obtens un {:color #F0F00080}kit de disseny{:reset}!
+
+    Selecciona {:color #8080F080}Pintar{:reset} en el menú de l'Editor
+
+    per agregar dissenys als blocs gumi.
+
+
+    Intenta adquirir molts kits de disseny!
+- id: 18806
+  text: >-
+    Obtens una {:color #F0F00080}naueta{:reset}!
+
+    Una {:color #8080F080}naueta{:reset} és una nau petita
+
+    que segueix la nau gumi, lluita al costat
+
+    d'ella i bloqueja certs atacs enemics.
+
+
+    {:color #00F0F080}- Modificar la naueta{:reset}
+
+    Selecciona {:color #F0F00080}Naueta{:reset} en el menú gumi
+
+    per construir-ne una. La naueta té
+
+    el seu {:color #F0F00080}propi cost{:reset}, el seu {:color #F0F00080}propi plànol{:reset} i
+
+    es construeix apart de la nau gumi.
+
+    No obstant això, ambdues naus no poden volar
+
+    simultàniament si comparteixen un gumi.
+
+    El paràmetre de la naueta que t'acompanya
+
+    s'incorpora a l'estructura de la nau gumi.
+- id: 18807
+  text: >-
+    El {:color #8080F080}cost{:reset} límit de la naueta {:color #F0F00080}ha
+
+    augmentat en 100{:reset}!
+
+
+    Ara la naueta pot tenir un
+
+    {:color #8080F080}cost de 200{:reset}.
+- id: 18923
+  text: >-
+    {:icon question-mark}{:color #F0F00080} NOTA{:reset}
+    	Vols guardar el plànol de la
+    	nau que acabes de construir?
+- id: 18924
+  text: >-
+    {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
+    	Per guardar aquest plànol,
+    	has de baixar-ne el cost i treure'n blocs.
+- id: 18925
+  text: Sí
+- id: 18926
+  text: No
+- id: 18927
+  text: Acceptar
+- id: 18958
+  text: >-
+    {:icon question-mark}{:color #F0F00080} NOTA{:reset}
+    	Vols deixar de construir la nau
+    	gumi i tancar l'Editor?
+- id: 19120
+  text: >-
+    {:icon question-mark}{:color #F0F00080} NOTA{:reset}
+    	Vols sortir del menú gumi i
+    	tornar al mapa dels mons?
+- id: 19132
+  text: Reintentar
+- id: 19133
+  text: Menú gumi
+- id: 19134
+  text: Mapa dels mons
+- id: 19397
+  text: '{:width 90}Plànol original de nau gumi'
+- id: 19398
+  text: >-
+    {:icon dynamic-square}: Construir una nova
+          nau gumi
+- id: 19399
+  text: >-
+    {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
+    	No pots guardar un plànol
+    	que no utilitza cap bloc!
+- id: 19400
+  text: '{:icon dynamic-square}: Borrar aquest plànol'
+- id: 19401
+  text: >-
+    {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
+    	Els blocs gumi necessaris per a
+    	aquest plànol ja han estat assignats a
+    	un altre plànol seleccionat anteriorment.
+- id: 19402
+  text: >-
+    {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
+    	No tens suficients blocs gumi
+    	o objectes especials per crear una
+    	nau basada en aquest plànol especial.
+- id: 19407
+  text: >-
+    {:icon dynamic-triangle}: Fixar àrea   {:icon dynamic-circle}: Enrere
+
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Canviar selecció
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera
+- id: 19408
+  text: >-
+    {:icon dynamic-cross}: Executar   {:icon dynamic-triangle}: Tornar a seleccionar àrea
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Fixar direcció
+
+    {:icon dynamic-circle}: Enrere
+- id: 19431
+  text: >-
+    {:icon dynamic-square}: Abandonar
+          les nauetes
+- id: 19432
+  text: >-
+    {:icon dynamic-square}: Construir una nova
+          naueta
+- id: 19433
+  text: >-
+    {:icon question-mark}{:color #F0F00080} NOTA{:reset}
+    	Un cop borres un plànol, no pots
+    	recuperar-lo. Segur que vols
+    	borrar el teu plànol original?
+- id: 19436
+  text: Venteguera
+- id: 19437
+  text: Plànol Venteguera Niv. 1
+- id: 19438
+  text: Plànol Venteguera Niv. 2
+- id: 19439
+  text: Plànol Venteguera Niv. 3
+- id: 19440
+  text: Plànol Venteguera Niv. 4
+- id: 19441
+  text: Plànol Venteguera Niv. 5
+- id: 19442
+  text: Plànol Venteguera Niv. 6
+- id: 19443
+  text: Plànol Venteguera Niv. 7
+- id: 19444
+  text: Plànol Venteguera Niv. 8
+- id: 19445
+  text: Plànol Venteguera màx.
+- id: 19446
+  text: Plànol Falcó Niv. 1
+- id: 19447
+  text: Plànol Falcó Niv. 2
+- id: 19448
+  text: Plànol Falcó Niv. 3
+- id: 19449
+  text: Plànol Falcó Niv. 4
+- id: 19450
+  text: Plànol Falcó Niv. 5
+- id: 19451
+  text: Plànol Falcó Niv. 6
+- id: 19452
+  text: Plànol Falcó Niv. 7
+- id: 19453
+  text: Plànol Falcó Niv. 8
+- id: 19454
+  text: Plànol Falcó màx.
+- id: 19456
+  text: Plànol Invencible Niv. 1
+- id: 19457
+  text: Plànol Invencible Niv. 2
+- id: 19458
+  text: Plànol Invencible Niv. 3
+- id: 19459
+  text: Plànol Invencible Niv. 4
+- id: 19460
+  text: Plànol Invencible Niv. 5
+- id: 19461
+  text: Plànol Invencible Niv. 6
+- id: 19462
+  text: Plànol Invencible Niv. 7
+- id: 19463
+  text: Plànol Invencible Niv. 8
+- id: 19464
+  text: Plànol Invencible màx.
+- id: 19489
+  text: >-
+    {:width 95}El plànol indica que aquesta
+
+    nau serveix tant per a atacar
+
+    com per a defendre.
+- id: 19490
+  text: >-
+    {:width 95}El plànol indica que aquesta
+
+    nau està dissenyada amb armes
+
+    gumi com a base.
+- id: 19491
+  text: >-
+    {:width 95}El plànol indica que aquesta
+
+    nau té bona defensa
+
+    i un bon nivell de VT.
+- id: 19551
+  text: >-
+    {:width 88}Aquestes són naus gumi
+
+    acabades, o sigui que no necessites
+
+    agregar-les blocs per utilitzar-les.
+- id: 19597
+  text: >-
+    {:icon dynamic-cross}: Confirmar
+
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar gumi
+
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera   {:icon dynamic-circle}: Enrere
+- id: 20365
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}50 o més{:reset} de {:color #8080F080}velocitat{:reset}.
+- id: 20366
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}100 o més{:reset} d'{:color #8080F080}energia{:reset}.
+- id: 20367
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}250 o més{:reset} d'{:color #8080F080}energia{:reset}.
+- id: 20368
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}12 o més{:reset} blocs de {:color #8080F080}gumi-ales{:reset}.
+- id: 20369
+  text: >-
+    Repte per a naus gumi només amb
+
+    {:color #F0F00080}gumi-projectils{:reset} com a {:color #8080F080}arma{:reset}.
+- id: 20370
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}20 o més{:reset} blocs de {:color #8080F080}gumi-projectils{:reset}.
+- id: 20371
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}6 o més{:reset} blocs de {:color #8080F080}gumi-proteccions{:reset}.
+- id: 20372
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}2 o més{:reset} blocs de {:color #8080F080}gumi-rajos{:reset}.
+- id: 20373
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}4 o més{:reset} blocs de {:color #8080F080}gumi-rajos{:reset}.
+- id: 20374
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}8 o més{:reset} blocs {:color #8080F080}Gumi Volant{:reset}.
+- id: 20375
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}8 o més{:reset} {:color #8080F080}unitats de habilitat{:reset}.
+- id: 20376
+  text: >-
+    Repte per a naus gumi amb {:color #F0F00080}80 o més{:reset}
+
+    de {:color #8080F080}velocitat{:reset} (incloses les nauetes).
+- id: 20377
+  text: 'Repte per a naus gumi de tipus {:color #F0F00080}Venteguera{:reset}.'
+- id: 20378
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}50 o menys{:reset} de {:color #8080F080}VT{:reset}.
+- id: 20379
+  text: >-
+    Repte per a naus gumi amb {:color #F0F00080}20 o menys{:reset}
+
+    de {:color #8080F080}VT{:reset} (incloses les nauetes).
+- id: 20380
+  text: >-
+    Repte per a naus gumi amb nauetes
+
+    que incloguin {:color #F0F00080}4 o més{:reset} {:color #8080F080}gumi-impactes{:reset}.
+- id: 20381
+  text: 'Repte per a naus gumi de tipus {:color #F0F00080}Falcó{:reset}.'
+- id: 20382
+  text: >-
+    Repte per a naus gumi amb
+
+    un {:color #8080F080}cost{:reset} de {:color #F0F00080}400 o menys{:reset}.
+- id: 20383
+  text: >-
+    Repte per a naus gumi que incloguin
+
+    {:color #8080F080}unitats d'habilitat{:reset} {:color #F0F00080}Canviar formació{:reset}.
+- id: 20384
+  text: 'Repte per a naus gumi de tipus {:color #F0F00080}Invencible{:reset}.'
+- id: 20385
+  text: >-
+    Repte per a naus gumi {:color #F0F00080}sense{:reset}
+
+    {:color #8080F080}armes gumi{:reset} equipades.
+- id: 20386
+  text: >-
+    Repte per a naus gumi basades
+
+    en {:color #F0F00080}plànols especials{:reset}.
+- id: 20387
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}4 o més{:reset} blocs de {:color #8080F080}gumi-blancs{:reset}.
+- id: 20388
+  text: 'Repte per a naus gumi {:color #F0F00080}sense{:reset} {:color #8080F080}nauetes{:reset}.'
+- id: 20389
+  text: >-
+    Repte per a naus gumi amb
+
+    {:color #F0F00080}2 o més{:reset} {:color #8080F080}gumis Artema{:reset}.
+- id: 20390
+  text: >-
+    Repte per a naus gumi de {:color #8080F080}mides{:reset}
+
+    {:color #F0F00080}3x3x3 o menor{:reset}.
+- id: 20391
+  text: >-
+    Repte per a naus gumi equipades
+
+    amb {:color #F0F00080}gumi Drenatge{:reset}.
+- id: 20500
+  text: Missió EX
+- id: 20501
+  text: Missió estàndard
+- id: 20505
+  text: Nivell 1 de missió extrema disponible!
+- id: 20506
+  text: Nivell 2 de missió extrema disponible!
+- id: 20507
+  text: Nivell 3 de missió extrema disponible!
+- id: 20508
+  text: Gumi Masteler
+- id: 20509
+  text: Gumi Bandera
+- id: 20510
+  text: Gumi Eruga
+- id: 20511
+  text: Ninot A
+- id: 20512
+  text: Ninot B
+- id: 20513
+  text: Ninot C
+- id: 20514
+  text: Ninot D
+- id: 20515
+  text: >-
+    Dispara a totes direccions.
+
+    Foc ràpid habilitat.
+- id: 20516
+  text: >-
+    Vola girant i torna a la nau.
+
+    Dispara a dues direccions.
+
+    Foc ràpid habilitat.
+- id: 20517
+  text: >-
+    Llença punys contra objectius
+
+    en l'ordre en que han estat
+
+    fixats. 6 punys màxim.
+- id: 20518
+  text: >-
+    Allibera una gran explosió
+
+    que afecta 16 o més blancs
+
+    fixats.
+- id: 20519
+  text: >
+    Utilitza l'indicador de Raig per llençar
+
+    l'atac rival i dispara.
+
+    Agrega-hi més gumi-rajos per a combos.
+- id: 20520
+  text: Augmenta la velocitat de la nau.
+- id: 20521
+  text: Augmenta l'energia de la nau.
+- id: 20522
+  text: >-
+    Millora la movilitat
+
+    de la nau.
+- id: 20523
+  text: Millora la VT de la nau.
+- id: 20524
+  text: Millora la VT de la nau.
+- id: 20525
+  text: Millora la VT de la nau.
+- id: 20526
+  text: Millora la VT de la nau.
+- id: 20691
+  text: Gumis tubulars
+- id: 20692
+  text: >-
+    Agrega tubs a un material gumi
+
+    per augmentar la VT de la nau.
+- id: 20719
+  text: Set de ninots
+- id: 21638
+  text: Falcó màx.
+- id: 21639
+  text: Invencible màx.
+- id: 21640
+  text: Venteguera màx.
+- id: 21641
+  text: Falcó Niv. 8
+- id: 21642
+  text: Invencible Niv. 8
+- id: 21643
+  text: Venteguera Niv. 8
+- id: 21644
+  text: Falcó Niv. 7
+- id: 21645
+  text: Invencible Niv. 7
+- id: 21646
+  text: Venteguera Niv. 7
+- id: 21647
+  text: Falcó Niv. 6
+- id: 21648
+  text: Invencible Niv. 6
+- id: 21649
+  text: Venteguera Niv. 6
+- id: 21650
+  text: Falcó Niv. 5
+- id: 21651
+  text: Invencible Niv. 5
+- id: 21652
+  text: Venteguera Niv. 5
+- id: 21653
+  text: Falcó Niv. 4
+- id: 21654
+  text: Invencible Niv. 4
+- id: 21655
+  text: Venteguera Niv. 4
+- id: 21656
+  text: Falcó Niv. 3
+- id: 21657
+  text: Invencible Niv. 3
+- id: 21658
+  text: Venteguera Niv. 3
+- id: 21659
+  text: Falcó Niv. 2
+- id: 21660
+  text: Invencible Niv. 2
+- id: 21661
+  text: Venteguera Niv. 2
+- id: 21662
+  text: Falcó Niv. 1
+- id: 21663
+  text: Invencible Niv. 1
+- id: 21664
+  text: Venteguera Niv. 1
+- id: 21665
+  text: Venteguera
+- id: 21666
+  text: Fong
+- id: 21667
+  text: Venteguera α
+- id: 21668
+  text: PuPu
+- id: 21669
+  text: Tonberry
+- id: 21670
+  text: Moguri
+- id: 21671
+  text: Mandràgora
+- id: 21672
+  text: Txocobo
+- id: 21673
+  text: Cactili
+- id: 21674
+  text: Cait Sith
+- id: 21675
+  text: Fenrir
+- id: 21676
+  text: Model Kingdom
+- id: 21677
+  text: Model secret
+- id: 21678
+  text: Durandal 2
+- id: 21679
+  text: Durandal 1
+- id: 21680
+  text: Cessador
+- id: 21681
+  text: Valkiria 2
+- id: 21682
+  text: Valkiria 1
+- id: 21683
+  text: Mà esquerra 2
+- id: 21684
+  text: Mà esquerra 1
+- id: 21685
+  text: Mitrill 2
+- id: 21686
+  text: Mitrill 1
+- id: 21687
+  text: Vigilant 2
+- id: 21688
+  text: Vigilant 1
+- id: 21689
+  text: Orgànica 2
+- id: 21690
+  text: Orgànica 1
+- id: 21691
+  text: Abric 2
+- id: 21692
+  text: Abric 1
+- id: 21693
+  text: Ull d'àguila 2
+- id: 21694
+  text: Ull d'àguila 1
+- id: 21695
+  text: >-
+    {:icon question-mark}{:color #F0F00080}NOTA{:reset}
+
+    El text contè una combinació
+
+    de caràcters restringida.
+- id: 21696
+  text: >-
+    {:icon question-mark}{:color #F0F00080}NOTA{:reset}
+
+    Els nom només poden contenir
+
+    un màxim de cinc dígits.

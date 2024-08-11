@@ -1,0 +1,1112 @@
+﻿- id: 849
+  text: >-
+    S'han de reunir dades sobre el tancament
+
+    de les portes i penjar l'ordinador.{:clear }El problema és que no hi ha
+
+    manera d'extreure'n les dades.
+- id: 850
+  text: >-
+    Els usuaris són admisables!
+
+    Mai he vist un programa així!{:clear }Gràcies al navegador solar, ja
+
+    puc accedir al PCM!
+- id: 855
+  text: Sora!
+- id: 856
+  text: Vinga, ensenya'ls qui mana!
+- id: 857
+  text: Qui ets?
+- id: 858
+  text: Soc el comandant Sark.
+- id: 859
+  text: Un sensecor comandant?
+- id: 860
+  text: Mmm... Observa.
+- id: 861
+  text: Molt bé, tu manes! Entesos.
+- id: 862
+  text: Vaja! Quina classe de món és aquest?
+- id: 863
+  text: >-
+    Sou dins d'un sistema
+
+    informàtic central.
+- id: 864
+  text: Un què?
+- id: 865
+  text: >-
+    Un sistema informàtic...
+
+    per processar dades.{:delay A2 00}{:clear }{:delay 3C 00}{:clear }Aquest sistema és la còpia d'un
+
+    creat per la corporació ENCOM. {:delay E6 00}{:clear }{:delay 2A 00}{:clear }El programa original fou destruït.
+- id: 866
+  text: >-
+    Aquesta còpia fou adquirida
+
+    per un altre usuari.
+- id: 867
+  text: >-
+    El nou usuari va actualitzar
+
+    els programes{:delay 82 00}{:clear }i va rebatejar el sistema com
+
+    "S.O. Baluard Balmat".
+- id: 868
+  text: >-
+    Utilitzava el sistema per al
+
+    manteniment de la ciutat{:delay 9D 00}{:clear }i per a les seves investigacions privades.
+- id: 869
+  text: Em dic Tron. {:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Soc un programa de seguretat...{:delay 61 00}{:clear }{:delay 2A 00}{:clear }però estic detingut, com vosaltres.
+- id: 870
+  text: Us heu assabentat de res?
+- id: 871
+  text: Òndia! {:delay 42 00}{:clear }I si ens presentem?
+- id: 872
+  text: Jo soc el Sora.
+- id: 873
+  text: I jo el Donald.
+- id: 874
+  text: >-
+    Encantat, Tron.
+
+    Jo soc el Goofy.
+- id: 875
+  text: >-
+    Amb aquesta configuració,
+
+    deveu ser usuaris.
+- id: 876
+  text: Usuaris?
+- id: 877
+  text: >-
+    Serà millor que sortiu
+
+    d'aquí de seguida.{:delay 5A 00}{:clear }{:delay 27 00}{:clear }Qui sap el que us farà el PCM?
+- id: 878
+  text: PCM?
+- id: 879
+  text: El Programa de Control Mestre.
+- id: 880
+  text: >-
+    Controla tot el sistema.
+
+    Si us quedeu aquí, intentarà borrar-vos.
+- id: 881
+  text: Borrar-nos?
+- id: 882
+  text: I com sortim d'aquí?
+- id: 883
+  text: >-
+    Aquest terminal us retornaria
+
+    al món dels usuaris.
+- id: 884
+  text: >-
+    Però el PCM n'ha tallat el
+
+    corrent fa 50 microcicles.
+- id: 885
+  text: >-
+    Si poguéssim activar el nucli
+
+    d'energia del canó, {:delay A0 00}{:clear }aconseguiríem reiniciar-lo.
+- id: 886
+  text: >-
+    El que passa és que...
+
+    som atrapats en aquesta cel・la.
+- id: 887
+  text: >-
+    No anirem enlloc si no
+
+    inutilitzem aquests camps d'energia.
+- id: 888
+  text: >-
+    Control Mestre,
+
+    per què no borrem el Tron?
+- id: 889
+  text: >-
+    Encara no he localitzat la contrasenya
+
+    d'aquell entorn de dades.
+- id: 890
+  text: >-
+    I una sonda lògica? Amb tota la
+
+    teva capacitat de processament...
+- id: 891
+  text: >-
+    Impossible.{:delay 4D 00}{:clear }{:delay 2E 00}{:clear }L'entorn actual en limita la
+
+    capacitat de processament{:delay 9C 00}{:clear }necessària per a semblant anàlisi.
+- id: 892
+  text: >-
+    Pots retirar-te, Sark.{:delay 60 00}{:clear }Elimina qualsevol altra anomalia
+
+    en el sistema o...{:delay D2 00}{:clear }Fi del missatge.
+- id: 893
+  text: Entesos.
+- id: 894
+  text: >-
+    {:unk13 5E 01 96 00}{:unk08 01 00 05}Notable...{:clear }Sembla ser que tens
+
+    algunes funcions úniques.
+- id: 895
+  text: >-
+    {:unk13 F0 00 46 00}{:unk08 01 01 06}Us acompanyaré
+
+    fins al canó.{:clear }Necessitareu algú
+
+    que pugui connectar-se
+
+    amb el nucli d'energia, no?
+- id: 896
+  text: '{:unk13 96 00 78 00}{:unk08 01 01 05}Si tu ho dius...{:clear }Gràcies, Tron.'
+- id: 897
+  text: Aquest és el nucli d'energia.
+- id: 898
+  text: '{:unk13 0E 01 64 00}{:unk08 01 01 06}Missió complerta?'
+- id: 899
+  text: '{:unk13 DC 00 50 00}{:unk08 01 00 05}Sí.'
+- id: 900
+  text: '{:unk13 FA 00 46 00}{:unk08 01 00 05}Ara... podríeu fer una cosa per mi?'
+- id: 901
+  text: '{:unk13 04 01 5A 00}{:unk08 01 01 06}Dona-ho per fet!'
+- id: 902
+  text: '{:unk13 1F 01 2A 00}{:unk08 01 00 05}No voleu abans saber de què es tracta?'
+- id: 903
+  text: >-
+    {:unk13 9D 00 A9 00}{:unk08 01 01 04}Tu ens has ajudat!
+
+    Ara ens toca a nosaltres.
+- id: 904
+  text: >-
+    {:unk13 5E 01 32 00}{:unk08 01 00 04}No hi ha dubte que
+
+    sou usuaris.{:clear }Les vostres accions són
+
+    totalment il・lògiques.
+- id: 905
+  text: >-
+    {:unk13 7C 01 3C 00}{:unk08 01 00 05}Afanyem-nos a
+
+    tornar a la cel・la.
+- id: 906
+  text: '{:unk13 A0 00 C8 00}{:unk08 01 01 06}Per on era?'
+- id: 907
+  text: >-
+    {:unk13 5E 01 64 00}{:unk08 01 00 05}És el sector on
+
+    ens trobem.
+- id: 908
+  text: '{:unk13 E6 00 28 00}{:unk08 01 01 06}Entesos!'
+- id: 909
+  text: Bé, què vols que fem?
+- id: 910
+  text: >-
+    Busqueu el meu usuari. Us donarà la
+
+    contrasenya per accedir al DTD.
+- id: 911
+  text: Fet!
+- id: 912
+  text: Però... eh...
+- id: 913
+  text: >-
+    DTD és el nom que li va posar el
+
+    meu usuari a l'entorn de dades.{:delay D2 00}{:clear }Allà s'hi guarden còpies de tots els
+
+    programes del sistema original{:delay CD 00}{:clear }i dades secretes o restringides.
+- id: 914
+  text: >-
+    Hi ha res sobre els sensecor
+
+    o l'Organització {XIII}?
+- id: 915
+  text: Mmm... És molt probable.
+- id: 916
+  text: >-
+    Vaig perdre varies de les meves funcions
+
+    l'última vegada que em vaig enfrontar al PCM.{:delay FA 00}{:clear }Per això necessito la contrasenya.
+- id: 917
+  text: >-
+    Si aconsegueixo entrar en el DTD, podré
+
+    accedei al meu backup original{:delay D2 00}{:clear }i restaurar totes les meves funcions.
+- id: 918
+  text: >-
+    Aleshores tornaré a deixar el
+
+    sistema tal i com era{:delay 92 00}{:clear }abans que el PCM es fes amb
+
+    el control i ho canviés tot.{:delay ED 00}{:clear }Com hauria de ser, un sistema lliure
+
+    per a vosaltres, els usuaris.
+- id: 919
+  text: >-
+    Ei, Tron, el PCM no és
+
+    un d'aquells programes també?
+- id: 920
+  text: Saps qui en va ser el seu creador?
+- id: 921
+  text: En realitat...
+- id: 922
+  text: No ho sé.
+- id: 923
+  text: >-
+    Doncs s'haurà de trobar el teu usuari
+
+    i preguntar-li-ho. Com es diu?
+- id: 924
+  text: >-
+    És que no ho sabeu?{:delay 48 00}{:clear }{:delay 54 00}{:clear }
+
+    El meu usuari és l'usuari
+
+    d'aquest sistema: {:delay 7E 00}{:clear }{:delay 30 00}{:clear }Ansem el Savi.
+- id: 925
+  text: Ansem?
+- id: 926
+  text: Crec que el PCM ens ha descobert.
+- id: 927
+  text: >-
+    Jo mantindré aquest terminal activat.
+
+    Vosaltres sortiu ja del sistema.
+- id: 928
+  text: És clar... però Tron... l'Ansem...
+- id: 929
+  text: Et durem la contrasenya!
+- id: 930
+  text: Molt bé.{:delay 3C 00}{:clear }Ja podeu anar-vos-en.{:delay 58 00}{:clear }Ràpid!
+- id: 931
+  text: >-
+    {:unk13 AA 00 64 00}{:unk08 01 01 06}Òndia, em pregunto
+
+    on serà el Tron.
+- id: 932
+  text: '{:unk06 02}{:unk13 90 01 AA 00}{:unk08 03 00 06}No toquis això!'
+- id: 933
+  text: '{:unk13 C8 00 64 00}{:unk08 01 01 06}Eh?'
+- id: 934
+  text: '{:unk06 02}{:unk13 AA 00 3C 00}{:unk08 03 00 05}Goofy!'
+- id: 935
+  text: '{:unk13 68 01 50 00}{:unk08 01 00 05}Eh... no he estat jo!'
+- id: 936
+  text: Jo no he tocat res!
+- id: 937
+  text: Benvinguts a la xarxa de joc.
+- id: 938
+  text: Xarxa de joc?
+- id: 939
+  text: >-
+    Exacte. Heu estat seleccionats
+
+    per participar en alguns jocs. {:delay D2 00}{:clear }Si perdeu, sereu esborrats. {:delay D2 00}{:clear }I si guanyeu...
+- id: 940
+  text: Bé...{:delay 3C 00}{:clear }{:delay 66 00}Ningú guanya.
+- id: 941
+  text: No pensem participar-hi!
+- id: 942
+  text: No hi teniu alternativa.
+- id: 943
+  text: Doncs llavors, endavant!
+- id: 944
+  text: Tron!
+- id: 945
+  text: No ho entenc. Per què sou aquí?
+- id: 946
+  text: Venim a donar-te la contrasenya.
+- id: 947
+  text: >-
+    Per què no n'heu
+
+    transmès les dades?
+- id: 948
+  text: Transmetre?
+- id: 949
+  text: Ei, estàs bé?
+- id: 950
+  text: >-
+    Estaré bé...
+
+    quan accedim al DTD.
+- id: 951
+  text: '{:unk13 B6 00 96 00}{:unk08 01 01 06}Molt bé, quina és la contrasenya?'
+- id: 952
+  text: '{:unk13 80 01 4B 00}{:unk08 01 00 06}Aviam...{:clear }Bella, Blancaneus...'
+- id: 953
+  text: >-
+    {:unk13 54 01 3C 00}{:unk08 01 01 06}Aurora, Alícia, Jasmín,
+
+    Ventafocs...
+- id: 954
+  text: '{:unk13 18 01 82 00}{:unk08 01 01 06}Kairi.'
+- id: 955
+  text: "{:unk13 0E 01 32 00}{:unk08 01 00 05}I Kairi. D'acord."
+- id: 956
+  text: '{:unk06 02}{:unk13 D2 00 3C 00}{:unk08 03 00 05}Funciona!'
+- id: 957
+  text: >-
+    {:unk13 FF 00 3C 00}Canviant el DTD d'hivernació a mode actiu.{:clear }Aquest procès trigarà un temps.{:clear }Si us plau, diverteixi's jugant
+
+    mentre finalitza el procès.
+- id: 958
+  text: '{:unk06 02}{:unk13 2C 01 46 00}{:unk08 03 00 05}Oh, no!'
+- id: 959
+  text: '{:unk13 C8 00 46 00}{:unk08 01 00 05}Més jocs, no!'
+- id: 960
+  text: >-
+    {:unk13 B4 00 3C 00}{:unk08 01 01 06}No, és la rutina de seguretat
+
+    final del DTD.{:clear }No és un joc.
+
+    Estigueu atents!
+- id: 961
+  text: >-
+    Estic com nou! Totes les meves
+
+    funcions han estat restaurades!
+- id: 963
+  text: >-
+    Per fi. {:delay 72 00}{:clear }Tinc accèss total al DTD. {:delay C0 00}{:clear }{:delay 2A 00}{:clear }El meu control sobre
+
+    el sistema és absolut.{:delay DE 00}{:clear }Mai m'hagués imaginat una
+
+    contrasenya tan senzilla.
+- id: 964
+  text: >-
+    Què tenim aquí?{:delay 4C 00}{:clear }Un programa de destrucció
+
+    d'emergència per a la ciutat.{:delay C8 00}{:clear }Vejam com funciona.
+- id: 965
+  text: No!
+- id: 966
+  text: >-
+    Programa!
+
+    Has canviat la contrasenya!
+- id: 967
+  text: Bé. Això ens donarà un temps.
+- id: 968
+  text: Tron! Digue'ns què està passant!
+- id: 969
+  text: >-
+    El PCM està carregant un
+
+    programa hostil en la Torre I/O.
+- id: 970
+  text: Què fem?
+- id: 971
+  text: >-
+    S'ha de protegir la
+
+    ciutat dels usuaris.
+- id: 972
+  text: Anem cap a la torre!
+- id: 973
+  text: '{:unk13 3B 01 30 00}{:unk08 01 00 05}Fora hi deu haver un caos total.'
+- id: 974
+  text: >-
+    {:unk13 BE 00 AC 00}{:unk08 01 01 04}Crec que també tindrem
+
+    problemes aquí dins...
+- id: 975
+  text: >-
+    Estic decepcionat, programa.{:delay 72 00}{:clear }{:delay 18 00}Per què insisteixes a aliar-te
+
+    amb aquells egoistes usuaris?
+- id: 976
+  text: >-
+    Perquè vull ajudar-los.{:delay 8A 00}{:clear }{:delay 2E 00}Una part del meu codi matriu
+
+    m'ordena obrar correctament.
+- id: 977
+  text: De debò? {:delay 36 00}{:clear }I quina part del codi és aquella?
+- id: 978
+  text: No n'estic segur del tot.
+- id: 979
+  text: Els amics...{:delay 2F 00}{:clear }s'ajuden els uns als altres, això és tot.{:delay 72 00}{:clear }{:delay 53 00}Oh! Compte!
+- id: 980
+  text: >-
+    Estic en deute amb vosaltres.{:delay 4A 00}{:clear }{:delay 2A 00}{:clear }Amb totes les meves funcions operatives,
+
+    crec que tinc possibilitats de{:delay C8 00}{:clear }treure-li el control al PCM.
+- id: 981
+  text: Serà millor que em posi a treballar.{:delay 7A 00}{:clear }{:delay 5D 00}{:clear }És el que voldria el meu usuari.
+- id: 982
+  text: El que voldria l'Ansem...
+- id: 983
+  text: Escolta'm, Tron.{:delay 43 00}{:clear }{:delay 33 00}{:clear }La contrasenya no ens la va donar l'Ansem.{:delay 89 00}{:clear }{:delay 31 00}{:clear }La vam trobar{:delay 5E 00}{:clear }{:delay 11 00}{:clear }en el món dels usuaris...{:delay 62 00}{:clear }per casualitat.
+- id: 984
+  text: I una cosa més...{:delay 54 00}{:clear }{:delay 18 00}{:clear }L'Ansem...{:delay 2A 00}{:clear }{:delay 1A 00}{:clear }era el nostre enemic.
+- id: 985
+  text: És a dir, encara l'és... suposo.
+- id: 986
+  text: En realitat... {:delay 3C 00}{:clear }{:delay 42 00}{:clear }també és el meu enemic.
+- id: 987
+  text: Com és això?
+- id: 988
+  text: >-
+    L'Ansem va utilitzar el sistema original
+
+    de l'ENCOM i el va personalitzar. {:delay 04 01}{:clear }{:delay 36 00}{:clear }Jo formava part del sistema original
+
+    i l'Ansem em va modificar.
+- id: 989
+  text: I allò el converteix en el meu usuari.
+- id: 990
+  text: >-
+    Però l'Ansem va ser
+
+    també qui va dur el PCM.{:delay D6 00}{:clear }{:delay 5E 00}{:clear }L'Ansem que coneixia
+
+    no ho hagués fet.{:delay 9D 00}{:clear }{:delay 40 00}Sento no haver-vos-ho dit.
+- id: 991
+  text: >-
+    No importa...
+
+    però ara sí que no entenc res.
+- id: 992
+  text: >-
+    Jo tampoc l'entenc.{:delay 96 00}{:clear }{:delay 66 00}{:clear }Crec que sou vosaltres els usuaris
+
+    els qui acabareu per esbrinar-lo.
+- id: 993
+  text: >-
+    Teniu la capacitat de
+
+    seguir pautes il・lógiques{:delay AA 00}{:clear }i tot i així arribar a les respostes.
+- id: 994
+  text: Aneu-vos-en ja, abans que el PCM hi torni.
+- id: 995
+  text: >-
+    Podeu accedir a
+
+    qualsevol dada del DTD{:delay 88 00}{:clear }directamente des del
+
+    terminal del meu usuari.{:delay AA 00}{:clear }Hi deixaré oberta una ruta
+
+    d'accés per a vosaltres.
+- id: 996
+  text: >-
+    He canviat la contrasenya,{:delay 48 00}{:clear }o sigui que el PCM no us
+
+    molestarà en una temporada.
+- id: 997
+  text: Ruta d'accés?
+- id: 998
+  text: Sabia que ho preguntaries.
+- id: 999
+  text: >-
+    És un enllaç molt important
+
+    entre els nostres mons.{:delay 99 00}{:clear }És el que ens manté connectats.
+- id: 1000
+  text: >-
+    Vosaltres... amics meus...
+
+    sou la nova contrasenya.
+- id: 1001
+  text: Gràcies, Tron! Cuida't!
+- id: 1002
+  text: >-
+    Igualment!
+
+    I doneu records als usuaris!
+- id: 1003
+  text: Òndia! Espero que el Tron estigui bé.
+- id: 1004
+  text: I jo. Anem a la xarxa de joc.
+- id: 1005
+  text: Bé! El terminal funciona!
+- id: 1006
+  text: Som-hi!
+- id: 1007
+  text: Tron!
+- id: 1008
+  text: Compte! Cobriu-vos!
+- id: 1009
+  text: Aguanta!
+- id: 1010
+  text: "{:unk13 D2 00 3C 00}{:unk08 01 00 05}M'heu salvat."
+- id: 1011
+  text: '{:unk13 90 01 64 00}{:unk08 01 00 05}Bah. No és res.'
+- id: 1012
+  text: '{:unk13 AA 00 C8 00}{:unk08 01 01 06}Què passa aquí?'
+- id: 1013
+  text: >-
+    {:unk13 AA 00 46 00}{:unk08 01 01 06}El PCM és a punt per
+
+    desencadenar una guerra
+
+    contra els usuaris.{:clear }Com van les coses
+
+    a l'exterior?
+- id: 1014
+  text: >-
+    {:unk13 B4 00 46 00}{:unk08 01 01 06}Bé, la màquina que
+
+    fabrica els sensecor ha
+
+    embogit completament...{:clear }I també hi ha problemes amb el
+
+    sistema de control de la ciutat.
+- id: 1015
+  text: >-
+    {:unk13 18 01 46 00}{:unk08 01 01 06}Però el Cid està creant un
+
+    programa que pot esborrar
+
+    el PCM.{:clear }Un cop el recollim en la Torre I/O,
+
+    creu que podrem utilitzar-lo per
+
+    acabar amb el PCM.
+- id: 1016
+  text: '{:unk06 02}{:unk13 82 00 3C 00}{:unk08 03 01 06}Provem-ho!'
+- id: 1017
+  text: '{:unk06 02}{:unk13 40 01 78 00}{:unk08 03 01 06}Genial!'
+- id: 1018
+  text: '{:unk13 FA 00 32 00}{:unk08 01 00 05}I qui és aquell Cid?'
+- id: 1019
+  text: >-
+    {:unk13 AA 00 3C 00}{:unk08 01 01 06}Un dels nostres amics.{:clear }Léon, Merlí,
+
+    Aerith, Yuffie...{:clear }Tots ells són allà fora,
+
+    i es preocupen per tu, Tron.
+- id: 1020
+  text: >-
+    {:unk13 36 01 3C 00}{:unk08 01 00 05}Dec tenir un munt
+
+    d'usuaris amics.
+- id: 1021
+  text: >-
+    {:unk13 FA 00 50 00}{:unk08 01 00 05}Aquell programa
+
+    ja serà acabat,
+
+    no creieu?
+- id: 1022
+  text: '{:unk06 02}{:unk13 90 01 B4 00}{:unk08 03 00 05}A la torre!'
+- id: 1023
+  text: '{:unk13 64 00 50 00}{:unk08 01 01 05}Endavant!'
+- id: 1024
+  text: Gairebé estem!
+- id: 1025
+  text: Aparteu d'enmig!
+- id: 1026
+  text: Segueix sense aparèixer res.
+- id: 1027
+  text: Léon, som-hi!
+- id: 1028
+  text: Ja arriba!
+- id: 1029
+  text: Bé!
+- id: 1030
+  text: Què et sembla?
+- id: 1031
+  text: Això és molt estrany...
+- id: 1032
+  text: És la màgia del Merlí!
+- id: 1033
+  text: Eh?
+- id: 1035
+  text: Aleshores... estem a punt?
+- id: 1036
+  text: >-
+    Bé, com dieu els usuaris...
+
+    no ho sabrem fins que ho intentem!
+- id: 1037
+  text: >-
+    Necessitem un navegador
+
+    per arribar fins al PCM!{:delay 78 00}{:clear }Anem a l'hangar de simulació.
+- id: 1038
+  text: >-
+    Hem d'estar atents.{:delay 5C 00}{:clear }El PCM no deixarà que
+
+    entrem per les bones.
+- id: 1039
+  text: El PCM és just allà.
+- id: 1040
+  text: És l'hora de resoldre les coses.
+- id: 1041
+  text: Qui és aquell?
+- id: 1042
+  text: Sark.{:delay 3F 00}{:clear }El segon del PCM.
+- id: 1043
+  text: >-
+    Errors molestos!
+
+    Esteu acabats.{:delay B8 00}{:clear }{:delay 32 00}Prepareu-vos per ser desintegrats!
+- id: 1044
+  text: Ets molt perseverant, Tron.
+- id: 1045
+  text: I molt millor que tu.
+- id: 1046
+  text: '{:delay 3C 00}Hauríem format... un gran equip.'
+- id: 1047
+  text: I ara, a pel PCM!
+- id: 1048
+  text: Aquesta cosa és el PCM?
+- id: 1049
+  text: Sí. És lleig, oi?
+- id: 1050
+  text: >-
+    Tron...{:delay 3E 00}{:clear }no ho entens?{:delay 78 00}{:clear }Nosaltres no necessitem usuaris.{:delay 99 00}{:clear }Hem evolucionat,
+
+    ja no ens serveixen.{:delay F0 00}{:clear }Uneix-te'm,
+
+    junts controlarem el món sencer!
+- id: 1051
+  text: >-
+    PCM... segueixes sense entendre-ho,
+
+    oi?
+- id: 1052
+  text: Sark...
+- id: 1053
+  text: Sark! {:delay 30 00}{:clear }{:delay 24 00}Ara totes les meves funcions són teves!
+- id: 1054
+  text: Ho hem fet!
+- id: 1055
+  text: >-
+    O sigui que el Tron també
+
+    té un costat divertit.
+- id: 1056
+  text: Ho he après de vosaltres...
+- id: 1057
+  text: Però tinc els meus propis límits.
+- id: 1058
+  text: >-
+    D'acord. Retocaré el teu programa
+
+    quan torni al món dels usuaris.
+- id: 1059
+  text: Tu? Millor deixa'l com està.
+- id: 1060
+  text: Què us sembla, nois?{:delay 6E 00}{:clear }{:delay 17 00}{:clear }Tron, l'ànima de les festes. {:delay 78 00}{:clear }{:delay 1A 00}{:clear }Sona bé?
+- id: 1061
+  text: Sí!
+- id: 1062
+  text: >-
+    {:delay 5A 00}Bé, molt bé.
+
+    Però abans que em quedi penjat...
+- id: 1063
+  text: Sora, Donald, Goofy...{:delay A6 00}{:clear }{:delay 1F 00}i tota la resta d'usuaris...{:delay 78 00}{:clear }{:delay 6E 00}Gràcies.
+- id: 1064
+  text: >-
+    M'heu ajudat molt.
+
+    Soc més fort gràcies a vosaltres.
+- id: 1065
+  text: >-
+    M'heu ensenyat que
+
+    l'amistat és la clau de tot.
+- id: 1066
+  text: >-
+    I mai l'oblidaré.{:delay 4E 00}{:clear }{:delay 30 00}Des que us vaig conèixer,
+
+    vaig saber que venceríem el PCM{:delay D8 00}{:clear }i alliberaríem el sistema.
+- id: 1067
+  text: >-
+    No és això el que fan els usuaris
+
+    quan els fa pena acomiadar-se?
+- id: 1068
+  text: Ehh... Jo mai ho faig.
+- id: 1069
+  text: >-
+    Òndia, Tron! És com una promesa
+
+    que tornarem a veure'ns molt aviat.
+- id: 1070
+  text: Bé, aleshores...
+- id: 1071
+  text: Ho prometo.
+- id: 1072
+  text: On vas?
+- id: 1073
+  text: Tron!
+- id: 1074
+  text: '{:icon dynamic-triangle}Diari'
+- id: 1075
+  text: Laboratori
+- id: 1076
+  text: Moto de llum
+- id: 1077
+  text: Guia
+- id: 1078
+  text: Prova 1
+- id: 1079
+  text: >-
+    Transporta l'usuari
+
+    al laboratori.
+- id: 1080
+  text: Prova 2
+- id: 1081
+  text: Moto de llum
+- id: 1082
+  text: >-
+    Començar jocs de
+
+    Motos de llum.
+- id: 1083
+  text: 'Minijoc de Moto de llum, Guia #2'
+- id: 1084
+  text: 'Guia de la guia #0'
+- id: 1085
+  text: >-
+    Confirmar controls de
+
+    Moto de llum.
+- id: 1086
+  text: 'Guia de la guia #2'
+- id: 1087
+  text: Sí
+- id: 1088
+  text: No
+- id: 1089
+  text: Selecciona.
+- id: 1090
+  text: Executar aquesta selecció?
+- id: 8053
+  text: Moto de llum
+- id: 8054
+  text: 'Missió de Moto de llum, Guia #0'
+- id: 8055
+  text: >-
+    Transporta l'usuari
+
+    a la xarxa de joc.
+- id: 8056
+  text: 'Missió de Moto de llum, Guia #2'
+- id: 8133
+  text: Busca la peça vertadera!
+- id: 8134
+  text: >-
+    Busca la peça vertadera
+
+    entre les falses!
+- id: 8135
+  text: Omple l'indicador i detèn tots els monitors!
+- id: 8136
+  text: >-
+    Omple l'indicador perquè es
+
+    pengin tots els monitors!
+- id: 8137
+  text: 'Repte: derrota tots els enemics!'
+- id: 8138
+  text: >-
+    Derrota tots els sensecor!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 8139
+  text: Derrota tots els sensecor i ves a la Torre I/O!
+- id: 8140
+  text: Derrota tots els sensecor i ves a la Torre I/O!
+- id: 8141
+  text: El navegador solar està sobrecarregat! Desfes-te dels enemics!
+- id: 8142
+  text: >-
+    El navegador solar està al límit!
+
+    Acaba amb els enemics per seguir volant!
+- id: 10446
+  text: Una recàrrega d'energia per a mi!
+- id: 10447
+  text: >-
+    I rutines de vol per
+
+    al navegador solar!
+- id: 13002
+  text: Sí senyor!
+- id: 15145
+  text: >-
+    Mireu! Crec que podem
+
+    escapar per allà.
+- id: 16135
+  text: Sacseja bé les peces!
+- id: 16136
+  text: Para atenció a les peces que canvien de color!
+- id: 16137
+  text: Detèn el monitor!
+- id: 16138
+  text: En queden dos!
+- id: 16139
+  text: En queda un!
+- id: 16838
+  text: El navegador solar no podrà volar amb tot aquest pes!
+- id: 16997
+  text: Està apagat.
+- id: 16998
+  text: No saps com utilitzar això.
+- id: 16999
+  text: >-
+    Està bloquejat i no pot
+
+    utilitzar-se des d'aquí.
+- id: 17324
+  text: L'habilitat Esborrar requereix l'ajuda del Tron!
+- id: 17873
+  text: >-
+    El PCM era un programa
+
+    de adquisició de dades.{:clear }Si no m'haguéssiu rescatat,
+
+    hauria robat totes les meves dades.
+- id: 17874
+  text: >-
+    Quack! A quin lloc
+
+    ens han dut?{:clear }Tot brilla tant
+
+    que m'entren nàusees!
+- id: 17875
+  text: >-
+    No és aquest el quarto on
+
+    erem tancats en arribar?{:clear }I després vam haver de reunir
+
+    dades per poder sortir, oi?
+- id: 17876
+  text: >-
+    Des del terminal, arribarem a la
+
+    {:theme 0A}xarxa de joc{:reset}, on és el Tron! Ràpid!
+- id: 17877
+  text: >-
+    Dius que aquella espècie de porta que
+
+    bloqueja la sortida és tancada?{:clear }I no podríem obrir-la
+
+    amb la clau espasa, Sora?
+- id: 17878
+  text: >-
+    Sembla que es pot arribar
+
+    l'entorn de dades des del {:theme 0A}canó{:reset}.{:clear }La paret vermella ens guiarà.
+- id: 17879
+  text: >-
+    Fins ara, el Tron ha tingut
+
+    a ratlla el PCM, oi?{:clear }Però si el PCM ha actuat a l'exterior,
+
+    potser el Tron és en perill!
+- id: 17880
+  text: >-
+    Aquella cosa del centre es el {:theme 0A}nucli
+
+    d'energia{:reset}. Intentem entrar-hi.{:clear }Potser podrem trobar parts per
+
+    reinciar entre tota la brossa.
+- id: 17881
+  text: >-
+    Segons el Tron, aquesta és una
+
+    espècie de dipòsit de deixalles.{:clear }Què seria abans tota aquesta
+
+    brossa que ha vingut a parar aquí?
+- id: 17882
+  text: >-
+    Aquell tal PCM controla
+
+    aquest món, no?{:clear }Serà millor que trobem el
+
+    {:theme 0A}nucli d'energia{:reset} com més aviat.
+- id: 17883
+  text: >-
+    He anulat la seguretat. L'ascensor
+
+    de la {:theme 0A}Torre I/O {:reset}ja deu funcionar.{:clear }De pressa! En sortir d'aquest quarto,
+
+    veureu l'ascensor just davant!
+- id: 17884
+  text: >-
+    Amb els sensecor i els incorporis
+
+    ja hi ha bastants problemes!{:clear }Un sol problema més, i
+
+    la ciutat es farà miques!
+- id: 17885
+  text: >-
+    Ja n'extraurem les dades després.
+
+    Anem a la {:theme 0A}Torre I/O{:reset}!
+- id: 17886
+  text: >-
+    Vindran altres programes perillosos.
+
+    Per conseguir eliminar-los...{:clear }s'han d'esborrar les dades enemigues
+
+    i així limitar-ne els seus moviments.
+- id: 17887
+  text: >-
+    Em quedaré aquí per evitar
+
+    que el PCM causi més mals.{:clear }El {:theme 0A}món dels usuaris {:reset}és en perill.
+
+    Torneu com abans millor per aquest terminal.
+- id: 17888
+  text: >-
+    Hem d'atrapar-los
+
+    abans que escapin.{:clear }De pressa, a la sala contigua!
+
+    Allà els aturarem!
+- id: 17889
+  text: >-
+    S'han acabat els jocs.{:clear }Com serà el navegador solar?
+
+    Quines ganes tinc de veure'l!
+- id: 17890
+  text: >-
+    Podem tonrar a Baluard Balmat
+
+    per aquell terminal!{:clear }Però abans s'ha d'ajudar el Tron.
+- id: 17891
+  text: >-
+    Si sortim i seguim tot dret,
+
+    arribarem a l'{:theme 0A}hangar de simulació{:reset}.
+- id: 17892
+  text: >-
+    El PCM està ben protegit.
+
+    Primer s'han de destruir les seves defenses,{:clear }i després esborrar-lo per complet.
+
+    En definitiva, són només dades.
+- id: 17893
+  text: >-
+    Si vencem el PCM, la ciutat
+
+    tornarà a la normalitat.{:clear }Si no, el Léon i els altres
+
+    no tindran res a fer.
+- id: 17894
+  text: >-
+    Per fi ha arribat el moment
+
+    de passar comptes amb el PCM.{:clear }Té molts secuaços, o sigui
+
+    que hem d'anar amb compte.
+- id: 17895
+  text: >-
+    El navegador solar no té
+
+    un sistema de defensa.{:clear }Se l'hauria de defendre. El PCM
+
+    no és burro i atacarà la simulació.
+- id: 17896
+  text: >-
+    Ho heu sentit? El navegador solar
+
+    es mou sobre ones de llum.{:clear }Si pesa massa, es sortirà de
+
+    les ones i pot ser que caigui.
+- id: 17897
+  text: >-
+    Una vista magnífica, però em sento
+
+    un blanc fàcil per a l'enemic.
+- id: 17898
+  text: >-
+    Per arribar al nucli del sistema,
+
+    vaig haver de saltar allà abaix.{:clear }Perdoneu, si us he confòs.
+- id: 17899
+  text: >-
+    És genial que el PCM hagi desaparegut.
+
+    Segur que el Tron també està alleujat!
+- id: 17900
+  text: >-
+    Hem visitat molts mons,
+
+    però aquest s'endu la palma!{:clear }No acabo de creure'm que tot el que
+
+    hi ha aquí no són més que dades!
+- id: 18381
+  text: >-
+    Necessitem una contrasenya
+
+    per accedir al DTD.{:clear }Si us plau, intenteu trobar-la
+
+    en el món exterior.
+- id: 18712
+  text: >-
+    Derrota el programa hostil!
+
+    Omple l'indicador i utilitza Penjar!
+- id: 18713
+  text: >-
+    Acaba amb el Sark!
+
+    Defèn-te i contraataca!
+- id: 18714
+  text: >-
+    Destrueix el PCM!
+
+    Atravessa els murs de
+
+    protecció i esborra el PCM!
+- id: 18729
+  text: Atacar
+- id: 18730
+  text: Carregar
+- id: 18731
+  text: Bloqueig
+- id: 18732
+  text: Tècnica letal
+- id: 18951
+  text: El Tron ha après una nova habilitat.
+- id: 18952
+  text: El Tron ha après una nova habilitat.
+- id: 19112
+  text: >-
+    No es pot utilitzar sense
+
+    el navegador solar.
+- id: 19544
+  text: Derrota cinc sensecor!
+- id: 19545
+  text: Elimina els enemics i dirigeix-te a la meta!
+- id: 19567
+  text: >-
+    Intenta utilitzar Atacar, Carrega i
+
+    Bloqueig per vèncer cinc sensecor!
+- id: 19568
+  text: >-
+    Utilitza Atacar, Carrega i Bloqueig per
+
+    eliminar els enemics i arribar a la meta!
+- id: 19760
+  text: Espaci Paranoic
+- id: 21558
+  text: "{:delayandfade 0A 78} \nEn Sora aconsegueix escapar de\nla seva cel・la amb el Tron i\ntots es dirigeixen cap al nucli\nd'energia per reiniciar-lo.\n \n \n \n \n \n"
+- id: 21559
+  text: "{:delayandfade 0A 78} \nEl nucli d'energia ja torna\na ser en marxa.\n \nSembla que el Tron té alguna\ncosa a demanar al Sora, però\nabans han de tornar a la cel・la\nperquè el grup pugui tornar\nal món real.\n \n"
+- id: 21560
+  text: "{:delayandfade 0A 78} \nEn arribar al DTD, el Sora dona al\nTron la contrasenya, que resulta ser\nels noms de les Set Princeses,\ncomençant pel de la Kairi.\n \n \n \n"
+- id: 21561
+  text: "{:delayandfade 08 78} \nEl Sora i el Tron es retroben per fi,\nperò la situació és crítica:\nel PCM està a punt per començar\nla seva guerra contra els usuaris.\n \nL'única esperança és arribar fins la\nTorre I/O i carregar en el sistema\nel programa d'Erradicació del PCM.\n \n"

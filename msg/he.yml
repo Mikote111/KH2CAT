@@ -983,7 +983,7 @@
 - id: 3764
   text: '{:unk13 69 01 CB 00}{:unk06 00}{:unk08 01 01 05}Què és allò?'
 - id: 3765
-  text: "{:unk13 96 00 64 00}{:unk06 00}{:unk08 01 00 05}L'Infernódrom."
+  text: "{:unk13 96 00 64 00}{:unk06 00}{:unk08 01 00 05}L'Infernòdrom."
 - id: 3766
   text: >-
     {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 00 05}Hi va haver un temps en el
@@ -1039,7 +1039,7 @@
     en un dia tan gloriós?
 - id: 3779
   text: >-
-    L'Infernódrom s'obre
+    L'Infernòdrom s'obre
 
     i n'has d'omplir les grades.
 - id: 3780

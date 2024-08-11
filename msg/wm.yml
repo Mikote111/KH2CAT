@@ -1,0 +1,647 @@
+﻿- id: 6179
+  text: >-
+    Utilitza l'stick esquerre per controlar
+
+    la nau gumi. Intenta apropar-te a Baluard Balmat
+
+    en la direcció que senyala la fletxa. Quan arribis
+
+    a la teva destinació, prem {:unk16 08} per desembarcar.
+- id: 7682
+  text: Comença una aventura!
+- id: 7683
+  text: >-
+    {:width 95}Serà Baluard Balmat un lloc tranquil,
+
+    ara que no hi són els sensecor...?
+- id: 7684
+  text: Vells amics
+- id: 7685
+  text: >-
+    Hem d'anar a casa el Merlí i
+
+    buscar les pàgines perdudes del Pooh!
+- id: 7686
+  text: El món dels programes
+- id: 7687
+  text: >-
+    Hem d'accedir al laboratori
+
+    de l'Ansem!
+- id: 7688
+  text: Retorn al món dels programes
+- id: 7689
+  text: >-
+    Anem al món dels programes
+
+    des del laboratori de l'Ansem!
+- id: 7690
+  text: Retorn de la pàgina! 1
+- id: 7691
+  text: >-
+    El llibre és a casa del Merlí.
+
+    Anem a retornar la pàgina!
+- id: 7692
+  text: Retorn de la pàgina! 2
+- id: 7693
+  text: >-
+    El llibre és a casa del Merlí.
+
+    Anem a retornar la pàgina!
+- id: 7694
+  text: Retorn de la pàgina! 3
+- id: 7695
+  text: >-
+    El llibre és a casa del Merlí.
+
+    Anem a retornar la pàgina!
+- id: 7696
+  text: Retorn de la pàgina! 4
+- id: 7697
+  text: >-
+    El llibre és a casa del Merlí.
+
+    Anem a retornar la pàgina!
+- id: 7698
+  text: Retorn de la pàgina! 5
+- id: 7699
+  text: >-
+    El llibre és a casa del Merlí.
+
+    Anem a retornar la pàgina!
+- id: 7700
+  text: Comencem una nova aventura!
+- id: 7701
+  text: >-
+    Fem un cop d'ull a
+
+    la Terra de Dracs!
+- id: 7702
+  text: Anem a veure la Mulan!
+- id: 7703
+  text: >-
+    Com aniran les coses a la
+
+    ciutat de la Terra de Dracs!
+- id: 7704
+  text: Al vell castell del bosc!
+- id: 7705
+  text: >-
+    Registrem el vell castell del bosc
+
+    aviam què trobem.
+- id: 7706
+  text: Com li deu anar a tots per aquí?
+- id: 7707
+  text: S'hauran reconciliat la Bella i la Bèstia?
+- id: 7708
+  text: Coliseu de l'Olimp
+- id: 7709
+  text: >-
+    Posem a prova la nostra destresa
+
+    en el Coliseu de l'Olimp!
+- id: 7710
+  text: Com li deu anar a l'Hèrcules?
+- id: 7711
+  text: >-
+    Hauríem d'anar a saludar l'Hércules
+
+    i l'Auron!
+- id: 7712
+  text: Visca el regne!
+- id: 7713
+  text: El Castell Disney és en perill!?
+- id: 7714
+  text: Al regne submarí!
+- id: 7715
+  text: A nedar en les aigües d'Atlàntica!
+- id: 7716
+  text: Intentem moure l'estàtua!
+- id: 7717
+  text: Per què no parlem amb el Flounder?
+- id: 7718
+  text: Participem en el musical!
+- id: 7719
+  text: Hem de parlar amb el Sebastià!
+- id: 7720
+  text: Trobem l'objecte perdut!
+- id: 7721
+  text: Anem a parlar amb l'Ariel!
+- id: 7722
+  text: '{:width 95}El millor musical de tots els temps!'
+- id: 7723
+  text: Anem a parlar amb el Sebastià!
+- id: 7724
+  text: Una aventura a capa i espasa!
+- id: 7725
+  text: >-
+    Anem a Port Royal! Allà
+
+    hi ha naus a dolls!
+- id: 7726
+  text: Anem a veure el Will!
+- id: 7727
+  text: >-
+    Haurà tornat la calma, ara
+
+    que hem vençut el Barbossa?
+- id: 7728
+  text: Anem a Ciutat de Halloween!
+- id: 7729
+  text: >-
+    Celebrem-ho amb tot el
+
+    poble!
+- id: 7730
+  text: Ja gairebé és Nadal, no?
+- id: 7731
+  text: >-
+    Sembla que el Jack es va treure
+
+    el Nadal del cap, però...
+- id: 7732
+  text: Al palau del desert
+- id: 7733
+  text: Mirem què passa a Agrabah!
+- id: 7734
+  text: Anem a visitar Agrabah!
+- id: 7735
+  text: Com els deu anar a l'Aladdín i al Geni?
+- id: 7736
+  text: Al regne salvatge!
+- id: 7737
+  text: >-
+    Visitem la jungla de
+
+    les Terres del Regne!
+- id: 7738
+  text: Per què no anem a veure el rei Simba?
+- id: 7739
+  text: >-
+    Com li deu anar al Simba com a
+
+    rei de les Terres del Regne?
+- id: 7740
+  text: A la batalla final!
+- id: 7741
+  text: >-
+    Acabem d'una vegada
+
+    amb l'Organització {XIII}!
+- id: 7840
+  text: '{:unk08 01 01 06}Hola, Sora! Com va?'
+- id: 7841
+  text: >-
+    {:unk08 01 00 05}Ei! Què ha passat amb
+
+    Vila Crepuscle?
+- id: 7850
+  text: '{:unk08 01 00 05}Eh?'
+- id: 7859
+  text: "{:unk08 01 00 05}Fixa-t'hi! Vila Crepuscle!"
+- id: 7862
+  text: >-
+    {:unk08 01 01 06}El rei, el Riku... i ara
+
+    he tornat a perdre la Kairi.
+- id: 13852
+  text: Nivell ▴
+- id: 13854
+  text: Niv. {:unk0d }
+- id: 18082
+  text: Blanc fixe
+- id: 18083
+  text: Accelerar
+- id: 18084
+  text: Teleportació
+- id: 18085
+  text: Desembarcar
+- id: 18086
+  text: Entrar
+- id: 18107
+  text: Cancel・lar
+- id: 18410
+  text: >-
+    {:unk08 01 00 05}Som els teus mecànics gumi preferits,
+
+    a punt per treballar. Xip...
+- id: 18411
+  text: '{:unk08 01 01 06}I Xop!'
+- id: 18412
+  text: Feliç vol!
+- id: 18413
+  text: '{:unk08 01 01 06}Ha desaparegut?'
+- id: 18414
+  text: '{:unk08 01 01 06}No estiguis trist!'
+- id: 18415
+  text: >-
+    {:unk08 01 00 05}El Donald té raó! Tu ets
+
+    la clau que connecta tot.
+- id: 18416
+  text: '{:unk08 01 01 06}Llavors tot és culpa meva.'
+- id: 18417
+  text: >-
+    {:unk08 01 00 05}Òndia! Jo no volia dir allò.
+
+    Tu segueix el teu instint i
+
+    segur que els trobem.
+- id: 18418
+  text: '{:unk08 01 01 06}Ben dit!'
+- id: 18426
+  text: >-
+    {:unk08 01 00 05}Atents! Estic detectant
+
+    una senyal molt rara.
+- id: 18427
+  text: >-
+    {:unk08 01 00 05}És aquella estranya senyal d'abans.
+
+    Veus? Sabia que no era una fallada.
+- id: 18428
+  text: '{:unk08 01 00 05}Què és allò? Aquella cosa tan... gran.'
+- id: 18429
+  text: >-
+    {:unk08 01 01 06}Pot ser que sigui l'origen d'aquella
+
+    senyal tan rara que hem detectat.
+- id: 18545
+  text: Desembarcar a ZZ
+- id: 18546
+  text: Desembarcar a Fi del mar
+- id: 18547
+  text: Desembarcar a Vila Crepuscle
+- id: 18548
+  text: Desembarcar a Illes del Destí
+- id: 18549
+  text: Desembarcar a Baluard Balamt
+- id: 18550
+  text: Desembarcar a Castell de la Bèstia
+- id: 18551
+  text: Desembarcar a Coliseu de l'Olimp
+- id: 18552
+  text: Desembarcar a Agrabah
+- id: 18553
+  text: Desembarcar a Terra de Dracs
+- id: 18554
+  text: Desembarcar a Bosc dels Cent Acres
+- id: 18555
+  text: Desembarcar a Terres del Regne
+- id: 18556
+  text: Desembarcar a Atlàntica
+- id: 18557
+  text: Desembarcar a Castell Disney
+- id: 18558
+  text: Desembarcar a Riu etern
+- id: 18559
+  text: Desembarcar a Ciutat de Halloween
+- id: 18560
+  text: Desembarcar a FA
+- id: 18561
+  text: Desembarcar a Port Royal
+- id: 18562
+  text: Desembarcar a Espaci paranoic
+- id: 18563
+  text: Desembarcar a El Món Inexistent
+- id: 18564
+  text: Potser després...
+- id: 18817
+  text: '{:unk08 01 01 05}Només un?'
+- id: 18818
+  text: "{:unk08 01 01 06}No n'hi ha prou amb això!"
+- id: 18819
+  text: >-
+    {:unk08 01 00 05}Espereu!
+
+    Crec que és un món que coneixem!
+- id: 18820
+  text: >-
+    Utilitza {:icon dynamic-left-analog} per controlar la nau gumi.
+
+    Intenta apropar-te a la ruta gumi amb forma de porta.
+
+    Quan hi arribis, prem {:icon dynamic-triangle} per desembarcar.{:clear }No pots desembarcar en mons no connectats per rutes gumi.
+
+    Obre les rutes gumi per connectar els mons.
+- id: 18821
+  text: '{:unk08 01 01 06}Sí, ja la veig! Ha tornat!'
+- id: 18822
+  text: '{:unk08 01 01 05}Gràcies, nois.'
+- id: 18823
+  text: >-
+    {:unk08 01 00 05}Oh, no! Baluard Balmat!
+
+    Està sumit en la foscor!
+- id: 18824
+  text: >-
+    {:unk08 01 01 06}És veritat, Xip!
+
+    Què deu estar passant?
+- id: 18825
+  text: >-
+    {:unk08 01 00 05}Sora! Hem d'esbrinar què
+
+    passa immediatament!
+- id: 18830
+  text: "{:unk08 01 01 06}N'estàs segur? Deixa'm veure."
+- id: 18831
+  text: '{:unk08 01 00 05}Mira... Tot està ennuvolat i com borrós.'
+- id: 18832
+  text: '{:unk08 01 01 06}Ja, però tot segueix ennuvolat i com borrós.'
+- id: 18833
+  text: '{:unk08 01 00 05}Mmm... Bé, una cosa sí que és clara.'
+- id: 18834
+  text: >-
+    {:unk08 01 00 05}I passa alguna cosa rara amb Vila Crepuscle.
+
+    N'estic veient dues!
+- id: 18835
+  text: >-
+    {:unk08 01 01 06}Mira! Una altra pujada enorme d'energia!
+
+    I ve del mateix punt, prop de la ciutat.
+- id: 18865
+  text: >-
+    {:unk08 01 01 06}Eh, un moment...
+
+    La nau s'està movent sola?
+- id: 18885
+  text: >-
+    Utilitza {:icon dynamic-left-analog} per controlar la nau gumi.
+
+    Intenta apropar-te al món que hi ha en la part inferior de la pantalla.
+
+    Quan hi arribis, prem {:icon dynamic-triangle} per aterrar.
+- id: 18886
+  text: >-
+    {:unk08 01 00 05}Ei, sembla que ens dirigim
+
+    a Baluard Balmat.
+- id: 18890
+  text: '{:unk08 01 01 06}Serà alguna fallada...'
+- id: 18891
+  text: '{:unk08 01 00 05}No sé jo...'
+- id: 18892
+  text: '{:unk08 01 01 06}Quina cosa?'
+- id: 18893
+  text: >-
+    {:unk08 01 00 05}Que quan el Sora, el Donald i el Goofy
+
+    surten a ajudar la gent, la senyal es
+
+    fa més forta.
+- id: 18894
+  text: '{:unk08 01 01 06}Vaja! Per què serà?'
+- id: 18895
+  text: >-
+    {:unk08 01 00 05}Sora! Nosaltres intentarem esbrinar
+
+    alguna més sobre la senyal.
+- id: 18896
+  text: '{:unk08 01 01 06}Mentrestant, vosaltres seguiu buscant per allà!'
+- id: 18897
+  text: '{:unk08 01 00 05}Comptem amb vosaltres, nois!'
+- id: 18898
+  text: >-
+    {:unk08 01 00 05}No sé molt bé què passa, nois, però
+
+    em temo que s'està muntant un bon
+
+    embolic en Vila Crepuscle!
+- id: 19021
+  text: Entrar a Pluja d'asteroides
+- id: 19022
+  text: Entrar a Pols d'estrelles
+- id: 19023
+  text: Entrar a Carretera truncada
+- id: 19024
+  text: Entrar a Carretera antiga
+- id: 19025
+  text: Entrar a Tempesta fantasma
+- id: 19026
+  text: Entrar a Tempesta solar
+- id: 19027
+  text: Entrar a Illa de la rosada
+- id: 19028
+  text: Entrar a Illa flotant
+- id: 19029
+  text: '{:width 90}Entrar a Assalt del cuirassat'
+- id: 19329
+  text: >-
+    {:unk08 01 00 05}Suposo que a vegades l'ajuda
+
+    sorgeix de llocs inesperats.
+- id: 19330
+  text: '{:unk08 01 01 06}És clar.'
+- id: 19331
+  text: >-
+    {:unk08 01 00 05}Una foto i un gelat? Uhm...
+
+    Semblen alguna espècie de pista.
+
+    I... qui ens les haurà deixat?
+- id: 19332
+  text: '{:unk08 01 01 06}Riku?'
+- id: 19333
+  text: '{:unk08 01 00 05}Tu creus?'
+- id: 19334
+  text: '{:unk08 01 01 06}Alguna cosa em diu que sí.'
+- id: 19335
+  text: '{:unk08 01 01 06}Mireu! Gairebé hem arribat!'
+- id: 19336
+  text: >-
+    {:unk08 01 01 06}Ei, i si tornen els sensecor?
+
+    No puc utilitzar la clau espasa... això
+
+    només beneficiaria l'Organització.
+- id: 19337
+  text: >-
+    {:unk08 01 00 05}Però Sora, has de fer-la servir.
+
+    Si no lluitem, els sensecor
+
+    seguiran fent mal a la gent.
+- id: 19382
+  text: '{:unk08 01 01 06}Oh, oh. No podem seguir.'
+- id: 19383
+  text: >-
+    {:unk08 01 00 05}Òndia! Potser s'ha encallat
+
+    la porta o alguna cosa.
+- id: 19384
+  text: '{:unk08 01 00 05}Eh? Vols tornar a Vila Crepuscle?'
+- id: 19385
+  text: '{:unk08 01 01 06}Vinga! Hem de seguir endavant!'
+- id: 19386
+  text: Com? No ho entenc. No ens hi deixa anar.
+- id: 19387
+  text: S'haurà trencat res?
+- id: 19469
+  text: Ara és inaccessible.
+- id: 19472
+  text: '{:icon dynamic-l1}{:width 90}Seleccionar destinació'
+- id: 19473
+  text: "{:icon dynamic-r1}Llista d'episodis"
+- id: 19474
+  text: Esdveniments passats
+- id: 19475
+  text: Següent objectiu
+- id: 19476
+  text: '{:icon dynamic-triangle}Diari del Grill'
+- id: 19477
+  text: Seleccionar destinació
+- id: 19478
+  text: Llista d'episodis
+- id: 19498
+  text: >-
+    Necessites la màgia "Magneto"
+
+    per moure l'estàtua.
+- id: 19499
+  text: >-
+    Per participar en el musical, necessites
+
+    que l'indicador de Fusió sigui a 5 o més.
+- id: 19500
+  text: >-
+    Necessites la màgia "Magneto+"
+
+    per recuperar l'objecte perdut.
+- id: 19501
+  text: >-
+    Necessites la màgia "Electro++"
+
+    per dur a terme la idea del Sebastià.
+- id: 19504
+  text: S'hi ha agregat un nou episodi!
+- id: 19505
+  text: S'hi ha agregat un nou episodi!
+- id: 19506
+  text: S'hi ha agregat un nou episodi!
+- id: 19507
+  text: S'hi ha agregat un nou episodi!
+- id: 19508
+  text: S'hi ha agregat un nou episodi!
+- id: 19509
+  text: S'hi ha agregat un nou episodi!
+- id: 19510
+  text: S'hi ha agregat un nou episodi!
+- id: 19511
+  text: S'hi ha agregat un nou episodi!
+- id: 19512
+  text: S'hi ha agregat un nou episodi!
+- id: 19513
+  text: S'hi ha agregat un nou episodi!
+- id: 19514
+  text: S'hi ha agregat un nou episodi!
+- id: 19515
+  text: Vila Crepuscle
+- id: 19516
+  text: Anem a Vila Crepuscle!
+- id: 19517
+  text: El misteri del crepuscle
+- id: 19518
+  text: >-
+    Resolem el misteri de
+
+    Vila Crepuscle!
+- id: 19519
+  text: Què ha passat a Baluard Balmat!?
+- id: 19520
+  text: >-
+    Una cosa molt estranya està
+
+    passant a Baluard Balmat!
+- id: 19521
+  text: S'ha d'inspeccionar la ciutat!
+- id: 19522
+  text: >-
+    Com deu estar la ciutat...?
+
+    Anem al mercat!
+- id: 19523
+  text: BB Escenari 3
+- id: 19524
+  text: Baluard Balmat Escenari 3
+- id: 19525
+  text: El nou coliseu?
+- id: 19526
+  text: >-
+    Ha començat un estrany torneig.
+
+    {:width 90}El Dolor i el Pànic han de saber-ne alguna cosa...
+- id: 19527
+  text: La Copa Cèrber ha començat!
+- id: 19528
+  text: >-
+    En aquest torneig, hi participen lluitadors molt
+
+    forts. Parla amb el Pànic per apuntar-t'hi!
+- id: 19529
+  text: La Copa Tità ha començat!
+- id: 19530
+  text: >-
+    Aquest torneig és una mica estrany.
+
+    Parla amb el Pànic per apuntar-t'hi!
+- id: 19531
+  text: Comença la Copa Deesa del Destí!
+- id: 19532
+  text: >-
+    Aquest torneig posa a prova la teva destresa.
+
+    Parla amb el Pànico per apuntar-t'hi!
+- id: 19533
+  text: '{:width 95}¡La Copa Paradoxa del Dolor i el Pànic!'
+- id: 19534
+  text: >-
+    {:width 95}Diuen que hi ha un torneig secret.
+
+    Parla amb l'Hades per apuntar-t'hi!
+- id: 19535
+  text: '{:width 95}Comença la Copa Paradoxa del Cèrber!'
+- id: 19536
+  text: >-
+    Quina classe de torneig és aquest...?
+
+    Parla amb l'Hades per apuntar-t'hi!
+- id: 19537
+  text: '{:width 95}Comença la Copa Paradoxa del Tità!'
+- id: 19538
+  text: >-
+    {:width 95}En aquest torneig, els rivals són molt
+
+    forts! Parla amb l'Hades per apuntar-t'hi!
+- id: 19539
+  text: "{:width 95}Comença la Copa Paradoxa de l'Hades!"
+- id: 19540
+  text: >-
+    Aquest és el torneig més difícil de tots.
+
+    Parla amb l'Hades per apuntar-t'hi!
+- id: 20527
+  text: Explora la Gruta de l'Evocació!
+- id: 20528
+  text: Explora la masmorra de davant del castell!
+- id: 20529
+  text: Endinsa't a les entranyes de la gruta!
+- id: 20530
+  text: Aventura't fins a les entranyes!
+- id: 20531
+  text: Examina el monitor!
+- id: 20532
+  text: >-
+    Examina el monitor a les entranyes
+
+    de la Gruta de l'Evocació!
+- id: 20533
+  text: Una altra anomalia?
+- id: 20534
+  text: >-
+    Ves al Castell Disney i
+
+    comprova si ha passat res!
