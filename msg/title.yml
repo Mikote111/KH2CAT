@@ -5,7 +5,7 @@
 - id: 20245
   text: El despertar
 - id: 20246
-  text: La "cosa" robada
+  text: La «cosa» robada
 - id: 20247
   text: Seifer i la seva tropa
 - id: 20248
@@ -45,7 +45,7 @@
 - id: 20265
   text: Ni rastre dels dinners
 - id: 20266
-  text: '"Pots sentir al Sora?"'
+  text: '«Pots sentir el Sora?»'
 - id: 20267
   text: El Regne de la Foscor
 - id: 20268
@@ -119,13 +119,13 @@
 - id: 20730
   text: La Kairi i la Selphie
 - id: 20731
-  text: Comença per "S"!
+  text: Comença per «S»!
 - id: 20732
   text: La Kairi arrenca a còrrer
 - id: 20733
   text: Una carta per ell
 - id: 20734
-  text: El seu nom és Ansem
+  text: El seu nom és Ànsem
 - id: 20735
   text: Fent-se càrrec del traïdor
 - id: 20736
@@ -869,7 +869,7 @@
 - id: 21105
   text: Passatge subterrani
 - id: 21106
-  text: L'estudi de l'Ansem
+  text: L'estudi de l'Ànsem
 - id: 21107
   text: El Programa de Control Mestre
 - id: 21108
@@ -911,7 +911,7 @@
 - id: 21126
   text: Eliminant el programa
 - id: 21127
-  text: El Tron i l'Ansem
+  text: El Tron i l'Ànsem
 - id: 21128
   text: Adeu, món dels programes
 - id: 21129
@@ -921,9 +921,9 @@
 - id: 21131
   text: Buscant entre les dades
 - id: 21132
-  text: Ansem, el buscador de la foscor
+  text: Ànsem, el buscador de la foscor
 - id: 21133
-  text: La identitat de l'Ansem
+  text: La identitat de l'Ànsem
 - id: 21134
   text: Invasió de sense-cor
 - id: 21135
@@ -969,7 +969,7 @@
 - id: 21155
   text: El rei fa memòria
 - id: 21156
-  text: L'aprenent de l'Ansem
+  text: L'aprenent de l'Ànsem
 - id: 21157
   text: Els plans del Xemnas
 - id: 21158
@@ -993,7 +993,7 @@
 - id: 21167
   text: El secret de la rosa
 - id: 21168
-  text: '"No pots abdicar"'
+  text: '«No pots abdicar»'
 - id: 21169
   text: L'objectiu del Xaldin
 - id: 21170
@@ -1131,7 +1131,7 @@
 - id: 21236
   text: La reconstrucció d'Agrabah
 - id: 21237
-  text: '"El trobareu"'
+  text: '«El trobareu»'
 - id: 21238
   text: 'Ciudad de Halloween {II}: El regal'
 - id: 21239
@@ -1331,7 +1331,7 @@
 - id: 21336
   text: Erets tu!
 - id: 21337
-  text: La gosadia de l'Ansem
+  text: La gosadia de l'Ànsem
 - id: 21338
   text: Luxord, el Tafur del Destí
 - id: 21339
@@ -1349,7 +1349,7 @@
 - id: 21345
   text: Una nova senda
 - id: 21346
-  text: El sacrifici de l'Ansem
+  text: El sacrifici de l'Ànsem
 - id: 21347
   text: Hordes de sense-cor
 - id: 21348

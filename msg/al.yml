@@ -80,7 +80,7 @@
 
     si no fos pel Iago.{:clear }Oi que sí, amics?
 - id: 68
-  text: "{:unk13 52 01 EA 00}{:unk08 01 00 01}Te'n debem una."
+  text: "{:unk13 52 01 EA 00}{:unk08 01 00 01}Te'n devem una."
 - id: 69
   text: '{:unk13 68 01 FA 00}{:unk08 03 01 01}Perfecte!'
 - id: 70
@@ -790,7 +790,7 @@
   text: >-
     Us ensenyo una coseta
 
-    a la què dic "Agrana-tempestes"?
+    a la què dic «Agrana-tempestes»?
 - id: 294
   text: Ahà!
 - id: 295
@@ -1047,18 +1047,18 @@
 
     per a, eh, prendre quelcom prestat...{:clear }quan vaig sentir aquella veu.
 
-    Les seves paraules van ser:{:clear }"Allibera'm, i et donaré una
+    Les seves paraules van ser:{:clear }«Allibera'm, i et donaré una
 
-    recompensa sense parió"
+    recompensa sense parió»
 - id: 384
   text: >-
-    {:unk13 DE 00 3C 00}{:unk08 01 01 07}"Qui ets?", vaig preguntar.
+    {:unk13 DE 00 3C 00}{:unk08 01 01 07}«Qui ets?», vaig preguntar.
 
-    La veu va parlar un altre cop.{:clear }"El legítim Sultà
+    La veu va parlar un altre cop.{:clear }«El legítim Sultà
 
-    d'Agrabah!, va dir;
+    d'Agrabah!», va dir;
 
-    "atrapat per uns vilans’.{:clear }Com vaig poder
+    «atrapat per uns vilans».{:clear }Com vaig poder
 
     creure'm tal
 
@@ -1066,7 +1066,7 @@
 
     l'encanteri d'en Jafar.
 
-    Sí! Debia ser allò!
+    Sí! Allò devia ser!
 - id: 388
   text: >-
     {:unk13 DE 00 4A 00}{:unk08 01 01 04}Ja, i segur que el tresor no
@@ -1103,7 +1103,7 @@
 
     després de convertir-lo en
 
-    un... "sensecor".{:clear }Així que no era necessari
+    un... «sensecor».{:clear }Així que no era necessari
 
     pertorbar Agrabah.
 - id: 398
@@ -1446,7 +1446,7 @@
   text: >-
     La catifa està esgotada. Sembla
 
-    que digui "anem-nos-en ja al palau".
+    que digui «anem-nos-en ja al palau».
 - id: 17095
   text: >-
     Aquest gerro pudent
@@ -1593,7 +1593,7 @@
   text: >-
     He ideat una cosa revolucionària. L'he
 
-    anomenat "monopatí" Vols provar-lo?
+    anomenat «monopatí» Vols provar-lo?
 - id: 18905
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Provar-lo?
@@ -1642,7 +1642,7 @@
   text: >-
     En Jafar era abans el visir de mon pare.
 
-    Un dia el va hipnotitzar i va intentar...{:clear }obligar-me a me casar-m'hi 
+    Un dia el va hipnotitzar i va intentar...{:clear }obligar-me a casar-m'hi 
 
     per poder governar Agrabah!
 - id: 19326

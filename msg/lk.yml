@@ -1,0 +1,1833 @@
+﻿- id: 4906
+  text: >-
+    L'Scar és malvat i cruel.{:clear }Faries bé si et mantens
+
+    allunyat d'ell.
+- id: 4907
+  text: >-
+    La Nala em va ensenyar a córrer més ràpid.
+
+    Ara és més fàcil aconseguir menjar!
+- id: 4908
+  text: >-
+    Està vivint en el {:theme 0A}cau del rei{:reset},
+
+    però no actua com un rei.{:clear }Em pregunto si en Rafiki
+
+    tindrà res en ment...
+- id: 4909
+  text: >-
+    L'Scar ha fugit cap al cau del rey?
+
+    Potser ara és en el cingle.{:clear }És l'hora que en Simba demostri
+
+    que està preparat per ser el rei!
+- id: 4910
+  text: >-
+    El rei ha tornat, però queda molt
+
+    per fer per restaurar el regne.{:clear }Aquest desafiament pot ser
+
+    just el que en Simba necessita.
+- id: 4911
+  text: >-
+    També heu vist el fantasma?
+
+    En Simba és en el {:theme 0A}cau del rei{:reset}.{:clear }Si us plau, aneu amb ell.
+
+    Si us veu, s'animarà.
+- id: 4912
+  text: >-
+    Las hienes haurien d'estar en
+
+    el {:theme 0A}Cementiri dels Elefants{:reset}.{:clear }Si podeu vèncer-les, tot
+
+    dependrà del cor del Simba.
+- id: 4913
+  text: >-
+    En Simba té la sort de comptar
+
+    amb amics com vosaltres.{:clear }Si l'Scar tingués amics així,
+
+    potser no seria com és.
+- id: 4914
+  text: >-
+    Per què no li agrada a la
+
+    Nala el Hakuna Matata?{:clear }És una famosa dita: ‛Oblida els
+
+    problemes i viu sense preocupacions’.
+- id: 4915
+  text: >-
+    Així que torneu
+
+    a les {:theme 0A}Terres del Regne{:reset}...{:clear }Aquí podeu preparar-vos per al viatge.
+
+    Procureu que no us facin mal.
+- id: 4916
+  text: >-
+    La Nala vol estar sola.
+
+    Apa, aneu a animar el Simba.{:clear }Hakuna Matata...
+
+    Ja sabeu a què em refereixo...
+- id: 4917
+  text: >-
+    Podeu còrrer tan ràpid
+
+    com els lleons, no?{:clear }A mi també m'agradaria fer-ho.
+
+    Sería útil a l'hora de fugir...
+- id: 4918
+  text: >-
+    Un ocell i una tortuga.
+
+    Quina colla més estranya!{:clear }Que nosaltres també som rars?
+
+    Bah, el que és important és divertir-se.
+- id: 4919
+  text: >-
+    La Nala i els altres estan en problemes!
+
+    Hem d'anar a la Roca del Clan!
+- id: 4920
+  text: No!!!!!!
+- id: 4921
+  text: No!!!!!!
+- id: 4922
+  text: Ei! Fixeu-vos-hi!
+- id: 4923
+  text: Esteu pensant el mateix que jo?
+- id: 4924
+  text: Sensecor, sens dubte.
+- id: 4925
+  text: És aquell.
+- id: 4926
+  text: Ei! Un aperitiu!
+- id: 4927
+  text: '{:unk13 A0 00 6E 00}{:unk08 01 01 05}Lamento haver-vos-hi ficat.'
+- id: 4928
+  text: >-
+    Ei, a què ve aquella
+
+    cara tan llarga, Simba?{:delay 94 00}{:clear }Has de relaxar-te i
+
+    gaudir una mica!
+- id: 4929
+  text: ''
+- id: 4930
+  text: ''
+- id: 4931
+  text: >-
+    ens van dir que el Simba
+
+    havia mort amb ell.
+- id: 4932
+  text: Simba!
+- id: 4933
+  text: Simba! Espera!
+- id: 4934
+  text: >-
+    Simba, has de tornar
+
+    a la Roca del Clan.
+- id: 4936
+  text: >-
+    Mon pare va morir...
+
+    i va ser culpa meva. Només meva.
+- id: 4937
+  text: >-
+    Un moment,
+
+    anem a lluitar contra el teu tiet per això?
+- id: 4938
+  text: Simba! Ets... viu!
+- id: 4939
+  text: I el Simba?
+- id: 4940
+  text: Simba!
+- id: 4941
+  text: ''
+- id: 4942
+  text: Ei, i aquest espectacle de llums?
+- id: 4943
+  text: ''
+- id: 4944
+  text: Scar!?
+- id: 4945
+  text: '{:unk13 B5 00 4E 00}{:unk08 01 01 04}Heu vingut a veure el Simba?'
+- id: 4946
+  text: Heu tornat.
+- id: 4947
+  text: >-
+    {:unk13 E6 00 4A 00}{:unk08 01 00 06}Oh, bé!
+
+    El rei és a punt per regnar?
+- id: 4948
+  text: Uah!!!!!!
+- id: 4949
+  text: Oh, no! Em sembla que ens has enxampat.
+- id: 4950
+  text: '{:unk13 91 00 87 00}{:unk08 01 00 05}On és el Simba?'
+- id: 4951
+  text: Pare...
+- id: 4952
+  text: Simba!
+- id: 4954
+  text: En Simba sembla recuperat.
+- id: 8089
+  text: Has de vèncer tots els sensecor!
+- id: 8090
+  text: >-
+    Derrota tots els sensecor!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 8091
+  text: Lluita contra les hienes i protegeix en Pumba i el Timon!
+- id: 8092
+  text: >-
+    Venç totes les hienes!
+
+    Actua amb el Pumba i
+
+    intenteu atreure-les.
+- id: 8093
+  text: "Venç les tres hienes: la Shenzi, en Banzai i l'Ed!"
+- id: 8094
+  text: Derrota les hienes!
+- id: 8481
+  text: ''
+- id: 8482
+  text: Aquest lloc és una mica sinistre, no?
+- id: 8483
+  text: Sí.
+- id: 8484
+  text: Oh, oh.
+- id: 8485
+  text: Sensecor?
+- id: 8486
+  text: >-
+    No sé, Sora. Alguna cosa em diu
+
+    que pot ser que visquin per aquí.
+- id: 8487
+  text: >-
+    No us hi preocupeu! Estem
+
+    de pas. No us molestarem.
+- id: 8488
+  text: Sí, exacte!
+- id: 8489
+  text: >-
+    No sigueu burros. Ens encantaria
+
+    que us quedéssiu a esmorçar.
+- id: 8490
+  text: Mmm... No hem dut res de menjar.
+- id: 8491
+  text: Allò no és un problema!
+- id: 8492
+  text: >-
+    Òndia, Sora!
+
+    Em sembla que nosaltres som el menjar!
+- id: 8493
+  text: ''
+- id: 8494
+  text: Vas a algun lloc?
+- id: 8495
+  text: Nano, què inoporté és aquell Scar!
+- id: 8496
+  text: Deixa'l que rugeixi.
+- id: 8497
+  text: "Naaa... Serà millor\nanar a veure què vol.{:delay 78 00}{:clear }Sembla que ja està\nbastant enfadat.{:delay B4 00}{:clear }{:delay 46 00}{:clear }Molt bé... "
+- id: 8498
+  text: >-
+    No sé de què anava tot allò,
+
+    però menys mal que se n'han anat.
+- id: 8499
+  text: Tot és més dur a quatre potes.
+- id: 8500
+  text: Doncs comença a practicar!
+- id: 8501
+  text: >-
+    Tinc un truc.
+
+    Veniu que us ho ensenyo.
+- id: 8502
+  text: Els sensecor!?
+- id: 8503
+  text: Què fem?
+- id: 8504
+  text: Jo me n'encarrego!
+- id: 8505
+  text: Gràcies. M'heu salvat.
+- id: 8506
+  text: Ens alegra que estiguis bé.
+- id: 8507
+  text: >-
+    Has vist altres
+
+    sensecor per aquí?
+- id: 8508
+  text: >-
+    Sensecor?... Així és com s'anomenen?
+
+    No estic segura de si n'hi ha més...
+- id: 8509
+  text: >-
+    No solc caçar fora de
+
+    les Terres del Regne.
+- id: 8510
+  text: Terres del Regne?
+- id: 8511
+  text: >-
+    Ei, saps si un tal
+
+    Riku és per aquí?
+- id: 8512
+  text: I uns tipus amb caputxa negra?
+- id: 8513
+  text: I un tipus grandot anomenat Pete?
+- id: 8514
+  text: >-
+    Bé... Hauríem de fer-hi un
+
+    cop d'ull de totes maneres.
+- id: 8515
+  text: >-
+    Espereu...
+
+    Aquestes terres són perilloses.
+- id: 8516
+  text: >-
+    L'Scar i les hienes estan fent
+
+    la vida impossible a tot el món.
+- id: 8517
+  text: >-
+    No queda menjar.
+
+    Han espantat les preses.{:delay B9 00}{:clear }Ens morim de fam.
+- id: 8518
+  text: >-
+    No ens passarà res. Ja ens has
+
+    vist derrotar aquells sensecor.
+- id: 8519
+  text: >-
+    Suposo que tens raó... {:delay 78 00}{:clear }Pot ser que sigueu el que necessita
+
+    el regne. Potser podríeu ajudar-nos.
+- id: 8520
+  text: >-
+    Ocupant-nos d'aquell tal
+
+    l'Scar i de les hienes?
+- id: 8521
+  text: Scar?
+- id: 8522
+  text: >-
+    Ell se va fer amb el poder
+
+    quan el rei Mufasa va morir.
+- id: 8523
+  text: >-
+    Estàs dient que aquell
+
+    tipus és el vostre rei?
+- id: 8524
+  text: I vols que ens hi enfrontem?
+- id: 8525
+  text: No tan ràpid...
+- id: 8526
+  text: >-
+    No podem anar per allà
+
+    destronant reis així com així!
+- id: 8527
+  text: Si veuen que soc més fort que el seu rei,{:delay B4 00}{:clear }podrien demanar-me que ocupés el seu lloc.
+- id: 8528
+  text: Sora...
+- id: 8529
+  text: I jo m'hi negaria, és clar.
+- id: 8530
+  text: >-
+    Pero m'agradaria veure
+
+    les Terres del Regne. {:delay B4 00}{:clear }No us importa si els
+
+    donem cop de pota, oi?
+- id: 8531
+  text: Oh, oh. Ja comença un altre cop.
+- id: 8532
+  text: >-
+    Ha anat a explicar-ho
+
+    a les altres lleones.
+- id: 8533
+  text: >-
+    Ens veurem en un lloc
+
+    anomenat la Roca del Clan.
+- id: 8534
+  text: Eh... què?
+- id: 8535
+  text: Què ha dit?
+- id: 8536
+  text: >-
+    He explicat al Rafiki que podries
+
+    ajudar-nos a fer fora l'Scar i les hienes{:delay C8 00}{:clear }de les Terres del Regne.
+- id: 8537
+  text: Però diu que no funcionarà.
+- id: 8538
+  text: És a dir...
+- id: 8539
+  text: >-
+    Que ves oblidant-te de
+
+    convertir-te en rei, Sora.
+- id: 8540
+  text: Sento que hagueu vingut fins aquí.
+- id: 8541
+  text: Tranquila. No importa.
+- id: 8542
+  text: >-
+    Hauríeu d'anar-vos-en abans
+
+    que l'Scar esbrini que sou aquí.
+- id: 8543
+  text: Ho sento molt.
+- id: 8544
+  text: >-
+    Aperitiu? No, no, no...
+
+    Això es un banquet de tres plats.
+- id: 8545
+  text: Mireu, per allà ve l'Scar... el rei.
+- id: 8546
+  text: Oh! I el Pete!
+- id: 8547
+  text: La meva esquena...
+- id: 8548
+  text: Què fas tu aquí?
+- id: 8549
+  text: >-
+    Aquest gatet bufó
+
+    es preocupa per mi.{:delay B4 00}{:clear }Jo en el teu lloc, em preocuparia
+
+    més pels meus amics.
+- id: 8550
+  text: Estem rodejats!
+- id: 8551
+  text: Sora!
+- id: 8552
+  text: >-
+    Som-hi, senyoretes.
+
+    A caçar s'ha dit.
+- id: 8553
+  text: >-
+    Les manades se n'han anat, Scar.
+
+    No podem caçar si no hi ha preses.
+- id: 8554
+  text: >-
+    Que no hi ha preses?
+
+    I com anomenes això?
+- id: 8555
+  text: No som preses!
+- id: 8556
+  text: Oh! Bones i fresques també!
+- id: 8557
+  text: Doncs són tots teus, Scar.
+- id: 8558
+  text: ''
+- id: 8559
+  text: Correu!
+- id: 8560
+  text: Seguiu-me!
+- id: 8561
+  text: Sí... ja...
+- id: 8562
+  text: En què estaves pensant?
+- id: 8563
+  text: >-
+    Deixa que ho endevini...
+
+    En el passat, oi?
+- id: 8564
+  text: ''
+- id: 8565
+  text: Hakuna Matata!
+- id: 8567
+  text: >-
+    T'adones de com ha
+
+    crescut, Pumba!? {:delay 8F 00}{:clear }Quan vaig rescatar aquell menudet,
+
+    era així de petit.
+- id: 8568
+  text: Què passa?
+- id: 8569
+  text: Mai ho aconseguirem!
+- id: 8570
+  text: Sembla que el Rafiki tenia raó.
+- id: 8571
+  text: Què?
+- id: 8572
+  text: >-
+    És igual. No és important.
+
+    Som-hi, us ensenyaré com es fa.
+- id: 8573
+  text: Vosaltres podeu!
+- id: 8574
+  text: Qui us ha dit això?
+- id: 8575
+  text: Scar.
+- id: 8576
+  text: Ha arribat l'hora.
+- id: 8577
+  text: Ha de ser el Simba!
+- id: 8578
+  text: Sora! Ràpid!
+- id: 8579
+  text: Ei, espera!
+- id: 8580
+  text: >-
+    So... soc jo. El Sora!
+
+    I el Donald i el Goofy són aquí també.
+- id: 8581
+  text: Sora! Donald! Goofy!
+- id: 8582
+  text: Què us ha passat?
+- id: 8583
+  text: Socors! Simba! Socors!
+- id: 8584
+  text: Se'ns menjarà!
+- id: 8585
+  text: Timon! Pumba!
+- id: 8586
+  text: >-
+    Alguna cosa passa a la jungla!
+
+    Haig d'ajudar els meus amics!
+- id: 8587
+  text: D'acord! Venim amb tu!
+- id: 8588
+  text: Alto!
+- id: 8589
+  text: És la Nala! No la reconeixes?
+- id: 8590
+  text: Nala?
+- id: 8591
+  text: Soc jo, el Simba!
+- id: 8592
+  text: Simba!
+- id: 8593
+  text: Ets viu!
+- id: 8594
+  text: Ei! Què passa aquí?
+- id: 8595
+  text: No et preocupis. Són amics meus.
+- id: 8596
+  text: >-
+    Llavors... ningú es menjarà
+
+    a ningú per berenar, oi?
+- id: 8597
+  text: >-
+    Segur que no em menjaran
+
+    com si fos una espècie de porc?
+- id: 8598
+  text: >-
+    No se't menjarem, però...
+
+    ets un porc, no?
+- id: 8599
+  text: No soc un porc!
+- id: 8600
+  text: >-
+    Podríeu deixar-nos sols
+
+    un moment, nois?
+- id: 8601
+  text: M'ho veia a venir!
+- id: 8602
+  text: >-
+    Pensava que el Sora podria ajudar-nos,{:delay 8D 00}{:clear }però tu ets l'únic que
+
+    pot alliberar-nos de l'Scar.
+- id: 8603
+  text: No puc tornar.
+- id: 8604
+  text: Per què?
+- id: 8605
+  text: Hakuna Matata.
+- id: 8606
+  text: Simba...
+- id: 8607
+  text: Hakuna!
+- id: 8608
+  text: Matata!
+- id: 8609
+  text: Aquest no és el Simba que jo recordo.
+- id: 8610
+  text: Tot allò de l'Hakuna Matata...
+- id: 8611
+  text: >-
+    No puc tornar.
+
+    Allò no canviaria res.
+- id: 8612
+  text: >-
+    Mira les estrelles. {:delay 78 00}{:clear }Els grans reis del passat ens
+
+    contemplen des d'aquelles estrelles.
+- id: 8613
+  text: Quan et sentis sol...
+- id: 8614
+  text: >-
+    recorda que sempre
+
+    estaran allà per guiar-te.{:delay 15 01}{:clear }I jo també.
+- id: 8615
+  text: Pare... ets aquí?
+- id: 8616
+  text: >-
+    Simba, has oblidat qui ets.{:delay B4 00}{:clear }Has d'ocupar el teu lloc
+
+    en el Cicle de la Vida.
+- id: 8617
+  text: >-
+    Com tornaré?
+
+    Ja no soc el que era.
+- id: 8618
+  text: Recorda qui ets.
+- id: 8619
+  text: Ja podeu sortir tots.
+- id: 8620
+  text: >-
+    Tornaré per enfrontar-me al meu
+
+    passat i m'aniria bé la vostra ajuda.
+- id: 8621
+  text: És un autèntic rei!
+- id: 8622
+  text: Sí, Timon. Aquesta és la meva llar.
+- id: 8623
+  text: Aquest regne no et pertany.
+- id: 8624
+  text: El Simba és el veritable rei.
+- id: 8625
+  text: >-
+    Tu decideixes, Scar.
+
+    Ves-te'n o hauràs de lluitar.
+- id: 8626
+  text: >-
+    Per què ha de ser
+
+    tot tan violent?
+- id: 8627
+  text: >-
+    No voldria ser el responsable de
+
+    la mort d'un familiar, Simba...
+- id: 8628
+  text: Ja he superat el passat.
+- id: 8629
+  text: >-
+    I els teus estimats súbdits?
+
+    Ho han fet?
+- id: 8630
+  text: Simba, de què està parlant?
+- id: 8631
+  text: >-
+    Vinga, digue'ls qui va ser el
+
+    responsable de la mort del Mufasa.
+- id: 8632
+  text: Vaig ser jo.
+- id: 8633
+  text: Ho admet!{:delay 3F 00}{:clear }Assassí!
+- id: 8634
+  text: Si no fos per tu, en Mufasa seguiria viu.{:delay A2 00}{:clear }{:delay 1F 00}Ho negaràs?
+- id: 8635
+  text: No! Però va ser un accident!
+- id: 8636
+  text: >-
+    Tornes a estar en perill,
+
+    però aquest cop,{:delay 78 00}{:clear }el teu papi no és aquí per salvar-te.
+- id: 8637
+  text: I ara tots saben per què!
+- id: 8638
+  text: Vaja, això em sona.
+- id: 8639
+  text: >-
+    Ah, sí! Ja me'n recordo. {:delay A2 00}{:clear }Aquell era just l'aspecte que
+
+    tenia ton pare abans de morir.
+- id: 8640
+  text: I escolta el meu petit secret...{:delay B9 00}{:clear }{:delay 85 00}Jo vaig matar el Mufasa.
+- id: 8641
+  text: Assassí! Digue'ls la veritat!
+- id: 8642
+  text: Està bé. Està bé!{:delay 9C 00}{:clear }Jo ho vaig fer.
+- id: 8643
+  text: Més alt!
+- id: 8644
+  text: Jo vaig matar el Mufasa!
+- id: 8645
+  text: >-
+    Simba! Tu ves a per l'Scar!
+
+    Aquests són nostres!
+- id: 8646
+  text: Dispensin! Perdó! Passo!
+- id: 8647
+  text: Al cim!
+- id: 8648
+  text: Aquella és la seva lluita, Donald.
+- id: 8649
+  text: Ho has aconseguit!
+- id: 8650
+  text: >-
+    Bah, allò no ha estat
+
+    més que un aperitiu!
+- id: 8651
+  text: >-
+    Perquè això no s'ha acabat...
+
+    No, ni de bon tros!
+- id: 8652
+  text: >-
+    La ira i la gelosia
+
+    han convertit{:delay 78 00}{:clear }el rei de la Roca del Clan
+
+    en un sensecor!
+- id: 8653
+  text: El teu regne tornarà a ressorgir...
+- id: 8654
+  text: >-
+    però aquest cop com a les
+
+    Terres del Regne de la Foscor!
+- id: 8655
+  text: Mai ho permetré!
+- id: 8656
+  text: Hem d'acomiadar-nos per ara.
+- id: 8657
+  text: Ho diré al Simba.
+- id: 8658
+  text: >-
+    Bah, estarà molt enfeinat.
+
+    Només digue-li que tornarem aviat.
+- id: 8659
+  text: >-
+    És veritat; ara és rei.{:delay B4 00}{:clear }Estarà tan enfeinat que segur que
+
+    oblidarà els seus dos millors amics.
+- id: 8660
+  text: >-
+    Bé, sempre us queda
+
+    l'Hakuna Matata, no?
+- id: 8661
+  text: Suposo...
+- id: 8662
+  text: Com que... «suposo»?
+- id: 8663
+  text: >-
+    I si s'oblida de dir als
+
+    carnívors qui som? {:delay 96 00}{:clear }Una miradeta i
+
+    ets porc rostit.
+- id: 8664
+  text: Bah, no et rostirien.
+- id: 8665
+  text: I què!
+- id: 8666
+  text: >-
+    No penso quedar-me aquí
+
+    per ser el garrí de ningú!
+- id: 8667
+  text: Pumba!
+- id: 8668
+  text: >-
+    Mai s'obliden els
+
+    amics de debò.
+- id: 8669
+  text: >-
+    Bah, sou vosaltres. Nano!
+
+    Esperàvem que fóssiu menjar.
+- id: 8670
+  text: Hola!
+- id: 8671
+  text: >-
+    Deixa't estar d'«holes»!
+
+    Per culpa vostra, pallassos, {:delay DC 00}{:clear }hem tornat a haver de
+
+    menjar carronya per viure.
+- id: 8672
+  text: >-
+    Vinga! No n'hi ha per a tant!{:delay 78 00}{:clear }A mi em va agradar aquell elefant
+
+    mort que ens vam menjar ahir.
+- id: 8673
+  text: Ei, i el Simba?
+- id: 8674
+  text: >-
+    Ens riem cada cop que
+
+    sentim el nom d'aquell xato.
+- id: 8675
+  text: Uuhh... Digue-ho un altre cop!
+- id: 8676
+  text: Simba!
+- id: 8677
+  text: '{:delay 78 00}{:clear }Un altre cop!'
+- id: 8678
+  text: Simba!
+- id: 8679
+  text: Prou ja!
+- id: 8680
+  text: >-
+    Endavant, comprova-ho tu mateix.
+
+    El Simba és un rei de pacotilla.
+- id: 8681
+  text: >-
+    Sí. Segur que fins i tot algunes d'aquelles
+
+    lleones tan nobles i poderoses desitjarien{:delay FC 00}{:clear }haver trobat un altre rei.
+- id: 8682
+  text: >-
+    Òndia! Què creieu
+
+    que ha pogut passar?
+- id: 8683
+  text: Ni idea. Haure de parlar amb el Simba.
+- id: 8684
+  text: Eh?
+- id: 8685
+  text: Un fantasma?
+- id: 8686
+  text: Serà millor que ho expliquem al Simba.
+- id: 8687
+  text: Em pregunto si serà allà dalt...
+- id: 8688
+  text: Estàs bé?
+- id: 8689
+  text: No tens bon aspecte.
+- id: 8690
+  text: >-
+    Ei, Simba, podem col・laborar i fer
+
+    alguna cosa amb aquell fantasma de l'Scar.{:delay 16 01}{:clear }Sembla que tots estan
+
+    molt preocupats amb allò. {:delay 7F 00}{:clear }És una gran oportunitat per
+
+    demostrar-los com ets realment!
+- id: 8693
+  text: Allò no és cosa vostra!
+- id: 8694
+  text: Perdó...
+- id: 8695
+  text: No importa.
+- id: 8696
+  text: Tant de bo sabés com actuaria mon pare.
+- id: 8697
+  text: >-
+    Però ell no és aquí, Simba.
+
+    Ara tot depèn de tu.
+- id: 8698
+  text: >-
+    I això vol dir que el que importa
+
+    és el que facis tu com a rei, {:delay DC 00}{:clear }no el que hauria fet el teu pare.
+- id: 8699
+  text: >-
+    Esteu dient que
+
+    tot depèn de mi?
+- id: 8700
+  text: És clar, això!
+- id: 8701
+  text: Exacte!
+- id: 8702
+  text: >-
+    Sabem que ton pare fou un gran rei
+
+    i tot això... però ara et toca a tu.
+- id: 8703
+  text: >-
+    Et recordes d'allò que et vaig ensenyar?
+
+    S'ha de deixar el passat enrere.{:delay C8 00}{:clear }És hora de fer-te conèixer i demostrar
+
+    als teus que tot sortirà bé!
+- id: 8704
+  text: Sí! Pots fer-ho!
+- id: 8705
+  text: Has de viure el present!
+- id: 8706
+  text: I trobar el teu propi camí!
+- id: 8707
+  text: Viure el present...
+- id: 8708
+  text: >-
+    I buscar el meu camí...
+
+    no el del meu pare.
+- id: 8709
+  text: Exacte!
+- id: 8710
+  text: M'alegra escoltar-te dir això, Simba.
+- id: 8711
+  text: Nala!
+- id: 8712
+  text: >-
+    Prometeu-me que ajudareu
+
+    el Simba en tot el possible.
+- id: 8713
+  text: >-
+    Que el Sora s'encarregui
+
+    de la part perillosa!
+- id: 8714
+  text: >-
+    Compto amb tu, Simba...
+
+    i el nostre nadó també.
+- id: 8715
+  text: Ha! Haurem de fer de cangurs.
+- id: 8716
+  text: >-
+    Anem a veure el Rafiki primer.{:delay 78 00}{:clear }Segur que podrà explicar-nos
+
+    alguna cosa sobre aquell fantasma.
+- id: 8717
+  text: Ei, vosaltres!
+- id: 8718
+  text: >-
+    Si us plau!
+
+    És que no podeu deixar-nos en pau?
+- id: 8719
+  text: Sabeu res del fantasma de l'Scar?
+- id: 8720
+  text: Què? El fantasma de l'Scar?
+- id: 8721
+  text: Pooooooot ser.
+- id: 8722
+  text: Si que en sabeu!
+- id: 8723
+  text: Què farem?
+- id: 8724
+  text: Parleu-me del fantasma de l'Scar!
+- id: 8725
+  text: Ho sento. No en sabem res.
+- id: 8726
+  text: >-
+    Ui, espera! Ja me'n recordo. {:delay 96 00}{:clear }És aquell que només espanta els caguetes,
+
+    oi, Banzai?
+- id: 8727
+  text: Prou!
+- id: 8728
+  text: Allà el tenim!
+- id: 8729
+  text: Hi deu haver algun caguetes!
+- id: 8730
+  text: Simba! Fes alguna cosa!
+- id: 8731
+  text: Què se sent en ser rei? Ehm?
+- id: 8732
+  text: >-
+    Bé, ja deus ser un sobirà
+
+    realment exemplar.
+- id: 8733
+  text: >-
+    Al cap i a la fi,
+
+    ets fill del gran Mufasa.
+- id: 8734
+  text: On vas?
+- id: 8735
+  text: Ah, Simba... Fugint, com sempre.
+- id: 8736
+  text: Simba!
+- id: 8737
+  text: Òndia! En Rafiki tenia raó.
+- id: 8738
+  text: >-
+    Vols dir que el Simba
+
+    és un insegur?
+- id: 8739
+  text: >-
+    Això sembla. Creieu que podem
+
+    fer alguna cosa per ajudar-lo?
+- id: 8740
+  text: >-
+    Mmm... Hauríem de començar
+
+    per parlar més amb el Simba. {:delay 27 01}{:clear }Tornem a les Terres del Regne.
+- id: 8741
+  text: >-
+    Mmm... Sembla que fins i tot el
+
+    teu papi t'ha abandonat. Què trist!
+- id: 8742
+  text: >-
+    És inútil. Mai seré
+
+    el rei que fou mon pare.
+- id: 8743
+  text: >-
+    Però Simba, tu no tens
+
+    per què ser com ell. {:delay EB 00}{:clear }No pots ser el Mufasa.
+
+    Només pots ser tu.
+- id: 8744
+  text: >-
+    Tot el món creu en el teu regnat.
+
+    Només volen saber què faràs.
+- id: 8745
+  text: >-
+    I si algú diu que
+
+    preferia el teu pare,{:delay A2 00}{:clear }és perquè no has pogut
+
+    fer gran cosa. Res més.
+- id: 8746
+  text: Ja ho sé.
+- id: 8747
+  text: Doncs para de ploriquejar i fes alguna cosa!
+- id: 8748
+  text: No puc!
+- id: 8749
+  text: Molt bé...
+- id: 8750
+  text: Som-hi, Sora.
+- id: 8751
+  text: >-
+    Sí. Perquè quedar-nos
+
+    aquí si ni ho intentarà!?
+- id: 8752
+  text: Som-hi, Goofy!
+- id: 8753
+  text: >-
+    El rei dubitatiu perdrà algun
+
+    dia tots els seus amics.
+- id: 8754
+  text: Simba el Dubitatiu...
+- id: 8755
+  text: Es preocupa per un ridícul fantasma...
+- id: 8756
+  text: Uuhh... Simba, el rei inútil...
+- id: 8757
+  text: No!
+- id: 8758
+  text: Detèn-me si pots!
+- id: 8759
+  text: >-
+    Ho has aconseguit!
+
+    El fantasma se n'ha anat!
+- id: 8760
+  text: Sabíem que podies fer-ho!
+- id: 8761
+  text: Hurra pel Simba!
+- id: 8762
+  text: ''
+- id: 8763
+  text: >-
+    Sabeu què? Tinc molta sort de tenir
+
+    amics com vosaltres al meu costat... {:delay DC 00}{:clear }que m'ajudin a veure amb claredat.
+- id: 8764
+  text: Mon pare... no va tenir tanta sort.
+- id: 8765
+  text: Ja hi tornem altre cop.
+- id: 8766
+  text: Vull dir...
+- id: 8767
+  text: >-
+    que jo tinc la sort d'estar
+
+    rodejat de bons amics.
+- id: 8768
+  text: >-
+    Sora, Donald i Goofy.
+
+    Pumba, Timon, Rafiki... Nala.
+- id: 8769
+  text: >-
+    Tots voleu el millor per a mi. {:delay 96 00}{:clear }En canvi, mon pare sempre va tenir
+
+    l'Scar sotjant, parant-li trampes.
+- id: 8770
+  text: >-
+    El que haig de fer
+
+    és aprofitar al màxim{:delay 78 00}{:clear }el que tinc i reconstruir aquest regne.
+- id: 8771
+  text: Ho diràs... o ho faràs?
+- id: 8772
+  text: Espera i ho veràs.
+- id: 8773
+  text: Simba!
+- id: 8774
+  text: >-
+    Simba! Vine ràpid! {:delay 64 00}{:clear }Hi ha milions de fantasmes de l'Scar
+
+    envaint les Terres del Regne!
+- id: 8775
+  text: >-
+    Tots menys la Nala n'han sortit disparats.
+
+    Ella necessita la teva ajuda ara.
+- id: 8776
+  text: >-
+    El nostre petit el Simba...
+
+    s'ha fet gran i allà que s'hi va.
+- id: 8777
+  text: Som-hi! Vosaltres també veniu!
+- id: 8778
+  text: Som aquí!
+- id: 8779
+  text: On és el Simba?
+- id: 8780
+  text: Soc aquí, Nala.
+- id: 8781
+  text: Fora!
+- id: 8782
+  text: Així es com es fa, Simba!
+- id: 8783
+  text: Esteu amb mi?
+- id: 8784
+  text: Ara i sempre, Majestat!
+- id: 8785
+  text: El rei ha regressat.
+- id: 8786
+  text: >-
+    Las Terres del Regne no
+
+    oblidaran el valor del Simba. {:delay F0 00}{:clear }Ni el valor d'aquellos que
+
+    van lluitar al seu costat.
+- id: 8787
+  text: >-
+    Creus que la teva cerca
+
+    acabarà algun dia?
+- id: 8788
+  text: No ho sé.
+- id: 8789
+  text: >-
+    Però crec que mentre tingui
+
+    la clau espasa amb mi...{:delay F6 00}{:clear }hauré de seguir lluitant.
+- id: 8790
+  text: >-
+    Ahhh... La lluita mai té fi...
+
+    així és el gran Cicle de la Vida.
+- id: 8791
+  text: Mai, mai?
+- id: 8792
+  text: El secret per vèncer...
+- id: 8793
+  text: '... és un cor fort.'
+- id: 8794
+  text: Au, au, vinga! Som-hi doncs!{:delay 72 00}{:clear }{:delay AE 00}Vinga, fora! Sí, sí.
+- id: 8795
+  text: >-
+    És l'hora que reanudeu
+
+    la vostra lluita!
+- id: 8796
+  text: Fins a la pròxima, Majestat.
+- id: 8797
+  text: Espero que sigui aviat.
+- id: 8798
+  text: Ho serà. Fins aviat!
+- id: 12095
+  text: >-
+    És una cosa que he après aquí. {:delay 78 00}{:clear }Si no pots canviar el passat, és
+
+    millor oblidar-ho i gaudir de la vida.
+- id: 12886
+  text: '{:unk13 2C 01 64 00}{:unk08 01 00 05}No et preocupis.'
+- id: 12887
+  text: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}No és culpa teva. El Sora
+
+    no hagués estat un bon rei.
+- id: 12888
+  text: >-
+    {:unk13 2C 01 64 00}{:unk08 01 00 05}¡Eh! Tenía
+
+    que intentarlo, ¿no?
+- id: 12889
+  text: >-
+    {:unk13 36 01 04 01}{:unk08 01 00 04}O sigui, que sí que
+
+    volies ser rei!
+- id: 12890
+  text: '{:unk13 2C 01 64 00}{:unk08 01 00 05}Bé... ja saps...'
+- id: 12891
+  text: >-
+    {:unk13 BC 00 61 00}{:unk08 01 01 04}Nala, no hi ha ningú més
+
+    que pugui ocupar aquell lloc?
+- id: 12892
+  text: >-
+    {:unk13 D0 00 51 00}{:unk08 01 01 05}En va haver... però va morir
+
+    quan era només un cadell.{:clear }Era el fill de Mufasa
+
+    el nostre anterior rei.
+- id: 12893
+  text: '{:unk13 D8 00 5D 00}{:unk08 01 01 05}Si en Simba fos aquí...'
+- id: 12894
+  text: >-
+    {:unk13 B8 00 43 01}{:unk08 01 01 02}En Simba!?
+
+    Pero si encara belluga la cua!{:clear }Va estar lluitant al nostre
+
+    costat no fa molt.
+- id: 12895
+  text: >-
+    {:unk13 05 01 35 01}{:unk08 01 01 01}Vols dir que en Simba és viu!?
+
+    Però on és?
+- id: 12896
+  text: '{:unk13 5F 01 77 00}{:unk08 01 00 05}No en tinc ni idea.'
+- id: 12897
+  text: >-
+    {:unk13 64 01 74 00}{:unk08 01 01 05}Carai... en Simba és viu!
+
+    No m'ho puc creure.{:clear }Si us plau, explica'm
+
+    coses sobre ell.
+- id: 12898
+  text: '{:unk13 FB 00 2F 01}{:unk08 01 01 00}És clar!'
+- id: 12899
+  text: >-
+    {:unk13 63 01 65 00}{:unk08 01 01 05}Primer hauríem
+
+    d'allunyar-nos de l'Scar.
+
+    Anirem per la Vall del Nyu.{:clear }No ens seguirà fins allà.
+- id: 12900
+  text: "{:unk13 32 01 29 01}{:unk08 01 01 01}Hem vist al fantasma de l'Scar!"
+- id: 12901
+  text: >-
+    {:unk13 42 01 CD 00}{:unk08 01 00 01}Un auguri com aquell només pot
+
+    pronosticar la fi del nostre regne.{:clear }Tot i així, el rei Simba
+
+    no fumerà pal a l'aigua.
+- id: 12902
+  text: >-
+    {:unk13 45 01 3F 00}{:unk08 01 00 04}Suposo que ser el fill
+
+    del gran rei Mufasa...{:clear }no vol dir que estigui
+
+    preparat per governar
+
+    el regne per sí mateix.
+- id: 12903
+  text: >-
+    {:unk13 48 01 72 00}{:unk08 01 01 04}Confia en mi. En Simba
+
+    pensarà en alguna cosa.
+- id: 12904
+  text: >-
+    {:unk13 00 01 40 00}L'hora de pensar ja ha passat.
+
+    Necessitem que entri en acció.{:clear }Com ho hauria fet son pare.
+
+    Ell reinava amb orgull i coratge.
+- id: 12905
+  text: >-
+    {:unk13 8E 00 4A 01}{:unk08 01 00 02}Encara ho recordo
+
+    com si fos ahir...{:clear }El poderós Mufasa.
+- id: 12906
+  text: >-
+    {:unk13 74 01 6D 00}{:unk08 01 00 06}En Simba també
+
+    n'és capaç!
+- id: 12907
+  text: '{:unk13 8E 00 4A 01}{:unk08 01 00 02}En tinc els meus dubtes.'
+- id: 12908
+  text: >-
+    {:unk13 B4 00 56 00}{:unk08 01 01 06}Un moment. Vull
+
+    parlar amb el Simba.
+- id: 12909
+  text: '{:unk13 9D 01 49 00}{:unk08 01 00 05}Em sembla que sí.'
+- id: 12910
+  text: "{:unk13 2F 01 5E 01}{:unk08 01 01 01}Què saps del fantasma de l'Scar?"
+- id: 12911
+  text: >-
+    {:unk13 54 01 4D 00}{:unk08 01 00 05}Oh, sí... el fantasma.{:clear }Un ésser sense cos.
+
+    Es va originar quan el malvat
+
+    cor de l'Scar va trobar...{:clear }el titubant cor d'en Simba.
+- id: 12912
+  text: '{:unk13 73 01 3E 01}{:unk08 01 01 00}Titubant?'
+- id: 12913
+  text: >-
+    {:unk13 1C 01 49 00}{:unk08 01 00 06}Ohhh... Creies
+
+    que no ho eres?
+- id: 12914
+  text: >-
+    {:unk13 A8 00 55 01}{:unk08 01 01 02}Òndia, aquell fantasma
+
+    s'assembla molt a un sensecor.
+- id: 12915
+  text: '{:unk13 7E 00 19 01}{:unk08 01 01 01}Mmm, no ho sé.'
+- id: 12916
+  text: >-
+    {:unk13 9B 00 1D 01}{:unk08 01 00 02}És cert,
+
+    no ho saps.{:clear }Però sí saps que
+
+    és pertorbador.{:clear }I que està afectant
+
+    els cors de tots a les
+
+    Terres del Regne.{:clear }Pot ser que no sàpigues
+
+    què és, però això no vol
+
+    dir que no existeixi.
+- id: 12917
+  text: >-
+    {:unk13 5F 01 46 00}{:unk08 01 00 05}El món és ple
+
+    de coses així.{:clear }I un rei ha de saber
+
+    enfrontar-s'hi.{:clear }Aquella és la prova que
+
+    has de superar, Simba.
+- id: 12918
+  text: >-
+    {:unk13 3D 01 5D 00}{:unk08 01 00 04}Això és tot?
+
+    Som-hi.{:clear }Has d'explicar-nos
+
+    alguna cosa més
+
+    sobre el fantasma...
+- id: 12919
+  text: >-
+    {:unk13 FB 00 56 01}{:unk08 01 01 01}No, avui no!{:clear }Les hienes del Cementiri dels
+
+    Elefants en sabran alguna cosa més.{:clear }Tant és! Hi ha poca cosa
+
+    que aquest Simba pugui fer.
+- id: 12920
+  text: >-
+    {:unk13 54 01 54 00}{:unk08 01 01 05}No diguis això! Almenys
+
+    està disposat a intentar-ho!
+- id: 12921
+  text: >-
+    {:unk13 AB 00 51 00}{:unk08 01 01 06}Pot ser que ho pensi...
+
+    però ho sent?
+- id: 12922
+  text: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Oblida-te'n, Sora. Anem
+
+    al Cementiri dels Elefants.
+- id: 12923
+  text: '{:unk13 14 01 7B 00}{:unk08 01 01 05}Bé, eh...'
+- id: 12924
+  text: >-
+    {:unk13 A6 00 68 00}{:unk08 01 01 05}Ai, ai!
+
+    Ha fugit!{:clear }Sabia que no li
+
+    resultaria gens fàcil.
+- id: 12925
+  text: '{:unk13 4C 01 3B 01}{:unk08 01 01 01}Per què no ho has dit abans?...'
+- id: 12926
+  text: >-
+    {:unk13 65 01 82 00}{:unk08 01 00 00}Però, on
+
+    és ara?
+- id: 12927
+  text: >-
+    {:unk13 46 01 45 01}{:unk08 01 01 01}Eh, ja ho sé.
+
+    Deu ser a l'oasi.{:clear }És el nostre
+
+    lloc preferit!
+- id: 12928
+  text: >-
+    {:unk13 C8 00 18 01}{:unk08 01 01 01}Genial!
+
+    Anem-hi a veure.
+- id: 12929
+  text: '{:unk13 95 00 42 00}{:unk08 01 01 06}Us mostraré el camí!'
+- id: 12930
+  text: >-
+    {:unk13 45 01 50 01}{:unk08 01 00 00}No, tu no!{:clear }En Simba podria
+
+    olorar-te a quilòmetres.{:clear }I si sospita,
+
+    correrà cap als turons!
+- id: 12931
+  text: '{:unk13 71 01 94 00}{:unk08 01 01 05}Uf... està bé.'
+- id: 13025
+  text: >-
+    {:unk13 48 01 3D 01}{:unk08 01 00 01}Per enfrontar-se a les seves pors,
+
+    ha d'anar on pugui pensar per
+
+    sí mateix, sense importar...{:clear }el que pensen els altres.
+- id: 14227
+  text: >-
+    És fàcil perdre's en la vasta sabana.
+
+    Busca punts de referència.{:clear }Per exemple, ossos del Cementiri dels
+
+    Elefants o aquella muntanya escarpada.
+- id: 14228
+  text: >-
+    Aquest lloc és un desastre
+
+    des que l'Scar és rei.{:clear }Què farem si les hienes
+
+    devoren les nostres preses?
+- id: 14229
+  text: >-
+    No hi ha menjar per enlloc.
+
+    Haurem de creuar la Vall del Nyu.{:clear }No, l'Scar no ens deixarà mai
+
+    sortir d'aquí.
+- id: 14230
+  text: >-
+    Les hienes son sanguinàries; cacen
+
+    només per gust. En poc temps, han
+
+    devorat gairebé totes les preses.
+- id: 14231
+  text: >-
+    Els nostres problemes no acabaran
+
+    només amb canviar el rei.{:clear }Però tinc esperances.
+
+    I això és molt important.
+- id: 14232
+  text: Hakuna Matata.{:clear }Així vivim nosaltres la vida!
+- id: 14233
+  text: >-
+    Per la sabana, arribareu al Cementiri
+
+    dels Elefants o a la Vall del Nyu.{:clear }Quant de temps passarà fins que
+
+    aquest lloc recuperi la seva bellesa?
+- id: 14234
+  text: >-
+    Amb en Simba aquí, les
+
+    coses poden millorar...{:clear }Però el que necessitem de
+
+    debò és un rei com en Mufasa.
+- id: 14235
+  text: >-
+    Tu també l'has vist?
+
+    És el fantasma de l'Scar!{:clear }Des que va aparèixer, tots temen
+
+    que alguna cosa dolenta passi.
+- id: 14236
+  text: >-
+    Estic segur que en Mufasa està
+
+    observant en Simba amb orgull.{:clear }Tant de bo els teus éssers estimats
+
+    també n'estiguin orgullosos.
+- id: 14237
+  text: >-
+    Gracias per ajudar el Simba.
+
+    Què bo és tenir amics així!{:clear }Espero que algun dia el nostre
+
+    fill tingui amics com vosaltres.
+- id: 14238
+  text: >-
+    Hakuna Matata, nano!{:clear }Passi el que passi,
+
+    això no canviarà!
+- id: 14239
+  text: >-
+    El Timon, la Nala i la
+
+    resta tenen problemes!{:clear }Ràpid! Anem a la Roca del Clan!
+
+    Hem d'ajudar-los!
+- id: 14240
+  text: >-
+    El primer cop que vaig veure
+
+    en Simba, era més petit que jo.{:clear }Hem viscut moltes coses junts.
+
+    Mai l'havia vist tan animat!
+- id: 14428
+  text: Crec que ja l'he vist abans.
+- id: 14654
+  text: >-
+    Sembla que en Simba ha anat a l'oasi.
+
+    Jo he fet el que he pogut.{:clear }La resta depèn d'ell
+
+    i dels seus amics.
+- id: 14655
+  text: >-
+    Ho, Ho! Un rival digne del rei, no?
+
+    La batalla serà {:theme 0A}a la sabana{:reset}.{:clear }Com sempre, aneu amb compte!
+- id: 14822
+  text: >-
+    Quan el pare d'en Simba,
+
+    el rei Mufasa, va morir...
+- id: 14852
+  text: El dibuix d'un lleó.
+- id: 15245
+  text: >-
+    Mira...{:delay 41 00}{:clear }Qui salvi les Terres del Regne
+
+    serà el nostre pròxim rei...{:delay C8 00}{:clear }I ha de tenir certes qualitats.
+- id: 17174
+  text: >-
+    L'Scar va dir que en Mufasa havia
+
+    mort en una estampida de nyus.{:clear }No em puc creure que hagi estat
+
+    ell qui el va matar. Ho pagarà!
+- id: 17175
+  text: >-
+    L'Scar ha fugit al cau del rei!{:clear }És un ésser menyspreable i
+
+    molt fort. Ves amb compte.
+- id: 17176
+  text: >-
+    Les hienes també es van beneficiar
+
+    amb la mort del Mufasa.{:clear }Probablement per això
+
+    es van unir a l'Scar.
+- id: 17177
+  text: >-
+    L'Scar intenta confondre els seus
+
+    rivals saltant d'un costat a l'altre.{:clear }Tingues-ho en compte quan lluitis
+
+    amb ell per planejar la teva tàctica.
+- id: 17178
+  text: >-
+    Si esteu buscant el Simba,
+
+    pot ser que hagi anat a l'{:theme 0A}oasi{:reset}.{:clear }És un lloc tranquil,
+
+    ideal per pensar.
+- id: 17179
+  text: >-
+    La Nala, en Timon i els altres
+
+    han anat al cau del rei!{:clear }I les hienes han anat a per ells.
+
+    Hem d'ajudar-los!
+- id: 17180
+  text: >-
+    L'Scar és pervers!{:clear }Hem d'estar a punt per ajudar
+
+    en la baralla contra les hienes.
+- id: 17181
+  text: >-
+    En Simba ha de vèncer l'Scar per
+
+    salvar el regne. Si us plau, ajuda'l!
+- id: 17182
+  text: >-
+    Si l'Scar està sol, en Simba podrà
+
+    amb ell, però qui sap el que li espera.{:clear }Si us plau, Sora, encarrega't
+
+    que no li passi res al Simba.
+- id: 17183
+  text: >-
+    En Simba ha anat a per l'Scar,
+
+    cap al {:theme 0A}cingle{:reset}.{:clear }És l'hora de la veritat.
+
+    Hem de donar suport al Simba!
+- id: 17184
+  text: >-
+    Aquella lleona semblava
+
+    bastant seriosa.{:clear }Salvar el regne, vèncer el rei...
+
+    Quina classe de món és aquest?
+- id: 17185
+  text: >-
+    La Roca del Clan és en
+
+    aquella gran muntanya, no?{:clear }Afanyem-nos-hi.
+
+    La Nala ens està esperant.
+- id: 17186
+  text: >-
+    Què haurà estat aquell crit?
+
+    Ha vingut de la {:theme 0A}jungla{:reset}.
+- id: 17187
+  text: >-
+    Els amics d'en Simba
+
+    podrien tenir problemes!{:clear }Pot ser que sigui un nou enemic.
+
+    Anem a buscar en {:theme 0A}Simba{:reset}!
+- id: 17189
+  text: >-
+    En Simba té una cosa que en Mufasa
+
+    no tenia i ha de descobrir-ho.{:clear }T'estaré esperant, Simba.
+- id: 17190
+  text: >-
+    Tots els meus vells «amics» m'han
+
+    abandonat perquè faig mala olor.{:clear }Però ara tinc el Timon i
+
+    crec en l'Hakuna Matata!
+- id: 17191
+  text: >-
+    En Simba sentia gran admiració
+
+    i respecte pel seu pare.{:clear }I s'hi compara.
+
+    Per això es sent tan insegur.
+- id: 17192
+  text: >-
+    Quan vivíem a l'oasi, en Simba
+
+    sempre estava preocupat.{:clear }Ha crescut, però no
+
+    ha acabat de madurar.
+- id: 17193
+  text: >-
+    En {:theme 0A}Rafiki{:reset} és molt savi.
+
+    Ell sabrà el que hem de fer.{:clear }Si algun cop teniu problemes,
+
+    escolteu el que hagi de dir.
+- id: 17252
+  text: >-
+    En Simba i la Nala solien
+
+    jugar junts quan eren petits.{:clear }S'avenien molt.
+
+    He, he, he.
+- id: 17253
+  text: >-
+    He evacuat als altres!{:clear }Si us plau, heu d'ajudar-nos.
+
+    Pel Simba i pel nostre fill!
+- id: 17254
+  text: >-
+    Sembla que hi ha alguna cosa
+
+    muntada sobre aquell monstre!{:clear }Pot ser que sigui allò el
+
+    que l'està controlant.
+- id: 17255
+  text: >-
+    Què farem si aquella
+
+    bèstia ve fins aquí?{:clear }Heu d'aturar-lo a la {:theme 0A}sabana{:reset},
+
+    o destruirà aquest lloc!
+- id: 17256
+  text: >-
+    Heu d'estar avorrits de vagar
+
+    per aquests llocs.{:clear }Segueix per allà el fantasma de l'Scar?
+- id: 17257
+  text: >-
+    He, he. Sembla que el
+
+    regne s'està minant.{:clear }Tranquils. Si això passa, nosaltres
+
+    ens ocuparemos del lloc.
+- id: 17258
+  text: >-
+    He, he, he...
+
+    (Sembla que està feliç).
+- id: 17259
+  text: >-
+    L'Scar solia dur-nos
+
+    menjar sovint.{:clear }Potser va pensar que
+
+    era fàcil manipular-nos.
+- id: 17260
+  text: >-
+    Un altre cop a
+
+    alimentar-nos amb restes.{:clear }En fi... Donem les
+
+    gràcies per estar vius.
+- id: 17261
+  text: >-
+    Hi, hi, hi! Ha, ha, ha.
+
+    (Sent una felicitat immensa).
+- id: 17717
+  text: >-
+    Ser rei és molt difícil...{:clear }Però el Mufasa i el Simba
+
+    n'han superat els reptes.
+- id: 17718
+  text: >-
+    En Timon em va dir que els
+
+    agradava menjar bestioles.{:clear }Que fins i tot en Simba els menjava!
+
+    Això sí que és ser valent!
+- id: 17719
+  text: >-
+    Em pregunto si el fill d'en Simba
+
+    passarà per les mateixes proves que ell.{:clear }Si fos així, estic segura que
+
+    estaria a l'altura del seu llinatge.
+- id: 17720
+  text: >-
+    Vaja, quina bona pinta teniu avui!
+
+    Ha, ha, ha... Era només una broma.{:clear }Heu ajudat a en Simba a salvar
+
+    les Terres del Regne. Gràcies!
+- id: 18072
+  text: >-
+    Si la Kairi et veiés així, segur
+
+    que diría que estàs molt guapo!{:clear }Crec que les teves robes
+
+    màgiques t'han transformat.
+- id: 18073
+  text: >-
+    Haurà d'aprendre a
+
+    defendre's a quatre potes.{:clear }Segur que podem fer un
+
+    munt de moviments nous!
+- id: 18746
+  text: >-
+    Venç l'Scar!
+
+    Observa els seus moviments
+
+    i ataca en el moment just!
+- id: 18747
+  text: >-
+    Derrota el sensecor gegant!
+
+    Tomba'l d'un salt d'atac des de darrere!
+- id: 18932
+  text: >2
+
+    En Sora aprén l'habilitat «Veloç».
+- id: 18933
+  text: >2
+
+    En Sora aprén l'habilitat «Placatge brutal».
+- id: 18956
+  text: El punt dèbil és en la cap del sensecor gegant! Ataca el seu cap!
+- id: 18957
+  text: El punt dèbil és en la cap del sensecor! Salta sobre el seu llom i ataca'l!
+- id: 19210
+  text: Utilitza ordres de reacció per evitar que el sensecor gegant escapi!
+- id: 19254
+  text: >-
+    El cau del rei és allà, on
+
+    han viscut generacions de reis.{:clear }Ara només hi ha aspirants
+
+    al tron.
+- id: 19404
+  text: Pots esquivar els atacs saltant!
+- id: 19405
+  text: Si utilitzes bé «Rebutja», derrotaràs el sensecor gegant!
+- id: 19426
+  text: >-
+    Està vivint en el {:theme 0A}cau del rei{:reset},
+
+    però no actua com un rei.{:clear }Em pregunto si en {:theme 0A}Rafiki{:reset}
+
+    tindrà res en ment...
+- id: 19427
+  text: >-
+    Està vivint en el {:theme 0A}cau del rei{:reset},
+
+    però no actua com un rei.{:clear }Em pregunto si en Rafiki
+
+    tindrà res en ment...
+- id: 19755
+  text: Terres del Regne
+- id: 19869
+  text: ''
+- id: 21525
+  text: "{:delayandfade 0A 78} \nAmb l'Scar com a rei i el\nregne en decadència, la Nala no\npot sinó pensar com de diferent\nseria tot si en Simba fos viu.\n \nPer això, es queda parada quan\nen Sora li explica que en Simba va\nlluitar al seu costat en el passat.\nPotser aquella notícia és el raig\nd'esperança que tots esperaven. \n  \n"
+- id: 21526
+  text: "{:delayandfade 0A 78} \nTots els habitants de les\nTerres del Regne saben bé\nque l'aparició del fantasma de\nl'Scar no pot augurar res bo.\n \nTot i així, això no sembla\nfer reaccionar el Simba...\nQuè el du a actuar així?\n \n"
+- id: 21527
+  text: "{:delayandfade 07 78} \nSegons en Rafiki, el fantasma\nde l'Scar és la manifestació del\nmalvat cor de l'Scar enfrontat\nal dèbil cor d'en Simba.\n \nNomés en Simba podria plantar-li\ncara i retornar la pau al regne.\n \nLes hienes del Cementiri\nd'Elefants podrien saber-ne més.\n"
+- id: 21528
+  text: "{:delayandfade 0A 78} \nLa terra sembla haver-se\ntragat en Simba, però encara\nqueda un lloc on buscar: l'oasi,\nel seu lloc preferit.\n \nQuè atribolarà els pensaments\ndel jove rei i el futur pare per\nfer que es comporti així?\n \n \n"

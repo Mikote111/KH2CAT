@@ -59,7 +59,7 @@
   text: >-
     L'Hades mai es rendeix. Al final,
 
-    aconseguirà el que vol d'Hèrcules.
+    aconseguirà el que vol de l'Hèrcules.
 - id: 3472
   text: >-
     En aquell estat, l'Hèrcules
@@ -179,9 +179,9 @@
 
     tots els dies.{:clear }Com es sol dir,
 
-    "la feina d'un heroi
+    «la feina d'un heroi
 
-    mai s'acaba".{:clear }Si volgués, podria deixar-lo,
+    mai s'acaba».{:clear }Si volgués, podria deixar-lo,
 
     però continua lluitant.{:clear }Tot i que fins i tot l'home
 
@@ -336,14 +336,14 @@
   text: Em sento una mica estrany...
 - id: 3573
   text: >-
-    Exacte! Veréis, esa es la clave.{:delay AA 00}{:clear }En el Inframundo, "héroe"
+    Exacte! Mireu, aquesta és la clau.{:delay AA 00}{:clear }A l'Inframon, «braç de ferro»
 
-    es igual a "nada". Lo da el lugar.
+    vol dir «zero». Ve amb el lloc.
 - id: 3574
   text: >-
-    A l'Inframon, els herois
+    A l'Inframon, «braç de ferro»
 
-    són zeros. Ve amb el lloc.
+    vol dir «zero». Ve amb el lloc.
 - id: 3575
   text: Fugim!
 - id: 3576
@@ -426,7 +426,7 @@
 - id: 3603
   text: ''
 - id: 3604
-  text: Bingo!{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }Pisparem la clau i{:delay 78 00}{:clear }reobrirem l'Infernódrom.
+  text: Bingo!{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }Pisparem la clau i{:delay 78 00}{:clear }reobrirem l'Infernòdrom.
 - id: 3605
   text: >-
     Sento dir-ho, però aquella
@@ -737,11 +737,11 @@
   text: Eh? De què parles tu ara?
 - id: 3687
   text: >-
-    Aviam, aquí...{:delay 75 00}{:clear }{:delay 25 00}{:clear }"Si el subjecte no respongués, {:delay 8E 00}{:clear }empri's la violència per a alliberar
+    Aviam, aquí...{:delay 75 00}{:clear }{:delay 25 00}{:clear }«Si el subjecte no respongués, {:delay 8E 00}{:clear }empri's la violència per alliberar
 
-    la seva vertadera naturalesa."{:delay FC 00}{:clear }{:delay 2E 00}{:clear }Perfecte. {:delay 48 00}{:clear }Mai s'hauran equivocat
+    la seva veritable naturalesa.»{:delay FC 00}{:clear }{:delay 2E 00}{:clear }Perfecte. {:delay 48 00}{:clear }Mai s'hauran equivocat
 
-    escollint el tipus per fer això...?
+    triant el tipus per fer això...?
 - id: 3688
   text: Ets molt raret!
 - id: 3689
@@ -1092,21 +1092,21 @@
   text: De què? Ho heu endevinat,{:delay A2 00}{:clear }de la Copa Hades!
 - id: 3791
   text: >-
-    I us asseguro que el "Gran" Hèrcules
+    I us asseguro que el «Gran» Hèrcules
 
-    serà allà... {:delay AE 00}{:clear }Perquè si no...
+    hi serà... {:delay AE 00}{:clear }Perquè si no...
 - id: 3792
   text: '... no tornarà a veure la seva novia.'
 - id: 3793
   text: Miserable!
 - id: 3794
-  text: Què amable que ets, nano!
+  text: Què que n'ets, d'amable, nano!
 - id: 3795
   text: '{:unk13 C8 00 5A 00}{:unk06 00}{:unk08 01 00 05}Contra qui lluitem primer?'
 - id: 3796
   text: '{:unk13 9A 00 5F 00}{:unk06 00}{:unk08 01 01 05}Vejam...'
 - id: 3797
-  text: '{:unk13 68 01 78 00}{:unk06 00}{:unk08 01 00 06}Contra "Cop giratori".'
+  text: '{:unk13 68 01 78 00}{:unk06 00}{:unk08 01 00 06}Contra «Cop giratori».'
 - id: 3798
   text: >-
     {:unk13 73 01 7B 00}{:unk06 00}{:unk08 01 00 06}Mireu! L'Auron també
@@ -1166,12 +1166,12 @@
   text: >-
     {:unk13 27 01 9A 00}{:unk06 02}{:unk08 03 00 06}Ostres!
 
-    Contra "Mala cosa"!?
+    Contra «Mala cosa»!?
 - id: 3810
   text: '{:unk13 E2 00 5A 00}{:unk06 00}{:unk08 01 00 05}Són bons?'
 - id: 3811
   text: >-
-    {:unk13 2C 01 96 00}{:unk06 00}{:unk08 01 00 05}Semblen ser molt "dolents"...
+    {:unk13 2C 01 96 00}{:unk06 00}{:unk08 01 00 05}Semblen ser molt «dolents»...
 
     però no ens fan por!
 - id: 3812
@@ -2110,7 +2110,7 @@
     de l'Hades{:reset} i recupereu el ninot!
 - id: 16171
   text: >-
-    En aquest lloc, tenen lloc
+    En aquest indret, tenen lloc
 
     tota classe de tornejos.{:clear }Si vols participar en cap,
 
@@ -2157,9 +2157,9 @@
   text: >-
     L'Hèrcules no està molt bé.
 
-    Potser l'haguem d'ajudar.{:clear }Si estàs nerviós, podem entrar en
+    Potser l'hem d'ajudar.{:clear }Si estàs nerviós, podem entrar en
 
-    calor en els tornejos de l'Infernódrom.
+    calor en els tornejos de l'Infernòdrom.
 - id: 16475
   text: >-
     Qui de haver trencat el
@@ -2267,7 +2267,7 @@
 
     l'escollit de la clau espasa?{:clear }No hauries d'estar ajudant
 
-    aquell covard "campió"?
+    aquell covard «campió»?
 - id: 17842
   text: "{:unk13 BE 00 4C 00}{:unk06 00}{:unk08 01 01 05}Què t'ha semblat allò?"
 - id: 17843
@@ -2486,7 +2486,7 @@
   text: >-
     Sembla un vell llibre
 
-    titulat "Essències intangibles".
+    titulat «Essències intangibles».
 - id: 20167
   text: >-
     {:unk08 02 00 06}Una Essència intangible, una
@@ -2504,7 +2504,7 @@
   text: >-
     {:unk13 F0 00 5E 01}{:unk06 00}{:unk08 01 00 02}A la coberta hi posa...
 
-    "Essències intangibles".
+    «Essències intangibles».
 - id: 21394
   text: >-
     {:unk13 68 01 68 01}{:unk06 00}{:unk08 01 00 02}Estàs segur que ho vols tocar?{:clear }Això és l'Inframon,
@@ -2587,7 +2587,7 @@
 - id: 21505
   text: "{:delayandfade 0A 78} \nL'Hades no deixa escapar l'ocasió\nper anunciar a en Sora i els seus\nel nefast futur que es cerneix\nsobre l'Olimp.\n \nQuè voldrà dir realment\nel díscol déu?\n \n \n"
 - id: 21506
-  text: "{:delayandfade 07 78} \nL'Olimp sembla més animat\nque de costum, tot gràcies\na la reobertura de l'Infernódrom,\nun born en el que es disputen\ncombats contra bèsties.\n \nAmb monstres de per mig,\nen Sora sap que l'Hèrcules podria\nestar en un embolic, així que\ns'afanya a buscar l'heroi.\n"
+  text: "{:delayandfade 07 78} \nL'Olimp sembla més animat\nque de costum, tot gràcies\na la reobertura de l'Infernòdrom,\nun born en el que es disputen\ncombats contra bèsties.\n \nAmb monstres de per mig,\nen Sora sap que l'Hèrcules podria\nestar en un embolic, així que\ns'afanya a buscar l'heroi.\n"
 - id: 21507
   text: "{:delayandfade 07 B4} \nEls tres amics al costat de l'Hèrcules\ns'inscriuen a la Copa Hades i batallen amb\ntenacitat fins a fer-se un lloc a les finals.\n \n \n \n \n \n \n \n"
 - id: 21508

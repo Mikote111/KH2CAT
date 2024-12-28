@@ -1,8 +1,8 @@
 ﻿- id: 5771
   text: >-
-    Si us plau, convenç el Jack per a que
+    Si us plau, convenç el Jack perquè
 
-    desisteixi. Em preocupa que fagi res perillós.
+    desisteixi. Em preocupa que faci res perillós.
 - id: 5772
   text: >-
     No puc comptar amb aquella
@@ -16,12 +16,12 @@
 
     amb aquells tipus per aquí prop!{:clear }De pressa! Has d'anar amb el
 
-    {:theme 0A}Pare No-ell{:reset} i posar-hi punt i final!
+    {:theme 0A}Pare Cruel{:reset} i posar-hi punt i final!
 - id: 5774
   text: >-
     Oh, no! Mireu! Surt fum
 
-    de la casa!{:clear }Heu de rescatar el Pare No-ell!
+    de la casa!{:clear }Heu de rescatar el Pare Cruel!
 
     De pressa!
 - id: 5778
@@ -65,12 +65,12 @@
 
     només hi pot entrar el personal autoritzat.
 - id: 5790
-  text: Això és Ciutat de Halloween, oi?
+  text: Això és Vila Halloween, oi?
 - id: 5791
   text: >-
     Sí! Sí que s'assembla a
 
-    Ciutat de Hallo... Eh?
+    Vila Hallo... Eh?
 - id: 5792
   text: Eh! És el Zero!{:delay 6C 00}{:clear }Com estàs, nano?
 - id: 5793
@@ -90,11 +90,11 @@
   text: >-
     Perdoneu-me! És que aquest any
 
-    celebraré el Nadal sense estar-se de res,{:delay 0E 01}{:clear }així que me'n vaig a Ciutat del
+    celebraré el Nadal sense estar-se de res,{:delay 0E 01}{:clear }així que me'n vaig a Vila
 
-    Nadal a veure el Pare No-ell.
+    Nadal a veure el Pare Cruel.
 - id: 5799
-  text: Pare No-ell?
+  text: Pare Cruel?
 - id: 5800
   text: Crec que es refereix al Pare Noel.
 - id: 5801
@@ -103,16 +103,16 @@
   text: >-
     Aquest any el Nadal també inundarà
 
-    Ciutat de Halloween!
+    Vila Halloween!
 - id: 5803
   text: Però abans...
 - id: 5804
   text: >-
     Hem de visitar la Sally.{:delay 72 00}{:clear }Està traballant en una cosa que qualsevol
 
-    Pare No-ell que es preï hauria de tenir.{:delay EA 00}{:clear }Veniu... Us l'ensenyaré!
+    Pare Cruel que es preï hauria de tenir.{:delay EA 00}{:clear }Veniu... Us l'ensenyaré!
 - id: 5805
-  text: Un Nadal a Ciutat de Halloween...
+  text: Un Nadal a Vila Halloween...
 - id: 5806
   text: Li fem un cop d'ull?
 - id: 5807
@@ -151,13 +151,13 @@
   text: >-
     Millor me'n vaig ja.{:delay 4E 00}{:clear }Haig d'aconseguir el
 
-    Pare No-ell de seguida!
+    Pare Cruel de seguida!
 - id: 5821
   text: Ha sigut un plaer tornar a veure-us.
 - id: 5822
   text: Fins aviat!
 - id: 5823
-  text: '"Conseguir" el Pare Noel?'
+  text: '«Aconseguir» el Pare Noel?'
 - id: 5824
   text: >-
     Si us plau, Sora.{:delay 3C 00}{:clear }Temo que li passi una cosa horrible si
@@ -190,7 +190,7 @@
   text: Però primer... els sensecor!
 - id: 5833
   text: >-
-    Escolteu-me bé... bestioles rares!{:delay 96 00}{:clear }Sortiu de Ciutat de Halloween ara
+    Escolteu-me bé... bestioles rares!{:delay 96 00}{:clear }Sortiu de Vila Halloween ara
 
     mateix, per ordre de l'Alcalde!
 - id: 5834
@@ -206,10 +206,10 @@
   text: >-
     {:unk13 2F 01 38 00}{:unk06 01}{:unk08 01 00 05}Com podria relaxar-se
 
-    el Pare No-ell amb tot...{:clear }el que està passant?
+    el Pare Cruel amb tot...{:clear }el que està passant?
 - id: 5838
   text: >-
-    {:unk13 4A 01 50 00}{:unk06 01}{:unk08 01 00 05}Exacte, amics!{:clear }El Pare No-ell necessita
+    {:unk13 4A 01 50 00}{:unk06 01}{:unk08 01 00 05}Exacte, amics!{:clear }El Pare Cruel necessita
 
     guardaespatlles. Esteu
 
@@ -236,17 +236,17 @@
   text: >-
     Vosaltres tres podríeu ser-me útils.{:delay 02 01}{:clear }Veniu amb mi.{:delay 66 00}{:clear }Us ensenyaré el vertader
 
-    significat de la paraula "maldat".
+    significat de la paraula «maldat».
 - id: 5849
   text: >-
-    Bé, guardaespatlles!{:delay 66 00}{:clear }Ciutat del Nadal és per aquí!{:delay 90 00}{:clear }La porta està en el bosc,
+    Bé, guardaespatlles!{:delay 66 00}{:clear }Vila Nadal és per aquí!{:delay 90 00}{:clear }La porta està en el bosc,
 
     just després del cementiri!
 - id: 5850
   text: >-
     Aquí està!
 
-    La porta de Ciutat del Nadal.
+    La porta de Vila Nadal.
 - id: 5851
   text: >-
     Els ensurts de Halloween van
@@ -286,7 +286,7 @@
 
     que li passi res al Nadal.
 - id: 5863
-  text: Allà és on viu el Pare No-ell.
+  text: Allà és on viu el Pare Cruel.
 - id: 5864
   text: >-
     Vaja! Hola a tots.{:delay 66 00}{:clear }Veniu a veure si sou a la
@@ -339,7 +339,7 @@
 - id: 5881
   text: Pescats!
 - id: 5882
-  text: Són el Lock, el Shock i el Barrel!
+  text: Són el Nyek, la Poll i el Puça!
 - id: 5883
   text: Aquells tres...!
 - id: 5884
@@ -351,7 +351,7 @@
     han sigut molt trapelles.{:delay B7 00}{:clear }Aneu a per ells i porteu-los aquí.{:delay 84 00}{:clear }S'han guanyat una bona reprimenda.
 - id: 5886
   text: >-
-    Eh... Sr. No-ell...{:delay 54 00}{:clear }Volia parlar amb vosté
+    Eh... Sr. Cruel...{:delay 54 00}{:clear }Volia parlar amb vosté
 
     sobre el Nadal...
 - id: 5887
@@ -367,7 +367,7 @@
   text: >-
     Em venia de gust destruir aquella
 
-    ridícula Ciutat del Nadal.{:delay 4A 01}{:clear }Però ara que el Sora i aquells babaus
+    ridícula Vila Nadal.{:delay 4A 01}{:clear }Però ara que el Sora i aquells babaus
 
     són aquí, fa falta un canvi de pla.{:delay 6E 01}{:clear }Al cap i a la fi, la venjança
 
@@ -382,11 +382,11 @@
 - id: 5893
   text: Allò sona a molt dolent.
 - id: 5894
-  text: Tan dolent com l'Oogie!
+  text: Tan dolent com el del Sac!
 - id: 5895
   text: I això ja és dolentíssim!
 - id: 5896
-  text: Oogie Boogie?{:delay 66 00}{:clear }Aquell sac de cuques rabioses?{:delay 1A 01}{:clear }Què interessant!{:delay 6C 00}{:clear }On puc trobar-lo?
+  text: L'Home del Sac?{:delay 66 00}{:clear }Aquell sac de cuques rabioses?{:delay 1A 01}{:clear }Què interessant!{:delay 6C 00}{:clear }On puc trobar-lo?
 - id: 5897
   text: >-
     El Jack i els seus estúpids
@@ -395,9 +395,9 @@
 - id: 5898
   text: Ah, sí. Ja me'n recordo.{:delay E4 00}{:clear }Doncs molt millor!{:delay 90 00}{:clear }Em sembla que us retornaré el vostre amo.
 - id: 5899
-  text: "{:delay CD 00}{:clear }Em sento com un milió de cuques! {:delay B4 00}{:clear }  {:delay 1E 00}{:clear }T'hi dec una, Malèfica."
+  text: "{:delay CD 00}{:clear }Em sento com un milió de cuques! {:delay B4 00}{:clear }  {:delay 1E 00}{:clear }Te'n dec una, Malèfica."
 - id: 5900
-  text: Oi tant, Oogie.{:delay 96 00}{:clear }Et recordes del Sora, el Donald i el Goofy?
+  text: Oi tant, Home del Sac.{:delay 96 00}{:clear }Et recordes del Sora, el Donald i el Goofy?
 - id: 5901
   text: >-
     És clar que me'n record!
@@ -419,16 +419,16 @@
 
     És l'últim que recordo. {:delay 1D 01}{:clear }  {:delay 0F 00}{:clear }I serà l'únic que recordo fins que{:delay 91 00}{:clear }els ensenyi a aquells pallassos
 
-    a no ficar-se amb l'Oogie Boogie.
+    a no ficar-se amb l'Home del Sac.
 - id: 5908
   text: Sí... Exacte. Així es parla.{:delay FC 00}{:clear }I ja tinc el pla perfecte en ment.
 - id: 5909
   text: >-
     Has sentit a parlar de
 
-    Ciutat del Nadal?
+    Vila Nadal?
 - id: 5910
-  text: Oogie!
+  text: Home del Sac!
 - id: 5911
   text: Desperta! Desperta!
 - id: 5912
@@ -458,16 +458,16 @@
 - id: 5920
   text: '{:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 00 06}Què divertit!'
 - id: 5921
-  text: '{:unk13 04 01 78 00}{:unk06 00}{:unk08 01 01 06}Aneu a veure si el Sr. Oogie és a punt!'
+  text: '{:unk13 04 01 78 00}{:unk06 00}{:unk08 01 01 06}Aneu a veure si el Sr. Sac és a punt!'
 - id: 5922
-  text: '{:unk13 DD 00 36 00}{:unk06 02}{:unk08 03 00 05}Oogie!?'
+  text: '{:unk13 DD 00 36 00}{:unk06 02}{:unk08 03 00 05}Home del Sac!?'
 - id: 5923
   text: >-
     {:unk13 6C 01 61 00}{:unk06 00}{:unk08 01 00 05}No és el mateix que un
 
     cop va intentar dominar
 
-    Ciutat de Halloween?
+    Vila Halloween?
 - id: 5924
   text: >-
     {:unk13 40 01 2D 00}{:unk06 00}{:unk08 01 00 05}El mateix. Amics, aquí 
@@ -486,7 +486,7 @@
 
     abans del Nadal!
 - id: 5928
-  text: És vostè el Sr. Pare No-ell?
+  text: És vostè el Sr. Pare Cruel?
 - id: 5929
   text: >-
     Més o menys.
@@ -498,7 +498,7 @@
 
     esperava trobar-lo aquí.{:delay E4 00}{:clear }Miri... és molt important
 
-    que torni a Ciutat del Nadal.{:delay F6 00}{:clear }Tinc por que passi alguna
+    que torni a Vila Nadal.{:delay F6 00}{:clear }Tinc por que passi alguna
 
     cosa horrible si no ho fa.
 - id: 5931
@@ -519,7 +519,7 @@
   text: >-
     Exacte.{:delay 5A 00}{:clear }Tanca'l immediatament!{:delay 78 00}{:clear }Després, comença a destruir
 
-    Ciutat del Nadal.{:delay D8 00}{:clear }Segur que el Sora i aquells
+    Vila Nadal.{:delay D8 00}{:clear }Segur que el Sora i aquells
 
     babaus vindran corrent.
 - id: 5936
@@ -537,7 +537,7 @@
   text: '{:unk13 FA 00 3C 00}{:unk06 00}{:unk08 01 01 06}Què passa, Sally?'
 - id: 5941
   text: >-
-    {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}Jack! L'Oogie ha segrestat
+    {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}Jack! L'Home del Sac ha segrestat
 
     el Pare Noel!
 - id: 5942
@@ -546,7 +546,7 @@
   text: >-
     {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}I es dirigia cap a
 
-    Ciutat del Nadal!
+    Vila Nadal!
 - id: 5944
   text: >-
     {:unk13 FA 00 78 00}{:unk06 00}{:unk08 01 01 06}Som-hi, Jack,
@@ -562,7 +562,7 @@
 
     Crec que li falta alguna cosa...{:delay B4 00}{:clear }  {:delay 28 00}{:clear }Ja ho tinc!{:delay 64 00}{:clear }Un xic més del toc
 
-    especial de l'Oogie!
+    especial de l'Home del Sac!
 - id: 5948
   text: >-
     Espero que aquest vell grassonet tingui
@@ -572,7 +572,7 @@
   text: Seràs carnús!
 - id: 5950
   text: >-
-    Segueixes aquí? {:delay 73 00}{:clear }Per què no t'oogiesfumes per on
+    Segueixes aquí? {:delay 73 00}{:clear }Per què no dessacpareixes per on
 
     has vingut? M'estàs fotent!
 - id: 5951
@@ -597,16 +597,16 @@
 - id: 5956
   text: Jack Skelleton!
 - id: 5957
-  text: Ah! Oogie!
+  text: Ah! Home del Sac!
 - id: 5958
   text: >-
     {:delay 82 00}{:clear }Tu i jo tenim un
 
     deute pendent, Jack!{:delay B4 00}{:clear }  {:delay 1E 00}{:clear }I el mateix va pels teus amiguets!
 - id: 5959
-  text: Què penses fer-li al Pare No-ell?
+  text: Què penses fer-li al Pare Cruel?
 - id: 5960
-  text: Qui? {:delay 3C 00}{:clear }  {:delay 2D 00}{:clear }Pare No-ell? {:delay 64 00}{:clear }  {:delay 28 00}{:clear }No sé de què m'estàs parlant.
+  text: Qui? {:delay 3C 00}{:clear }  {:delay 2D 00}{:clear }Pare Cruel? {:delay 64 00}{:clear }  {:delay 28 00}{:clear }No sé de què m'estàs parlant.
 - id: 5961
   text: >-
     I què fa aquí aquest
@@ -650,7 +650,7 @@
 - id: 5976
   text: Jack...{:delay 36 00}{:clear }de debò has de fer això?
 - id: 5977
-  text: Però si soc un Pare No-ell estupend!
+  text: Però si soc un Pare Cruel estupend!
 - id: 5978
   text: >-
     Vejam, Jack Skelleton.{:delay 90 00}{:clear }Has salvat el Nadal i a mi.
@@ -666,7 +666,7 @@
   text: >-
     Penso que li vindria bé una mica
 
-    d'ajuda aquest any, Sr. No-ell.{:delay C6 00}{:clear }Deu estar esgotat
+    d'ajuda aquest any, Sr. Cruel.{:delay C6 00}{:clear }Deu estar esgotat
 
     amb tants preparatius.{:delay A2 00}{:clear }Només dic que si descansés
 
@@ -785,7 +785,7 @@
   text: >-
     Diria que aquests regals són
 
-    del Pare No-ell.{:delay 84 00}{:clear } Hauríem de tornar-los-hi.
+    del Pare Cruel.{:delay 84 00}{:clear } Hauríem de tornar-los-hi.
 - id: 6008
   text: Segur que només vols retornar-los?
 - id: 6009
@@ -810,7 +810,7 @@
   text: On has trobat això?
 - id: 6016
   text: >-
-    En Ciutat de Halloween.{:delay 60 00}{:clear }Els necessitaràs per al Nadal,
+    En Vila Halloween.{:delay 60 00}{:clear }Els necessitaràs per al Nadal,
 
     oi, Pare?
 - id: 6017
@@ -918,7 +918,7 @@
   text: >-
     {:unk13 42 01 32 00}{:unk06 00}{:unk08 01 00 05}No hi ha res divertit aquí.
 
-    Tornem a Ciutat de Halloween!
+    Tornem a Vila Halloween!
 - id: 6049
   text: >-
     {:unk13 4E 01 2D 00}{:unk06 00}{:unk08 01 00 05}Bé, se n'han anat els gamberros
@@ -945,7 +945,7 @@
 - id: 6056
   text: '{:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 00 05}És el nostre moment!'
 - id: 6057
-  text: '{:unk13 46 01 81 00}{:unk06 00}{:unk08 01 00 05}Tornem a Ciutat de Halloween!'
+  text: '{:unk13 46 01 81 00}{:unk06 00}{:unk08 01 00 05}Tornem a Vila Halloween!'
 - id: 6058
   text: '{:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}Un moment!'
 - id: 6059
@@ -960,7 +960,7 @@
     Ja tenim els culpables!
 - id: 6061
   text: >-
-    No podeu ser aquí!{:delay 82 00}{:clear }Sortiu de Ciutat de Halloween,
+    No podeu ser aquí!{:delay 82 00}{:clear }Sortiu de Vila Halloween,
 
     per ordre de l'Alcalde!
 - id: 6062
@@ -1061,13 +1061,13 @@
   text: >-
     {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}Anem a casa del Pare
 
-    No-ell de seguida!{:clear }Hem de preparar alguns
+    Cruel de seguida!{:clear }Hem de preparar alguns
 
     regals de Nadal, ràpid!
 - id: 6086
   text: '{:unk13 BE 00 B7 00}{:unk06 00}{:unk08 01 00 06}Ja has trobat els regals?'
 - id: 6087
-  text: '{:unk13 BD 00 2F 00}{:unk06 00}{:unk08 01 01 06}Gairebé, Sr. No-ell!'
+  text: '{:unk13 BD 00 2F 00}{:unk06 00}{:unk08 01 01 06}Gairebé, Sr. Cruel!'
 - id: 6088
   text: >-
     {:unk13 FA 00 B4 00}{:unk06 00}{:unk08 01 01 06}Anem a pescar el lladre amb
@@ -1188,7 +1188,7 @@
 
     tasca exclusiva del Pare Noel,{:delay F8 00}{:clear }vull que tinguis una idea de com és.
 - id: 6128
-  text: Pare No-ell!
+  text: Pare Cruel!
 - id: 6129
   text: >-
     Sí, l'únic que volia aquell
@@ -1323,7 +1323,7 @@
     {:chardelay 09 00}Sí, som-hi!
 - id: 7980
   text: >-
-    Si l'Oogie no hi és, no hi ha res a fer.
+    Si l'Home del Sac no hi és, no hi ha res a fer.
 
     Em sembla que aniré a ajudar el Doctor.
 - id: 7981
@@ -1335,7 +1335,7 @@
     animat les coses per aquí.
 - id: 7982
   text: >-
-    L'Oogie solia ser ple de tota
+    L'Home del Sac solia ser ple de tota
 
     classe de cuques bufones!{:clear }Però ara que no hi ha cuques,
 
@@ -1358,7 +1358,7 @@
   text: >-
     Aquell regal de Nadal era ben maco.{:clear }Potser hauria de colar-me de nou
 
-    en la casa del Pare No-ell...
+    en la casa del Pare Cruel...
 - id: 8050
   text: >-
     {:unk13 A5 00 32 00}{:unk06 00}{:unk08 01 01 06}Podríem utiltizar el seu
@@ -1370,14 +1370,14 @@
   text: >-
     Derrota tots els sensecor!
 
-    Aprofita els objectes que hi ha a la ciutat!
+    Aprofita els objectes que hi ha a la vila!
 - id: 8107
   text: '{:theme 07}Desafiament{:reset}: derrota tots els enemics!'
 - id: 8108
   text: >-
     Derrota tots els sensecor!
 
-    Aprofita els objectes que hi ha en la ciutat!
+    Aprofita els objectes que hi ha en la vila!
 - id: 8109
   text: Derrota el sensecor!
 - id: 8110
@@ -1386,12 +1386,12 @@
 
     Combina atacs màgics i físics!
 - id: 8111
-  text: Atrapa el Lock, la Shock i el Barrel amb les caixes màgiques!
+  text: Atrapa el Nyek, la Poll i el Puça amb les caixes màgiques!
 - id: 8112
   text: >-
-    Intenta atrapar el Lock, la Shock i
+    Intenta atrapar el Nyek, la Poll i
 
-    el Barrel amb les caixes màgiques!
+    el Puça amb les caixes màgiques!
 
     Si utilitzes les ordres de reacció
 
@@ -1411,7 +1411,7 @@
 
     embolicar-los i preparar regals.
 
-    Compte amb el Lock, la Shock i el Barrel!
+    Compte amb el Nyek, la Poll i el Puça!
 - id: 13023
   text: >-
     Què ha sigut aquest xivarri?
@@ -1428,11 +1428,11 @@
     regal-trampa, feu-lo de cor!
 - id: 13973
   text: >-
-    Es fàcil perdre de vista les coses
+    És fàcil perdre de vista les coses
 
     immaterials, però de vegades...{:clear }són les de més valor.{:clear }Intenta no oblidar les coses
 
-    valioses que duem dins.
+    valuoses que duem dins.
 - id: 13974
   text: >-
     Mmm... No esperava que el meu
@@ -1448,7 +1448,7 @@
 - id: 14073
   text: Un s'ha escapat de la caixa!
 - id: 14074
-  text: Atrapa el Lock, la Shock o el Barrel quan estiguin cansats, per a que no escapin!
+  text: Atrapa el Nyek, la Poll o el Puça quan estiguin cansats, per a que no escapin!
 - id: 16707
   text: >-
     Apareixen els sensecor, el Jack vol
@@ -1460,12 +1460,12 @@
   text: >-
     Què? Aquelles criatures també estan
 
-    causant problemes en una altra ciutat?{:clear }Bah, el que passi en altres ciutats
+    causant problemes a una altra vila?{:clear }Bah, el que passi a altres viles
 
     no afecta la meva investigació.
 - id: 16709
   text: >-
-    Si l'Oogie ha tornat, segur
+    Si l'Home del Sac ha tornat, segur
 
     que no trama res de bo.{:clear }Aquí tot està en calma, però pot ser que
 
@@ -1474,9 +1474,9 @@
   text: >-
     Aparentement, més enllà del cementiri,
 
-    hi ha una sendera que duu al Pare No-ell.{:clear }Per què estarà el Jack tan obsessionat
+    hi ha una sendera que duu al Pare Cruel.{:clear }Per què estarà el Jack tan obsessionat
 
-    amb el Pare No-ell i el Nadal?
+    amb el Pare Cruel i el Nadal?
 - id: 16711
   text: >-
     Esteu buscant aquelles criatures?
@@ -1486,7 +1486,7 @@
     poder seguir el rastre amb facilitat.
 - id: 16712
   text: >-
-    Oogie Boogie!?
+    Home del Sac!?
 
     Creia que el Jack hi havia acabat!{:clear }Quin horror! Si ha tornat, també
 
@@ -1514,7 +1514,7 @@
   text: >-
     Què us sembla la vista? Bonica, no?
 
-    A Ciutat de Halloween no hi ha res així.{:clear }Bé, {:theme 0A}la casa del Pare No-ell {:reset}és allà
+    A Vila Halloween no hi ha res així.{:clear }Bé, {:theme 0A}la casa del Pare Cruel {:reset}és allà
 
     davant. Vinga, som-hi.
 - id: 16717
@@ -1526,7 +1526,7 @@
   text: >-
     Aquest lloc és molt diferent
 
-    a Ciutat de Halloween.{:clear }Ara veig per què el Jack
+    a Vila Halloween.{:clear }Ara veig per què el Jack
 
     està tan entusiasmat.
 - id: 16719
@@ -1557,7 +1557,7 @@
     en parlarem quan ens n'encarreguem.
 - id: 16723
   text: >-
-    Ciutat del Nadal era
+    Vila Nadal era
 
     un lloc bonic de debò.{:clear }Però qualsevol lloc pot ser
 
@@ -1582,12 +1582,12 @@
 
     amb el {:theme 0A}nan {:reset}del quarto de dalt.{:clear }Recordeu: el truc per fer
 
-    bons regals és ‛apuntar bé’.
+    bons regals és «apuntar bé».
 - id: 16730
   text: >-
-    Els regals són importants, però {:theme 0A}Ciutat 
+    Els regals són importants, però {:theme 0A}Vila 
 
-    de Halloween {:reset}també necessita la teva ajuda.{:clear }Primer encarrega't
+    Halloween {:reset}també necessita la teva ajuda.{:clear }Primer encarrega't
 
     dels problemes d'allà.
 - id: 16731
@@ -1626,11 +1626,11 @@
     persona que m'ha robat l'experiment!
 - id: 16737
   text: >-
-    Eh? No anàveu a Ciutat del
+    Eh? No anàveu a Vila Nadal
 
-    Nadal per parlar amb el Jack?{:clear }Podeu arribar-hi des
+    per parlar amb el Jack?{:clear }Podeu arribar-hi des
 
-    de las Terres Remotes.
+    de les Terres Remotes.
 - id: 16738
   text: >-
     Aquells regals estan molt bé.
@@ -1640,7 +1640,7 @@
   text: >-
     Els sensecor estan jugant amb
 
-    regals? M'agradaria veure-ho!{:clear }Encara que Ciutat de Halloween
+    regals? M'agradaria veure-ho!{:clear }Encara que Vila Halloween
 
     em fa una mica de por.
 - id: 16740
@@ -1654,7 +1654,7 @@
   text: Sou aquí per fabricar més regals?
 - id: 16742
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Fabricar regalos?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Fabricar regals?
 
     {:chardelay 33 00}Espera.
 
@@ -1682,12 +1682,12 @@
   text: >-
     Si els sensecor van per allà
 
-    lliures, no podem ignorar-los.{:clear }Hem de tornar a {:theme 0A}Ciutat de
+    lliures, no podem ignorar-los.{:clear }Hem de tornar a {:theme 0A}Vila
 
     Halloween{:reset} i encarregar-nos-en.
 - id: 16747
   text: >-
-    El Pare No-ell no ens parlarà fins
+    El Pare Cruel no ens parlarà fins
 
     que haguem atrapat aquelles criatures.{:clear }Hem de trobar-los i
 
@@ -1703,14 +1703,14 @@
   text: >-
     Hauran tornat a
 
-    Ciutat de Halloween?{:clear }Aquestes {:theme 0A}petjades{:reset} són molt rares.
+    Vila Halloween?{:clear }Aquestes {:theme 0A}petjades{:reset} són molt rares.
 
     Anirien descalços?
 - id: 16784
   text: >-
     Sabeu què? Estic pensant en enviar regals
 
-    a aquelles criatures de Ciutat de Halloween.{:clear }Si els envio uns bonics ninots,
+    a aquelles criatures de Vila Halloween.{:clear }Si els envio uns bonics ninots,
 
     potser ens duguem millor.
 - id: 16785
@@ -1736,26 +1736,26 @@
     a causa d'un raig. Ara és perillós."
 - id: 16858
   text: >-
-    El Pare No-ell
+    El Pare Cruel
 
     em va protegir.{:clear }Si us plau, rescateu-lo
 
     de seguida!
 - id: 16859
   text: >-
-    A l'Oogie li encanten les trampes,
+    A l'Home del Sac li encanten les trampes,
 
     com la del seu dau trucat.{:clear }Segur que no trama res de bo. Si lluiteu
 
     amb ell, prepareu-vos per al pitjor.
 - id: 16860
   text: >-
-    L'Oogie ha anat a Ciutat del Nadal!
+    L'Home del Sac ha anat a Vila Nadal!
 
     Hem d'afanyar-nos, Sora!
 - id: 16861
   text: >-
-    No sabem què està tramant l'Oogie.
+    No sabem què està tramant l'Home del Sac.
 
     Serà millor preparar-nos abans d'anar-hi.
 - id: 17097
@@ -1777,7 +1777,7 @@
   text: >-
     Aquí hi ha un gargot que diu:
 
-    ‛Maltractar làpides porta mala sort.’
+    «Maltractar làpides porta mala sort.»
 - id: 17101
   text: >-
     Aquesta és la tomba del Zero.
@@ -1796,7 +1796,7 @@
   text: >-
     Què aburrit és tot
 
-    sense l'Oogie.
+    sense l'Home del Sac.
 - id: 17714
   text: >-
     Mmm... Em pregunto si estarà passant
@@ -1811,18 +1811,18 @@
   text: >-
     Quan el ganàpia va colpejar la Sally i se
 
-    li va sortir la cama, em vaig desmaiar!{:clear }La gent de Ciutat de Halloween
+    li va sortir la cama, em vaig desmaiar!{:clear }La gent de Vila Halloween
 
     deu ser molt forta!
 - id: 17901
-  text: Utilitza els regals per llençar a l'Oogie Boogie del muntacàrregues!
+  text: Utilitza els regals per llençar a l'Home del Sac del muntacàrregues!
 - id: 17902
   text: >-
     Utilitza els regals per llençar a
 
-    l'Oogie Boogie del muntacàrregues!
+    l'Home del Sac del muntacàrregues!
 - id: 17903
-  text: Col・loca't en la mateixa cinta que el Boogie per colpejar-lo amb les caixes!
+  text: Col・loca't a la mateixa cinta que l'Home del Sac per colpejar-lo amb les caixes!
 - id: 18114
   text: >-
     {:unk13 57 01 2D 00}{:unk06 00}{:unk08 01 00 05}Què passa amb el
@@ -1834,26 +1834,26 @@
   text: Queda un!
 - id: 18520
   text: >-
-    L'Oogie ha segrestat el Pare Noel!{:clear }Va entrar per la porta que hi ha
+    L'Home del Sac ha segrestat el Pare Noel!{:clear }Va entrar per la porta que hi ha
 
     a les Terres Remotes! Atureu-lo!
 - id: 18526
   text: >-
-    Només en tornar, el primer que fa l'Oogie
+    Només en tornar, el primer que fa l'Home del Sac
 
     és intentar desbaratar el meu Nadal!{:clear }Em temo que l'últim cop
 
     no va aprendre la lecció.
 - id: 18527
   text: >-
-    L'Oogie és aquell que l'últim cop va
+    L'Home del Sac és aquell que l'últim cop va
 
     causar estralls amb els sensecor, no?{:clear }Si ha segrestat el Pare Noel, qui
 
     portarà els meus regals de Nadal!?
 - id: 18528
   text: >-
-    D'on haurà sortit l'Oogie? L'últim
+    D'on haurà sortit l'Home del Sac? L'últim
 
     cop va intentar controlar els sensecor.{:clear }Què estarà tramant ara?
 - id: 18531
@@ -1873,7 +1873,7 @@
   text: >-
     He trobat una cosa increïble a casa del
 
-    Pare No-ell. Per què no veniu amb mi?
+    Pare Cruel. Per què no veniu amb mi?
 - id: 18915
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Sona interessant. Hi anem?
@@ -1883,7 +1883,7 @@
     {:chardelay 52 00}Sí, li faré un cop d'ull.
 - id: 18916
   text: >-
-    Tornaré a casa del Pare No-ell.
+    Tornaré a casa del Pare Cruel.
 
     Voleu venir-hi?
 - id: 18917
@@ -1990,19 +1990,19 @@
 
     amb curiositat.
 - id: 19759
-  text: Ciutat de Halloween
+  text: Vila Halloween
 - id: 20612
   text: Prem {:icon dynamic-triangle} per començar el duel! Compte amb els seus encanteris!
 - id: 21541
-  text: "{:delayandfade 08 78} \nLes malifetes dels sensecor\ntenen en escac el Pare Noel,\naixí que el Jack li demana al Sora\ni els seus amics que el protegeixin\ncom els seus guardaespatlles.\n \nNo obstant, una altre sinistre\nperill sembla cerner-se sobre\nCiutat de Halloween...\n \n"
+  text: "{:delayandfade 08 78} \nLes malifetes dels sensecor\ntenen en escac el Pare Noel,\naixí que el Jack li demana al Sora\ni els seus amics que el protegeixin\ncom els seus guardaespatlles.\n \nNo obstant, una altre sinistre\nperill sembla cerner-se sobre\nVila Halloween...\n \n"
 - id: 21542
-  text: "{:delayandfade 08 78} \nEl Sora i el grup donen una bona\nreprimenda al Lock, la Shock i el\nBarrel. Els tres diablets surten\npitant, asegurant-se abans que el\nvil Oogie Boogie ha tornat.\n \nDesprés de fracasar fa un any\namb el seu pla de fer-se amb Ciutat\nde Halloween, què voldrà ara?\n \n"
+  text: "{:delayandfade 08 78} \nEl Sora i el grup donen una bona\nreprimenda al Nyek, la Poll i el\nPuça. Els tres diablets surten\npitant, asegurant-se abans que el\nvil Home del Sac ha tornat.\n \nDesprés de fracasar fa un any\namb el seu pla de fer-se amb Vila\nHalloween, què voldrà ara?\n \n"
 - id: 21543
-  text: "{:delayandfade 07 B4} \nL'Oogie ha segrestat el Pare Noel!\n \nSense perdre un instant, el Sora i els seus\namics es dirigeixen a Ciutat del Nadal.\n \n \n \n \n \n \n"
+  text: "{:delayandfade 07 B4} \nL'Home del Sac ha segrestat el Pare Noel!\n \nSense perdre un instant, el Sora i els seus\namics es dirigeixen a Vila Nadal.\n \n \n \n \n \n \n"
 - id: 21544
-  text: "{:delayandfade 08 78} \nQuan el Sora atrapa finalment\nel Lock, la Shock i el Barrel,\nesbrina que els tres murris\nno són els lladres de regals.\n \nL'únic que feien els diablets\nera buscar peces per a\nl'experiment del Doctor.\n \n"
+  text: "{:delayandfade 08 78} \nQuan el Sora atrapa finalment\nel Nyek, la Poll i el Puça,\nesbrina que els tres murris\nno són els lladres de regals.\n \nL'únic que feien els diablets\nera buscar peces per a\nl'experiment del Doctor.\n \n"
 - id: 21545
-  text: "{:delayandfade 0A 78} \nLa veritat acaba sortint a la llum.\n \nSón els sensecor els qui\nhan robat els regals i estan\nfent de les seves a la ciutat.\n \n \n \n \n \n"
+  text: "{:delayandfade 0A 78} \nLa veritat acaba sortint a la llum.\n \nSón els sensecor els qui\nhan robat els regals i estan\nfent de les seves a la vila.\n \n \n \n \n \n"
 - id: 21546
   text: "{:delayandfade 0A 78} \nTot i que el Sora i els seus\namics creien que els sensecor\nestan darrere tot l'embull, el causant\ndels excessos resulta ser un altre.\n \nPer això, ideen un pla amb regals\ntrampa per atrapar el vertader\nculpable.\n \n \n"
 - id: 21547

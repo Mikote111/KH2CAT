@@ -9,9 +9,9 @@
 - id: 6212
   text: Cementiri de naus
 - id: 6217
-  text: Partir
+  text: Parteix
 - id: 6218
-  text: Sortir
+  text: Surt-ne
 - id: 7781
   text: Will, mira!
 - id: 7782
@@ -461,7 +461,7 @@
   text: >-
     Llavors ja és lluny.
 
-    La "Perla Negra" és quasi inabastable.
+    La Perla Negra és quasi inabastable.
 - id: 10003
   text: >-
     Faries bé en buscar-te
@@ -482,7 +482,7 @@
   text: >-
     Porta'm-hi.
 
-    Hem d'anar a per la "Perla Negra" i{:delay C8 00}{:clear }salvar la Srta. Swann. Jo et vaig 
+    Hem d'anar rere la Perla Negra i{:delay C8 00}{:clear }salvar la Srta. Swann. Jo et vaig 
 
     treure de la garjola, Sparrow.{:delay F0 00}{:clear }Ajuda'm i liquida el teu deute.
 - id: 10009
@@ -658,7 +658,7 @@
 
     un botí tan traïdorenc.{:clear }Però vull recuperar
 
-    el que em pertany,{:clear }la "Perla Negra".
+    el que em pertany,{:clear }la Perla Negra.
 - id: 10047
   text: >-
     {:unk13 3D 01 FA 00}{:unk08 01 01 01}Vosaltres
@@ -1039,7 +1039,7 @@
   text: >-
     Allò que desitgi.
 
-    La "Perla Negra" torna a ser meva.
+    La Perla Negra torna a ser meva.
 - id: 10157
   text: T'entenc. {:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Gràcies, Jack.
 - id: 10158
@@ -1240,7 +1240,7 @@
   text: Badament?
 - id: 10226
   text: >-
-    És en el Codi dels pirates. {:delay 69 00}{:clear } {:delay 1E 00}{:clear }Qualsevol que invoqui el "parlament" no pot
+    És en el Codi dels pirates. {:delay 69 00}{:clear } {:delay 1E 00}{:clear }Qualsevol que invoqui el «parlament» no pot
 
     ser ferit fins que acabin les negociacions.
 - id: 10227
@@ -1535,7 +1535,7 @@
 - id: 10314
   text: Ara, ho veus?
 - id: 10315
-  text: Sempre tindràs la "Perla", Jack.
+  text: Sempre tindràs la Perla, Jack.
 - id: 10316
   text: >-
     Cert. {:delay 50 00}{:clear }Però algun dia reuniré la tripulació més sanguinària
@@ -1642,7 +1642,7 @@
     l'or abans que escapi!
 - id: 15851
   text: >-
-    Vols atrapar la {:theme 0A}"Perla Negra"{:reset}? Llavors
+    Vols enxampar la {:theme 0A}Perla Negra{:reset}? Llavors
 
     deixa't estar de ximpleries i anem-nos-en.
 - id: 15852
@@ -1694,7 +1694,7 @@
     on poden ser.
 - id: 15860
   text: >-
-    Si algú invoca el "parlament", s'han
+    Si algú invoca el «parlament», s'han
 
     suspendre les hostilitats i negociar.{:clear }Així de simple.
 
@@ -1902,7 +1902,7 @@
 
     Comodor Norrington."
 - id: 18342
-  text: '"Un present par als pirates."'
+  text: '«Un present per als pirates.»'
 - id: 18343
   text: >-
     "Un símbol de pau i prosperitat
@@ -2061,4 +2061,4 @@
 - id: 21556
   text: "{:delayandfade 07 78}La maledicció de l'or asteca\nsegueix afectant els pirates,\nraó per la qual el Will se n'ha\nanat a l'Isla de Muerta\nen busca de respostes.\n \nEl Sora i els seus aborden de\nnou la Perla Negra i segueixen\nels passos del valerós jove.\n \n"
 - id: 21557
-  text: "{:delayandfade 08 78} \nL'Organització {XIII} no pot\nensortir-se'n!\n \nEncara que el Sora i els seus amics\ndesitgen plantar cara al seu enemic,\nsaben que sense las peces d'or que\nfalten no hi tenen cap oportunitat,\naixí que no perden el temps\ni busquen a qui les ha robat.\n"
+  text: "{:delayandfade 08 78} \nL'Organització {XIII} no pot\nsortir-se'n!\n \nEncara que el Sora i els seus amics\ndesitgen plantar cara al seu enemic,\nsaben que sense las peces d'or que\nfalten no hi tenen cap oportunitat,\naixí que no perden el temps\ni busquen a qui les ha robat.\n"

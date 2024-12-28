@@ -75,7 +75,7 @@
 - id: 479
   text: '-'
 - id: 480
-  text: Atacar
+  text: Ataca
 - id: 481
   text: Màgia
 - id: 482
@@ -83,7 +83,7 @@
 - id: 483
   text: Fusió
 - id: 484
-  text: Revertir
+  text: Reverteix
 - id: 485
   text: Forma Valenta
 - id: 486
@@ -95,9 +95,9 @@
 - id: 489
   text: Antiforma
 - id: 490
-  text: Parlar
+  text: Parla-hi
 - id: 491
-  text: Observar
+  text: Observa
 - id: 492
   text: Finta
 - id: 493
@@ -105,11 +105,11 @@
 - id: 494
   text: Placatge
 - id: 495
-  text: Atrapar
+  text: Atrapa
 - id: 496
-  text: Fumigar
+  text: Fumiga
 - id: 497
-  text: Obrir
+  text: Obre
 - id: 498
   text: Agrabah
 - id: 499
@@ -199,7 +199,7 @@
 - id: 542
   text: Riu Etern
 - id: 543
-  text: Ciutat de Halloween
+  text: Vila Halloween
 - id: 544
   text: Món FA
 - id: 545
@@ -207,7 +207,7 @@
 - id: 546
   text: Espai Paranoic
 - id: 547
-  text: El Món Inexistent
+  text: El Món Que Mai Fou
 - id: 548
   text: Pluja d'asteroides
 - id: 549
@@ -267,7 +267,7 @@
 - id: 582
   text: Sendera de muntanya
 - id: 583
-  text: Vila
+  text: Poblet
 - id: 584
   text: Cova
 - id: 585
@@ -283,7 +283,7 @@
 - id: 590
   text: Sala del tron
 - id: 591
-  text: Vila
+  text: Poblet
 - id: 592
   text: Cel・la
 - id: 593
@@ -313,7 +313,7 @@
 - id: 605
   text: Cau del rei
 - id: 606
-  text: Vall del Ñu
+  text: Vall del Nyu
 - id: 607
   text: Sabana
 - id: 608
@@ -325,11 +325,11 @@
 - id: 611
   text: Jungla
 - id: 612
-  text: Oasis
+  text: Oasi
 - id: 613
   text: Roca del Clan
 - id: 614
-  text: Oasis
+  text: Oasi
 - id: 615
   text: Talaia
 - id: 616
@@ -345,7 +345,7 @@
 - id: 621
   text: Casa del Piglet
 - id: 622
-  text: Casa del Cangu
+  text: Casa de la Cangu
 - id: 623
   text: El Dia del Vent
 - id: 624
@@ -400,7 +400,7 @@
   text: ''
 - id: 648
   text: >-
-    Mulán:
+    Mulan:
 
     Millor que no. No volem crispar
 
@@ -409,9 +409,9 @@
   text: ''
 - id: 652
   text: >-
-    Mulán:
+    Mulan:
 
-    Això no pinta bé. No 
+    Això no pinta bé. No hi
 
     podem entrar per aquí.
 - id: 653
@@ -528,7 +528,7 @@
 - id: 704
   text: Plaça dels Arbrets
 - id: 705
-  text: Casa del Santa Claus
+  text: Casa del Pare Noel
 - id: 706
   text: Taller de joguines - Sala de classificació
 - id: 707
@@ -580,7 +580,7 @@
 - id: 730
   text: Portes del castell
 - id: 731
-  text: Estudi de l'Ansem
+  text: Estudi de l'Ànsem
 - id: 732
   text: Porticó
 - id: 733
@@ -608,19 +608,19 @@
 - id: 744
   text: Baluard
 - id: 745
-  text: Port
+  text: Moll
 - id: 746
   text: Ciutat
 - id: 747
-  text: L'"Interceptor"
+  text: L'Interceptor
 - id: 748
-  text: L'"Interceptor" - Celler
+  text: L'Interceptor - Celler
 - id: 749
-  text: La "Perla Negra"
+  text: La Perla Negra
 - id: 750
-  text: La "Perla Negra" - Cabina del capità
+  text: La Perla Negra - Cabina del capità
 - id: 751
-  text: L'"Interceptor"
+  text: L'Interceptor
 - id: 752
   text: Isla de Muerta - Penya-segats
 - id: 753
@@ -628,7 +628,7 @@
 - id: 754
   text: Isla de Muerta - Cambra del tresor
 - id: 755
-  text: Cementiri de Naus - Celler de l'"Interceptor"
+  text: Cementiri de Naus - Celler de l'Interceptor
 - id: 756
   text: Isla de Muerta - Polvorí
 - id: 757
@@ -709,7 +709,7 @@
 - id: 1103
   text: Condició
 - id: 1104
-  text: Diari del Pepito
+  text: Diari del Grill
 - id: 1105
   text: Configuració
 - id: 1106
@@ -721,9 +721,9 @@
 - id: 1109
   text: Inventari
 - id: 1110
-  text: Utilitzar
+  text: Utilitza
 - id: 1111
-  text: Llençar
+  text: Llença
 - id: 1112
   text: Sense utilitzar
 - id: 1113
@@ -759,7 +759,7 @@
 - id: 1128
   text: Canvia objectes.
 - id: 1129
-  text: Desequipar objectes.
+  text: Desequipa objectes.
 - id: 1130
   text: >-
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
@@ -770,7 +770,7 @@
 - id: 1131
   text: Selecciona un membre del grup.
 - id: 1132
-  text: Substitueix a un membre del grup.
+  text: Substitueix un membre del grup.
 - id: 1133
   text: '{:color #F0F00080}Han canviat els membres del grup.{:reset}'
 - id: 1134
@@ -784,26 +784,26 @@
 - id: 1138
   text: L'equipament de l'Auron s'ha mogut a l'inventari.
 - id: 1139
-  text: No pots canviar a l'Auron ara.
+  text: No pots canviar l'Auron ara.
 - id: 1140
-  text: No pots canviar a la Mulán ara.
+  text: No pots canviar la Mulan ara.
 - id: 1141
-  text: No pots canviar a l'Aladdín ara.
+  text: No pots canviar l'Aladdín ara.
 - id: 1142
   text: >-
     No es poden canviar els membres del grup 
 
     ni utilitzar Invocar fins que s'acabi la lluita.
 - id: 1143
-  text: No pots canviar a la Bestia ara.
+  text: No pots canviar la Bestia ara.
 - id: 1144
-  text: No pots canviar al Jack ara.
+  text: No pots canviar el Jack ara.
 - id: 1145
-  text: No pots canviar al Simba ara.
+  text: No pots canviar el Simba ara.
 - id: 1146
-  text: No pots canviar al Tron ara.
+  text: No pots canviar el Tron ara.
 - id: 1147
-  text: No pots canviar al Riku ara.
+  text: No pots canviar el Riku ara.
 - id: 1148
   text: >-
     El Ping s'unirà al grup i no podràs
@@ -870,7 +870,7 @@
 - id: 1179
   text: Cavalca el vent
 - id: 1180
-  text: Elevar-se
+  text: Eleva't
 - id: 1181
   text: Cicló
 - id: 1182
@@ -882,17 +882,17 @@
 - id: 1185
   text: Salta!
 - id: 1186
-  text: Eludir
+  text: Eludeix
 - id: 1187
   text: Clapoteig
 - id: 1188
-  text: Empènyer
+  text: Empeny
 - id: 1189
-  text: Empènyer més
+  text: Empeny més
 - id: 1190
-  text: Despertar
+  text: Desperta
 - id: 1191
-  text: Alliberar
+  text: Allibera
 - id: 1192
   text: Finta
 - id: 1193
@@ -900,143 +900,143 @@
 - id: 1194
   text: Meteòric
 - id: 1195
-  text: Escórrer-se
+  text: Escorre't
 - id: 1196
   text: Vertigen
 - id: 1197
-  text: Agafar-se
+  text: Agafa-t'hi
 - id: 1198
-  text: Deixar-se anar
+  text: Deixa't anar
 - id: 1199
-  text: Connectar
+  text: Connecta
 - id: 1200
   text: Esgarip
 - id: 1201
-  text: Robar llança
+  text: Roba llança
 - id: 1202
-  text: Aprendre
+  text: Aprèn
 - id: 1203
-  text: Saltar
+  text: Salta
 - id: 1204
-  text: Espabila!
+  text: Espavila!
 - id: 1205
   text: Desperta!
 - id: 1206
-  text: Carregar
+  text: Carrega
 - id: 1207
   text: Salt àgil
 - id: 1208
   text: Tirador
 - id: 1209
-  text: Alliberar
+  text: Allibera
 - id: 1210
-  text: Agafar
+  text: Agafa
 - id: 1211
   text: Gir pendular
 - id: 1212
-  text: Alliberar
+  text: Allibera
 - id: 1213
-  text: Encendre
+  text: Encén
 - id: 1214
-  text: Restablir
+  text: Restableix
 - id: 1215
-  text: Ruixar
+  text: Ruixa
 - id: 1216
   text: Submissió
 - id: 1217
-  text: Acabar
+  text: Acaba
 - id: 1218
-  text: Obrir porta
+  text: Obre la porta
 - id: 1219
-  text: Entrar al llibre
+  text: Entra al llibre
 - id: 1220
-  text: Sortir del llibre
+  text: Surt del llibre
 - id: 1221
-  text: Partir
+  text: Parteix
 - id: 1222
   text: Teleportació
 - id: 1223
   text: Botiga
 - id: 1224
-  text: Conversar
+  text: Conversa
 - id: 1225
-  text: Moure
+  text: Mou
 - id: 1226
-  text: Demanar ajuda
+  text: Demana ajuda
 - id: 1227
-  text: Conversar
+  text: Conversa
 - id: 1228
-  text: Persuadir
+  text: Persuadeix
 - id: 1229
-  text: Informar
+  text: Informa
 - id: 1230
-  text: '{:width 83}Preguntar per les misions'
+  text: '{:width 83}Pregunta per les missions'
 - id: 1231
-  text: '{:width 90}Inspeccionar el llibre'
+  text: '{:width 90}Inspecciona el llibre'
 - id: 1232
-  text: Parlar
+  text: Parla-hi
 - id: 1233
-  text: Toquejar
+  text: Toqueja
 - id: 1234
-  text: Conversar
+  text: Conversa-hi
 - id: 1235
-  text: Conversar
+  text: Conversa-hi
 - id: 1236
-  text: '{:width 90}Accedir al torneig'
+  text: '{:width 90}Accedeix al torneig'
 - id: 1237
-  text: '{:width 90}Accedir al torneig'
+  text: '{:width 90}Accedeix al torneig'
 - id: 1238
-  text: Aturar
+  text: Atura
 - id: 1239
-  text: '{:width 75}Anar al torneig'
+  text: '{:width 75}Ves al torneig'
 - id: 1240
-  text: '{:width 90}Accedir al torneig'
+  text: '{:width 90}Accedeix al torneig'
 - id: 1241
-  text: Ajudar
+  text: Ajuda
 - id: 1242
-  text: Entrenar
+  text: Entrena
 - id: 1243
-  text: Conversar
+  text: Conversa-hi
 - id: 1244
-  text: Castigar
+  text: Castiga
 - id: 1245
-  text: Saludar
+  text: Saluda
 - id: 1246
-  text: Saludar
+  text: Saluda
 - id: 1247
-  text: Rescatar
+  text: Rescata
 - id: 1248
-  text: "{:width 85}Demanar l'ampolla"
+  text: "{:width 85}Demana l'ampolla"
 - id: 1249
-  text: Saludar
+  text: Saluda
 - id: 1250
-  text: Animar
+  text: Anima
 - id: 1251
-  text: Conversar
+  text: Conversa-hi
 - id: 1252
-  text: Preguntar
+  text: Pregunta
 - id: 1253
-  text: Interrogar
+  text: Interroga
 - id: 1254
-  text: Partir
+  text: Parteix
 - id: 1255
   text: ???
 - id: 1256
-  text: Demanar consell
+  text: Demana consell
 - id: 1257
-  text: Fabricar joguines
+  text: Fabrica joguines
 - id: 1258
-  text: "{:width 90}Accedir a l'ordinador"
+  text: "{:width 90}Accedeix a l'ordinador"
 - id: 1259
-  text: "{:width 90}Accedir a l'ordinador"
+  text: "{:width 90}Accedeix a l'ordinador"
 - id: 1283
   text: '?'
 - id: 1284
-  text: Invocar
+  text: Invoca
 - id: 1285
   text: Grup
 - id: 1286
-  text: Guardar
+  text: Desa
 - id: 1287
   text: Límit
 - id: 1288
@@ -1094,7 +1094,7 @@
 - id: 1317
   text: Mulan
 - id: 1318
-  text: Aladdín
+  text: Aladdin
 - id: 1319
   text: Sparrow
 - id: 1320
@@ -1113,7 +1113,7 @@
   text: >-
     Sora:
 
-    No crec que l'Aladdín sigui per allà!
+    No crec que l'Aladdin sigui per allà!
 - id: 1332
   text: ''
 - id: 1333
@@ -1209,7 +1209,7 @@
   text: >-
     Sora:
 
-    Sembla que vingués del port.
+    Sembla que venia del moll.
 - id: 1362
   text: ''
 - id: 1363
@@ -1255,7 +1255,7 @@
   text: >-
     Sora:
 
-    ¡De pressa, a la sala 
+    De pressa, a la sala 
 
     d'audiències!
 - id: 1378
@@ -1273,9 +1273,9 @@
   text: >-
     Sora:
 
-    ¡Entrem al llibre
+    Entrem al llibre
 
-    a veure a en Pooh!
+    a veure en Pooh!
 - id: 1382
   text: ''
 - id: 1385
@@ -1325,7 +1325,7 @@
   text: >-
     Sora:
 
-    No podemos ir a la sabana.
+    No podem anar a la sabana.
 - id: 1400
   text: ''
 - id: 1401
@@ -1355,7 +1355,7 @@
   text: >-
     Sora:
 
-    Som-hi, seguim al Flounder!
+    Som-hi, seguim el Flounder!
 - id: 1408
   text: >-
     Sora:
@@ -1390,7 +1390,7 @@
   text: >-
     Sora:
 
-    Anem a veure al Dr. Finkelstein.
+    Anem a veure el Dr. Finkelstein.
 - id: 1417
   text: ''
 - id: 1418
@@ -1418,7 +1418,7 @@
   text: >-
     Sora:
 
-    No podem entrar sense avisar.
+    No podem entrar-hi sense avisar.
 - id: 1425
   text: ''
 - id: 1426
@@ -1462,7 +1462,7 @@
   text: >-
     Sora:
 
-    En Pete no hi és per allà!
+    En Pete no és per allà!
 - id: 1435
   text: ''
 - id: 1436
@@ -1568,14 +1568,14 @@
 
     Serveix per detectar moviments.
 - id: 1496
-  text: Proba al rei
+  text: Prova al rei
 - id: 1497
   text: Un escut familiar i molt poderós!
 - id: 1498
   text: Simitarra
 - id: 1499
   text: >-
-    ¡Una espasa lleugera com una
+    Una espasa lleugera com una
 
     pluma per fer atacs veloços!
 - id: 1500
@@ -1586,7 +1586,7 @@
   text: '{:width 85}Espasa ancestral'
 - id: 1503
   text: >-
-    Útil para lluitar contra enemics
+    Útil per lluitar contra enemics
 
     propers.
 - id: 1505
@@ -1626,7 +1626,7 @@
   text: >-
     Pàgines arrencades del llibre d'en
 
-    Merlí. Procura enganchar-les de nou.
+    Merlí. Procura enganxar-les de nou.
 - id: 1532
   text: Mapa de navegació
 - id: 1533
@@ -1667,7 +1667,7 @@
 - id: 1549
   text: Un mapa del lloc.
 - id: 1550
-  text: Vila
+  text: Poblet
 - id: 1551
   text: Un mapa del lloc.
 - id: 1552
@@ -1740,49 +1740,49 @@
   text: >-
     Et veuràs envoltat en flames.
 
-    {:width 90}S'utilitza en el comando Màgia. {:color #F0F00080}Cost PM:{:width 100} 12{:reset}
+    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 12{:reset}
 - id: 1590
   text: Gel elemental
 - id: 1591
   text: >-
     Descarrega cristalls de gel sobre l'objectiu. 
 
-    {:width 90}S'utilitza en el comando Màgia. {:color #F0F00080}Cost PM:{:width 100} 15{:reset}
+    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 15{:reset}
 - id: 1592
   text: Raig elemental
 - id: 1593
   text: >-
     Llença rajos a l'objectiu.
 
-    {:width 90}S'utilitza en el comando Màgia. {:color #F0F00080}Cost PM:{:width 100} 18{:reset}
+    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 18{:reset}
 - id: 1594
   text: Cura elemental
 - id: 1595
   text: >-
     Recupera la VT.
 
-    {:width 90}S'utilitza en el comando Màgia. {:color #F0F00080}Cost PM:{:width 100} Tots{:reset}
+    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} Tots{:reset}
 - id: 1596
   text: Magneto elemental
 - id: 1597
   text: >-
     Emet un poder que aglomera l'enemic.
 
-    {:width 90}S'utilitza en el comando Màgia. {:color #F0F00080}Cost PM:{:width 100} 30{:reset}
+    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 30{:reset}
 - id: 1598
   text: Reflex elemental
 - id: 1599
   text: >-
-    Evita y respon els atacs enemics.
+    Evita i respon els atacs enemics.
 
-    {:width 90}S'utilitza en el comando Màgia. {:color #F0F00080}Cost PM:{:width 100} 10{:reset}
+    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 10{:reset}
 - id: 1600
   text: Amulet Ukelele
 - id: 1601
   text: >-
     Amb l'ajuda de dos amics, 
 
-    utilitza el comando Invocar i 
+    utilitza l'ordre Invocar i 
 
     l'Stitch et donarà un cop de mà.
 - id: 1602
@@ -1791,7 +1791,7 @@
   text: >-
     Amb l'ajuda del Goofy, utilitza 
 
-    el comando Fusió i canviaràs 
+    l'ordre Fusió i canviaràs 
 
     a la Forma Valenta.
 - id: 1604
@@ -1800,7 +1800,7 @@
   text: >-
     Amb l'ajuda del Donald, utilitza 
 
-    el comando Fusió i canviaràs 
+    l'ordre Fusió i canviaràs 
 
     a la Forma Sàvia.
 - id: 1606
@@ -1809,7 +1809,7 @@
   text: >-
     Amb l'ajuda de dos amics, utilitza 
 
-    el comando Fusió i canviaràs 
+    l'ordre Fusió i canviaràs 
 
     a la Forma Mestra.
 - id: 1608
@@ -1821,41 +1821,41 @@
 - id: 1611
   text: Dummy
 - id: 1612
-  text: Salt d'alçada 1
+  text: Salt d'altura 1
 - id: 1613
   text: >-
     Saltes més alt de l'habitual.
 
     Quanta més estona apretis {:icon dynamic-circle},
 
-    a major alçada arribaràs.
+    a major altura arribaràs.
 - id: 1614
-  text: Salt d'alçada 2
+  text: Salt d'altura 2
 - id: 1615
   text: >-
     Saltes encara més alt que abans!
 
     Quanta més estona apretis {:icon dynamic-circle},
 
-    a major alçada arribaràs.
+    a major altura arribaràs.
 - id: 1616
-  text: Salt d'alçada 3
+  text: Salt d'altura 3
 - id: 1617
   text: >-
     Ara saltaràs realment alt!
 
     Quanta més estona apretis {:icon dynamic-circle},
 
-    a major alçada arribaràs.
+    a major altura arribaràs.
 - id: 1618
-  text: Salt d'alçada MÀX.
+  text: Salt d'altura MÀX.
 - id: 1619
   text: >-
     Un salt extrem! Més alt del que
 
     creies possible! Quanta més estona 
 
-    apretis {:icon dynamic-circle}, a major alçada arribaràs.
+    apretis {:icon dynamic-circle}, a major altura arribaràs.
 - id: 1620
   text: Carrera ràpida 1
 - id: 1621
@@ -1888,30 +1888,30 @@
   text: Driblatge aeri 1
 - id: 1629
   text: >-
-    Prem {:icon dynamic-circle} al vol per a saltar novament.
+    Prem {:icon dynamic-circle} al vol per saltar novament.
 
-    És útil para esquivar atacs enemics.
+    És útil per esquivar atacs enemics.
 - id: 1630
   text: Driblatge aeri 2
 - id: 1631
   text: >-
-    Prem {:icon dynamic-circle} al vol per a saltar novament.
+    Prem {:icon dynamic-circle} al vol per saltar novament.
 
-    És útil para esquivar atacs enemics.
+    És útil per esquivar atacs enemics.
 - id: 1632
   text: Driblatge aeri 3
 - id: 1633
   text: >-
-    Prem {:icon dynamic-circle} al vol per a saltar novament.
+    Prem {:icon dynamic-circle} al vol per saltar novament.
 
-    És útil para esquivar atacs enemics.
+    És útil per esquivar atacs enemics.
 - id: 1634
   text: Driblatge aeri MÀX.
 - id: 1635
   text: >-
-    Prem {:icon dynamic-circle} al vol per a saltar novament.
+    Prem {:icon dynamic-circle} al vol per saltar novament.
 
-    És útil para esquivar atacs enemics.
+    És útil per esquivar atacs enemics.
 - id: 1636
   text: Planador 1
 - id: 1637
@@ -2082,13 +2082,13 @@
 - id: 2624
   text: Passadissos
 - id: 2625
-  text: Fàbrica de Sense-Cor
+  text: Fàbrica de sensecor
 - id: 2626
   text: Casa del Merlí
 - id: 2627
   text: Castell de l'Oblit
 - id: 2628
-  text: Estudi de l'Ansem
+  text: Estudi de l'Ànsem
 - id: 2629
   text: Gorja
 - id: 2630
@@ -2116,11 +2116,11 @@
 - id: 2641
   text: Estació Central
 - id: 2642
-  text: Terraces del Capvespre
+  text: Terrasses del Capvespre
 - id: 2643
   text: Estació del Capvespre
 - id: 2644
-  text: Colina del Capvespre
+  text: Turó del Capvespre
 - id: 2645
   text: Bosc
 - id: 2646
@@ -2198,27 +2198,27 @@
 - id: 2682
   text: ''
 - id: 2683
-  text: Acceptar
+  text: Accepta
 - id: 2684
   text: Sí
 - id: 2685
   text: No
 - id: 2686
-  text: Guardar
+  text: Desa
 - id: 2687
-  text: Carregar
+  text: Carrega
 - id: 2688
   text: Mapa dels mons
 - id: 2689
   text: Pantalla del títol
 - id: 2690
-  text: Anar al mapa dels mons?
+  text: Enlairar-se cap al mapa dels mons?
 - id: 2691
-  text: Nou arxiu
+  text: Nou fitxer
 - id: 2692
-  text: Arxiu del joc
+  text: Fitxer del joc
 - id: 2693
-  text: Arxiu d'un altre joc
+  text: Fitxer d'un altre joc
 - id: 2694
   text: '{:width 81}Ranura per a la MEMORY CARD 1'
 - id: 2695
@@ -2230,7 +2230,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Comprovant les dades guardades.
+    Comprovant les dades desades.
 
     No apaguis l'ordinador.
 - id: 2698
@@ -2240,7 +2240,7 @@
 
     {:scale 16}Es perdran els avenços
 
-    del joc no guardats.
+    del joc no desats.
 
     Vols continuar?
 - id: 2699
@@ -2248,7 +2248,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    S'ha produït un error en guardar
+    S'ha produït un error en desar
 
     a l'emmagatzematge del sistema.
 - id: 2700
@@ -2296,7 +2296,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Carregant les dades guardades.
+    Carregant les dades desades.
 
     No apaguis l'ordinador.
 - id: 2706
@@ -2350,19 +2350,19 @@
 
     Es necesiten almenys 169 KB per 
 
-    guardar les dades.
+    desar les dades.
 - id: 2712
   text: Sense utilitzar
 - id: 2713
   text: Sense utilitzar
 - id: 2714
-  text: Les dades guardades estan malmeses.
+  text: Les dades desades estan malmeses.
 - id: 2715
   text: Sense utilitzar
 - id: 2716
-  text: No es pot guardar en un arxiu nou.
+  text: No es pot desar en un nou fitxer.
 - id: 2717
-  text: Guardar arxiu nou.
+  text: Desa nou fitxer.
 - id: 2718
   text: >-
     {:position 0,16}No hi ha suficient espai lliure
@@ -2372,16 +2372,16 @@
   text: No hi ha dades.
 - id: 2721
   text: >-
-    Escull l'arxiu a guardar.
+    Tria el fitxer a desar.
 
 
-    {:icon dynamic-triangle} Borrar arxiu.
+    {:icon dynamic-triangle} Esborra el fitxer.
 - id: 2722
   text: >-
-    Escull l'arxiu a carregar.
+    Tria el fitxer a desar.
 
 
-    {:icon dynamic-triangle} Borrar arxiu.
+    {:icon dynamic-triangle} Esborra el fitxer.
 - id: 2723
   text: Sense utilitzar.
 - id: 2724
@@ -2389,19 +2389,19 @@
     {:icon question-mark}{:color #FF000080}PREGUNTA{:reset}                                    
 
 
-    Vols sobrescriure aquest arxiu?
+    Vols sobrescriure aquest fitxer?
 - id: 2725
   text: >-
     {:icon question-mark}{:color #FF000080}PREGUNTA{:reset}                                    
 
 
-    Vols carregar aquest arxiu?
+    Vols carregar aquest fitxer?
 - id: 2726
   text: >-
     {:icon question-mark}{:color #FF000080}PREGUNTA{:reset}                                    
 
 
-    Vols borrar aquest arxiu?
+    Vols esborrar aquest fitxer?
 - id: 2734
   text: >-
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
@@ -2409,23 +2409,23 @@
 
     L'emmagatzematge del sistema està malmès.
 - id: 2735
-  text: Carregar partida
+  text: Carrega partida
 - id: 2736
-  text: Continuar
+  text: Continua
 - id: 2737
-  text: Reintentar
+  text: Reintenta
 - id: 2738
-  text: Sortir
+  text: Surt-ne
 - id: 2739
-  text: Saltar escena
+  text: Salta escena
 - id: 2740
-  text: Continuar
+  text: Continua
 - id: 2741
   text: No em rendiré!
 - id: 2742
   text: S'ha acabat tot...
 - id: 2743
-  text: Diari del Pepito
+  text: Diari del Grill
 - id: 2744
   text: Botiga d'armes d'en Wallace
 - id: 2745
@@ -2467,21 +2467,21 @@
 - id: 2763
   text: Botiga moguri d'en Stiltzkin
 - id: 2764
-  text: Comprar
+  text: Compra
 - id: 2765
   text: Vendre
 - id: 2766
-  text: Sortir
+  text: Surt-ne
 - id: 2767
   text: Sí
 - id: 2768
   text: No
 - id: 2769
-  text: Comprar objectes.
+  text: Compra objectes.
 - id: 2770
   text: Vendre objectes.
 - id: 2771
-  text: Tancar menú.
+  text: Tanca el menú.
 - id: 2772
   text: Inventari
 - id: 2773
@@ -2493,7 +2493,7 @@
     Quants en vols comprar?
 
 
-    Prem {:icon dynamic-dpad-up-down} per escollir d'1 en 1,
+    Prem {:icon dynamic-dpad-up-down} per triar d'1 en 1,
 
     {:icon dynamic-dpad-left-right} per anar de 10 en 10.
 - id: 2776
@@ -2501,7 +2501,7 @@
     Quants en vols vendre?
 
 
-    Prem {:icon dynamic-dpad-up-down} per escollir d'1 en 1,
+    Prem {:icon dynamic-dpad-up-down} per triar d'1 en 1,
 
     {:icon dynamic-dpad-left-right} per anar de 10 en 10.
 - id: 2777
@@ -2595,17 +2595,17 @@
 - id: 7503
   text: '{:width 90}Anar al rescat'
 - id: 7504
-  text: Observar
+  text: Observa
 - id: 7505
-  text: Observar
+  text: Observa
 - id: 7506
   text: Traduïr
 - id: 7507
   text: Traduïr
 - id: 7508
-  text: '{:width 90}Observar la paret'
+  text: '{:width 90}Observa la paret'
 - id: 7517
-  text: "{:width 90}Accedir a l'ordinador"
+  text: "{:width 90}Accedeix a l'ordinador"
 - id: 7533
   text: Aprendre
 - id: 7650
@@ -2621,26 +2621,26 @@
 - id: 7662
   text: '{:icon dynamic-l1}{:width 95}Selecció de port'
 - id: 7663
-  text: Forcejar
+  text: Forceja
 - id: 7664
   text: Abatre
 - id: 7665
-  text: "{:width 90}Accedir a l'ordinador"
+  text: "{:width 90}Accedeix a l'ordinador"
 - id: 7666
-  text: "{:width 90}Accedir a l'ordinador"
+  text: "{:width 90}Accedeix a l'ordinador"
 - id: 7667
-  text: "{:width 90}Accedir a l'ordinador"
+  text: "{:width 90}Accedeix a l'ordinador"
 - id: 7670
-  text: Llençar
+  text: Llença
 - id: 7671
   text: >-
     Permet treure la configuració 
 
-    dels accesos directes.
+    de les dreceres.
 - id: 7672
   text: '{:icon magic}Càrrega PM'
 - id: 7673
-  text: '{:icon magic-nocharge}Desactivar la Càrrega PM'
+  text: '{:icon magic-nocharge}Desactiva la Càrrega PM'
 - id: 7674
   text: >-
     Si no tens prous PM per utilitzar
@@ -2667,15 +2667,15 @@
 - id: 7679
   text: L'objecte no és reutilitzable.
 - id: 7752
-  text: Agafar-se
+  text: Agafa't
 - id: 7753
-  text: Aguantar
+  text: Aguanta
 - id: 7754
-  text: Colpejar
+  text: Colpeja
 - id: 7755
   text: Endevant!
 - id: 7756
-  text: Anar al centre
+  text: Ves al centre
 - id: 7758
   text: '{:icon ai-mode-frequent}Llibre'
 - id: 7759
@@ -2711,7 +2711,7 @@
   text: >-
     Mentre el Sora ataqui, els 
 
-    membres del grup el recolzaran.
+    membres del grup li donaran suport.
 - id: 7770
   text: >-
     Els membres del grup derroten a un 
@@ -2790,7 +2790,7 @@
   text: >-
     Roxas:
 
-    S'ha de seguir-lo!
+    Haig de seguir-lo!
 - id: 8007
   text: >-
     Roxas:
@@ -2815,7 +2815,7 @@
   text: >-
     Roxas:
 
-    La taquilla està a l'estació.
+    La taquilla és a l'estació.
 - id: 8012
   text: >-
     Roxas:
@@ -2830,17 +2830,17 @@
   text: >-
     Sora:
 
-    No puc entrar per la força.
+    No puc entrar-hi per la força.
 - id: 8015
   text: >-
     Sora:
 
-    Tinc un mal presentiment...
+    Tinc un mal pressentiment...
 - id: 8016
   text: >-
     Sora:
 
-    Alguna cosa ens impedeix sortir.
+    Alguna cosa ens impedeix sortir-ne.
 - id: 8017
   text: >-
     Roxas:
@@ -2937,13 +2937,13 @@
 
     ₓₓₓ
 - id: 8051
-  text: Analitzar
+  text: Analitza
 - id: 8052
   text: Mostra la VT actual de l'enemic.
 - id: 8058
-  text: "{:width 90}Accedir a l'ordinador"
+  text: "{:width 90}Accedeix a l'ordinador"
 - id: 8143
-  text: Acceptar
+  text: Accepta
 - id: 8144
   text: Sí
 - id: 8145
@@ -3092,21 +3092,21 @@
 
     {:color #F0F00080}Augmenta un 20%{:reset} el mal dels atacs Glaç.
 - id: 8869
-  text: Comprar bitllets
+  text: Compra bitllets
 - id: 8870
-  text: Tocar la llum
+  text: Toca la llum
 - id: 8871
-  text: Escoltar les normes
+  text: Escolta les normes
 - id: 8872
-  text: Conversar
+  text: Conversa
 - id: 8873
-  text: '{:width 90}Observar la taula'
+  text: '{:width 90}Observa la taula'
 - id: 8874
-  text: '{:width 80}Escoltar la història'
+  text: '{:width 80}Escolta la història'
 - id: 8875
-  text: Conversar
+  text: Conversa
 - id: 8876
-  text: Tocar el raig
+  text: Toca el raig
 - id: 8877
   text: Isla de Muerta - Cambra del tresor
 - id: 8993
@@ -3144,30 +3144,30 @@
   text: >-
     Amb la ajuda de dos amics, 
 
-    utilitza el comando Invocar i
+    utilitza l'ordre Invocar i el
 
-    el Geni et donarà un cop de mà.
+    Geni et donarà un cop de mà.
 - id: 10333
   text: Amulet de Plumes
 - id: 10334
   text: >-
     Amb la ajuda de dos amics, 
 
-    utilitza el comando Invocar i
+    utilitza l'ordre Invocar i el
 
     Peter Pan et donarà un cop de mà.
 - id: 10335
   text: Flipper
 - id: 10337
-  text: La "Perla Negra"
+  text: La Perla Negra
 - id: 10338
-  text: La "Perla Negra"
+  text: La Perla Negra
 - id: 10339
-  text: La "Perla Negra"
+  text: La Perla Negra
 - id: 10340
-  text: L'"Interceptor"
+  text: L'Interceptor
 - id: 10341
-  text: L'"Interceptor"
+  text: L'Interceptor
 - id: 10414
   text: Gir aeri
 - id: 10415
@@ -3177,28 +3177,28 @@
 - id: 10419
   text: Cabriola
 - id: 10428
-  text: Jugar
+  text: Juga
 - id: 10429
-  text: Parar dau
+  text: Atura el dau
 - id: 10433
   text: Bloqueig aural
 - id: 10434
-  text: Retirar
+  text: Retira
 - id: 10435
-  text: La "Perla Negra" - Cabina del capità
+  text: La Perla Negra - Cabina del capità
 - id: 10439
-  text: Obrir porta
+  text: Obre la porta
 - id: 10441
-  text: Podar
+  text: Poda
 - id: 10442
-  text: Tir net
+  text: Tret net
 - id: 10443
   text: Big Ben
 - id: 10444
   text: >-
     Sora:
 
-    Anem a casa del Merlín.
+    Anem a casa del Merlí.
 - id: 10445
   text: ''
 - id: 12068
@@ -3213,9 +3213,9 @@
 - id: 12071
   text: ''
 - id: 12072
-  text: Patinar
+  text: Patina
 - id: 12073
-  text: Tir furtiu
+  text: Tret furtiu
 - id: 12074
   text: Trepitjada
 - id: 12080
@@ -3223,7 +3223,7 @@
 - id: 12081
   text: Pati interior
 - id: 12082
-  text: Baixar
+  text: Baixa'n
 - id: 12083
   text: Bastó detector
 - id: 12084
@@ -3232,7 +3232,7 @@
 
     serveix per a detectar moviment.
 - id: 12086
-  text: Dança del vent
+  text: Dansa del vent
 - id: 12087
   text: Escalada
 - id: 12088
@@ -3240,7 +3240,7 @@
 - id: 12090
   text: Ajuda
 - id: 12092
-  text: Arri, Pegaso!
+  text: Arri, Pegàs!
 - id: 12093
   text: Bloquejador
 - id: 12094
@@ -3291,7 +3291,7 @@
 - id: 13028
   text: Entabanador
 - id: 13030
-  text: Retornar bala
+  text: Retorna la bala
 - id: 13031
   text: Bluf
 - id: 13032
@@ -3363,7 +3363,7 @@
   text: Herba sanadora
 - id: 13093
   text: >-
-    Retorna la VT al grupo utilitzant els
+    Retorna la VT al grup utilitzant els
 
     poders de la naturalesa. {:color #F0F00080}Cost PM: 99{:reset}
 - id: 13102
@@ -3374,7 +3374,7 @@
   text: Trio
 - id: 13110
   text: >-
-    Comando Límit utilitzat en equip
+    Ordre Límit utilitzat en equip
 
     per llançar un poderós atac Trio.
 
@@ -3383,7 +3383,7 @@
   text: Fantasia
 - id: 13112
   text: >-
-    Comando Límit que desencadena el
+    Ordre Límit que desencadena el
 
     poderós encanteri Cometa del Donald.
 
@@ -3392,7 +3392,7 @@
   text: Fulgor cegador
 - id: 13114
   text: >-
-    Comando Límit que desencadena el
+    Ordre Límit que desencadena el
 
     poderós encanteri Fulgor del Donald.
 
@@ -3401,7 +3401,7 @@
   text: Tornado fusió
 - id: 13116
   text: >-
-    Comando Límit que desencadena el
+    Ordre Límit que desencadena el
 
     poderós atac Gir Goofy.
 
@@ -3410,7 +3410,7 @@
   text: Unitat
 - id: 13118
   text: >-
-    Comando Límit amb el qual el Sora i
+    Ordre Límit amb el qual el Sora i
 
     el Goofy executen el Cop destructor.
 
@@ -3428,7 +3428,7 @@
   text: A tope
 - id: 13122
   text: >-
-    Comando Límit amb el qual el Sora i
+    Ordre Límit amb el qual el Sora i
 
     l'Auron executen l'atac Bushido.
 
@@ -3437,7 +3437,7 @@
   text: Lluna udolant
 - id: 13124
   text: >-
-    Amb aquest comando Límit, el Sora i
+    Amb aquesta Ordre Límit, el Sora i
 
     la Bèstia donen junts un Udol doble.
 
@@ -3446,16 +3446,16 @@
   text: Ovació
 - id: 13126
   text: >-
-    Comando Límit amb el qual el Sora i
+    Ordre Límit amb el qual el Sora
 
-    el Jack executen A ballar!
+    i el Jack executen A ballar!
 
     Consumeix tots els PM del Sora.
 - id: 13127
   text: Drac de foc
 - id: 13128
   text: >-
-    Comando Límit amb el qual el Sora i
+    Ordre Límit amb el qual el Sora i
 
     la Mulan executen el Coet vermell.
 
@@ -3464,16 +3464,16 @@
   text: Sesió eterna
 - id: 13130
   text: >-
-    Comando Límit amb el qual el Sora i
+    Ordre Límit amb el qual el Sora i
 
-    el Riku executen l'atac Sesió.
+    el Riku executen l'atac Sessió.
 
     Consumeix tots els PM del Sora.
 - id: 13131
   text: Orgull del Rei
 - id: 13132
   text: >-
-    Comando Límit amb el qual el Sora i
+    Ordre Límit amb el qual el Sora i
 
     el Simba executen Fúria felina.
 
@@ -3482,18 +3482,18 @@
   text: Illa del tresor
 - id: 13134
   text: >-
-    Comando Límit amb el qual el Sora i
+    Ordre Límit amb el qual el Sora
 
-    el Jack Sparrow executen Bluf.
+    i el Jack Sparrow executen Bluf.
 
     Consumeix tots els PM del Sora.
 - id: 13135
   text: '{:width 90}Compilació completa'
 - id: 13136
   text: >-
-    Comando Límit amb el qual el Sora i
+    Ordre Límit amb el qual el Sora
 
-    el Tron executen Configurar.
+    i el Tron executen Configurar.
 
     Consumeix tots els PM del Sora.
 - id: 13139
@@ -3501,7 +3501,7 @@
 - id: 13170
   text: No hi ha habilitats.
 - id: 13171
-  text: '{:icon dynamic-square}Objetos'
+  text: '{:icon dynamic-square}Objectes'
 - id: 13846
   text: Sense utilitzar
 - id: 13847
@@ -3511,7 +3511,7 @@
 - id: 13849
   text: '{:icon dynamic-square}Habilitats'
 - id: 13850
-  text: '{:icon dynamic-l2}{:icon dynamic-r2}Canviar'
+  text: '{:icon dynamic-l2}{:icon dynamic-r2}Canvia'
 - id: 13861
   text: Tro palpitant
 - id: 13862
@@ -3520,13 +3520,13 @@
 
     propers. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 13863
-  text: 	Activar
+  text: 	Activa-la
 - id: 13864
-  text: Activa la habilitat seleccionada.
+  text: Activa l'habilitat seleccionada.
 - id: 13865
-  text: 	No activar
+  text: 	No l'activis
 - id: 13866
-  text: No activa la habilitat seleccionada.
+  text: No activa l'habilitat seleccionada.
 - id: 13868
   text: >-
     Minnie:
@@ -3546,7 +3546,7 @@
 - id: 13871
   text: ''
 - id: 13875
-  text: Tir brau
+  text: Tret brau
 - id: 13876
   text: >-
     Llença un poderós combo final i
@@ -3562,7 +3562,7 @@
 
     objectius a la vegada.
 - id: 13879
-  text: Tir sònic
+  text: Tret sònic
 - id: 13880
   text: >-
     Llença un poderós combo final
@@ -3580,12 +3580,12 @@
 
     objectius a la vegada.
 - id: 13883
-  text: Tir savi
+  text: Tret savi
 - id: 13884
   text: >-
-    Canvia el comando Atacar
+    Canvia l'ordre Ataca
 
-    a Disparar.
+    a Dispara.
 - id: 13885
   text: Acció mòbil
 - id: 13886
@@ -3606,7 +3606,7 @@
   text: Pressa màgica
 - id: 13892
   text: >-
-    Escurça el temps per a llençar
+    Escurça el temps per llençar
 
     encanteris i habilita ràpids
 
@@ -3623,13 +3623,13 @@
 - id: 13896
   text: Driblatge
 - id: 13951
-  text: Enderrocar
+  text: Enderroca
 - id: 13952
   text: Trepitjada
 - id: 13953
   text: Fuetada
 - id: 13965
-  text: Disparar
+  text: Dispara
 - id: 13966
   text: Salt
 - id: 13967
@@ -3666,122 +3666,122 @@
 - id: 14009
   text: Atrapar
 - id: 14010
-  text: Informe Ansem 1
+  text: Informe Ànsem 1
 - id: 14011
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14012
-  text: Informe Ansem 2
+  text: Informe Ànsem 2
 - id: 14013
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14014
-  text: Informe Ansem 3
+  text: Informe Ànsem 3
 - id: 14015
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14016
-  text: Informe Ansem 4
+  text: Informe Ànsem 4
 - id: 14017
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14018
-  text: Informe Ansem 5
+  text: Informe Ànsem 5
 - id: 14019
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14020
-  text: Informe Ansem 6
+  text: Informe Ànsem 6
 - id: 14021
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14022
-  text: Informe Ansem 7
+  text: Informe Ànsem 7
 - id: 14023
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14024
-  text: Informe Ansem 8
+  text: Informe Ànsem 8
 - id: 14025
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14026
-  text: Informe Ansem 9
+  text: Informe Ànsem 9
 - id: 14027
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14028
-  text: Informe Ansem 10
+  text: Informe Ànsem 10
 - id: 14029
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14030
-  text: Informe Ansem 11
+  text: Informe Ànsem 11
 - id: 14031
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14032
-  text: Informe Ansem 12
+  text: Informe Ànsem 12
 - id: 14033
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14034
-  text: Informe Ansem 13
+  text: Informe Ànsem 13
 - id: 14035
   text: >-
     Un informe secret escrit per
 
-    l'Ansem. El pots llegir al 
+    l'Ànsem. El pots llegir al 
 
-    Diari del Pepito.
+    Diari del Grill.
 - id: 14088
   text: Musical
 - id: 14089
@@ -3794,7 +3794,7 @@
   text: Rugit noble
 - id: 14093
   text: >-
-    Permet escollir armes i armadures,
+    Permet triar armes i armadures,
 
     o utilitzar objectes de l'inventari.
 - id: 14094
@@ -3802,11 +3802,11 @@
 - id: 14095
   text: Permet activar habilitats.
 - id: 14096
-  text: Permet canviar a membres del grup.
+  text: Permet canviar els membres del grup.
 - id: 14097
   text: Permet veure les dades dels personatges.
 - id: 14098
-  text: Mostra les notes del Pepito.
+  text: Mostra les notes del Grill.
 - id: 14099
   text: Obre el menú de configuració del personatge.
 - id: 14100
@@ -3829,7 +3829,7 @@
 - id: 14107
   text: So
 - id: 14108
-  text: Menú de comandos
+  text: Menú d'ordres
 - id: 14109
   text: Nivell de dificultat
 - id: 14110
@@ -3853,17 +3853,17 @@
 - id: 14114
   text: Càmera
 - id: 14115
-  text: Menú de comandos
+  text: Menú d'ordres
 - id: 14116
   text: >-
     Configura l'stick dret per controlar
 
-    la càmera. Podràs utilitzar-lo per comandos
+    la càmera. Podràs utilitzar-lo per ordres
 
     mentre mantinguis premut el LT.
 - id: 14117
   text: >-
-    Configura l'stick dret per els comandos.
+    Configura l'stick dret per les ordres.
 
     Podràs utilitzar-lo per controlar la càmera 
 
@@ -3911,14 +3911,14 @@
   text: Kingdom Hearts
 - id: 14134
   text: >-
-    Fa que la aparença de la finestra de
+    Fa que la aparença de la finestra
 
-    comandos canviï en cada món que visites.
+    d'ordres canviï en cada món que visites.
 - id: 14135
   text: >-
     Manté l'aspecte original
 
-    de la finestra de comandos.
+    de la finestra d'ordres.
 - id: 14136
   text: Principiant
 - id: 14137
@@ -3953,11 +3953,11 @@
 - id: 14205
   text: Sanctus
 - id: 14206
-  text: Informar
+  text: Informa
 - id: 14207
-  text: Sol・licitar
+  text: Sol・licita
 - id: 14208
-  text: '{:width 80}Escoltar la història'
+  text: '{:width 80}Escolta la història'
 - id: 14211
   text: Passat l'horitzó
 - id: 14212
@@ -3981,7 +3981,7 @@
 - id: 14218
   text: Dummy
 - id: 14221
-  text: Investigar
+  text: Investiga
 - id: 14225
   text: >-
     Roxas:
@@ -4010,13 +4010,13 @@
 
     Es necessiten almenys 69 KB de espai lliure
 
-    per a guardar la partida. Començar igualment?
+    per desar la partida. Començar igualment?
 - id: 14286
   text: >-
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    No podràs guardar perquè no s'ha detectat
+    No podràs desar perquè no s'ha detectat
 
     l'emmagatzematge del sistema.
 
@@ -4024,7 +4024,7 @@
 - id: 14287
   text: Endavant, Abú!
 - id: 14288
-  text: Cridar
+  text: Crida
 - id: 14292
   text: 1
 - id: 14293
@@ -4040,15 +4040,15 @@
 
     Es necessiten almenys 169 KB d'espai lliure
 
-    per a guardar la partida. Començar igualment?
+    per desar la partida. Començar igualment?
 - id: 14299
   text: Calés
 - id: 14424
-  text: Guarda dades al dispositiu d'emmagatzematge.
+  text: Desa dades al dispositiu d'emmagatzematge.
 - id: 14425
-  text: Anar al mapa dels mons?
+  text: Enlairar-se cap al mapa dels mons?
 - id: 14426
-  text: Guarda dades al dispositiu al d'emmagatzematge.
+  text: Desa dades al dispositiu al d'emmagatzematge.
 - id: 14427
   text: Carrega dades del dispositiu d'emmagatzematge.
 - id: 14429
@@ -4058,11 +4058,11 @@
 
     No s'ha detectat l'emmagatzematge del sistema.
 - id: 14431
-  text: Desembarcar
+  text: Desembarca
 - id: 14432
   text: Retroestocada
 - id: 14439
-  text: Parar
+  text: Para
 - id: 14440
   text: Dança salvatge
 - id: 14442
@@ -4088,15 +4088,15 @@
 - id: 14615
   text: Apoteosi
 - id: 14619
-  text: Observar
+  text: Observa
 - id: 14622
-  text: Configurar
+  text: Configura
 - id: 14623
   text: Codi clúster
 - id: 14624
   text: Pols explosiu
 - id: 14625
-  text: Reprogramar
+  text: Reprograma
 - id: 14626
   text: Urnicida
 - id: 14629
@@ -4142,7 +4142,7 @@
 - id: 14660
   text: Tots
 - id: 14661
-  text: Utilitzar objecte amb tots.
+  text: Utilitza l'objecte amb tots.
 - id: 14662
   text: ''
 - id: 14663
@@ -4158,7 +4158,7 @@
 
     Vols llençar {:unk0d }{:unk0d }?
 - id: 14721
-  text: Tir mestre
+  text: Tret mestre
 - id: 14722
   text: >-
     Llença un poderós combo final
@@ -4221,7 +4221,7 @@
 
     a diversos enemics. El mal és
 
-    proporcional a la habilitat màgica.
+    proporcional a l'habilitat màgica.
 - id: 14741
   text: Salt letal
 - id: 14742
@@ -4267,7 +4267,7 @@
 
     final contra un objetiu aeri.
 - id: 14753
-  text: Contrafil
+  text: Contratall
 - id: 14754
   text: >-
     Si t'abaten, prem {:icon dynamic-square} per
@@ -4420,7 +4420,7 @@
 - id: 14851
   text: Fusió
 - id: 14853
-  text: Vall del Ñu
+  text: Vall del Nyu
 - id: 14863
   text: Anell Destre
 - id: 14864
@@ -4504,7 +4504,7 @@
 
     {:width 90}enormement{:width 100} els PH màxims.
 - id: 14889
-  text: Anell Orichalcum
+  text: Anell Oritxalcum
 - id: 14890
   text: >-
     Augmenta el poder de la màgia
@@ -5242,7 +5242,7 @@
 
     inusual per fabricar objectes.
 - id: 15111
-  text: Orichalcum+
+  text: Oritxalcum+
 - id: 15112
   text: >-
     Es el mineral més inusual i valuós
@@ -5358,9 +5358,9 @@
   text: Regals trampa
 - id: 15138
   text: >-
-    Regals fets como a cimbell.
+    Regals fets com a cimbell.
 
-    Són rèpliques casi perfectes.
+    Són rèpliques quasi perfectes.
 - id: 15139
   text: Gelat
 - id: 15140
@@ -5376,11 +5376,11 @@
   text: >-
     Foto trobada dins d'una capsa.
 
-    Es veu al Hayner i a la colla en front
+    S'hi veu el Hayner i la colla davant
 
     de la mansió de Vila Crepuscle.
 - id: 15143
-  text: Orichalcum
+  text: Oritxalcum
 - id: 15144
   text: >-
     Un mineral molt inusual i valuós.
@@ -5393,13 +5393,13 @@
 - id: 15147
   text: Món del No-Res
 - id: 15171
-  text: Balancejar
+  text: Balanceja
 - id: 15172
-  text: Deixar anar
+  text: Deixa anar
 - id: 15176
-  text: Saltar
+  text: Salta
 - id: 15177
-  text: Pujar
+  text: Puja
 - id: 15178
   text: Tots
 - id: 15179
@@ -5410,17 +5410,17 @@
   text: >-
     Sora:
 
-    Pero i què passa amb els Sense-Cor?
+    Pero i què passa amb els sensecor?
 - id: 15195
   text: ''
 - id: 15199
   text: Món del No-Res
 - id: 15204
-  text: Borrar
+  text: Borra
 - id: 15205
-  text: Cancel・lar
+  text: Cancel・la
 - id: 15206
-  text: Detornar
+  text: Reemplaça
 - id: 15207
   text: Lum prístina
 - id: 15208
@@ -5473,26 +5473,26 @@
 - id: 15219
   text: Fantasmal
 - id: 15220
-  text: Interceptar
+  text: Intercepta
 - id: 15225
   text: Chicken Little
 - id: 15226
   text: Amulet de Beisbol
 - id: 15227
   text: >-
-    Amb l'ajuda de dos amcs, utilitza
+    Amb l'ajuda de dos amics, utilitza
 
-    el comando Invocar i Chicken Little 
+    l'ordre Invocar i Chicken Little 
 
     et donarà un cop de mà.
 - id: 15228
   text: Món del No-Res
 - id: 15235
-  text: Venç a tots els Sense-Cor!
+  text: Venç tots els sensecor!
 - id: 15236
-  text: Venç a tots els incorporis!
+  text: Venç tots els incorporis!
 - id: 15237
-  text: Venç a tots els enemics!
+  text: Venç tots els enemics!
 - id: 15238
   text: >-
     Permet canviar l'equipament d'un personatge.
@@ -5506,7 +5506,7 @@
 
     Els objectes poden utilitzar-se o llençar-se.
 - id: 15240
-  text: No es puede canviar a ningú.
+  text: No es pot canviar ningú.
 - id: 15241
   text: >-
     Permet configurar els botons d'accès
@@ -5524,11 +5524,11 @@
     a cada membre del grup.
 - id: 15244
   text: >-
-    Confirma la habilitat de Forma.
+    Confirma l'habilitat de Forma.
 
     Aquestes habilitats no poden canviar-se.
 - id: 15247
-  text: Enganxar
+  text: Enganxa
 - id: 15248
   text: >-
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
@@ -5536,15 +5536,15 @@
 
     {:unk0d }{:unk0d } no tindria cap efecte.
 - id: 15249
-  text: Entregar
+  text: Entrega
 - id: 15250
-  text: Saltar
+  text: Salta
 - id: 15252
   text: Sanctus
 - id: 15253
   text: Taller de Mogu
 - id: 15254
-  text: Fabricar
+  text: Fabrica
 - id: 15279
   text: Carga F.
 - id: 15280
@@ -5557,25 +5557,25 @@
 
     en combats d'Struggle.
 - id: 15283
-  text: Sortir
+  text: Surt-ne
 - id: 15284
-  text: Sortir de la guia.
+  text: Surt de la guia.
 - id: 15285
-  text: Fabricar
+  text: Fabrica
 - id: 15286
-  text: Fabricar objectes.
+  text: Fabrica objectes.
 - id: 15292
   text: Llista de materials ja entregats als Moguris.
 - id: 15295
   text: Selecciona l'objecte a fabricar.
 - id: 15297
-  text: Ajudar
+  text: Ajuda
 - id: 15298
   text: Si omples l'indicador de Fusió, podràs utilitzar Fulgor de vida!
 - id: 15299
-  text: Utilitza Fulgor de vida per salvar al Sora!
+  text: Utilitza Fulgor de vida per salvar el Sora!
 - id: 15300
-  text: Utiltza Fulgor de vida per intercanviar-te amb el Sora!
+  text: Utilitza Fulgor de vida per intercanviar-te amb el Sora!
 - id: 15302
   text: Tipus
 - id: 15303
@@ -5590,16 +5590,16 @@
   text: >-
     En casos de emergència, si la Forma
 
-    valenta està disponible, el comando
+    valenta està disponible, l'ordre
 
-    de reacció canvia a Valiente.
+    de reacció canvia a Valenta.
 - id: 15308
   text: Auto-Sàvia
 - id: 15309
   text: >-
     En casos d'emergència, si la Forma
 
-    Sàvia està disponible, el comando
+    Sàvia està disponible, l'ordre
 
     de reacció canvia a Sàvia.
 - id: 15310
@@ -5608,7 +5608,7 @@
   text: >-
     En casos de emergència, si la Forma
 
-    mestra està disponible, el comando
+    mestra està disponible, l'ordre
 
     de reacció canvia a Mestra.
 - id: 15312
@@ -5617,18 +5617,18 @@
   text: >-
     En casos de emergència, si la Forma
 
-    final està disponible, el comando
+    final està disponible, l'ordre
 
     de reacció canvia a Final.
 - id: 15314
-  text: Auto-Invocar
+  text: Auto-Invoca
 - id: 15315
   text: >-
-    Si es pot utilitzar Invocar i un aliat
+    Si es pot utilitzar Invoca i un
 
-    és abatut, el comando de
+    aliat és abatut, l'ordre de
 
-    reacció canvia a Invocar.
+    reacció canvia a Invoca.
 - id: 15316
   text: Extracombo
 - id: 15317
@@ -5651,9 +5651,9 @@
   text: Extrarreacció
 - id: 15321
   text: >-
-    {:color #F0F00080}Augmenta un 50%{:reset} el dany causat
+    {:color #F0F00080}Augmenta un 50%{:reset} el dany
 
-    amb comandos de reacció.
+    causat amb ordres de reacció.
 
     Quants més n'actives, major efecte.
 - id: 15322
@@ -5707,7 +5707,7 @@
 
     Quants més n'actives, major efecte.
 - id: 15334
-  text: Extrainvocar
+  text: Extrainvoca
 - id: 15335
   text: >-
     Extèn la permanència de l'aliat
@@ -5813,7 +5813,7 @@
 
     quants més n'actives, major efecte.
 - id: 15360
-  text: Aspirar danys
+  text: Aspira danys
 - id: 15361
   text: >-
     Recupera PM en proporció al
@@ -5855,7 +5855,7 @@
   text: Auto Límit
 - id: 15371
   text: >-
-    Si està disponible, el comando
+    Si està disponible, l'ordre
 
     de reacció canvia a Límit.
 - id: 15372
@@ -5878,7 +5878,7 @@
   text: >-
     Retorna la VT a un aliat que hagi
 
-    estat canviat per un altre amb Canviar.
+    estat canviat per un altre amb Canvia.
 - id: 15378
   text: Pressa PM+
 - id: 15379
@@ -5959,19 +5959,19 @@
 - id: 15502
   text: Receptes
 - id: 15503
-  text: Sortir
+  text: Surt-ne
 - id: 15504
-  text: Confirmar materials entregats.
+  text: Confirma materials entregats.
 - id: 15505
-  text: Fabricar objectes vells.
+  text: Fabrica objectes vells.
 - id: 15506
   text: Fer que els Moguris desenvolupin nous objectes.
 - id: 15507
-  text: Fabricar objectes amb les receptes que has aconseguit.
+  text: Fabrica objectes amb les receptes que has aconseguit.
 - id: 15508
-  text: Tancar menú.
+  text: Tanca menú.
 - id: 15509
-  text: Fabricació d'objetos
+  text: Fabricació d'objectes
 - id: 15510
   text: Goofy Escut
 - id: 15511
@@ -6011,7 +6011,7 @@
   text: Foc del Mushu
 - id: 15521
   text: >-
-    El Mushu ataca als enemics propers
+    El Mushu ataca els enemics propers
 
     amb el seu alè de foc. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 15522
@@ -6116,7 +6116,7 @@
 - id: 15566
   text: '{:icon gem-orichalcum}'
 - id: 15569
-  text: Penjar
+  text: Penja
 - id: 15570
   text: Moguri amateur
 - id: 15571
@@ -6142,7 +6142,7 @@
 - id: 15581
   text: Llistes
 - id: 15582
-  text: Confirmar llistes de coleccions completades.
+  text: Confirma llistes de coleccions completades.
 - id: 15583
   text: '{:icon dynamic-square}Llista de la colecció'
 - id: 15584
@@ -6373,7 +6373,7 @@
 
     els Moguris comprenen.
 - id: 15711
-  text: Atravessar
+  text: Atravessa
 - id: 15713
   text: Trio
 - id: 15714
@@ -6389,7 +6389,7 @@
 - id: 15730
   text: Demolidor
 - id: 15731
-  text: Trencar
+  text: Trenca
 - id: 15754
   text: Niv. moguri
 - id: 15755
@@ -6405,15 +6405,15 @@
 - id: 15760
   text: '{:icon dynamic-square}Materials'
 - id: 15761
-  text: Fabricar objecte.
+  text: Fabrica objecte.
 - id: 15765
-  text: Sanar
+  text: Sana
 - id: 15767
-  text: Agafar
+  text: Agafa
 - id: 15768
-  text: Rescatar
+  text: Rescata
 - id: 15769
-  text: Agafar
+  text: Agafa
 - id: 15770
   text: Del braç
 - id: 15771
@@ -6423,7 +6423,7 @@
 - id: 15773
   text: Fatxenda
 - id: 15850
-  text: Rebutjar
+  text: Rebutja
 - id: 15866
   text: Explorador Estel・lar
 - id: 15867
@@ -6528,7 +6528,7 @@
 
     de VT, PM i calés que apareixen.
 - id: 15936
-  text: Carabassa Decisiva
+  text: Carbassa Decisiva
 - id: 15937
   text: >-
     Quants més combos executes,
@@ -6640,7 +6640,7 @@
 - id: 15978
   text: Necessites la meitat de materials de recepta {:icon rank-a}!
 - id: 15979
-  text: Fes nous objectes al Lliure desenvolupament!
+  text: Fes nous objectes en el Lliure desenvolupament!
 - id: 15980
   text: Necessites la meitat de materials de recepta {:icon rank-s}!
 - id: 15982
@@ -6752,11 +6752,11 @@
 - id: 16037
   text: Arma glaç
 - id: 16046
-  text: L'"Interceptor"
+  text: L'Interceptor
 - id: 16047
   text: Un mapa del lloc.
 - id: 16048
-  text: La "Perla Negra"
+  text: La Perla Negra
 - id: 16049
   text: Un mapa del lloc.
 - id: 16050
@@ -6793,9 +6793,9 @@
 
     {:unk0d }
 - id: 16095
-  text: Pujar
+  text: Puja
 - id: 16096
-  text: Saltar
+  text: Salta
 - id: 16097
   text: Ciutat del Nadal
 - id: 16098
@@ -6865,7 +6865,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
 
 
-    L'inventari està ple, 
+    L'inventari és ple, 
 
     no es pot fabricar més.
 - id: 16152
@@ -6876,23 +6876,23 @@
 - id: 16153
   text: ''
 - id: 16154
-  text: Fabricar
+  text: Fabrica
 - id: 16155
-  text: Sortir
+  text: Surt-ne
 - id: 16156
-  text: Fabricar objecte.
+  text: Fabrica objecte.
 - id: 16157
-  text: Cancel・lar la fabricació.
+  text: Cancel・la la fabricació.
 - id: 16158
   text: Augmenta el nivell moguri.
 - id: 16159
   text: >-
-    Reueix a la meitat la quantitat
+    Redueix a la meitat la quantitat
 
     de materials necesaris.
 - id: 16160
   text: >-
-    Fabricar objecte de major
+    Fabrica objecte de major
 
     categoria.
 - id: 16161
@@ -6944,7 +6944,7 @@
 
     amb la meitat de materials!
 - id: 16485
-  text: '{:color #FFFF0080}Crea nous objectes al Lliure desenvolupament!{:reset}'
+  text: '{:color #FFFF0080}Crea nous objectes en el Lliure desenvolupament!{:reset}'
 - id: 16486
   text: >-
     {:color #FFFF0080}Els materials de les receptes de 
@@ -7010,7 +7010,7 @@
   text: >-
     Roxas:
 
-    Cap a la botiga d'accesoris!
+    Cap a la botiga d'accessoris!
 - id: 16753
   text: >-
     Roxas:
@@ -7142,7 +7142,7 @@
   text: >-
     Sora:
 
-    Preguntem-li al Will
+    Preguntem al Will
 
     quan parteix.
 - id: 16828
@@ -7193,7 +7193,7 @@
 - id: 16952
   text: ''
 - id: 17033
-  text: Disparar
+  text: Dispara
 - id: 17034
   text: Ukelele
 - id: 17047
@@ -7207,7 +7207,7 @@
 - id: 17053
   text: Petards
 - id: 17054
-  text: Fin
+  text: Fi
 - id: 17061
   text: >-
     Sora:
@@ -7227,28 +7227,28 @@
   text: >-
     Sora:
 
-    La nau hauria d'estar
+    La nau hauria de ser
 
-    al Port Royal.
+    a Port Royal.
 - id: 17089
   text: >-
     Sora:
 
-    La nau hauria d'estar
+    La nau hauria de ser
 
     a la Isla de Muerta.
 - id: 17090
   text: >-
     Sora:
 
-    La nau hauria d'estar
+    La nau hauria de ser
 
     al cementiri de naus.
 - id: 17091
   text: >-
     Sora:
 
-    La nau hauria d'estar
+    La nau hauria de ser
 
     a la Isla de Muerta.
 - id: 17103
@@ -7302,7 +7302,7 @@
 - id: 17165
   text: Estocada
 - id: 17166
-  text: Repetir
+  text: Repeteix
 - id: 17167
   text: Tret
 - id: 17168
@@ -7337,9 +7337,9 @@
   text: Expert
 - id: 17204
   text: >-
-    El mode més fàcil, indicat per aquells no
+    El mode més fàcil, indicat per a aquells
 
-    iniciats a l'univers del Kingdom Hearts.
+    no iniciats a l'univers del Kingdom Hearts.
 
     {:color #F0F00080}Podràs veure el final estàndard del joc.{:reset}
 - id: 17205
@@ -7375,16 +7375,16 @@
 - id: 17215
   text: Monoaural
 - id: 17216
-  text: Jugar amb so estèreo.
+  text: Juga amb so estèreo.
 - id: 17217
   text: >-
-    Jugar amb Dolby Pro Logic II.
+    Juga amb Dolby Pro Logic II.
 
     Gaudeix del so envolvent amb un sistema 
 
     compatible amb Dolby Pro Logic II.
 - id: 17238
-  text: Jugar amb so monoaural.
+  text: Juga amb so monoaural.
 - id: 17239
   text: Assalt automàtic
 - id: 17240
@@ -7403,9 +7403,9 @@
 - id: 17284
   text: No
 - id: 17343
-  text: Recollir
+  text: Recull
 - id: 17351
-  text: Recollir
+  text: Recull
 - id: 17394
   text: Augmenta l'indicador de Forma!
 - id: 17395
@@ -7457,7 +7457,7 @@
 
     les botigues de les ciutats grans.
 - id: 17445
-  text: Capturar
+  text: Captura
 - id: 17481
   text: >-
     Roxas:
@@ -7479,7 +7479,7 @@
   text: >-
     Roxas:
 
-    Ens veiem a la estació, no?
+    Ens veiem a l'estació, no?
 - id: 17485
   text: >-
     Roxas:
@@ -7489,7 +7489,7 @@
   text: >-
     Roxas:
 
-    No sembla estar per aquí...
+    No sembla ser per aquí...
 - id: 17487
   text: >-
     No pots recuperar VT en esta Forma!
@@ -7516,7 +7516,7 @@
 - id: 17586
   text: Combo interior
 - id: 17708
-  text: Guardar
+  text: Desa
 - id: 17721
   text: Diari del Roxas
 - id: 17722
@@ -7524,7 +7524,7 @@
 - id: 17723
   text: Fer-hi front
 - id: 17724
-  text: Xocar
+  text: Xoca
 - id: 17725
   text: Obrir-se camí
 - id: 17726
@@ -7586,13 +7586,13 @@
   text: >-
     Sora:
 
-    Millor no... No si 
+    Millor que no... No
 
-    el Pete està allà.
+    si  el Pete és allà.
 - id: 17743
   text: ''
 - id: 17752
-  text: Saltar
+  text: Salta
 - id: 17753
   text: Niv.
 - id: 17754
@@ -7647,7 +7647,7 @@
 
     següent nivell.
 - id: 17777
-  text: VT actual y VT màxima.
+  text: VT actual i VT màxima.
 - id: 17778
   text: PM actuals i PM màxims.
 - id: 17779
@@ -7780,7 +7780,7 @@
   text: >-
     Guanyes un punt d'experiencia per cada
 
-    Sense-Cor que vences amb la Forma Sàvia.
+    sensecor que vences amb la Forma Sàvia.
 - id: 17800
   text: >-
     Experiència necessària per pujar de nivell.
@@ -7836,7 +7836,7 @@
 
     serà el temps que duri la transformació.
 - id: 17808
-  text: Indicador d'Invocar
+  text: Indicador d'Invoca
 - id: 17809
   text: Stitch
 - id: 17810
@@ -7878,9 +7878,9 @@
     pot transformar-se en diverses Formes.
 - id: 17818
   text: >-
-    {:width 85}El Peter Pan ajudarà al Sora a combatre 
+    {:width 85}El Peter Pan ajudarà el Sora a combatre 
 
-    als enemics. Si el Sora cau a la batalla,
+    els enemics. Si el Sora cau a la batalla,
 
     la Campaneta podrà reviure'l una vegada.
 - id: 17819
@@ -7910,7 +7910,7 @@
 
     {:color #F0F00080}Punts de Fusió consumits: 3{:reset}
 - id: 17841
-  text: Invocar
+  text: Invoca
 - id: 17847
   text: >
     Sora:
@@ -7945,7 +7945,7 @@
 - id: 17859
   text: Harmagedon
 - id: 17862
-  text: Cridar
+  text: Crida
 - id: 17904
   text: Esquerra
 - id: 17905
@@ -8101,14 +8101,14 @@
   text: >-
     L'amulet de la Kairi. Representa
 
-    el seu desig de tornar a veure al Sora,
+    el seu desig de tornar a veure el Sora,
 
-    sense importar com de lluny sigui.
+    sense importar com de lluny en sigui.
 - id: 18050
   text: >-
     Sora:
 
-    De pressa, trobem al Tron!
+    De pressa, trobem el Tron!
 - id: 18051
   text: ''
 - id: 18052
@@ -8168,7 +8168,7 @@
 - id: 18069
   text: Tempesta magna
 - id: 18071
-  text: Conversar
+  text: Conversa
 - id: 18110
   text: Carrera brutal
 - id: 18111
@@ -8192,15 +8192,15 @@
 
     Es necessiten al menys 69 KB
 
-    d'espai lliure per guardar la partida.
+    d'espai lliure per desar la partida.
 - id: 18122
   text: Llençar
 - id: 18201
-  text: Pujar-s'hi
+  text: Puja-t'hi
 - id: 18202
   text: Tret molla
 - id: 18398
-  text: Port
+  text: Moll
 - id: 18399
   text: Isla de Muerta - Penya-segats
 - id: 18402
@@ -8213,9 +8213,9 @@
 
     i llença un poderós combo final
 
-    per acabar amn un únic objectiu.
+    per acabar amb un únic objectiu.
 - id: 18467
-  text: Tir definitiu
+  text: Tret definitiu
 - id: 18468
   text: >-
     Mentre gires a l'aire, llença
@@ -8268,7 +8268,7 @@
 
     Hem de desfer-nos 
 
-    dels Sense-Cor!
+    dels sensecor!
 - id: 18575
   text: No hi ha objectes.
 - id: 18585
@@ -8278,7 +8278,7 @@
 - id: 18592
   text: Acrobàcia
 - id: 18595
-  text: Colpejar
+  text: Colpeja
 - id: 18682
   text: Moneder
 - id: 18683
@@ -8289,7 +8289,7 @@
 
     ha 5.000 calés dins.
 - id: 18692
-  text: Castell del Món Inexistent
+  text: Castell del Món Que Mai Fou
 - id: 18693
   text: Un mapa del lloc.
 - id: 18755
@@ -8435,9 +8435,9 @@
 - id: 19008
   text: ''
 - id: 19011
-  text: "{:width 90}Retornar l'or"
+  text: "{:width 90}Retorna l'or"
 - id: 19030
-  text: Llegir llibre
+  text: Llegeix el llibre
 - id: 19031
   text: >-
     Sora:
@@ -8482,9 +8482,9 @@
 
     No fugiré!
 - id: 19209
-  text: Continuar
+  text: Continua
 - id: 19310
-  text: Tir mòbil
+  text: Tret mòbil
 - id: 19311
   text: >
     Sora:
@@ -8501,7 +8501,7 @@
   text: >-
     Sora:
 
-    Encara no puc entrar.
+    Encara no hi puc entrar.
 
     Estaran treballant?
 - id: 19317
@@ -8558,11 +8558,11 @@
 - id: 19355
   text: –––
 - id: 19361
-  text: Atacar
+  text: Ataca
 - id: 19362
   text: Ràtzia tenebrosa
 - id: 19363
-  text: Rescatar
+  text: Rescata
 - id: 19370
   text: Reflexe
 - id: 19371
@@ -8575,18 +8575,18 @@
 
     Ja no hi ha volta enrrere...
 - id: 19381
-  text: Tocar
+  text: Toca
 - id: 19388
   text: >
     Sora:
 - id: 19389
   text: ''
 - id: 19406
-  text: Hi ha un Sense-Cor estrany!
+  text: Hi ha un sensecor estrany!
 - id: 19416
   text: PÀGINA
 - id: 19417
-  text: Què és la Autorrecàrrega?
+  text: Què és l'Autorrecàrrega?
 - id: 19418
   text: Què és la Càrrega PM?
 - id: 19419
@@ -8614,7 +8614,7 @@
   text: >-
     Trofeu de campió de la Copa
 
-    Paradoxa de l'Hades. Proba que has
+    Paradoxa de l'Hades. Prova que has
 
     guanyat moltes batalles difícils.
 - id: 19480
@@ -8705,9 +8705,9 @@
   text: '{:unk 72}Cops'
 - id: 19615
   text: >-
-    {:width 80}El Ping s'unirà al grup. Per un temps, no podràs canviar als
+    {:width 80}El Ping s'unirà al grup. Per un temps, no podràs canviar
 
-    membres del grup ni utilitzar invocacions.
+    els membres del grup ni utilitzar invocacions.
 - id: 19620
   text: >-
     Sora:
@@ -8964,14 +8964,14 @@
 - id: 20053
   text: Llestos, ja!
 - id: 20054
-  text: Pispar
+  text: Pispa
 - id: 20055
   text: Contra brusca
 - id: 20082
   text: Moviment sobtat
 - id: 20083
   text: >-
-    Dona una ràpida gambada cap
+    Fa una ràpida gambada cap
 
     un enemic llunyà i el colpeja, 
 
@@ -8989,7 +8989,7 @@
   text: Explosió Magnètica
 - id: 20087
   text: >-
-    Atrau als enemics a l'aire
+    Atrau els enemics a l'aire
 
     i llença un combo final. El dany
 
@@ -9017,9 +9017,9 @@
   text: >-
     Amb el record d'algú especial,
 
-    utilitza el comando Fusió i
+    utilitza l'ordre Fusió i canviaràs
 
-    canviaràs a la Forma Límit.
+    a la Forma Límit.
 - id: 20099
   text: Tombarella 1
 - id: 20100
@@ -9048,7 +9048,7 @@
 
     És més eficaç a nivells més alts.
 - id: 20105
-  text: Tombarella máx.
+  text: Tombarella màx.
 - id: 20106
   text: >-
     Si mous {:icon dynamic-left-analog} i prems {:icon dynamic-square},
@@ -9060,14 +9060,14 @@
   text: >-
     En casos d'emergència, si la Forma
 
-    Límit està disponible, el comando
+    Límit està disponible, l'ordre
 
     de reacció canvia a Límit.
 - id: 20109
   text: Estocada Sònica
 - id: 20110
   text: >-
-    Comandament Límit que
+    Ordre Límit que
 
     assesta diversos cops al rival.
 
@@ -9076,7 +9076,7 @@
   text: Últim Arcà
 - id: 20112
   text: >-
-    Potent comandament Límit
+    Potent ordre Límit
 
     que pot finalitzar-se amb més
 
@@ -9085,7 +9085,7 @@
   text: Tret Diví
 - id: 20114
   text: >-
-    Comandament Límit que llença la
+    Ordre Límit que llença la
 
     clau espasa contra el rival i
 
@@ -9094,7 +9094,7 @@
   text: Infinitat
 - id: 20116
   text: >-
-    Comandament Límit que s'executa
+    Ordre Límit que s'executa
 
     prement {:icon dynamic-triangle} després d'un combo aeri.
 
@@ -9116,7 +9116,7 @@
 
     et rodegen. El dany és proporcional 
 
-    a la habilitat màgica.
+    a l'habilitat màgica.
 - id: 20121
   text: Pols Huracanat
 - id: 20122
@@ -9164,7 +9164,7 @@
 
     habilitats s'incrementen en pujar de nivell.
 - id: 20159
-  text: '{:icon dynamic-cross}: Menú de guardat  {:icon dynamic-circle}: Sortir'
+  text: '{:icon dynamic-cross}: Menú per desar  {:icon dynamic-circle}: Surt-ne'
 - id: 20168
   text: Finta
 - id: 20169
@@ -9186,11 +9186,11 @@
 
     Vols tornar a la pantalla
 
-    del títol sense guardar
+    del títol sense desar
 
     les dades de joc completat?
 - id: 20190
-  text: Unificar
+  text: Unifica
 - id: 20191
   text: Palet evocador
 - id: 20192
@@ -9288,27 +9288,27 @@
 - id: 20214
   text: Infinitat
 - id: 20215
-  text: Tir
+  text: Dispara
 - id: 20216
   text: Descàrrega
 - id: 20217
   text: Megadescàrrega
 - id: 20220
-  text: Arrancar
+  text: Arrenca
 - id: 20221
-  text: Accedir
+  text: Accedeix-hi
 - id: 20222
   text: Estocada Sònica
 - id: 20223
-  text: Repetir
+  text: Repeteix
 - id: 20224
   text: Final
 - id: 20225
   text: Arcà
 - id: 20226
-  text: Sacudida
+  text: Sacsejada
 - id: 20227
-  text: Remate
+  text: Remat
 - id: 20228
   text: Tret diví
 - id: 20229
@@ -9320,9 +9320,9 @@
 - id: 20236
   text: Megadescàrrega
 - id: 20237
-  text: Tornar a Escenes
+  text: Torna a Escenes
 - id: 20240
-  text: Arrancar
+  text: Arrenca
 - id: 20241
   text: JP
 - id: 20242
@@ -9332,7 +9332,7 @@
 - id: 20244
   text: Gaudeix veient les escenes del joc.
 - id: 20270
-  text: Reproduir tot
+  text: Reprodueix-ho tot
 - id: 20325
   text: Contra Zantetsuken
 - id: 20326
@@ -9353,7 +9353,7 @@
   text: >-
     El Sora recupera VT quan colpeja
 
-    al rival utilitzant un comando Límit.
+    al rival utilitzant una ordre Límit.
 - id: 20338
   text: Gruta de la Membrança
 - id: 20339
@@ -9363,17 +9363,17 @@
 - id: 20343
   text: Un mapa del lloc.
 - id: 20364
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20392
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20393
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20394
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20395
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20396
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20397
   text: Prova de Connexió
 - id: 20398
@@ -9387,7 +9387,7 @@
   text: Prova d'Inexistència
 - id: 20400
   text: >-
-    Prova d'haver vençut a les rèpliques 
+    Prova d'haver vençut les rèpliques 
 
     virtuals dels membres de la Organització {XIII}.
 
@@ -9396,177 +9396,177 @@
   text: Prova de Pau
 - id: 20402
   text: >-
-    Prova d'haver vençut als membres
+    Prova d'haver vençut els membres
 
     de la Micorganització {XIII}.
 
     Quin efecte tindrà en el Sora?
 - id: 20403
-  text: Enredar
+  text: Enreda
 - id: 20404
-  text: Cancel・lar
+  text: Cancel・la
 - id: 20405
-  text: Restablir
+  text: Restableix
 - id: 20406
-  text: Suprimir
+  text: Suprimeix
 - id: 20407
-  text: Passar pàgina
+  text: Passa la pàgina
 - id: 20408
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20409
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20410
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20411
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20412
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20413
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20416
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20418
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20419
-  text: Peça de "El despertar"
+  text: Peça de «El despertar»
 - id: 20422
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20423
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20424
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20425
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20426
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20427
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20428
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20429
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20430
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20431
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20432
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20433
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20434
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20435
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20436
-  text: Peça de "Llums i ombres"
+  text: Peça de «Llums i ombres»
 - id: 20437
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20438
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20439
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20440
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20441
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20442
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20443
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20444
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20445
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20446
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20447
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20448
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20449
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20450
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20451
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20452
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20453
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20454
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20455
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20456
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20457
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20458
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20459
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20460
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20461
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20462
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20463
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20464
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20465
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20466
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20467
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20468
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20469
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20470
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20471
-  text: Peça de "Cor"
+  text: Peça de «Cor»
 - id: 20472
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20473
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20474
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20475
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20476
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20477
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20478
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20479
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20480
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20481
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20482
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20483
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20484
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20485
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20486
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20487
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20488
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20489
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20490
-  text: Peça de "L'aurora"
+  text: Peça de «L'aurora»
 - id: 20491
   text: Closca
 - id: 20492
@@ -9593,135 +9593,135 @@
 - id: 20499
   text: '{:icon tranquil}'
 - id: 20535
-  text: Forcejar
+  text: Forceja
 - id: 20536
-  text: Resetejar
+  text: Reseteja
 - id: 20537
   text: Una més
 - id: 20538
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20551
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20555
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20558
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20561
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20564
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20571
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20574
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20576
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20577
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20579
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20580
-  text: Peça de "Al caire"
+  text: Peça de «Al caire»
 - id: 20623
   text: Anell Suprem
 - id: 20624
   text: Augmenta enormement els PH màxims.
 - id: 20626
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20627
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20628
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20629
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20630
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20631
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20632
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20633
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20634
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20635
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20636
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20637
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20640
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20642
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20643
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20644
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20645
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20646
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20647
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20648
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20653
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20654
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20656
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20657
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20658
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20659
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20660
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20661
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20662
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20663
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20664
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20665
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20666
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20667
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20668
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20669
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20670
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20671
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20672
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20673
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20675
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20676
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20677
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20678
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20679
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20680
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20681
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20682
-  text: Peça de "El crepuscle"
+  text: Peça de «El crepuscle»
 - id: 20683
   text: Consegueix 50 tipus de materials.
 - id: 20684
@@ -9731,7 +9731,7 @@
 - id: 20686
   text: Obtén tots els {:icon tranquil}materials d'assossec.
 - id: 20694
-  text: Forcejar
+  text: Forceja
 - id: 20695
   text: Escometre
 - id: 21364
@@ -9773,7 +9773,7 @@
 - id: 21572
   text: Invisibilitat
 - id: 21573
-  text: Visualitzar
+  text: Visualitza
 - id: 21574
   text: Il・lusió
 - id: 21575
@@ -9789,9 +9789,9 @@
 - id: 21580
   text: Visió
 - id: 21581
-  text: Conspirar
+  text: Conspira
 - id: 21582
-  text: Embaucar
+  text: Entabana
 - id: 21583
   text: Argúcia
 - id: 21584
@@ -9805,7 +9805,7 @@
 - id: 21588
   text: Farsant
 - id: 21589
-  text: Manipular
+  text: Manipula
 - id: 21590
   text: Segrest
 - id: 21591
@@ -9837,17 +9837,17 @@
 - id: 21604
   text: Emboscada
 - id: 21605
-  text: Restaurar
+  text: Restaura
 - id: 21606
-  text: Deslligar
+  text: Deslliga
 - id: 21607
-  text: Restituir
+  text: Restitueix
 - id: 21608
   text: Bingo!
 - id: 21609
-  text: Sanar
+  text: Sana
 - id: 21610
-  text: Focalitzar
+  text: Focalitza
 - id: 21611
   text: Recompensa
 - id: 21612
@@ -9857,21 +9857,21 @@
 - id: 21614
   text: Tresor
 - id: 21615
-  text: Emparar
+  text: Empara
 - id: 21616
   text: Riquesa
 - id: 21617
   text: Bonus
 - id: 21618
-  text: Alleujar
+  text: Alleuja
 - id: 21619
   text: Bonaventura
 - id: 21620
-  text: Classificar
+  text: Classifica
 - id: 21621
-  text: Escorcollar
+  text: Escorcolla
 - id: 21622
-  text: Seleccionar
+  text: Selecciona
 - id: 22000
   text: >-
     {:icon dynamic-left-analog}
@@ -9879,9 +9879,9 @@
     Control del monopatí
 - id: 22001
   text: >-
-    {:icon dynamic-triangle}{:color #FFEC1980} Comando de reacció{:reset}
+    {:icon dynamic-triangle}{:color #FFEC1980} Ordre de reacció{:reset}
 
-    Entregar carta.
+    Entrega la carta.
 
     {:icon dynamic-cross}{:icon dynamic-square}{:icon dynamic-circle}{:color #FFEC1980} Trucs{:reset}
 
@@ -9913,7 +9913,7 @@
 - id: 22005
   text: >-
     ⤷ {:color #FFEC1980}Completa la feina{:reset} el més aviat 
-        possible y guanyaràs molts dinners!
+        possible i guanyaràs molts calés!
 - id: 22006
   text: >-
     Prem {:icon dynamic-triangle} per {:color #FFEC1980}recarregar 
@@ -9943,7 +9943,7 @@
         Prem {:icon dynamic-triangle} al ritme de la canció i l'indicador!
 - id: 22014
   text: >-
-    ⤷ Fes-ho a temps! ¡Si ho fas només {:color #FFEC1980}Bé{:reset}
+    ⤷ Fes-ho a temps! Si ho fas només {:color #FFEC1980}Bé{:reset}
         o {:color #FFEC1980}Malament, l'indicador de combo torna a 0{:reset}!
 - id: 22015
   text: >-
@@ -9951,8 +9951,8 @@
         a l'{:color #FFEC1980}Ariel{:reset} per obtenir punts i animar-la.
 - id: 22016
   text: >-
-    ⤷ ¡Asegura't de no prèmer {:icon dynamic-square} quan l'indicador
-        mostri al {:color #FFEC1980}Sebastià{:reset}!
+    ⤷ Asegura't de no prèmer {:icon dynamic-square} quan l'indicador
+        mostri el {:color #FFEC1980}Sebastià{:reset}!
 - id: 22017
   text: >-
     ⤷ Un {:color #FFEC1980}nou indicador{:reset} ha aparegut!
@@ -9979,11 +9979,11 @@
   text: '{:icon dynamic-circle} {:color #FFEC1980}Bloquejar{:reset}'
 - id: 22023
   text: >-
-    {:icon dynamic-l2} {:color #FFEC1980}Fixar comandos{:reset}
+    {:icon dynamic-l2} {:color #FFEC1980}Fixar ordres{:reset}
 
     Utilitza {:icon dynamic-right-analog} i manten-lo premut 
 
-    per controlar comandos.
+    per controlar ordres.
 
 
     {:icon dynamic-left-analog}
@@ -10002,7 +10002,7 @@
 
     Moure amunt/avall
 - id: 22025
-  text: ⤷ Prem {:icon dynamic-cross} per atacar als enemics des de lluny!
+  text: ⤷ Prem {:icon dynamic-cross} per atacar els enemics des de lluny!
 - id: 22026
   text: >-
     Si el Pooh es deixa anar,
@@ -10013,12 +10013,12 @@
 - id: 22027
   text: '⤷ Prem {:icon dynamic-cross} per {:color #FFEC1980}colpejar{:reset} els objectes!'
 - id: 22028
-  text: '⤷ Prem {:icon dynamic-triangle} per {:color #FFEC1980}salvar al Piglet{:reset}!'
+  text: '⤷ Prem {:icon dynamic-triangle} per {:color #FFEC1980}salvar el Piglet{:reset}!'
 - id: 22029
   text: >-
-    Si choques amb un obstàcle, prem {:icon dynamic-triangle} 
+    Si xoques amb un obstacle, prem {:icon dynamic-triangle} 
 
-    per rescatar al Pooh, o
+    per rescatar el Pooh, o
 
     {:color #FFEC1980}continuarà perdent vitalitat{:reset}!
 - id: 22030
@@ -10028,7 +10028,7 @@
 - id: 22031
   text: "⤷ El joc s'acaba si el Pooh {:color #FFEC1980}es queda sense VT{:reset}."
 - id: 22032
-  text: '⤷ El Talp ajudarà al Sora {:color #FFEC1980}una vegada{:reset} amb un obstàcle!'
+  text: '⤷ El Talp ajudarà el Sora {:color #FFEC1980}una vegada{:reset} amb un obstacle!'
 - id: 22033
   text: >-
     Si choques amb un obstàcle, prem {:icon dynamic-triangle}
@@ -10043,7 +10043,7 @@
     ⤷ {:color #FFEC1980}Prem i mantén {:icon dynamic-square} per moure't d'esquerra a dreta
         ràpidament{:reset}.
 - id: 22035
-  text: '⤷ El Talp ajudarà al Sora {:color #FFEC1980}una vegada{:reset} amb un obstàcle!'
+  text: '⤷ El Talp ajudarà el Sora {:color #FFEC1980}una vegada{:reset} amb un obstacle!'
 - id: 22036
   text: >-
     ⤷ Per saltar al trampolí, prem {:icon dynamic-triangle} . Fes-ho
@@ -10066,7 +10066,7 @@
         i començar a girar!
 - id: 22041
   text: >-
-    ⤷ Prem {:icon dynamic-triangle} mentre gires per escollir
+    ⤷ Prem {:icon dynamic-triangle} mentre gires per triar
         en quina direcció {:color #FFEC1980}llençar el pot{:reset}!
 - id: 22042
   text: '⤷ Prem {:icon dynamic-triangle} en girar per {:color #FFEC1980}llençar en aquella direcció{:reset}.'
@@ -10131,4 +10131,4 @@
 - id: 22061
   text: >-
     ⤷ Assegura't de no fer res quan l'indicador
-        mostri al {:color #FFEC1980}Sebastià{:reset}!
+        mostri el {:color #FFEC1980}Sebastià{:reset}!

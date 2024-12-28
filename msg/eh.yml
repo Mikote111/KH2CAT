@@ -29,7 +29,7 @@
 - id: 16224
   text: Que vas fer què...!?
 - id: 16225
-  text: Digue-m'ho... {:delay 8B 00}{:clear }Digue'm per què et va escollir a tu!.
+  text: Digues-m'ho... {:delay 8B 00}{:clear }Digues-me per què t'hi ha triat, a tu!
 - id: 16226
   text: Ara ho entenc. Per això.
 - id: 16227
@@ -70,7 +70,7 @@
   text: Deus estar cansat, Sora.
 - id: 16242
   text: >-
-    Vinga, anem a buscar la manera
+    Au va, anem a buscar la manera
 
     d'entrar en aquell castell!
 - id: 16243
@@ -89,7 +89,7 @@
 - id: 16248
   text: Això és real...
 - id: 16249
-  text: Espera! Ansem! {:delay 5A 00}{:clear }{:delay 2A 00}{:clear } Vull dir... sensecor d'en Xehanort.{:delay 88 00}{:clear }{:delay 72 00}{:clear }Mai hagués dit que et tornaria a veure.
+  text: Espera! Ànsem! {:delay 5A 00}{:clear }{:delay 2A 00}{:clear } Vull dir... sensecor d'en Xehanort.{:delay 88 00}{:clear }{:delay 72 00}{:clear }Mai hagués dit que et tornaria a veure.
 - id: 16250
   text: >-
     Només de pensar en totes les coses
@@ -151,11 +151,11 @@
     dir que estaves bé?
 - id: 16272
   text: >-
-    T'ho he dit. {:delay 66 00}{:clear }No volia que em trobessis. {:delay 64 00}{:clear }{:delay 32 00}{:clear }Així no. No podia.{:delay CB 00}{:clear }{:delay 19 00}{:clear }Vaig lluitar contra l'Ansem... 
+    T'ho he dit. {:delay 66 00}{:clear }No volia que em trobessis. {:delay 64 00}{:clear }{:delay 32 00}{:clear }Així no. No podia.{:delay CB 00}{:clear }{:delay 19 00}{:clear }Vaig lluitar contra l'Ànsem... 
 
     contra el sensecor del Xehanort,{:delay E3 00}{:clear }{:delay 29 00}quan va envair el meu cor. I vaig vèncer. {:delay A9 00}{:clear }Però per utilitzar el poder de la foscor,
 
-    vaig haver de convertir-me en el propi Ansem.
+    vaig haver de convertir-me en el propi Ànsem.
 - id: 16273
   text: >-
     Vols dir...
@@ -247,7 +247,7 @@
   text: Cors punyits per l'enveja!
 - id: 16303
   text: >-
-    El neci de l'Ansem va dir que la naturalesa
+    El neci de l'Ànsem va dir que la naturalesa
 
     del cor escapava de la seva comprensió...{:delay 8F 01}{:clear }Però no de la meva! {:delay A4 00}{:clear }Els cors són la
 
@@ -601,7 +601,7 @@
     tornarà a ser el d'abans.
 - id: 16432
   text: >-
-    El Riku va escollir aquella forma per
+    El Riku va triar aquella forma per
 
     poder utilitzar el poder de la foscor. {:delay F0 00}{:clear }{:delay 1E 00}{:clear }No serà fàcil.
 - id: 16433
@@ -651,7 +651,7 @@
   text: Què és això?
 - id: 16449
   text: >-
-    Són el rei i el DiZ... {:delay 47 00}{:clear }{:delay 13 00}{:clear }vull dir, l'Ansem el Savi. {:delay 96 00}{:clear }{:delay 20 00}{:clear }Deuen ser més amunt.
+    Són el rei i el DiZ... {:delay 47 00}{:clear }{:delay 13 00}{:clear }vull dir, l'Ànsem el Savi. {:delay 96 00}{:clear }{:delay 20 00}{:clear }Deuen ser més amunt.
 
     Afanyem-nos.
 - id: 16450
@@ -730,7 +730,7 @@
   text: Riku!
 - id: 16493
   text: >-
-    L'Ansem ha dit que podia
+    L'Ànsem ha dit que podia
 
     passar qualsevol cosa.
 - id: 16494
@@ -754,7 +754,7 @@
   text: Riku...
 - id: 16502
   text: >-
-    Vinga, nano!{:delay 3C 00}{:clear }{:delay 26 00}Per què ho intentes
+    Au, nano!{:delay 3C 00}{:clear }{:delay 26 00}Per què ho intentes
 
     fer tot tu sol?
 - id: 16503
@@ -778,7 +778,7 @@
   text: Ha passat de molt temps, amic meu.
 - id: 16517
   text: >-
-    Ansem el Savi. {:delay 54 00}{:clear }{:delay 28 00}{:clear }Per què no vas acudir a mi abans
+    Ànsem el Savi. {:delay 54 00}{:clear }{:delay 28 00}{:clear }Per què no vas acudir a mi abans
 
     que les coses es compliquessin tant?
 - id: 16518
@@ -847,7 +847,7 @@
   text: >-
     Quan el Riku em va dur el Roxas,
 
-    es va presentar a sí mateix com... Ansem.
+    es va presentar a sí mateix com... Ànsem.
 - id: 16531
   text: >-
     Si amb això despertava el seu amic,
@@ -915,7 +915,7 @@
 - id: 16549
   text: Molt bé. Som-hi.
 - id: 16550
-  text: Ansem?
+  text: Ànsem?
 - id: 16551
   text: >-
     {:delay F8 00}Soc un ilús. {:delay 47 00}{:clear }{:delay 46 00}{:clear }M'he passat anys estudiant
@@ -936,7 +936,7 @@
 
     com jo havia previst...{:delay 0D 01}{:clear }però no podia estar més equivocat.
 - id: 16556
-  text: Ansem! La màquina!
+  text: Ànsem! La màquina!
 - id: 16557
   text: >-
     Una prova més que els cors
@@ -951,7 +951,7 @@
 - id: 16560
   text: Sora, la resta depèn de tu... {:delay A8 00}{:clear }{:delay 29 00}i del Roxas.{:delay 37 00}{:clear }{:delay 21 00}Dubto que pugui sentir-me, però, de debò...{:delay BF 00}{:clear }{:delay 11 00}ho sento.
 - id: 16561
-  text: Ansem!
+  text: Ànsem!
 - id: 16562
   text: El meu cor em diu el que haig de fer.{:delay 94 00}{:clear }{:delay 32 00}Per favor, permet-me que li faci cas.
 - id: 16563
@@ -970,7 +970,7 @@
     en el meu Kingdom Hearts i mira... {:delay DC 01}{:clear }aquí hi sou tots. {:delay 7D 00}{:clear }Què bé que em va!
 - id: 16567
   text: >-
-    Ansem el Savi...
+    Ànsem el Savi...
 
     estàs fet un fàstic.
 - id: 16568
@@ -1013,7 +1013,7 @@
 - id: 16677
   text: Qui...?
 - id: 16678
-  text: Creu en tu mateixa. Vinga, ràpid!
+  text: Creu en tu mateixa. Au va, ràpid!
 - id: 16679
   text: Kairi... Ja venim.
 - id: 16680
@@ -1159,7 +1159,7 @@
   text: >-
     Què està passant?
 
-    L'Ansem estava lluitant al costat de la Kairi!{:clear }Però ara la Kairi té problemes!
+    L'Ànsem estava lluitant al costat de la Kairi!{:clear }Però ara la Kairi té problemes!
 
     Hem d'ajudar-la!
 - id: 18445
@@ -1222,7 +1222,7 @@
 
     enfortit i ens estigui esperant.{:clear }Tot va començar amb les investigacions
 
-    de l'Ansem. Acabem-ho en el seu honor!
+    de l'Ànsem. Acabem-ho en el seu honor!
 - id: 18454
   text: >-
     Estic cansada d'esperar, o sigui que
@@ -1241,7 +1241,7 @@
   text: >-
     No baixis la guàrdia. Podem acabar
 
-    separats en qualsevol moment.{:clear }Vinga, salvem el món de nou!
+    separats en qualsevol moment.{:clear }Au va, salvem el món de nou!
 - id: 18457
   text: >-
     El Kingdom Hearts ha
@@ -1438,7 +1438,7 @@
   text: >-
     És admirable que la Kairi i
 
-    tu hagueu reconegut el Riku.{:clear }És idèntic a l'Ansem. La primera vegada
+    tu hagueu reconegut el Riku.{:clear }És idèntic a l'Ànsem. La primera vegada
 
     que el vaig veure, no podia creure-ho.
 - id: 19124
@@ -1781,7 +1781,7 @@
 - id: 19984
   text: DiZ... Ell podia sentir el Sora.
 - id: 19985
-  text: Vaja, o sigui que et va dir que "sentia"... {:delay B3 00}{:clear } {:delay 40 00}{:clear }Ridícul.
+  text: Vaja, o sigui que et va dir que «sentia»... {:delay B3 00}{:clear } {:delay 40 00}{:clear }Ridícul.
 - id: 20360
   text: Potser apostava per la seva no existència...{:delay E6 00}{:clear }En qualsevol cas, va sortir-ne guanyant.
 - id: 20361
@@ -1863,7 +1863,7 @@
 
     Adeu.
 - id: 21453
-  text: Vinga, home, no siguis així. {:delay 7C 00}{:clear }Queda't a xerrar. Què em dius?
+  text: Au va, home, no siguis així. {:delay 7C 00}{:clear }Queda't a xerrar. Què me'n dius?
 - id: 21454
   text: >-
     Ja va sent hora que m'expliquis 
@@ -1879,7 +1879,7 @@
 
     investigant la foscor inherent en els cors.{:delay A0 00}{:clear }És un cementiri que va ser
 
-    segellat per l'Ansem el Savi.{:delay 18 01}{:clear }El primer que va fer el Xemnas
+    segellat per l'Ànsem el Savi.{:delay 18 01}{:clear }El primer que va fer el Xemnas
 
     només en desfer-se d'ell {:delay C8 00}{:clear }va ser tornar a obrir-lo i construir-hi 
 
@@ -1923,7 +1923,7 @@
 
     la Cambra del Despertar. {:delay 5E 01}{:clear } {:delay 14 00}{:clear }És un altre cementiri, per si t'ho preguntaves. {:delay C8 00}{:clear }I sé que no va ser construida pel Xemnas. {:delay 04 01}{:clear }I allà és on s'ho trobarà...
 - id: 21466
-  text: Allà és on trobarà el seu altre "amic".
+  text: Allà és on trobarà el seu altre «amic».
 - id: 21467
   text: Haig d'alliberar el poder del meu cor.{:delay DE 00}{:clear }El poder fosc que he estat contenint.
 - id: 21468
@@ -1970,7 +1970,7 @@
     home sense memòria jaient a terra.
 - id: 21637
   text: >-
-    El Xemnas... {:delay A0 00}{:clear }vull dir, el Xehanort va ser trobat per l'Ansem
+    El Xemnas... {:delay A0 00}{:clear }vull dir, el Xehanort va ser trobat per l'Ànsem
 
     més o menys per aquelles dates, oi que sí?
 - id: 21695

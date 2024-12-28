@@ -175,17 +175,17 @@
 - id: 6336
   text: Gumi-blancs
 - id: 6337
-  text: Asignar habilitats
+  text: Asigna-hi habilitats
 - id: 6339
   text: Multigumis
 - id: 6340
-  text: Donar-hi forma
+  text: Dona-hi forma
 - id: 6341
-  text: Copiar i col・locar
+  text: Copia i col・loca
 - id: 6342
-  text: Editar
+  text: Edita
 - id: 6343
-  text: Pintar
+  text: Pinta
 - id: 6344
   text: Desfer
 - id: 6345
@@ -193,9 +193,9 @@
 - id: 6346
   text: Canvi de mode
 - id: 6349
-  text: Guardar plànol
+  text: Guarda plànol
 - id: 6350
-  text: Sortir
+  text: Surt
 - id: 6351
   text: Gumis bisellats
 - id: 6352
@@ -203,13 +203,13 @@
 - id: 6353
   text: Gumis Aero
 - id: 6354
-  text: Col・locar gumis
+  text: Col・loca-hi gumis
 - id: 6355
-  text: Agregar-hi bisells
+  text: Agrega-hi bisells
 - id: 6356
-  text: Agregar-hi corbes
+  text: Agrega-hi corbes
 - id: 6357
-  text: Agregar-hi una punta
+  text: Agrega-hi una punta
 - id: 6358
   text: Còpia normal
 - id: 6359
@@ -348,11 +348,11 @@
 
     per col・locar materials gumi.
 - id: 6399
-  text: Començar
+  text: Comença
 - id: 6400
   text: Editor gumi
 - id: 6404
-  text: Seleccionar nivell de missió per a volar.
+  text: Selecciona nivell de missió per volar.
 - id: 6415
   text: Naus gumi
 - id: 6416
@@ -395,13 +395,13 @@
 - id: 8467
   text: '{:width 84}Construeix nauetes perquè defensin la teva nau gumi.'
 - id: 8473
-  text: Tornar al mapa dels mons.
+  text: Torna al mapa dels mons.
 - id: 13976
-  text: Canviar formació
+  text: Canvia formació
 - id: 14075
-  text: Continuar
+  text: Continua
 - id: 14076
-  text: Reintentar
+  text: Reintenta
 - id: 14077
   text: Foc ràpid
 - id: 14078
@@ -413,13 +413,13 @@
 - id: 14081
   text: Normal
 - id: 14082
-  text: Invertir
+  text: Inverteix
 - id: 14083
   text: Càmera
 - id: 14084
   text: Normal
 - id: 14085
-  text: Invertir
+  text: Inverteix
 - id: 14086
   text: Menú gumi
 - id: 14087
@@ -433,7 +433,7 @@
 - id: 14283
   text: '{:width 90}Gumis auxiliars'
 - id: 14289
-  text: Continuar
+  text: Continua
 - id: 14290
   text: Menú gumi
 - id: 14291
@@ -465,13 +465,13 @@
 - id: 14683
   text: Raig ▴
 - id: 14684
-  text: Convertir medalles
+  text: Converteix medalles
 - id: 14685
   text: Auto Regen
 - id: 14686
   text: Auto Contra
 - id: 14687
-  text: Convertir costos
+  text: Converteix costos
 - id: 14688
   text: Formació activa
 - id: 14689
@@ -934,9 +934,9 @@
 
     resulta el teu contraatac.
 - id: 15679
-  text: '{:width 90}{:color #8080F080}{:icon dynamic-select}{:reset}{:width 90}: Tancar'
+  text: '{:width 90}{:color #8080F080}{:icon dynamic-select}{:reset}{:width 90}: Tanca'
 - id: 15680
-  text: '{:icon dynamic-cross}: Obrir'
+  text: '{:icon dynamic-cross}: Obre'
 - id: 15681
   text: '{:icon dynamic-circle}: Enrere'
 - id: 15683
@@ -944,11 +944,11 @@
 - id: 15684
   text: 'Deco-gumis {:color #8080F080}▸{:reset}'
 - id: 15685
-  text: 'Col・locar gumis {:color #8080F080}▸{:reset}'
+  text: 'Col・loca gumis {:color #8080F080}▸{:reset}'
 - id: 15686
-  text: 'Copiar i col・locar {:color #8080F080}▸{:reset}'
+  text: 'Copia i col・loca {:color #8080F080}▸{:reset}'
 - id: 15687
-  text: 'Donar-hi forma {:color #8080F080}▸{:reset}'
+  text: 'Dona-hi forma {:color #8080F080}▸{:reset}'
 - id: 15697
   text: 'Armes gumi {:color #8080F080}▸{:reset}'
 - id: 15698
@@ -970,21 +970,21 @@
 - id: 15880
   text: Controls
 - id: 15881
-  text: 2. Seleccionar una àrea
+  text: 2. Selecciona una àrea
 - id: 15882
   text: 1. Còpia normal
 - id: 15883
   text: 1. Modificacions
 - id: 15884
-  text: 3. Afegir-hi puntes
+  text: 3. Afegeix-hi puntes
 - id: 15885
   text: 1. Selecció
 - id: 15886
-  text: 3. Afegir-hi colors
+  text: 3. Afegeix-hi colors
 - id: 16440
-  text: Començar
+  text: Comença
 - id: 16441
-  text: Cancel・lar
+  text: Cancel・la
 - id: 16582
   text: Benvingut a l'Editor!
 - id: 16583
@@ -998,11 +998,11 @@
 - id: 16587
   text: Quadern d'informació
 - id: 16588
-  text: Col・locar materials gumi
+  text: Col・loca materials gumi
 - id: 16589
-  text: Còpiar formes i col・locar
+  text: Copia formes i col・loca-les
 - id: 16590
-  text: Canviar formes de gumis
+  text: Canvia formes de gumis
 - id: 16600
   text: Gumis d'atac
 - id: 16601
@@ -1024,7 +1024,7 @@
 - id: 16618
   text: Com afegir puntes
 - id: 16619
-  text: Escollir colors de la paleta
+  text: Tria colors de la paleta
 - id: 16620
   text: Afegir color als blocs gumi
 - id: 16634
@@ -1251,7 +1251,7 @@
     Hi ha varies maneres de fer-ho.
 
 
-    Escull un color quan col・loques el gumi.
+    Tria un color quan col・loques el gumi.
 
     Agrega el color al gumi després
 
@@ -1279,9 +1279,9 @@
 
     no tenen forma.
 
-    {:color #8080F080}{:icon dynamic-dpad-up-down}{:reset}: Moure cursor
+    {:color #8080F080}{:icon dynamic-dpad-up-down}{:reset}: Mou cursor
 
-    {:icon dynamic-cross}/{:icon dynamic-triangle}: Col・locar/Treure
+    {:icon dynamic-cross}/{:icon dynamic-triangle}: Col・loca/Treu
 
 
     {:color #00F0F080}- Assignar habilitats{:reset}
@@ -1300,11 +1300,11 @@
     d'acord a les teves preferències.
 
 
-    {:color #8080F080}{:icon dynamic-dpad-up-down}{:reset}: Seleccionar configuració
+    {:color #8080F080}{:icon dynamic-dpad-up-down}{:reset}: Selecciona la configuració
 
-    {:color #8080F080}{:icon dynamic-dpad-left-right}{:reset}: Canviar configuració{:reset}
+    {:color #8080F080}{:icon dynamic-dpad-left-right}{:reset}: Canvia la configuració{:reset}
 
-    {:icon dynamic-circle}: Confirmar selecció i tornar
+    {:icon dynamic-circle}: Confirma la selecció i torna
 
 
     {:color #00F0F080}- Intentem-ho!{:reset}
@@ -1320,7 +1320,7 @@
 
     guardar-la com {:color #8080F080}plànol original{:reset} utilitzant
 
-    {:color #8080F080}Guardar plànol{:reset} en el menú de l'Editor,
+    {:color #8080F080}Guarda el plànol{:reset} en el menú de l'Editor,
 
     o {:color #F0F00080}no podràs utilitzar-la{:reset}.
 
@@ -1341,7 +1341,7 @@
 
     Aquella informació no es guarda
 
-    quan selecciones {:color #8080F080}Guardar plànol{:reset}.
+    quan selecciones {:color #8080F080}Guarda el plànol{:reset}.
 - id: 16648
   text: >-
     Les armes gumi són gumis d'atac.
@@ -1498,10 +1498,10 @@
     i prem {:icon dynamic-cross} de nou per copiar-lo.
 - id: 16656
   text: >-
-    Primer, escull el gumi que vulguis col・locar.
+    Primer, tria el gumi que vulguis col・locar.
 
 
-    {:icon dynamic-cross}: Confirmar {:icon dynamic-circle}: Enrere
+    {:icon dynamic-cross}: Confirma {:icon dynamic-circle}: Enrere
 
 
     {:color #00F0F080}- Mira des de diferents angles!{:reset}
@@ -1523,7 +1523,7 @@
 
     colors utilitzar. Per fer-ho, selecciona
 
-    {:color #8080F080}Pintar{:reset} en el menú superior.
+    {:color #8080F080}Pinta{:reset} en el menú superior.
 - id: 16657
   text: >-
     Pots dirigir més d'un
@@ -1531,9 +1531,9 @@
     gumi a la vegada.
 
 
-    {:icon dynamic-triangle}: Expandir àrea
+    {:icon dynamic-triangle}: Expandeix àrea
 
-    {:icon dynamic-triangle} dos vegades: Confirmar àrea
+    {:icon dynamic-triangle} dos vegades: Confirma'n l'àrea
 
 
     {:color #00F0F080}- Seleccionar una àrea{:reset}
@@ -1552,13 +1552,13 @@
     de seleccionar un material gumi.
 
 
-    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Moure cursor
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}/{:icon dynamic-l1}{:icon dynamic-l2}: Mou el cursor
 
-    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rota la càmera
 
-    {:icon dynamic-cross}: Confirmar  {:icon dynamic-circle}: Enrere
+    {:icon dynamic-cross}: Confirma  {:icon dynamic-circle}: Enrere
 
-    {:icon dynamic-r1}: Desfer {:icon dynamic-r2}: Refer
+    {:icon dynamic-r1}: Desfés {:icon dynamic-r2}: Refés
 
 
     {:color #00F0F080}- Donem-li forma!{:reset}
@@ -1572,23 +1572,23 @@
 
     Si comets un error, utilitza aquests botons:
 
-    {:icon dynamic-r1}: {:color #8080F080}Desfer{:reset} {:icon dynamic-r2}: {:color #8080F080}Refer{:reset}.
+    {:icon dynamic-r1}: {:color #8080F080}Desfés{:reset} {:icon dynamic-r2}: {:color #8080F080}Refés{:reset}.
 - id: 16659
   text: >-
-    Escull el color que vols utilitzar en
+    Tria el color que vols utilitzar en
 
     la {:color #F0F00080}paleta de color{:reset}.
 
 
-    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Moure cursor
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Mou el cursor
 
-    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rotar càmera
+    {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Rota la càmera
 
-    {:icon dynamic-square}/{:icon dynamic-dpad-down}: Obrir mostrari{:reset}
+    {:icon dynamic-square}/{:icon dynamic-dpad-down}: Obre el mostrari{:reset}
 
-    {:icon dynamic-cross}: Confirmar  {:icon dynamic-circle}: Enrere
+    {:icon dynamic-cross}: Confirma  {:icon dynamic-circle}: Enrere
 
-    {:icon dynamic-triangle} en el mostrari de color: Canviar color
+    {:icon dynamic-triangle} en el mostrari de color: Canvia'n el color
 
 
     {:color #00F0F080}- Posa un color a la paleta!{:reset}
@@ -1615,7 +1615,7 @@
 - id: 17111
   text: 1. Tipus de gumi
 - id: 17119
-  text: 4. Guardar plànol
+  text: 4. Guarda el plànol
 - id: 17121
   text: Els tipus de gumi
 - id: 17131
@@ -1764,59 +1764,59 @@
 
     Hi ha tres eines addicionals que
 
-    s'utilitzen per fabricar naus: {:color #8080F080}Pintar{:reset},
+    s'utilitzen per fabricar naus: {:color #8080F080}Pinta{:reset},
 
-    {:color #8080F080}Editar{:reset} i {:color #8080F080}Assignar habilitats{:reset}.
+    {:color #8080F080}Edita{:reset} i {:color #8080F080}Assigna habilitats{:reset}.
 
 
     {:color #00F0F080}- Dreceres{:reset}
 
     Unes altres dues ordres que et poden
 
-    ajudar són {:color #8080F080}Defer{:reset} i {:color #8080F080}Refer{:reset}. Pots
+    ajudar són {:color #8080F080}Defés{:reset} i {:color #8080F080}Refés{:reset}. Pots
 
     seleccionar-los en el menú, o prèmer {:icon dynamic-r1}
 
-    per {:color #8080F080}Desfer{:reset} i {:icon dynamic-r2} per {:color #8080F080}Refer{:reset}.
+    per {:color #8080F080}Desfés{:reset} i {:icon dynamic-r2} per {:color #8080F080}Refés{:reset}.
 - id: 18496
-  text: 'Pintar {:color #8080F080}▸{:reset}'
+  text: 'Pinta {:color #8080F080}▸{:reset}'
 - id: 18497
-  text: 'Editar {:color #8080F080}▸{:reset}'
+  text: 'Edita {:color #8080F080}▸{:reset}'
 - id: 18498
-  text: Asignar habilitats
+  text: Asigna-hi habilitats
 - id: 18500
-  text: Desfer/Refer
+  text: Desfés/Refés
 - id: 18501
   text: Configuració
 - id: 18502
   text: Canvi de mode
 - id: 18503
-  text: Guardar plànol
+  text: Guarda el plànol
 - id: 18504
-  text: Sortir
+  text: Surt
 - id: 18505
   text: Gumis de color
 - id: 18506
-  text: Editar nau gumi
+  text: Edita nau gumi
 - id: 18507
   text: Unitats d'habilitat i PH
 - id: 18509
-  text: Cancel・lar i Desfer
+  text: Cancel・la i Desfés
 - id: 18510
-  text: Editar configuració
+  text: Edita configuració
 - id: 18511
-  text: Editar canvis de mode
+  text: Edita canvis de mode
 - id: 18512
-  text: Guardar nau gumi
+  text: Guarda nau gumi
 - id: 18513
-  text: Sortir de l'Editor
+  text: Surt de l'Editor
 - id: 18529
   text: Guia gumi
 - id: 18533
   text: >-
-    {:icon dynamic-cross}: Confirmar  {:icon dynamic-square}: Treure
+    {:icon dynamic-cross}: Confirma  {:icon dynamic-square}: Treu
 
-    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar gumi  
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rota gumi  
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera   {:icon dynamic-circle}: Enrere
 - id: 18534
@@ -1826,7 +1826,7 @@
 - id: 18536
   text: Col・loquem els gumis!
 - id: 18537
-  text: Col・locar gumis Aero
+  text: Col・loca gumis Aero
 - id: 18538
   text: >-
     A continuació, col・loca el gumi seleccionat.
@@ -1878,11 +1878,11 @@
     la posició dels gumis.
 - id: 18540
   text: >-
-    {:icon dynamic-cross}: Confirmar   {:icon dynamic-square}: Treure
+    {:icon dynamic-cross}: Confirma   {:icon dynamic-square}: Treu
 
-    {:color #8080F080}{:icon dynamic-l3}{:reset}: Rotar gumi
+    {:color #8080F080}{:icon dynamic-l3}{:reset}: Rota gumi
 
-    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Fixar la posició
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Fixa'n la posició
 - id: 18541
   text: Paràmetres
 - id: 18542
@@ -1908,16 +1908,16 @@
       de les tombarelles.
 - id: 18544
   text: >-
-    {:width 90}{:icon dynamic-cross}: Confirmar i executar {:icon dynamic-triangle}: Seleccionar àrea
+    {:width 90}{:icon dynamic-cross}: Confirma i executa {:icon dynamic-triangle}: Selecciona àrea
 
-    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar gumi
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rota gumi
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera
 - id: 18576
   text: >-
-    {:icon dynamic-triangle}: Seleccionar àrea   {:icon dynamic-cross}: Executar
+    {:icon dynamic-triangle}: Selecciona àrea   {:icon dynamic-cross}: Executa
 
-    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Fixar direcció
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Fixa la direcció
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera   {:icon dynamic-circle}: Enrere
 - id: 18578
@@ -1957,9 +1957,9 @@
     Després, prem {:icon dynamic-cross} per copiar en mirall.
 - id: 18582
   text: >-
-    {:icon dynamic-cross}: Executar   {:icon dynamic-triangle}: Seleccionar àrea
+    {:icon dynamic-cross}: Executa   {:icon dynamic-triangle}: Selecciona àrea
 
-    {:icon dynamic-r1}: Desfer   {:icon dynamic-r2}: Refer
+    {:icon dynamic-r1}: Desfés   {:icon dynamic-r2}: Refés
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera
 - id: 18584
@@ -1994,9 +1994,9 @@
 
     Després prem {:icon dynamic-cross} per reformar-la.
 - id: 18593
-  text: 4. Col・locar ales
+  text: 4. Col・loca ales
 - id: 18594
-  text: Col・locar gumis-ales
+  text: Col・loca gumis-ales
 - id: 18633
   text: >-
     Pots canviar la posició dels gumis
@@ -2005,7 +2005,7 @@
 
     Hi ha varies coses que pots fer
 
-    amb {:color #8080F080}Editar{:reset}.
+    amb {:color #8080F080}Edita{:reset}.
 
     Canviar la posició d'un bloc gumi.
 
@@ -2020,9 +2020,9 @@
 
     volies, com treure un grup de blocs
 
-    gumi, prem {:icon dynamic-r1} o selecciona {:color #8080F080}Desfer{:reset}
+    gumi, prem {:icon dynamic-r1} o selecciona {:color #8080F080}Desfés{:reset}
 
-    per {:color #F0F00080}cancel・lar i refer{:reset}.
+    per {:color #F0F00080}cancel・la i refés{:reset}.
 - id: 18684
   text: Quadern de consells
 - id: 18685
@@ -2032,7 +2032,7 @@
 - id: 18687
   text: No
 - id: 18691
-  text: '{:icon dynamic-dpad}: Passar la pàgina {:icon dynamic-circle}: Enrere'
+  text: '{:icon dynamic-dpad}: Passa la pàgina {:icon dynamic-circle}: Enrere'
 - id: 18694
   text: No.
 - id: 18695
@@ -2121,17 +2121,17 @@
 
     prem {:icon dynamic-triangle}.
 - id: 18703
-  text: 4. Seleccionar una àrea
+  text: 4. Selecciona una àrea
 - id: 18704
   text: >-
-    {:icon dynamic-cross}: Executar  {:icon dynamic-triangle}: Seleccionar àrea
+    {:icon dynamic-cross}: Executa  {:icon dynamic-triangle}: Selecciona àrea
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera  {:icon dynamic-circle}: Enrere
 - id: 18718
   text: >-
-    {:icon dynamic-cross}: Agafar/Col・locar   {:icon dynamic-square}: Treure
+    {:icon dynamic-cross}: Agafa/Col・loca   {:icon dynamic-square}: Treu
 
-    {:icon dynamic-triangle}: Seleccionar àrea
+    {:icon dynamic-triangle}: Selecciona àrea
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera   {:icon dynamic-circle}: Enrere
 - id: 18719
@@ -2171,12 +2171,12 @@
     que apunti i prem {:icon dynamic-cross} per confirmar.
 - id: 18752
   text: >-
-    {:icon dynamic-cross}: Confirmar  {:icon dynamic-square}: Obrir paleta
+    {:icon dynamic-cross}: Confirma  {:icon dynamic-square}: Obre paleta
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera  {:icon dynamic-circle}: Enrere
 - id: 18759
   text: >-
-    {:icon dynamic-cross}: Confirmar  {:icon dynamic-l1}{:icon dynamic-r1}: Canviar color
+    {:icon dynamic-cross}: Confirma  {:icon dynamic-l1}{:icon dynamic-r1}: Canvia'n el color
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera  {:icon dynamic-circle}: Enrere
 - id: 18760
@@ -2189,14 +2189,14 @@
 
     per editar la teva nau gumi:
 
-    {:color #8080F080}Configuració{:reset}, {:color #8080F080}Canvi de mode{:reset}, {:color #8080F080}Guardar plànol{:reset}
+    {:color #8080F080}Configuració{:reset}, {:color #8080F080}Canvi de mode{:reset}, {:color #8080F080}Guarda el plànol{:reset}
 
-    i {:color #8080F080}Sortir{:reset}.
+    i {:color #8080F080}Surt{:reset}.
 
 
-    {:color #00F0F080}- Guardar plànol i Sortir{:reset}
+    {:color #00F0F080}- Guarda el plànol i Surt{:reset}
 
-    {:color #8080F080}Guardar plànol{:reset} i {:color #8080F080}Sortir{:reset} són les dues
+    {:color #8080F080}Guarda plànol{:reset} i {:color #8080F080}Surt{:reset} són les dues
 
     ordres més importants per sortir
 
@@ -2221,9 +2221,9 @@
     a l'últim pas.
 
 
-    {:icon dynamic-r1}/{:color #8080F080}Desfer{:reset}: Tornar al pas anterior
+    {:icon dynamic-r1}/{:color #8080F080}Desfés{:reset}: Torna al pas anterior
 
-    {:icon dynamic-r2}/{:color #8080F080}Refer{:reset}: Tornar a l'últim pas
+    {:icon dynamic-r2}/{:color #8080F080}Refés{:reset}: Torna a l'últim pas
 
 
     {:color #00F0F080}- Aprofita aquestes ordres!{:reset}
@@ -2272,7 +2272,7 @@
 
     de l'Editor.
 
-    Selecciona {:color #8080F080}Guardar plànol{:reset} per
+    Selecciona {:color #8080F080}Guarda el plànol{:reset} per
 
     mantenir la forma de la nau.
 
@@ -2281,13 +2281,13 @@
 
     En sortir de l'Editor, l'ordre
 
-    {:color #8080F080}Desfer{:reset} no tindrà efecte.
+    {:color #8080F080}Desfés{:reset} no tindrà efecte.
 
-    Ves en compte en seleccionar {:color #8080F080}Sortir{:reset}.
+    Ves en compte en seleccionar {:color #8080F080}Surt{:reset}.
 - id: 18775
   text: 2. Paràmetres
 - id: 18776
-  text: 3. Col・locar gumis
+  text: 3. Col・loca gumis
 - id: 18777
   text: Normes per col・locar gumis
 - id: 18778
@@ -2420,7 +2420,7 @@
   text: >-
     Obtens un {:color #F0F00080}kit de disseny{:reset}!
 
-    Selecciona {:color #8080F080}Pintar{:reset} en el menú de l'Editor
+    Selecciona {:color #8080F080}Pinta{:reset} en el menú de l'Editor
 
     per agregar dissenys als blocs gumi.
 
@@ -2479,7 +2479,7 @@
 - id: 18926
   text: No
 - id: 18927
-  text: Acceptar
+  text: Accepta
 - id: 18958
   text: >-
     {:icon question-mark}{:color #F0F00080} NOTA{:reset}
@@ -2491,7 +2491,7 @@
     	Vols sortir del menú gumi i
     	tornar al mapa dels mons?
 - id: 19132
-  text: Reintentar
+  text: Reintenta
 - id: 19133
   text: Menú gumi
 - id: 19134
@@ -2500,7 +2500,7 @@
   text: '{:width 90}Plànol original de nau gumi'
 - id: 19398
   text: >-
-    {:icon dynamic-square}: Construir una nova
+    {:icon dynamic-square}: Construeix una nova
           nau gumi
 - id: 19399
   text: >-
@@ -2508,7 +2508,7 @@
     	No pots guardar un plànol
     	que no utilitza cap bloc!
 - id: 19400
-  text: '{:icon dynamic-square}: Borrar aquest plànol'
+  text: '{:icon dynamic-square}: Esborra aquest plànol'
 - id: 19401
   text: >-
     {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
@@ -2523,25 +2523,25 @@
     	nau basada en aquest plànol especial.
 - id: 19407
   text: >-
-    {:icon dynamic-triangle}: Fixar àrea   {:icon dynamic-circle}: Enrere
+    {:icon dynamic-triangle}: Fixa'n l'àrea   {:icon dynamic-circle}: Enrere
 
-    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Canviar selecció
+    {:color #8080F080}{:icon dynamic-dpad}{:reset}: Canvia la selecció
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera
 - id: 19408
   text: >-
-    {:icon dynamic-cross}: Executar   {:icon dynamic-triangle}: Tornar a seleccionar àrea
+    {:icon dynamic-cross}: Executa   {:icon dynamic-triangle}: Torna a seleccionar àrea
 
-    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Fixar direcció
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Fixa'n la direcció
 
     {:icon dynamic-circle}: Enrere
 - id: 19431
   text: >-
-    {:icon dynamic-square}: Abandonar
+    {:icon dynamic-square}: Abandona
           les nauetes
 - id: 19432
   text: >-
-    {:icon dynamic-square}: Construir una nova
+    {:icon dynamic-square}: Construeix una nova
           naueta
 - id: 19433
   text: >-
@@ -2609,9 +2609,9 @@
   text: >-
     {:width 95}El plànol indica que aquesta
 
-    nau serveix tant per a atacar
+    nau serveix tant per atacar
 
-    com per a defendre.
+    com per defendre.
 - id: 19490
   text: >-
     {:width 95}El plànol indica que aquesta
@@ -2635,9 +2635,9 @@
     agregar-les blocs per utilitzar-les.
 - id: 19597
   text: >-
-    {:icon dynamic-cross}: Confirmar
+    {:icon dynamic-cross}: Confirma
 
-    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rotar gumi
+    {:color #8080F080}{:icon dynamic-left-analog}{:reset}: Rota gumi
 
     {:color #8080F080}{:icon dynamic-right-analog}{:reset}: Càmera   {:icon dynamic-circle}: Enrere
 - id: 20365

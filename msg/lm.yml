@@ -746,7 +746,7 @@
   text: Papa!
 - id: 5222
   text: >-
-    Ja! On és ara el "totpoderós"
+    Ja! On és ara el «totpoderós»
 
     Senyor dels Mars?
 - id: 5223
@@ -956,7 +956,7 @@
 - id: 5312
   text: Part del teu món
 - id: 5313
-  text: Sota del mar
+  text: Sota el mar
 - id: 5314
   text: La venjança de l'Úrsula
 - id: 5315
@@ -1118,7 +1118,7 @@
 - id: 8807
   text: "{:unk13 FA 00 90 01}Compte amb l'escenari. Quina emoció!"
 - id: 8808
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Arriba a el senyal just a temps.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Arriba a  l senyal just a temps.{:unk0e 00}'
 - id: 8809
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Toc, toc, toc!{:unk0e 00}'
 - id: 8810
@@ -1244,9 +1244,9 @@
 - id: 8896
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}quants encants pot un barm tenir inclòs.{:unk0e 00}'
 - id: 8897
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Mirant els voltants deus pensar: "Sí{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Mirant els voltants deus pensar: «Sí{:unk0e 00}'
 - id: 8898
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}ho té tot".{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}ho té tot».{:unk0e 00}'
 - id: 8899
   text: "{:unk13 FA 00 90 01}{:unk0e 0A}Un piló d'estris i d'aparells{:unk0e 00}"
 - id: 8900
@@ -1334,7 +1334,7 @@
 - id: 8939
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}feu-los tremolar!{:unk0e 00}'
 - id: 8940
-  text: '{:unk13 FA 00 90 01}Ho sento, "mama",'
+  text: '{:unk13 FA 00 90 01}Ho sento, «mama»,'
 - id: 8941
   text: "{:unk13 FA 00 90 01}{:unk0e 0A}d'una nova era.{:unk0e 00}"
 - id: 8942
@@ -1402,7 +1402,7 @@
 - id: 8973
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sebastià, Flounder.{:unk0e 00}'
 - id: 8974
-  text: "{:unk13 FA 00 90 01}Ariel, me m'alegro tant per tu."
+  text: "{:unk13 FA 00 90 01}Ariel, me n'alegro tant per tu."
 - id: 8975
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sí, finals feliços no se solen veure.{:unk0e 00}'
 - id: 8976

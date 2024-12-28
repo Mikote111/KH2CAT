@@ -68,19 +68,19 @@
     el Dia del Vent, és clar.
 - id: 4681
   text: >-
-    De dedò? Oh... Aleshores...
+    De debò? Oh... Aleshores...
 
-    Feliç Dia del Vent!
+    Bon Dia del Vent!
 - id: 4682
   text: >-
     Vaja, crec que li aniré a desitjar
 
-    a tot el món un feliç Dia del Vent.
+    a tothom un feliç Dia del Vent.
 - id: 4683
   text: >-
     Oh, quina llauna!
 
-    I qui serà "tot el món"?
+    I qui serà «tothom»?
 - id: 4684
   text: Ai!
 - id: 4685
@@ -173,7 +173,7 @@
   text: >-
     Doncs és clar, Piglet.{:delay 7D 00}{:clear }Però penso que avui et dire
 
-    "el meu amic Piglet el valent".
+    «el meu amic Piglet el valent».
 - id: 4711
   text: >-
     Jo? Valent?{:delay 7A 00}{:clear }És fàcil ser-ne quan tens un amic
@@ -488,7 +488,7 @@
   text: >-
     {:unk13 BE 00 55 00}{:unk06 00}{:unk08 01 01 05}Eh, qui necessita medicines!?
 
-    Fer uns "tiggerífics" bots
+    Fer uns «tiggerífics» bots
 
     segur que li retorna la memòria!
 - id: 4793
@@ -529,7 +529,7 @@
   text: >-
     Ah... Ho sento, Piglet...{:delay 5A 00}{:clear }però com el Pooh no es recordava de mi,
 
-    m'he quedat del tot "confusat".{:delay BD 00}{:clear }No tinc ganes de fer bots.
+    m'he quedat del tot «confusat».{:delay BD 00}{:clear }No tinc ganes de fer bots.
 - id: 4802
   text: >-
     Però, Tigger,{:delay 30 00}{:clear }sempre havia pensat que fer bots és
@@ -696,7 +696,7 @@
   text: >-
     I no podria ser
 
-    "d'ara en ara"?{:delay D9 00}{:clear }Això em sembla una mica millor.{:delay B8 00}{:clear }Sora, si vaig a buscar-te,
+    «d'ara en ara»?{:delay D9 00}{:clear }Això em sembla una mica millor.{:delay B8 00}{:clear }Sora, si vaig a buscar-te,
 
     et trobaré?
 - id: 4849
@@ -878,7 +878,7 @@
 
     a les esquenes del Pooh.{:clear }Però en veure'l tan feliç,
 
-    em dic: "tant és!".
+    em dic: «tant és!».
 - id: 7904
   text: >-
     Si puc menjar mel,
@@ -1127,14 +1127,14 @@
     vas amb compte, pots sortir volant!
 - id: 16089
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Intentar anar-hi volant?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Intentrd anar-hi volant?
 
     {:chardelay 33 00}Prefereixo anar-hi a peu.
 
     {:chardelay 09 00}Volem!
 - id: 16090
   text: >-
-    Ju, ju, ju, ju! Fer bots t'animarà!
+    Hu, hu, hu, hu! Fer bots t'animarà!
 
     Vinga, Sora, intenta-ho!
 - id: 16091
@@ -1254,9 +1254,9 @@
   text: >-
     El Tigger m'ensenyarà un
 
-    nou salt ben súper!{:clear }Es diu el "molta revolta
+    nou salt ben súper!{:clear }Es diu el «molta revolta
 
-    revoladora" o una cosa així!
+    revoladora» o una cosa així!
 - id: 18102
   text: >-
     Explorar pot fer una mica de por,
@@ -1287,35 +1287,35 @@
   text: >-
     Deu voler dir:
 
-    "Toca la campana".
+    «Toca la campana».
 - id: 18327
   text: Veus una bonica cortina.
 - id: 18328
   text: Perceps el dolç aroma de la mel.
 - id: 18329
-  text: 'Hi hauria de dir: "Pastanaga".'
+  text: 'Hi hauria de dir: «Pastanaga».'
 - id: 18330
-  text: 'Han volgut posar: "Cabdell".'
+  text: 'Han volgut posar: «Cabdell».'
 - id: 18331
-  text: 'Sembla ser que hi diu: "Carbassa".'
+  text: 'Sembla ser que hi diu: «Carbassa».'
 - id: 18332
   text: Aquesta és l'entrada a la casa del Conill.
 - id: 18333
-  text: "En aquesta bústia s'hi llegeix: \"Conill\"."
+  text: "En aquesta bústia s'hi llegeix: \"«Conill»\"."
 - id: 18334
   text: Roba estesa a eixugar.
 - id: 18335
   text: És molt gran per pescar.
 - id: 18336
-  text: 'En aquesta bústia hi posa: "Piglet".'
+  text: 'En aquesta bústia hi posa: «Piglet».'
 - id: 18337
   text: Només el Piglet podria passar per aquesta porta.
 - id: 18338
   text: Deu ser el nom de l'avi del Piglet.
 - id: 18339
-  text: "En aquestes bústies s'hi llegeix: \"Cangu\" i \"Ret\"."
+  text: "En aquestes bústies s'hi llegeix: \"«Cangu»\" i \"«Ret»\"."
 - id: 18340
-  text: 'En aquesta bústia hi posa: "Cangu".'
+  text: 'En aquesta bústia hi posa: «Cangu».'
 - id: 18521
   text: >-
     {:unk13 64 01 DA 00}{:unk06 00}{:unk08 01 01 05}Què divertit!
@@ -1330,15 +1330,15 @@
   text: >-
     {:unk13 2E 01 3F 00}{:unk06 00}{:unk08 01 01 05}Carai, els teus bots podrien ser
 
-    més "boters".
+    més «boters».
 - id: 18524
   text: "{:unk13 37 01 83 00}{:unk06 00}{:unk08 01 00 05}On s'ha ficat l'os...?"
 - id: 18525
   text: '{:unk13 9B 01 69 00}{:unk06 00}{:unk08 01 00 05}Genial...'
 - id: 18722
-  text: Colpejar
+  text: Colpeja
 - id: 18723
-  text: Accelerar
+  text: Accelera
 - id: 18996
   text: "{:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Sora? Ets tu?{:clear }Ajuda'm!"
 - id: 19374

@@ -21,6 +21,11 @@ assets:
         source:
           - name: msg/es.yml
             language: text
+  - name: remastered/msg/sp/es.bar/SP_es_bar0.png
+    method: copy
+    package: kh2_first
+    source:
+      - name: remastered/msg/es.bar/CA_es_bar0.png
   - name: msg/sp/title.bar
     method: binarc
     package: kh2_first
@@ -41,6 +46,11 @@ assets:
         source:
           - name: msg/tt.yml
             language: text
+  - name: remastered/msg/sp/tt.bar/SP_tt_bar0.png
+    method: copy
+    package: kh2_first
+    source:
+      - name: remastered/msg/tt.bar/CA_tt_bar0.png
   - name: msg/sp/hb.bar
     method: binarc
     package: kh2_fifth
@@ -51,6 +61,11 @@ assets:
         source:
           - name: msg/hb.yml
             language: text
+  - name: remastered/msg/sp/hb.bar/SP_hb_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/hb.bar/CA_hb_bar0.png
   - name: msg/sp/eh.bar
     method: binarc
     package: kh2_fifth
@@ -61,6 +76,11 @@ assets:
         source:
           - name: msg/eh.yml
             language: text
+  - name: remastered/msg/sp/eh.bar/SP_eh_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/eh.bar/CA_eh_bar0.png
   - name: msg/sp/he.bar
     method: binarc
     package: kh2_fifth
@@ -71,6 +91,11 @@ assets:
         source:
           - name: msg/he.yml
             language: text
+  - name: remastered/msg/sp/he.bar/SP_he_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/he.bar/CA_he_bar0.png
   - name: msg/sp/ca.bar
     method: binarc
     package: kh2_fifth
@@ -81,6 +106,11 @@ assets:
         source:
           - name: msg/ca.yml
             language: text
+  - name: remastered/msg/sp/ca.bar/SP_ca_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/ca.bar/CA_ca_bar0.png
   - name: msg/sp/di.bar
     method: binarc
     package: kh2_fifth
@@ -91,6 +121,11 @@ assets:
         source:
           - name: msg/di.yml
             language: text
+  - name: remastered/msg/sp/di.bar/SP_di_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/di.bar/CA_di_bar0.png
   - name: msg/sp/nm.bar
     method: binarc
     package: kh2_fifth
@@ -101,6 +136,11 @@ assets:
         source:
           - name: msg/nm.yml
             language: text
+  - name: remastered/msg/sp/nm.bar/SP_nm_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/nm.bar/CA_nm_bar0.png
   - name: msg/sp/al.bar
     method: binarc
     package: kh2_fifth
@@ -111,6 +151,71 @@ assets:
         source:
           - name: msg/al.yml
             language: text
+  - name: remastered/msg/sp/al.bar/SP_al_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/al.bar/CA_al_bar0.png
+  - name: msg/sp/bb.bar
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: bb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/bb.yml
+            language: text
+  - name: remastered/msg/sp/bb.bar/SP_bb_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/bb.bar/CA_bb_bar0.png
+  - name: msg/sp/lm.bar
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: lm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lm.yml
+            language: text
+  - name: remastered/msg/sp/lm.bar/SP_lm_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/lm.bar/CA_lm_bar0.png
+  - name: msg/sp/lk.bar
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: lk
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lk.yml
+            language: text
+  - name: remastered/msg/sp/lk.bar/SP_lk_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/lk.bar/CA_lk_bar0.png
+  - name: msg/sp/mu.bar
+    method: binarc
+    package: kh2_fifth
+    source:
+      - name: mu
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/mu.yml
+            language: text
+  - name: remastered/msg/sp/mu.bar/SP_mu_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/mu.bar/CA_mu_bar0.png
   - name: msg/sp/dc.bar
     method: binarc
     package: kh2_fifth
@@ -121,6 +226,11 @@ assets:
         source:
           - name: msg/dc.yml
             language: text
+  - name: remastered/msg/sp/dc.bar/SP_dc_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/dc.bar/CA_dc_bar0.png
   - name: msg/sp/gumi.bar
     method: binarc
     package: kh2_fifth
@@ -141,16 +251,6 @@ assets:
         source:
           - name: msg/jm.yml
             language: text
-  - name: msg/sp/lk.bar
-    method: binarc
-    package: kh2_fifth
-    source:
-      - name: lk
-        type: list
-        method: kh2msg
-        source:
-          - name: msg/lk.yml
-            language: text
   - name: msg/sp/po.bar
     method: binarc
     package: kh2_fifth
@@ -161,6 +261,11 @@ assets:
         source:
           - name: msg/po.yml
             language: text
+  - name: remastered/msg/sp/po.bar/SP_po_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/po.bar/CA_po_bar0.png
   - name: msg/sp/tr.bar
     method: binarc
     package: kh2_fifth
@@ -171,6 +276,11 @@ assets:
         source:
           - name: msg/tr.yml
             language: text
+  - name: remastered/msg/sp/tr.bar/SP_tr_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/tr.bar/CA_tr_bar0.png
   - name: msg/sp/wi.bar
     method: binarc
     package: kh2_fifth
@@ -181,6 +291,11 @@ assets:
         source:
           - name: msg/wi.yml
             language: text
+  - name: remastered/msg/sp/wi.bar/SP_wi_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/wi.bar/CA_wi_bar0.png
   - name: msg/sp/wm.bar
     method: binarc
     package: kh2_fifth
@@ -191,311 +306,2326 @@ assets:
         source:
           - name: msg/wm.yml
             language: text
+  - name: remastered/msg/sp/wm.bar/SP_wm_bar0.png
+    method: copy
+    package: kh2_fifth
+    source:
+      - name: remastered/msg/wm.bar/CA_wm_bar0.png
 
   #PANTALLA D'INICI
   - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
+    - name: remastered/menu/title.2ld/CA_title_2ld2.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
+    - name: remastered/menu/title.2ld/CA_title_2ld8.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
+    - name: remastered/menu/title.2ld/CA_title_2ld8.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
+    - name: remastered/menu/title.2ld/CA_title_2ld9.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
+    - name: remastered/menu/title.2ld/CA_title_2ld10.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld11.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/title.2ld/SP_title_2ld11.png
+    - name: remastered/menu/title.2ld/CA_title_2ld11.png
 
   # MENÚ PER GUARDAR
   - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
+    - name: remastered/menu/save.2ld/CA_save_2ld0.png
   - name: remastered/menu/sp/eventviewer.2ld/SP_eventviewer_2ld50.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/eventviewer.2ld/SP_eventviewer_2ld50.png
+    - name: remastered/menu/eventviewer.2ld/CA_eventviewer_2ld50.png
 
   #MENÚ PRINCIPAL
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
+    - name: remastered/menu/camp.2ld/CA_camp_2ld0.png
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld1.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/camp.2ld/SP_camp_2ld1.png
+    - name: remastered/menu/camp.2ld/CA_camp_2ld1.png
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld2.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/camp.2ld/SP_camp_2ld2.png
+    - name: remastered/menu/camp.2ld/CA_camp_2ld2.png
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld3.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/menu/sp/camp.2ld/SP_camp_2ld3.png
+    - name: remastered/menu/camp.2ld/CA_camp_2ld3.png
+
+  #EFECTES ESCENES
+  - name: remastered/event/layout/sp/tt_telop.2ld/SP_tt_telop_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/event/layout/tt_telop.2ld/CA_tt_telop_2ld0.png
+  - name: remastered/event/layout/sp/lm_telop.2ld/SP_lm_telop_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/event/layout/lm_telop.2ld/CA_lm_telop_2ld0.png
 
   #INTERFÍCIE PRINCIPAL GAMEPLAY
   - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
+    multi:
+    - name: remastered/field2d/sp/tt0field.2dd/SP_tt0field_2dd0.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/es0field.2dd/CA_es0field_2dd0.png
   - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
+    multi:
+    - name: remastered/field2d/sp/tt0field.2dd/SP_tt0field_2dd1.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/tt0field.2dd/SP_tt0field_2dd0.png
-    method: copy
-    package: kh2_first
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/tt0field.2dd/SP_tt0field_2dd1.png
-    method: copy
-    package: kh2_first
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/es0field.2dd/CA_es0field_2dd1.png
   - name: remastered/field2d/sp/al0field.2dd/SP_al0field_2dd0.png
+    multi:
+    - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd0.png
+    - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd0.png
+    - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd0.png
+    - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd0.png
+    - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd0.png
+    - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd0.png
+    - name: remastered/field2d/sp/lk0field.2dd/SP_lk0field_2dd0.png
+    - name: remastered/field2d/sp/lm0field.2dd/SP_lm0field_2dd0.png
+    - name: remastered/field2d/sp/mu0field.2dd/SP_mu0field_2dd0.png
+    - name: remastered/field2d/sp/nm0field.2dd/SP_nm0field_2dd0.png
+    - name: remastered/field2d/sp/po0field.2dd/SP_po0field_2dd0.png
+    - name: remastered/field2d/sp/tr0field.2dd/SP_tr0field_2dd0.png
+    - name: remastered/field2d/sp/wi0field.2dd/SP_wi0field_2dd0.png
+    - name: remastered/field2d/sp/wm0field.2dd/SP_wm0field_2dd0.png
+    - name: remastered/field2d/sp/zz0field.2dd/SP_zz0field_2dd0.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
+    - name: remastered/field2d/es0field.2dd/CA_es0field_2dd0.png
   - name: remastered/field2d/sp/al0field.2dd/SP_al0field_2dd1.png
+    multi:
+    - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd1.png
+    - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd1.png
+    - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd1.png
+    - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd1.png
+    - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd1.png
+    - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd1.png
+    - name: remastered/field2d/sp/lk0field.2dd/SP_lk0field_2dd1.png
+    - name: remastered/field2d/sp/lm0field.2dd/SP_lm0field_2dd1.png
+    - name: remastered/field2d/sp/mu0field.2dd/SP_mu0field_2dd1.png
+    - name: remastered/field2d/sp/nm0field.2dd/SP_nm0field_2dd1.png
+    - name: remastered/field2d/sp/po0field.2dd/SP_po0field_2dd1.png
+    - name: remastered/field2d/sp/tr0field.2dd/SP_tr0field_2dd1.png
+    - name: remastered/field2d/sp/wi0field.2dd/SP_wi0field_2dd1.png
+    - name: remastered/field2d/sp/wm0field.2dd/SP_wm0field_2dd1.png
+    - name: remastered/field2d/sp/zz0field.2dd/SP_zz0field_2dd1.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/di0field.2dd/SP_di0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/di0field.2dd/SP_di0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/lk0field.2dd/SP_lk0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/lk0field.2dd/SP_lk0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/lm0field.2dd/SP_lm0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/lm0field.2dd/SP_lm0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/mu0field.2dd/SP_mu0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/mu0field.2dd/SP_mu0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/nm0field.2dd/SP_nm0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/nm0field.2dd/SP_nm0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/po0field.2dd/SP_po0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/po0field.2dd/SP_po0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/tr0field.2dd/SP_tr0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/tr0field.2dd/SP_tr0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/wi0field.2dd/SP_wi0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/wi0field.2dd/SP_wi0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
-  - name: remastered/field2d/sp/wm0field.2dd/SP_wm0field_2dd0.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd0.png
-  - name: remastered/field2d/sp/wm0field.2dd/SP_wm0field_2dd1.png
-    method: copy
-    package: kh2_fifth
-    source:
-    - name: remastered/field2d/sp/es0field.2dd/SP_es0field_2dd1.png
+    - name: remastered/field2d/es0field.2dd/CA_es0field_2dd1.png
 
   #BARRA D'ORDRES
   - name: remastered/field2d/sp/tt0command.2dd/SP_tt0command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/field2d/sp/tt0command.2dd/SP_tt0command_2dd0.png
+    - name: remastered/field2d/tt0command.2dd/CA_tt0command_2dd0.png
   - name: remastered/field2d/sp/tt3command.2dd/SP_tt3command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/field2d/sp/tt3command.2dd/SP_tt3command_2dd0.png
+    - name: remastered/field2d/tt3command.2dd/CA_tt3command_2dd0.png
   - name: remastered/field2d/sp/tt4command.2dd/SP_tt4command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_first
     source:
-    - name: remastered/field2d/sp/tt4command.2dd/SP_tt4command_2dd0.png
+    - name: remastered/field2d/tt4command.2dd/CA_tt4command_2dd0.png
   - name: remastered/field2d/sp/al0command.2dd/SP_al0command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/al0command.2dd/SP_al0command_2dd0.png
+    - name: remastered/field2d/al0command.2dd/CA_al0command_2dd0.png
   - name: remastered/field2d/sp/bb0command.2dd/SP_bb0command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/bb0command.2dd/SP_bb0command_2dd0.png
+    - name: remastered/field2d/bb0command.2dd/CA_bb0command_2dd0.png
   - name: remastered/field2d/sp/ca0command.2dd/SP_ca0command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/ca0command.2dd/SP_ca0command_2dd0.png
+    - name: remastered/field2d/ca0command.2dd/CA_ca0command_2dd0.png
   - name: remastered/field2d/sp/dc0command.2dd/SP_dc0command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/dc0command.2dd/SP_dc0command_2dd0.png
+    - name: remastered/field2d/dc0command.2dd/CA_dc0command_2dd0.png
+  - name: remastered/field2d/sp/dc1command.2dd/SP_dc1command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/dc1command.2dd/CA_dc1command_2dd0.png
+  - name: remastered/field2d/sp/dc1command.2dd/SP_dc1command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/dc1command.2dd/CA_dc1command_2dd0.png
+  - name: remastered/field2d/sp/eh0command.2dd/SP_eh0command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/eh0command.2dd/CA_eh0command_2dd0.png
+  - name: remastered/field2d/sp/hb0command.2dd/SP_hb0command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/hb0command.2dd/CA_hb0command_2dd0.png
+  - name: remastered/field2d/sp/hb1command.2dd/SP_hb1command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/hb1command.2dd/CA_hb1command_2dd0.png
+  - name: remastered/field2d/sp/hb2command.2dd/SP_hb2command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/hb2command.2dd/CA_hb2command_2dd0.png
+  - name: remastered/field2d/sp/he0command.2dd/SP_he0command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/he0command.2dd/CA_he0command_2dd0.png
+  - name: remastered/field2d/sp/he1command.2dd/SP_he1command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/he1command.2dd/CA_he1command_2dd0.png
+  - name: remastered/field2d/sp/lk0command.2dd/SP_lk0command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/lk0command.2dd/CA_lk0command_2dd0.png
+  - name: remastered/field2d/sp/lm0command.2dd/SP_lm0command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/lm0command.2dd/CA_lm0command_2dd0.png
+  - name: remastered/field2d/sp/mu0command.2dd/SP_mu0command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/mu0command.2dd/CA_mu0command_2dd0.png
+  - name: remastered/field2d/sp/nm0command.2dd/SP_nm0command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/nm0command.2dd/CA_nm0command_2dd0.png
+  - name: remastered/field2d/sp/nm1command.2dd/SP_nm1command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/nm1command.2dd/CA_nm1command_2dd0.png
+  - name: remastered/field2d/sp/tr0command.2dd/SP_tr0command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/tr0command.2dd/CA_tr0command_2dd0.png
+  - name: remastered/field2d/sp/tt5command.2dd/SP_tt5command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/tt5command.2dd/CA_tt5command_2dd0.png
   - name: field2d/sp/wi0command.2dd
     method: copy
     package: kh2_fifth
     source:
-    - name: field2d/sp/wi0command.2dd
+    - name: field2d/wi0command.2dd
   - name: remastered/field2d/sp/wi0command.2dd/SP_wi0command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/wi0command.2dd/SP_wi0command_2dd0.png
+    - name: remastered/field2d/wi0command.2dd/CA_wi0command_2dd0.png
   - name: remastered/field2d/sp/zz0command.2dd/SP_zz0command_2dd0.png
+    multi:
+    - name: remastered/field2d/sp/wm0command.2dd/SP_wm0command_2dd0.png
+    - name: remastered/field2d/sp/tt1command.2dd/SP_tt1command_2dd0.png
+    - name: remastered/field2d/sp/tt6command.2dd/SP_tt6command_2dd0.png
+    - name: remastered/field2d/sp/eh1command.2dd/SP_eh1command_2dd0.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/field2d/sp/zz0command.2dd/SP_zz0command_2dd0.png
+    - name: remastered/field2d/zz0command.2dd/CA_zz0command_2dd0.png
 
   #BOTIGUES
   - name: remastered/menu/sp/itemshop.2ld/SP_itemshop_2ld1.png
     method: copy
+    platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/menu/sp/itemshop.2ld/SP_itemshop_2ld1.png
+    - name: remastered/menu/itemshop.2ld/CA_itemshop_2ld1.png
   
+  #DIARI DEL GRILL
+  - name: remastered/menu/sp/jmemo.2ld/SP_jmemo_2ld0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/jmemo.2ld/CA_jmemo_2ld0.dds
+  
+  #NOMS ZONES
+  #AL
+  - name: remastered/map/sp/al00.bar/SP_al00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al00_bar0.dds
+  - name: remastered/map/sp/al01.bar/SP_al01_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al01_bar0.dds
+  - name: remastered/map/sp/al02.bar/SP_al02_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al02_bar0.dds
+  - name: remastered/map/sp/al03.bar/SP_al03_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al03_bar0.dds
+  - name: remastered/map/sp/al04.bar/SP_al04_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al04_bar0.dds
+  - name: remastered/map/sp/al05.bar/SP_al05_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al05_bar0.dds
+  - name: remastered/map/sp/al06.bar/SP_al06_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al06_bar0.dds
+  - name: remastered/map/sp/al07.bar/SP_al07_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al07_bar0.dds
+  - name: remastered/map/sp/al09.bar/SP_al09_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al09_bar0.dds
+  - name: remastered/map/sp/al10.bar/SP_al10_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al10_bar0.dds
+  - name: remastered/map/sp/al11.bar/SP_al11_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al11_bar0.dds
+  - name: remastered/map/sp/al12.bar/SP_al12_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al12_bar0.dds
+  - name: remastered/map/sp/al13.bar/SP_al13_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al13_bar0.dds
+  - name: remastered/map/sp/al14.bar/SP_al14_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al14_bar0.dds
+  - name: remastered/map/sp/al15.bar/SP_al15_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/al/CA_al15_bar0.dds
+  #BB
+  - name: remastered/map/sp/bb00.bar/SP_bb00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb00_bar0.dds
+  - name: remastered/map/sp/bb01.bar/SP_bb01_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb01_bar0.dds
+  - name: remastered/map/sp/bb02.bar/SP_bb02_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb02_bar0.dds
+  - name: remastered/map/sp/bb03.bar/SP_bb03_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb03_bar0.dds
+  - name: remastered/map/sp/bb04.bar/SP_bb04_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb04_bar0.dds
+  - name: remastered/map/sp/bb05.bar/SP_bb05_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb05_bar0.dds
+  - name: remastered/map/sp/bb06.bar/SP_bb06_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb06_bar0.dds
+  - name: remastered/map/sp/bb07.bar/SP_bb07_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb07_bar0.dds
+  - name: remastered/map/sp/bb08.bar/SP_bb08_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb08_bar0.dds
+  - name: remastered/map/sp/bb09.bar/SP_bb09_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb09_bar0.dds
+  - name: remastered/map/sp/bb10.bar/SP_bb10_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb10_bar0.dds
+  - name: remastered/map/sp/bb11.bar/SP_bb11_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb11_bar0.dds
+  - name: remastered/map/sp/bb12.bar/SP_bb12_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb12_bar0.dds
+  - name: remastered/map/sp/bb13.bar/SP_bb13_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb13_bar0.dds
+  - name: remastered/map/sp/bb14.bar/SP_bb14_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/bb/CA_bb14_bar0.dds
+  #CA
+  - name: remastered/map/sp/ca00.bar/SP_ca00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca00_bar0.dds
+  - name: remastered/map/sp/ca01.bar/SP_ca01_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca01_bar0.dds
+  - name: remastered/map/sp/ca02.bar/SP_ca02_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca02_bar0.dds
+  - name: remastered/map/sp/ca03.bar/SP_ca03_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca03_bar0.dds
+  - name: remastered/map/sp/ca04.bar/SP_ca04_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca04_bar0.dds
+  - name: remastered/map/sp/ca05.bar/SP_ca05_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca05_bar0.dds
+  - name: remastered/map/sp/ca06.bar/SP_ca06_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca06_bar0.dds
+  - name: remastered/map/sp/ca07.bar/SP_ca07_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca07_bar0.dds
+  - name: remastered/map/sp/ca08.bar/SP_ca08_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca08_bar0.dds
+  - name: remastered/map/sp/ca09.bar/SP_ca09_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca09_bar0.dds
+  - name: remastered/map/sp/ca10.bar/SP_ca10_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca10_bar0.dds
+  - name: remastered/map/sp/ca11.bar/SP_ca11_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca11_bar0.dds
+  - name: remastered/map/sp/ca12.bar/SP_ca12_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca12_bar0.dds
+  - name: remastered/map/sp/ca13.bar/SP_ca13_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca13_bar0.dds
+  - name: remastered/map/sp/ca14.bar/SP_ca14_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca14_bar0.dds
+  - name: remastered/map/sp/ca15.bar/SP_ca15_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca15_bar0.dds
+  - name: remastered/map/sp/ca16.bar/SP_ca16_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/ca/CA_ca16_bar0.dds
+  #DC
+  - name: remastered/map/sp/dc00.bar/SP_dc00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/dc/CA_dc00_bar0.dds
+  - name: remastered/map/sp/dc01.bar/SP_dc01_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/dc/CA_dc01_bar0.dds
+  - name: remastered/map/sp/dc02.bar/SP_dc02_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/dc/CA_dc02_bar0.dds
+  - name: remastered/map/sp/dc03.bar/SP_dc03_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/dc/CA_dc03_bar0.dds
+  - name: remastered/map/sp/dc04.bar/SP_dc04_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/dc/CA_dc04_bar0.dds
+  - name: remastered/map/sp/dc05.bar/SP_dc05_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/dc/CA_dc05_bar0.dds
+  - name: remastered/map/sp/dc06.bar/SP_dc06_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/dc/CA_dc06_bar0.dds
+  - name: remastered/map/sp/dc07.bar/SP_dc07_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/dc/CA_dc07_bar0.dds
+  #TT
+  - name: remastered/map/sp/tt00.bar/SP_tt00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt00_bar0.dds
+  - name: remastered/map/sp/tt01.bar/SP_tt01_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt01_bar0.dds
+  - name: remastered/map/sp/tt02.bar/SP_tt02_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt02_bar0.dds
+  - name: remastered/map/sp/tt03.bar/SP_tt03_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt03_bar0.dds
+  - name: remastered/map/sp/tt04.bar/SP_tt04_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt04_bar0.dds
+  - name: remastered/map/sp/tt05.bar/SP_tt05_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt05_bar0.dds
+  - name: remastered/map/sp/tt06.bar/SP_tt06_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt06_bar0.dds
+  - name: remastered/map/sp/tt07.bar/SP_tt07_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt07_bar0.dds
+  - name: remastered/map/sp/tt08.bar/SP_tt08_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt08_bar0.dds
+  - name: remastered/map/sp/tt09.bar/SP_tt09_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt09_bar0.dds
+  - name: remastered/map/sp/tt10.bar/SP_tt10_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt10_bar0.dds
+  - name: remastered/map/sp/tt11.bar/SP_tt11_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt11_bar0.dds
+  - name: remastered/map/sp/tt12.bar/SP_tt12_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt12_bar0.dds
+  - name: remastered/map/sp/tt13.bar/SP_tt13_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt13_bar0.dds
+  - name: remastered/map/sp/tt14.bar/SP_tt14_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt14_bar0.dds
+  - name: remastered/map/sp/tt15.bar/SP_tt15_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt15_bar0.dds
+  - name: remastered/map/sp/tt16.bar/SP_tt16_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt16_bar0.dds
+  - name: remastered/map/sp/tt17.bar/SP_tt17_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt17_bar0.dds
+  - name: remastered/map/sp/tt18.bar/SP_tt18_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt18_bar0.dds
+  - name: remastered/map/sp/tt19.bar/SP_tt19_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt19_bar0.dds
+  - name: remastered/map/sp/tt20.bar/SP_tt20_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt20_bar0.dds
+  - name: remastered/map/sp/tt21.bar/SP_tt21_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt21_bar0.dds
+  - name: remastered/map/sp/tt22.bar/SP_tt22_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt22_bar0.dds
+  - name: remastered/map/sp/tt23.bar/SP_tt23_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/tt/CA_tt23_bar0.dds
+  - name: remastered/map/sp/tt24.bar/SP_tt24_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt24_bar0.dds
+  - name: remastered/map/sp/tt25.bar/SP_tt25_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt25_bar0.dds
+  - name: remastered/map/sp/tt26.bar/SP_tt26_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt26_bar0.dds
+  - name: remastered/map/sp/tt27.bar/SP_tt27_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt27_bar0.dds
+  - name: remastered/map/sp/tt28.bar/SP_tt28_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt28_bar0.dds
+  - name: remastered/map/sp/tt29.bar/SP_tt29_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt29_bar0.dds
+  - name: remastered/map/sp/tt30.bar/SP_tt30_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt30_bar0.dds
+  - name: remastered/map/sp/tt31.bar/SP_tt31_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt31_bar0.dds
+  - name: remastered/map/sp/tt32.bar/SP_tt32_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt32_bar0.dds
+  - name: remastered/map/sp/tt33.bar/SP_tt33_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt33_bar0.dds
+  - name: remastered/map/sp/tt34.bar/SP_tt34_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt34_bar0.dds
+  - name: remastered/map/sp/tt35.bar/SP_tt35_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt35_bar0.dds
+  - name: remastered/map/sp/tt36.bar/SP_tt36_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt36_bar0.dds
+  - name: remastered/map/sp/tt37.bar/SP_tt37_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt37_bar0.dds
+  - name: remastered/map/sp/tt38.bar/SP_tt38_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt38_bar0.dds
+  - name: remastered/map/sp/tt39.bar/SP_tt39_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt39_bar0.dds
+  - name: remastered/map/sp/tt40.bar/SP_tt40_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/tt/CA_tt40_bar0.dds
+  #EH
+  - name: remastered/map/sp/eh00.bar/SP_eh00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh00_bar0.dds
+  - name: remastered/map/sp/eh01.bar/SP_eh01_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh01_bar0.dds
+  - name: remastered/map/sp/eh02.bar/SP_eh02_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh02_bar0.dds
+  - name: remastered/map/sp/eh03.bar/SP_eh03_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh03_bar0.dds
+  - name: remastered/map/sp/eh04.bar/SP_eh04_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh04_bar0.dds
+  - name: remastered/map/sp/eh05.bar/SP_eh05_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh05_bar0.dds
+  - name: remastered/map/sp/eh06.bar/SP_eh06_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh06_bar0.dds
+  - name: remastered/map/sp/eh07.bar/SP_eh07_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh07_bar0.dds
+  - name: remastered/map/sp/eh08.bar/SP_eh08_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh08_bar0.dds
+  - name: remastered/map/sp/eh09.bar/SP_eh09_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh09_bar0.dds
+  - name: remastered/map/sp/eh10.bar/SP_eh10_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh10_bar0.dds
+  - name: remastered/map/sp/eh11.bar/SP_eh11_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh11_bar0.dds
+  - name: remastered/map/sp/eh12.bar/SP_eh12_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh12_bar0.dds
+  - name: remastered/map/sp/eh13.bar/SP_eh13_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh13_bar0.dds
+  - name: remastered/map/sp/eh14.bar/SP_eh14_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh14_bar0.dds
+  - name: remastered/map/sp/eh15.bar/SP_eh15_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh15_bar0.dds
+  - name: remastered/map/sp/eh16.bar/SP_eh16_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh16_bar0.dds
+  - name: remastered/map/sp/eh17.bar/SP_eh17_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh17_bar0.dds
+  - name: remastered/map/sp/eh18.bar/SP_eh18_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh18_bar0.dds
+  - name: remastered/map/sp/eh19.bar/SP_eh19_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh19_bar0.dds
+  - name: remastered/map/sp/eh20.bar/SP_eh20_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh20_bar0.dds
+  - name: remastered/map/sp/eh21.bar/SP_eh21_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh21_bar0.dds
+  - name: remastered/map/sp/eh22.bar/SP_eh22_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/eh/CA_eh22_bar0.dds
+
+  #BATALLES ESPECIALS
+  - name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_EH14_MS103_bar0.png
+  - name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_EH14_MS103_bar1.png
+  - name: remastered/msn/sp/HB33_FM_LEX.bar/SP_HB33_FM_LEX_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HB33_FM_LEX_bar0.png
+  - name: remastered/msn/sp/HB33_FM_LEX.bar/SP_HB33_FM_LEX_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HB33_FM_LEX_bar1.png
+  - name: remastered/msn/sp/HB04_MS403.bar/SP_HB04_MS403_bar1.png
+    multi: 
+    - name: remastered/msn/sp/HE17_MS105.bar/SP_HE17_MS105_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HB04_MS403_bar1.png
+
+  #MSN
+  - name: remastered/msn/sp/AL00_SKATE_01.bar/SP_AL00_SKATE_01_bar0.png
+    multi:
+    - name: remastered/msn/sp/CA02_SKATE_01.bar/SP_CA02_SKATE_01_bar0.png
+    - name: remastered/msn/sp/HB09_SKATE_01.bar/SP_HB09_SKATE_01_bar0.png
+    - name: remastered/msn/sp/NM09_SKATE_01.bar/SP_NM09_SKATE_01_bar0.png
+    - name: remastered/msn/sp/TT07_SKATE_01.bar/SP_TT07_SKATE_01_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL00_SKATE_01_bar0.png
+  - name: remastered/msn/sp/AL00_SKATE_01.bar/SP_AL00_SKATE_01_bar1.png
+    multi:
+    - name: remastered/msn/sp/CA02_SKATE_01.bar/SP_CA02_SKATE_01_bar1.png
+    - name: remastered/msn/sp/HB09_SKATE_01.bar/SP_HB09_SKATE_01_bar1.png
+    - name: remastered/msn/sp/NM09_SKATE_01.bar/SP_NM09_SKATE_01_bar1.png
+    - name: remastered/msn/sp/TT07_SKATE_01.bar/SP_TT07_SKATE_01_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL00_SKATE_01_bar1.png
+  - name: remastered/msn/sp/AL00_SKATE_01.bar/SP_AL00_SKATE_01_bar1.png
+    multi:
+    - name: remastered/msn/sp/AL10_KINOKO_LEX.bar/SP_AL10_KINOKO_LEX_bar0.png
+    - name: remastered/msn/sp/AL14_MS202_FREE.bar/SP_AL14_MS202_FREE_bar1.png
+    - name: remastered/msn/sp/BB13_KINOKO_XAL.bar/SP_BB13_KINOKO_XAL_bar0.png
+    - name: remastered/msn/sp/CA02_SKATE_01.bar/SP_CA02_SKATE_01_bar2.png
+    - name: remastered/msn/sp/CA13_KINOKO_LUX.bar/SP_CA13_KINOKO_LUX_bar0.png
+    - name: remastered/msn/sp/EH03_KINOKO_XEM.bar/SP_EH03_KINOKO_XEM_bar0.png
+    - name: remastered/msn/sp/HB04_KINOKO_DEM.bar/SP_HB04_KINOKO_DEM_bar0.png
+    - name: remastered/msn/sp/HB09_SKATE_01.bar/SP_HB09_SKATE_01_bar2.png
+    - name: remastered/msn/sp/HE17_KINOKO_ZEX.bar/SP_HE17_KINOKO_ZEX_bar0.png
+    - name: remastered/msn/sp/MU09_KINOKO_VEX.bar/SP_MU09_KINOKO_VEX_bar0.png
+    - name: remastered/msn/sp/NM07_KINOKO_XIG.bar/SP_NM07_KINOKO_XIG_bar0.png
+    - name: remastered/msn/sp/NM09_SKATE_01.bar/SP_NM09_SKATE_01_bar2.png
+    - name: remastered/msn/sp/TR02_MS102_FREE.bar/SP_TR02_MS102_FREE_bar1.png
+    - name: remastered/msn/sp/TT06_BAGGAGE_02.bar/SP_TT06_BAGGAGE_02_bar2.png
+    - name: remastered/msn/sp/TT06_LETTER_02.bar/SP_TT06_LETTER_02_bar2.png
+    - name: remastered/msn/sp/TT06_PERFORM_02.bar/SP_TT06_PERFORM_02_bar2.png
+    - name: remastered/msn/sp/TT07_CLEAN_02.bar/SP_TT07_CLEAN_02_bar2.png
+    - name: remastered/msn/sp/TT07_POSTER_02.bar/SP_TT07_POSTER_02_bar2.png
+    - name: remastered/msn/sp/TT07_SKATE_01.bar/SP_TT07_SKATE_01_bar2.png
+    - name: remastered/msn/sp/TT07_WORM_02.bar/SP_TT07_WORM_02_bar2.png
+    - name: remastered/msn/sp/TT14_KINOKO_LAR.bar/SP_TT14_KINOKO_LAR_bar0.png
+    - name: remastered/msn/sp/TT25_KINOKO_AXE.bar/SP_TT25_KINOKO_AXE_bar0.png
+    - name: remastered/msn/sp/TT36_KINOKO_SAI.bar/SP_TT36_KINOKO_SAI_bar0.png
+    - name: remastered/msn/sp/WI02_KINOKO_MAR.bar/SP_WI02_KINOKO_MAR_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL00_SKATE_01_bar2.png
+  - name: remastered/msn/sp/AL00_SKATE_01.bar/SP_AL00_SKATE_01_bar3.png
+    multi: 
+    - name: remastered/msn/sp/CA02_SKATE_01.bar/SP_CA02_SKATE_01_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL00_SKATE_01_bar3.png
+  - name: remastered/msn/sp/AL00_SKATE_01.bar/SP_AL00_SKATE_01_bar4.png
+    multi: 
+    - name: remastered/msn/sp/NM09_SKATE_01.bar/SP_NM09_SKATE_01_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL00_SKATE_01_bar4.png
+  - name: remastered/msn/sp/AL10_KINOKO_LEX.bar/SP_AL10_KINOKO_LEX_bar1.png
+    multi:
+    - name: remastered/msn/sp/CA13_KINOKO_LUX.bar/SP_CA13_KINOKO_LUX_bar1.png
+    - name: remastered/msn/sp/EH03_KINOKO_XEM.bar/SP_EH03_KINOKO_XEM_bar2.png
+    - name: remastered/msn/sp/HE17_KINOKO_ZEX.bar/SP_HE17_KINOKO_ZEX_bar1.png
+    - name: remastered/msn/sp/TT14_KINOKO_LAR.bar/SP_TT14_KINOKO_LAR_bar2.png
+    - name: remastered/msn/sp/TT36_KINOKO_SAI.bar/SP_TT36_KINOKO_SAI_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL10_KINOKO_LEX_bar1.png
+  - name: remastered/msn/sp/BB13_KINOKO_XAL.bar/SP_BB13_KINOKO_XAL_bar1.png
+    multi:
+    - name: remastered/msn/sp/EH03_KINOKO_XEM.bar/SP_EH03_KINOKO_XEM_bar1.png
+    - name: remastered/msn/sp/HB04_KINOKO_DEM.bar/SP_HB04_KINOKO_DEM_bar1.png
+    - name: remastered/msn/sp/MU09_KINOKO_VEX.bar/SP_MU09_KINOKO_VEX_bar1.png
+    - name: remastered/msn/sp/NM07_KINOKO_XIG.bar/SP_NM07_KINOKO_XIG_bar1.png
+    - name: remastered/msn/sp/TT14_KINOKO_LAR.bar/SP_TT14_KINOKO_LAR_bar1.png
+    - name: remastered/msn/sp/TT25_KINOKO_AXE.bar/SP_TT25_KINOKO_AXE_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_BB13_KINOKO_XAL_bar1.png
+  - name: remastered/msn/sp/AL10_MS102.bar/SP_AL10_MS102_bar0.png
+    multi: 
+    - name: remastered/msn/sp/HB17_MS405.bar/SP_HB17_MS405_bar0.png
+    - name: remastered/msn/sp/MU01_MS103C.bar/SP_MU01_MS103C_bar0.png
+    - name: remastered/msn/sp/MU02_MS103A.bar/SP_MU02_MS103A_bar0.png
+    - name: remastered/msn/sp/TR02_MS102A.bar/SP_TR02_MS102A_bar1.png
+    - name: remastered/msn/sp/HB17_MS405.bar/SP_HB17_MS405_bar0.png
+    - name: remastered/msn/sp/HB17_MS405.bar/SP_HB17_MS405_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL10_MS102_bar0.png
+  - name: remastered/msn/sp/AL13_TRAP.bar/SP_AL13_TRAP_bar0.png
+    multi:
+    - name: remastered/msn/sp/AL13_TRAP_FREE.bar/SP_AL13_TRAP_FREE_bar0.png
+    - name: remastered/msn/sp/AL13_TRAP_FREE2.bar/SP_AL13_TRAP_FREE2_bar0.png
+    - name: remastered/msn/sp/AL13_TRAP_MS_P.bar/SP_AL13_MS_P_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL13_TRAP_bar0.png
+  - name: remastered/msn/sp/AL14_MS_O.bar/SP_AL14_MS_O_bar0.png
+    multi: 
+    - name: remastered/msn/sp/AL14_MS_S.bar/SP_AL14_MS_S_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL10_MS102_bar0.png
+  - name: remastered/msn/sp/AL14_MS202_FREE.bar/SP_AL14_MS202_FREE_bar2.png
+    multi: 
+    - name: remastered/msn/sp/TR02_MS102_FREE.bar/SP_TR02_MS102_FREE_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL14_MS202_FREE_bar2.png
+  - name: remastered/msn/sp/AL14_MS202.bar/SP_AL14_MS202_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL14_MS202_bar0.png
+  - name: remastered/msn/sp/BB13_KINOKO_XAL.bar/SP_BB13_KINOKO_XAL_bar1.png
+    multi:
+    - name: remastered/msn/sp/EH03_KINOKO_XEM.bar/SP_EH03_KINOKO_XEM_bar1.png
+    - name: remastered/msn/sp/HB04_KINOKO_DEM.bar/SP_HB04_KINOKO_DEM_bar1.png
+    - name: remastered/msn/sp/MU09_KINOKO_VEX.bar/SP_MU09_KINOKO_VEX_bar1.png
+    - name: remastered/msn/sp/NM07_KINOKO_XIG.bar/SP_NM07_KINOKO_XIG_bar1.png
+    - name: remastered/msn/sp/TT14_KINOKO_LAR.bar/SP_TT14_KINOKO_LAR_bar1.png
+    - name: remastered/msn/sp/TT25_KINOKO_AXE.bar/SP_TT25_KINOKO_AXE_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_BB13_KINOKO_XAL_bar1.png
+  - name: remastered/msn/sp/CA07_MS105.bar/SP_CA07_MS105_bar0.png
+    multi:
+    - name: remastered/msn/sp/CA09_MEDAL.bar/SP_CA09_MEDAL_bar0.png
+    - name: remastered/msn/sp/CA09_MS104.bar/SP_CA09_MS104_bar0.png
+    - name: remastered/msn/sp/CA10_MEDAL.bar/SP_CA10_MEDAL_bar0.png
+    - name: remastered/msn/sp/CA12_MEDAL.bar/SP_CA12_MEDAL_bar0.png
+    - name: remastered/msn/sp/CA13_MEDAL.bar/SP_CA13_MEDAL_bar0.png
+    - name: remastered/msn/sp/CA14_MEDAL.bar/SP_CA14_MEDAL_bar0.png
+    - name: remastered/msn/sp/CA15_MEDAL.bar/SP_CA15_MEDAL_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_CA07_MS105_bar0.png
+  - name: remastered/msn/sp/CA09_MEDAL.bar/SP_CA09_MEDAL_bar1.png
+    multi:
+    - name: remastered/msn/sp/CA10_MEDAL.bar/SP_CA10_MEDAL_bar1.png
+    - name: remastered/msn/sp/CA12_MEDAL.bar/SP_CA12_MEDAL_bar1.png
+    - name: remastered/msn/sp/CA13_MEDAL.bar/SP_CA13_MEDAL_bar1.png
+    - name: remastered/msn/sp/CA14_MEDAL.bar/SP_CA14_MEDAL_bar1.png
+    - name: remastered/msn/sp/CA15_MEDAL.bar/SP_CA15_MEDAL_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_CA09_MEDAL_bar1.png
+  - name: remastered/msn/sp/HE00_MS104A.bar/SP_HE00_MS104A_bar0.png
+    multi:
+    - name: remastered/msn/sp/HE00_MS104B.bar/SP_HE00_MS104B_bar0.png
+    - name: remastered/msn/sp/HE02_MS104C.bar/SP_HE02_MS104C_bar0.png
+    - name: remastered/msn/sp/HE02_MS104D.bar/SP_HE02_MS104D_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE00_MS104A_bar0.png
+  - name: remastered/msn/sp/HE00_MS104A.bar/SP_HE00_MS104A_bar1.png
+    multi:
+    - name: remastered/msn/sp/HE00_MS104B.bar/SP_HE00_MS104B_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE00_MS104A_bar1.png
+  - name: remastered/msn/sp/HE00_MS104A.bar/SP_HE00_MS104A_bar2.png
+    multi:
+    - name: remastered/msn/sp/HE00_MS104B.bar/SP_HE00_MS104B_bar2.png
+    - name: remastered/msn/sp/HE02_MS104D.bar/SP_HE02_MS104D_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE00_MS104A_bar2.png
+  - name: remastered/msn/sp/HE00_MS104A.bar/SP_HE00_MS104A_bar3.png
+    multi:
+    - name: remastered/msn/sp/HE00_MS104B.bar/SP_HE00_MS104B_bar3.png
+    - name: remastered/msn/sp/HE02_MS104D.bar/SP_HE02_MS104D_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE00_MS104A_bar3.png
+  - name: remastered/msn/sp/HE08_MS107.bar/SP_HE08_MS107_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE08_MS107_bar0.png
+  - name: remastered/msn/sp/MU07_MS106.bar/SP_MU07_MS106_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_MU07_MS106_bar0.png
+  - name: remastered/msn/sp/NM00_MS202.bar/SP_NM00_MS202_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM00_MS202_bar1.png
+  - name: remastered/msn/sp/NM09_SKATE_01.bar/SP_NM09_SKATE_01_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM09_SKATE_01_bar3.png
+  - name: remastered/msn/sp/TR01_MS101.bar/SP_TR01_MS101_bar2.png
+    multi:
+    - name: remastered/msn/sp/TR03_MS103.bar/SP_TR03_MS103_bar0.png
+    - name: remastered/msn/sp/TR04_MS104.bar/SP_TR04_MS104_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR01_MS101_bar2.png
+  - name: remastered/msn/sp/TR01_MS101.bar/SP_TR01_MS101_bar3.png
+    multi:
+    - name: remastered/msn/sp/TR03_MS103.bar/SP_TR03_MS103_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR01_MS101_bar3.png
+  - name: remastered/msn/sp/PO01_MS501.bar/SP_PO01_MS501_bar1.png
+    multi:
+    - name: remastered/msn/sp/PO01_MS501.bar/SP_PO01_MS501_bar2.png
+    - name: remastered/msn/sp/PO01_MS501_FREE.bar/SP_PO01_MS501_FREE_bar1.png
+    - name: remastered/msn/sp/PO01_MS501_FREE.bar/SP_PO01_MS501_FREE_bar2.png
+    - name: remastered/msn/sp/PO06_MS101.bar/SP_PO06_MS101_bar1.png
+    - name: remastered/msn/sp/PO06_MS101.bar/SP_PO06_MS101_bar2.png
+    - name: remastered/msn/sp/PO06_MS101_FREE.bar/SP_PO06_MS101_FREE_bar1.png
+    - name: remastered/msn/sp/PO07_MS201.bar/SP_PO07_MS201_bar2.png
+    - name: remastered/msn/sp/PO08_MS301.bar/SP_PO08_MS301_bar1.png
+    - name: remastered/msn/sp/PO08_MS301.bar/SP_PO08_MS301_bar2.png
+    - name: remastered/msn/sp/PO09_MS401.bar/SP_PO09_MS401_bar1.png
+    - name: remastered/msn/sp/PO09_MS401.bar/SP_PO09_MS401_bar2.png
+    - name: remastered/msn/sp/PO09_MS401_FREE.bar/SP_PO09_MS401_FREE_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO08_MS301_bar2.png
+  - name: remastered/msn/sp/PO01_MS501.bar/SP_PO01_MS501_bar0.png
+    multi:
+    - name: remastered/msn/sp/PO01_MS501_FREE.bar/SP_PO01_MS501_FREE_bar0.png
+    - name: remastered/msn/sp/PO06_MS101.bar/SP_PO06_MS101_bar0.png
+    - name: remastered/msn/sp/PO06_MS101_FREE.bar/SP_PO06_MS101_FREE_bar0.png
+    - name: remastered/msn/sp/PO07_MS201.bar/SP_PO07_MS201_bar0.png
+    - name: remastered/msn/sp/PO07_MS201_FREE.bar/SP_PO07_MS201_FREE_bar0.png
+    - name: remastered/msn/sp/PO08_MS301.bar/SP_PO08_MS301_bar0.png
+    - name: remastered/msn/sp/PO08_MS301_FREE.bar/SP_PO08_MS301_FREE_bar0.png
+    - name: remastered/msn/sp/PO09_MS401.bar/SP_PO09_MS401_bar0.png
+    - name: remastered/msn/sp/PO09_MS401_FREE.bar/SP_PO09_MS401_FREE_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO01_MS501_FREE_bar0.png
+  - name: remastered/msn/sp/PO01_MS501.bar/SP_PO01_MS501_bar3.png
+    multi:
+    - name: remastered/msn/sp/PO01_MS501_FREE.bar/SP_PO01_MS501_FREE_bar3.png
+    - name: remastered/msn/sp/PO06_MS101_FREE.bar/SP_PO06_MS101_FREE_bar2.png
+    - name: remastered/msn/sp/PO07_MS201_FREE.bar/SP_PO07_MS201_FREE_bar2.png
+    - name: remastered/msn/sp/PO08_MS301_FREE.bar/SP_PO08_MS301_FREE_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO01_MS501_FREE_bar3.png
+  - name: remastered/msn/sp/PO01_MS501.bar/SP_PO01_MS501_bar4.png
+    multi:
+    - name: remastered/msn/sp/PO01_MS501_FREE.bar/SP_PO01_MS501_FREE_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO01_MS501_FREE_bar4.png
+  - name: remastered/msn/sp/PO01_MS501_FREE.bar/SP_PO01_MS501_FREE_bar5.png
+    multi:
+    - name: remastered/msn/sp/PO06_MS101_FREE.bar/SP_PO06_MS101_FREE_bar3.png
+    - name: remastered/msn/sp/PO07_MS201_FREE.bar/SP_PO07_MS201_FREE_bar3.png
+    - name: remastered/msn/sp/PO08_MS301_FREE.bar/SP_PO08_MS301_FREE_bar4.png
+    - name: remastered/msn/sp/PO09_MS401_FREE.bar/SP_PO09_MS401_FREE_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO01_MS501_FREE_bar5.png
+  - name: remastered/msn/sp/PO06_MS101.bar/SP_PO06_MS101_bar3.png
+    multi:
+    - name: remastered/msn/sp/PO08_MS301.bar/SP_PO08_MS301_bar4.png
+    - name: remastered/msn/sp/PO09_MS401.bar/SP_PO09_MS401_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO06_MS101_bar3.png
+  - name: remastered/msn/sp/PO07_MS201.bar/SP_PO07_MS201_bar1.png
+    multi:
+    - name: remastered/msn/sp/PO07_MS201_FREE.bar/SP_PO07_MS201_FREE_bar1.png
+    - name: remastered/msn/sp/PO08_MS301_FREE.bar/SP_PO08_MS301_FREE_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO08_MS301_FREE_bar1.png
+  - name: remastered/msn/sp/PO07_MS201.bar/SP_PO07_MS201_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO07_MS201_bar3.png
+  - name: remastered/msn/sp/PO08_MS301.bar/SP_PO08_MS301_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO08_MS301_bar3.png
+  - name: remastered/msn/sp/PO08_MS301_FREE.bar/SP_PO08_MS301_FREE_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO08_MS301_FREE_bar3.png
+  - name: remastered/msn/sp/PO09_MS401.bar/SP_PO09_MS401_bar4.png
+    multi:
+    - name: remastered/msn/sp/PO09_MS401_FREE.bar/SP_PO09_MS401_FREE_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO09_MS401_FREE_bar3.png
+  - name: remastered/msn/sp/TR01_MS101.bar/SP_TR01_MS101_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR01_MS101_bar0.png
+  - name: remastered/msn/sp/TR01_MS101.bar/SP_TR01_MS101_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR01_MS101_bar1.png
+  - name: remastered/msn/sp/TT04_MS00.bar/SP_TT04_MS00_bar0.png
+    multi:
+    - name: remastered/msn/sp/TT04_MS01.bar/SP_TT04_MS01_bar0.png
+    - name: remastered/msn/sp/TT04_MS02.bar/SP_TT04_MS02_bar0.png
+    - name: remastered/msn/sp/TT05_MS401.bar/SP_TT05_MS401_bar0.png
+    - name: remastered/msn/sp/TT05_MS402.bar/SP_TT05_MS402_bar0.png
+    - name: remastered/msn/sp/TT05_MS405.bar/SP_TT05_MS405_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT04_MS00_bar0.png
+  - name: remastered/msn/sp/TT04_MS00.bar/SP_TT04_MS00_bar1.png
+    multi:
+    - name: remastered/msn/sp/TT04_MS00.bar/SP_TT04_MS00_bar2.png
+    - name: remastered/msn/sp/TT04_MS01.bar/SP_TT04_MS01_bar1.png
+    - name: remastered/msn/sp/TT04_MS01.bar/SP_TT04_MS01_bar2.png
+    - name: remastered/msn/sp/TT04_MS02.bar/SP_TT04_MS02_bar1.png
+    - name: remastered/msn/sp/TT04_MS02.bar/SP_TT04_MS02_bar2.png
+    - name: remastered/msn/sp/TT05_MS401.bar/SP_TT05_MS401_bar1.png
+    - name: remastered/msn/sp/TT05_MS402.bar/SP_TT05_MS402_bar1.png
+    - name: remastered/msn/sp/TT05_MS405.bar/SP_TT05_MS405_bar1.png
+    - name: remastered/msn/sp/TT05_MS405.bar/SP_TT05_MS405_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT04_MS00_bar1.png
+  - name: remastered/msn/sp/TT04_MS00.bar/SP_TT04_MS00_bar3.png
+    multi:
+    - name: remastered/msn/sp/TT04_MS01.bar/SP_TT04_MS01_bar3.png
+    - name: remastered/msn/sp/TT04_MS02.bar/SP_TT04_MS02_bar3.png
+    - name: remastered/msn/sp/TT05_MS401.bar/SP_TT05_MS401_bar3.png
+    - name: remastered/msn/sp/TT05_MS402.bar/SP_TT05_MS402_bar3.png
+    - name: remastered/msn/sp/TT05_MS405.bar/SP_TT05_MS405_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT04_MS00_bar3.png
+  - name: remastered/msn/sp/TT04_MS00.bar/SP_TT04_MS00_bar4.png
+    multi:
+    - name: remastered/msn/sp/TT04_MS01.bar/SP_TT04_MS01_bar4.png
+    - name: remastered/msn/sp/TT04_MS02.bar/SP_TT04_MS02_bar4.png
+    - name: remastered/msn/sp/TT05_MS401.bar/SP_TT05_MS401_bar4.png
+    - name: remastered/msn/sp/TT05_MS402.bar/SP_TT05_MS402_bar4.png
+    - name: remastered/msn/sp/TT05_MS405.bar/SP_TT05_MS405_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT04_MS00_bar4.png
+  - name: remastered/msn/sp/TT04_MS00.bar/SP_TT04_MS00_bar5.png
+    multi:
+    - name: remastered/msn/sp/TT04_MS01.bar/SP_TT04_MS01_bar5.png
+    - name: remastered/msn/sp/TT04_MS02.bar/SP_TT04_MS02_bar5.png
+    - name: remastered/msn/sp/TT05_MS401.bar/SP_TT05_MS401_bar5.png
+    - name: remastered/msn/sp/TT05_MS402.bar/SP_TT05_MS402_bar5.png
+    - name: remastered/msn/sp/TT05_MS405.bar/SP_TT05_MS405_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT04_MS00_bar5.png
+  - name: remastered/msn/sp/TT06_WORK_BAGGAGE.bar/SP_TT06_WORK_BAGGAGE_bar0.png
+    multi:
+    - name: remastered/msn/sp/TT06_WORK_LETTER.bar/SP_TT06_WORK_LETTER_bar0.png
+    - name: remastered/msn/sp/TT06_WORK_PERFORM.bar/SP_TT06_WORK_PERFORM_bar0.png
+    - name: remastered/msn/sp/TT07_WORK_CLEAN.bar/SP_TT07_WORK_CLEAN_bar0.png
+    - name: remastered/msn/sp/TT07_WORK_POSTER.bar/SP_TT07_WORK_POSTER_bar0.png
+    - name: remastered/msn/sp/TT07_WORK_WORM.bar/SP_TT07_WORK_WORM_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_WORK_BAGGAGE_bar0.png
+  - name: remastered/msn/sp/TT06_WORK_BAGGAGE.bar/SP_TT06_WORK_BAGGAGE_bar1.png
+    multi:
+    - name: remastered/msn/sp/TT06_WORK_LETTER.bar/SP_TT06_WORK_LETTER_bar1.png
+    - name: remastered/msn/sp/TT06_WORK_PERFORM.bar/SP_TT06_WORK_PERFORM_bar1.png
+    - name: remastered/msn/sp/TT07_WORK_CLEAN.bar/SP_TT07_WORK_CLEAN_bar1.png
+    - name: remastered/msn/sp/TT07_WORK_POSTER.bar/SP_TT07_WORK_POSTER_bar1.png
+    - name: remastered/msn/sp/TT07_WORK_WORM.bar/SP_TT07_WORK_WORM_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_WORK_BAGGAGE_bar1.png
+  - name: remastered/msn/sp/TT06_WORK_BAGGAGE.bar/SP_TT06_WORK_BAGGAGE_bar2.png
+    multi:
+    - name: remastered/msn/sp/TT06_WORK_LETTER.bar/SP_TT06_WORK_LETTER_bar2.png
+    - name: remastered/msn/sp/TT07_WORK_POSTER.bar/SP_TT07_WORK_POSTER_bar2.png
+    - name: remastered/msn/sp/TT07_WORK_WORM.bar/SP_TT07_WORK_WORM_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_WORK_BAGGAGE_bar2.png
+  - name: remastered/msn/sp/TT06_WORK_LETTER.bar/SP_TT06_WORK_LETTER_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_WORK_LETTER_bar3.png
+  - name: remastered/msn/sp/TT06_WORK_PERFORM.bar/SP_TT06_WORK_PERFORM_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_WORK_PERFORM_bar2.png
+  - name: remastered/msn/sp/TT06_WORK_PERFORM.bar/SP_TT06_WORK_PERFORM_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_WORK_PERFORM_bar3.png
+  - name: remastered/msn/sp/TT07_WORK_CLEAN.bar/SP_TT07_WORK_CLEAN_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_WORK_CLEAN_bar2.png
+  - name: remastered/msn/sp/TT07_WORK_CLEAN.bar/SP_TT07_WORK_CLEAN_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT07_WORK_CLEAN_bar3.png
+  - name: remastered/msn/sp/TT07_WORK_POSTER.bar/SP_TT07_WORK_POSTER_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT07_WORK_POSTER_bar3.png
+  - name: remastered/msn/sp/TT06_WORK_BAGGAGE.bar/SP_TT06_WORK_BAGGAGE_bar0.png
+    multi:
+    - name: remastered/msn/sp/TT06_BAGGAGE_02.bar/SP_TT06_BAGGAGE_02_bar0.png
+    - name: remastered/msn/sp/TT06_LETTER_01.bar/SP_TT06_LETTER_01_bar0.png
+    - name: remastered/msn/sp/TT06_LETTER_02.bar/SP_TT06_LETTER_02_bar0.png
+    - name: remastered/msn/sp/TT06_PERFORM_01.bar/SP_TT06_PERFORM_01_bar0.png
+    - name: remastered/msn/sp/TT06_PERFORM_02.bar/SP_TT06_PERFORM_02_bar0.png
+    - name: remastered/msn/sp/TT07_CLEAN_01.bar/SP_TT07_CLEAN_01_bar0.png
+    - name: remastered/msn/sp/TT07_CLEAN_02.bar/SP_TT07_CLEAN_02_bar0.png
+    - name: remastered/msn/sp/TT07_POSTER_01.bar/SP_TT07_POSTER_01_bar0.png
+    - name: remastered/msn/sp/TT07_POSTER_02.bar/SP_TT07_POSTER_02_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_WORK_BAGGAGE_bar0.png
+  - name: remastered/msn/sp/TT06_WORK_BAGGAGE.bar/SP_TT06_WORK_BAGGAGE_bar1.png
+    multi:
+    - name: remastered/msn/sp/TT06_BAGGAGE_02.bar/SP_TT06_BAGGAGE_02_bar1.png
+    - name: remastered/msn/sp/TT06_LETTER_01.bar/SP_TT06_LETTER_01_bar1.png
+    - name: remastered/msn/sp/TT06_LETTER_02.bar/SP_TT06_LETTER_02_bar1.png
+    - name: remastered/msn/sp/TT06_PERFORM_01.bar/SP_TT06_PERFORM_01_bar1.png
+    - name: remastered/msn/sp/TT06_PERFORM_02.bar/SP_TT06_PERFORM_02_bar1.png
+    - name: remastered/msn/sp/TT07_CLEAN_01.bar/SP_TT07_CLEAN_01_bar1.png
+    - name: remastered/msn/sp/TT07_CLEAN_02.bar/SP_TT07_CLEAN_02_bar1.png
+    - name: remastered/msn/sp/TT07_POSTER_01.bar/SP_TT07_POSTER_01_bar1.png
+    - name: remastered/msn/sp/TT07_POSTER_02.bar/SP_TT07_POSTER_02_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_WORK_BAGGAGE_bar1.png
+  - name: remastered/msn/sp/TT06_BAGGAGE_01.bar/SP_TT06_BAGGAGE_01_bar2.png
+    multi:
+    - name: remastered/msn/sp/TT06_LETTER_01.bar/SP_TT06_LETTER_01_bar2.png
+    - name: remastered/msn/sp/TT07_POSTER_01.bar/SP_TT07_POSTER_01_bar2.png
+    - name: remastered/msn/sp/HE17_MS105.bar/SP_HE17_MS105_bar0.png
+    - name: remastered/msn/sp/HB04_MS403.bar/SP_HB04_MS403_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_WORK_BAGGAGE_bar2.png
+  - name: remastered/msn/sp/TT06_BAGGAGE_02.bar/SP_TT06_BAGGAGE_02_bar3.png
+    multi:
+    - name: remastered/msn/sp/TT06_LETTER_02.bar/SP_TT06_LETTER_02_bar3.png
+    - name: remastered/msn/sp/TT07_POSTER_01.bar/SP_TT07_POSTER_01_bar2.png
+    - name: remastered/msn/sp/TT07_POSTER_02.bar/SP_TT07_POSTER_02_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_BAGGAGE_02_bar3.png
+  - name: remastered/msn/sp/TT06_LETTER_01.bar/SP_TT06_LETTER_01_bar3.png
+    multi:
+    - name: remastered/msn/sp/TT06_LETTER_02.bar/SP_TT06_LETTER_02_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_WORK_LETTER_bar3.png
+  - name: remastered/msn/sp/TT06_PERFORM_01.bar/SP_TT06_PERFORM_01_bar3.png
+    multi:
+    - name: remastered/msn/sp/TT06_PERFORM_02.bar/SP_TT06_PERFORM_02_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_WORK_PERFORM_bar3.png
+  - name: remastered/msn/sp/TT06_PERFORM_01.bar/SP_TT06_PERFORM_01_bar2.png
+    multi:
+    - name: remastered/msn/sp/TT06_PERFORM_02.bar/SP_TT06_PERFORM_02_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_WORK_PERFORM_bar2.png
+  - name: remastered/msn/sp/TT07_CLEAN_01.bar/SP_TT07_CLEAN_01_bar2.png
+    multi:
+    - name: remastered/msn/sp/TT07_CLEAN_02.bar/SP_TT07_CLEAN_02_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_WORK_CLEAN_bar3.png
+  - name: remastered/msn/sp/TT07_POSTER_01.bar/SP_TT07_POSTER_01_bar3.png
+    multi:
+    - name: remastered/msn/sp/TT07_POSTER_02.bar/SP_TT07_POSTER_02_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_WORK_POSTER_bar3.png
+  - name: remastered/msn/sp/TT07_SKATE_01.bar/SP_TT07_SKATE_01_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_SKATE_01_bar3.png
+  - name: remastered/msn/sp/TT07_SKATE_01.bar/SP_TT07_SKATE_01_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_SKATE_01_bar4.png
+  - name: remastered/msn/sp/TT07_CLEAN_01.bar/SP_TT07_CLEAN_01_bar3.png
+    multi:
+    - name: remastered/msn/sp/TT07_POSTER_02.bar/SP_TT07_CLEAN_02_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_WORK_CLEAN_bar3.png
+  - name: remastered/msn/sp/WI02_MS103.bar/SP_WI02_MS103_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_WI02_MS103_bar0.png
+  
+  #BARRES PERSONATGES
+  - name: remastered/msn/sp/BB13_KINOKO_XAL.bar/SP_BB13_KINOKO_XAL_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_BB12_GIMMICK_bar0.png
+  - name: remastered/msn/sp/DC00_MS101.bar/SP_DC00_MS101_bar0.png
+    multi: 
+    - name: remastered/msn/sp/DC02_MS100.bar/SP_DC02_MS100_bar0.png
+    - name: remastered/msn/sp/DC02_MS101.bar/SP_DC02_MS101_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_DC00_MS101_bar0.png
+  - name: remastered/msn/sp/HE08_MS106.bar/SP_HE08_MS106_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE08_MS106_bar0.png
+  - name: remastered/msn/sp/HE08_MS106.bar/SP_HE08_MS106_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE08_MS106_bar0.png
+  
+  #BARRES BATALLES
+  - name: remastered/msn/sp/EH22_MS111.bar/SP_EH22_MS111_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_EH22_MS111_bar0.png
+  - name: remastered/msn/sp/EH26_MS108.bar/SP_EH26_MS108_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_EH26_MS108_bar0.png
+  - name: remastered/msn/sp/EH26_MS108.bar/SP_EH26_MS108_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_EH26_MS108_bar1.png
+  - name: remastered/msn/sp/EH26_MS108.bar/SP_EH26_MS108_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_EH26_MS108_bar2.png
+  - name: remastered/msn/sp/HB08_MS102.bar/SP_HB08_MS102_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HB08_MS102_bar0.png
+  - name: remastered/msn/sp/HB32_FM_VEX.bar/SP_HB32_FM_VEX_bar0.png
+    multi: 
+    - name: remastered/msn/sp/HB33_FM_VEX.bar/SP_HB33_FM_VEX_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HB32_FM_VEX_bar0.png
+  - name: remastered/msn/sp/MU01_MS102.bar/SP_MU01_MS102_bar0.png
+    multi: 
+    - name: remastered/msn/sp/MU01_MS103C.bar/SP_MU01_MS103C_bar1.png
+    - name: remastered/msn/sp/MU02_MS103A.bar/SP_MU02_MS103A_bar1.png
+    - name: remastered/msn/sp/MU02_MS103B.bar/SP_MU02_MS103B_bar0.png
+    - name: remastered/msn/sp/MU03_MS104.bar/SP_MU03_MS104_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_MU01_MS102_bar0.png
+  - name: remastered/msn/sp/MU09_MS108.bar/SP_MU09_MS108_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_MU09_MS108_bar0.png
+  - name: remastered/msn/sp/TR01_MS101.bar/SP_TR01_MS101_bar2.png
+    multi: 
+    - name: remastered/msn/sp/TR03_MS103.bar/SP_TR03_MS103_bar0.png
+    - name: remastered/msn/sp/TR04_MS104.bar/SP_TR04_MS104_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR01_MS101_bar2.png
+  - name: remastered/msn/sp/TR07_MS203.bar/SP_TR07_MS203_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR07_MS203_bar0.png
+  - name: remastered/msn/sp/TT12_WORK_BOX.bar/SP_TT12_WORK_BOX_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT12_WORK_BOX_bar3.png
+
+#Tutorials
+  - name: remastered/msn/sp/AL00_SKATE_01.bar/SP_AL00_SKATE_01_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL00_SKATE_01_bar5.png
+  - name: remastered/msn/sp/AL14_MS_K.bar/SP_AL14_MS_K_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_AL14_MS_K_bar0.png
+  - name: remastered/msn/sp/CA02_SKATE_01.bar/SP_CA02_SKATE_01_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_CA02_SKATE_01_bar5.png
+  - name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_EH14_MS103_bar2.png
+  - name: remastered/msn/sp/HB09_SKATE_01.bar/SP_HB09_SKATE_01_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HB09_SKATE_01_bar4.png
+  - name: remastered/msn/sp/HE00_MS104A.bar/SP_HE00_MS104A_bar4.png
+    multi:
+    - name: remastered/msn/sp/HE00_MS104B.bar/SP_HE00_MS104B_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE00_MS104A_bar4.png
+  - name: remastered/msn/sp/HE02_MS104D.bar/SP_HE02_MS104D_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE02_MS104D_bar5.png
+  - name: remastered/msn/sp/LM01_MS201_FREE.bar/SP_LM01_MS201_FREE_bar0.png
+    multi:
+    - name: remastered/msn/sp/LM01_MS201.bar/SP_LM01_MS201_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_LM01_MS201_bar0.png
+  - name: remastered/msn/sp/LM02_MS102.bar/SP_LM02_MS102_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_LM02_MS102_bar0.png
+  - name: remastered/msn/sp/LM03_MS301_FREE.bar/SP_LM03_MS301_FREE_bar0.png
+    multi:
+    - name: remastered/msn/sp/LM03_MS301.bar/SP_LM03_MS301_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_LM03_MS301_bar0.png
+  - name: remastered/msn/sp/LM04_MS103_FREE.bar/SP_LM04_MS103_FREE_bar0.png
+    multi:
+    - name: remastered/msn/sp/LM04_MS103.bar/SP_LM04_MS103_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_LM04_MS103_bar0.png
+  - name: remastered/msn/sp/LM04_MS501_FREE.bar/SP_LM04_MS501_FREE_bar0.png
+    multi:
+    - name: remastered/msn/sp/LM04_MS501.bar/SP_LM04_MS501_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_LM04_MS501_bar0.png
+  - name: remastered/msn/sp/LM09_MS401_FREE.bar/SP_LM09_MS401_FREE_bar0.png
+    multi:
+    - name: remastered/msn/sp/LM09_MS401.bar/SP_LM09_MS401_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_LM09_MS401_bar0.png
+  - name: remastered/msn/sp/NM09_SKATE_01.bar/SP_NM09_SKATE_01_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM09_SKATE_01_bar5.png
+  - name: remastered/msn/sp/NM10_MS203_FREE.bar/SP_NM10_MS203_FREE_bar6.png
+    multi:
+    - name: remastered/msn/sp/NM10_MS203.bar/SP_NM10_MS203_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM10_MS203_bar4.png
+  - name: remastered/msn/sp/PO01_MS501_FREE.bar/SP_PO01_MS501_FREE_bar6.png
+    multi:
+    - name: remastered/msn/sp/PO01_MS501.bar/SP_PO01_MS501_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO01_MS501_bar5.png
+  - name: remastered/msn/sp/PO06_MS101_FREE.bar/SP_PO06_MS101_FREE_bar6.png
+    multi:
+    - name: remastered/msn/sp/PO06_MS101.bar/SP_PO06_MS101_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO06_MS101_FREE_bar4.png
+  - name: remastered/msn/sp/PO07_MS201_FREE.bar/SP_PO07_MS201_FREE_bar4.png
+    multi:
+    - name: remastered/msn/sp/PO07_MS201.bar/SP_PO07_MS201_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO07_MS201_FREE_bar4.png
+  - name: remastered/msn/sp/PO08_MS301_FREE.bar/SP_PO08_MS301_FREE_bar5.png
+    multi:
+    - name: remastered/msn/sp/PO08_MS301.bar/SP_PO08_MS301_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO08_MS301_bar5.png
+  - name: remastered/msn/sp/PO09_MS401_FREE.bar/SP_PO09_MS401_FREE_bar5.png
+    multi:
+    - name: remastered/msn/sp/PO09_MS401.bar/SP_PO09_MS401_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO09_MS401_bar5.png
+  - name: remastered/msn/sp/TR02_MS102_FREE.bar/SP_TR02_MS102_FREE_bar3.png
+    multi:
+    - name: remastered/msn/sp/TR02_MS102A.bar/SP_TR02_MS102A_bar2.png
+    - name: remastered/msn/sp/TR02_MS102B.bar/SP_TR02_MS102B_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR02_MS102_FREE_bar3.png
+  - name: remastered/msn/sp/TT04_MS00.bar/SP_TT04_MS00_bar6.png
+    multi:
+    - name: remastered/msn/sp/TT04_MS01.bar/SP_TT04_MS01_bar6.png
+    - name: remastered/msn/sp/TT04_MS02.bar/SP_TT04_MS02_bar6.png
+    - name: remastered/msn/sp/TT05_MS401.bar/SP_TT05_MS401_bar6.png
+    - name: remastered/msn/sp/TT05_MS402.bar/SP_TT05_MS402_bar6.png
+    - name: remastered/msn/sp/TT05_MS405.bar/SP_TT05_MS405_bar6.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT04_MS00_bar6.png
+  - name: remastered/msn/sp/TT06_BAGGAGE_01.bar/SP_TT06_BAGGAGE_01_bar3.png
+    multi:
+    - name: remastered/msn/sp/TT06_BAGGAGE_02.bar/SP_TT06_BAGGAGE_02_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_BAGGAGE_01_bar3.png
+  - name: remastered/msn/sp/TT06_LETTER_01.bar/SP_TT06_LETTER_01_bar4.png
+    multi:
+    - name: remastered/msn/sp/TT06_LETTER_02.bar/SP_TT06_LETTER_02_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_LETTER_01_bar4.png
+  - name: remastered/msn/sp/TT06_PERFORM_01.bar/SP_TT06_PERFORM_01_bar4.png
+    multi:
+    - name: remastered/msn/sp/TT06_PERFORM_02.bar/SP_TT06_PERFORM_02_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT06_PERFORM_01_bar4.png
+  - name: remastered/msn/sp/TT07_CLEAN_01.bar/SP_TT07_CLEAN_01_bar4.png
+    multi:
+    - name: remastered/msn/sp/TT07_CLEAN_02.bar/SP_TT07_CLEAN_02_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_CLEAN_01_bar4.png
+  - name: remastered/msn/sp/TT07_POSTER_01.bar/SP_TT07_POSTER_01_bar4.png
+    multi:
+    - name: remastered/msn/sp/TT07_POSTER_02.bar/SP_TT07_POSTER_02_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_POSTER_01_bar4.png
+  - name: remastered/msn/sp/TT07_SKATE_01.bar/SP_TT07_SKATE_01_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_SKATE_01_bar5.png
+  - name: remastered/msn/sp/TT07_WORM_01.bar/SP_TT07_WORM_01_bar3.png
+    multi:
+    - name: remastered/msn/sp/TT07_WORM_02.bar/SP_TT07_WORM_02_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TT07_WORM_01_bar3.png
+
+#File
+  - name: remastered/file/sp/ca_na.2ld/SP_ca_na_2ld2.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/ca_na.2ld/CA_ca_na_2ld2.png
+  - name: remastered/file/sp/hb_co.2ld/SP_hb_co_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/hb_co.2ld/CA_hb_co_2ld0.png
+  - name: remastered/file/sp/he_co.2ld/SP_he_co_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/he_co.2ld/CA_he_co_2ld0.png
+  - name: remastered/file/sp/he_co2.2ld/SP_he_co2_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/he_co2.2ld/CA_he_co2_2ld0.png
+  - name: remastered/file/sp/he_ft.2ld/SP_he_ft_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/he_ft.2ld/CA_he_ft_2ld0.png
+  - name: remastered/file/sp/lm_al.2ld/SP_lm_al_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/lm_al.2ld/CA_lm_al_2ld0.png
+  - name: remastered/file/sp/mg_lm_mu.2ld/SP_mg_lm_mu_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/mg_lm_mu.2ld/CA_mg_lm_mu_2ld0.png
+  - name: remastered/file/sp/mu_mi.2ld/SP_mu_mi_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/mu_mi.2ld/CA_mu_mi_2ld0.png
+  - name: remastered/file/sp/tr_tm.2ld/SP_tr_tm_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/tr_tm.2ld/CA_tr_tm_2ld0.png
+  - name: remastered/file/sp/tt_my.2ld/SP_tt_my_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/tt_my.2ld/CA_tt_my_2ld0.png
+  - name: remastered/file/sp/tt_pt.2ld/SP_tt_pt_2ld0.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/file/tt_pt.2ld/CA_tt_pt_2ld0.png
+  - name: remastered/file/sp/wm_ws.2ld/SP_wm_ws_2ld1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/file/wm_ws.2ld/CA_wm_ws_2ld1.png
+
+#Gumimenu
+  - name: remastered/gumimenu/sp/gumiedit.bar/SP_gumiedit_bar9.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumimenu/gumiedit.bar/CA_gumiedit_bar9.png
+  - name: remastered/gumimenu/sp/gumiedit.bar/SP_gumiedit_bar12.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumimenu/gumiedit.bar/CA_gumiedit_bar12.png
+  - name: remastered/gumimenu/sp/gumiedit.bar/SP_gumiedit_bar17.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumimenu/gumiedit.bar/CA_gumiedit_bar17.png
+  - name: remastered/gumimenu/sp/gumiedit.bar/SP_gumiedit_bar18.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumimenu/gumiedit.bar/CA_gumiedit_bar18.png
+  - name: remastered/gumimenu/sp/gumimenu.bar/SP_gumimenu_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/gumimenu/CA_gumimenu_bar0.png
+  - name: remastered/gumimenu/sp/gumimenu.bar/SP_gumimenu_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/gumimenu/CA_gumimenu_bar2.png
+  - name: remastered/gumimenu/sp/gumimenu.bar/SP_gumimenu_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/gumimenu/CA_gumimenu_bar4.png
+  - name: remastered/gumimenu/sp/gumimenu.bar/SP_gumimenu_bar6.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/gumimenu/CA_gumimenu_bar6.png
+
+#Limit
+  - name: remastered/limit/sp/alladin.bar/SP_aladdin_bar5.dds
+    multi:
+    - name: remastered/limit/sp/auron.bar/SP_auron_bar10.dds
+    - name: remastered/limit/sp/beast.bar/SP_beast_bar8.dds
+    - name: remastered/limit/sp/chickenlittle.bar/SP_chickenlittle_bar0.dds
+    - name: remastered/limit/sp/donald.bar/SP_donald_bar6.dds
+    - name: remastered/limit/sp/donald_wi.bar/SP_donald_wi_bar6.dds
+    - name: remastered/limit/sp/donald2.bar/SP_donald2_bar6.dds
+    - name: remastered/limit/sp/donald2_wi.bar/SP_donald2_wi_bar6.dds
+    - name: remastered/limit/sp/genie_brave.bar/SP_genie_brave_bar0.dds
+    - name: remastered/limit/sp/genie_final.bar/SP_genie_final_bar0.dds
+    - name: remastered/limit/sp/genie_master.bar/SP_genie_master_bar0.dds
+    - name: remastered/limit/sp/genie_wisdom.bar/SP_genie_wisdom_bar0.dds
+    - name: remastered/limit/sp/goofy.bar/SP_goofy_bar4.dds
+    - name: remastered/limit/sp/goofy_wi.bar/SP_goofy_wi_bar4.dds
+    - name: remastered/limit/sp/goofy2.bar/SP_goofy2_bar6.dds
+    - name: remastered/limit/sp/goofy2_wi.bar/SP_goofy2_wi_bar6.dds
+    - name: remastered/limit/sp/jack.bar/SP_jack_bar13.dds
+    - name: remastered/limit/sp/last_alcanam.bar/SP_last_alcanam_bar0.dds
+    - name: remastered/limit/sp/mulan.bar/SP_mulan_bar8.dds
+    - name: remastered/limit/sp/peterpan.bar/SP_peterpan_bar0.dds
+    - name: remastered/limit/sp/ragnarok.bar/SP_ragnarok_bar0.dds
+    - name: remastered/limit/sp/riku.bar/SP_riku_bar13.dds
+    - name: remastered/limit/sp/simba.bar/SP_simba_bar7.dds
+    - name: remastered/limit/sp/sonic_rave.bar/SP_sonic_rave_bar0.dds
+    - name: remastered/limit/sp/sparrow.bar/SP_sparrow_bar9.dds
+    - name: remastered/limit/sp/stitch.bar/SP_stitch_bar0.dds
+    - name: remastered/limit/sp/strike_raid.bar/SP_strike_raid_bar0.dds
+    - name: remastered/limit/sp/trinity.bar/SP_trinity_bar16.png
+    - name: remastered/limit/sp/trinity_wi.bar/SP_trinity_wi_bar16.png
+    - name: remastered/limit/sp/trinity_zz.bar/SP_trinity_zz_bar16.png
+    - name: remastered/limit/sp/tron.bar/SP_tron_bar7.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/limit/CA_TT06_WORK_PERFORM_bar2.dds
+  - name: remastered/limit/sp/alladin.bar/SP_aladdin_bar6.dds
+    multi:
+    - name: remastered/limit/sp/auron.bar/SP_auron_bar11.dds
+    - name: remastered/limit/sp/beast.bar/SP_beast_bar9.dds
+    - name: remastered/limit/sp/chickenlittle.bar/SP_chickenlittle_bar1.dds
+    - name: remastered/limit/sp/donald.bar/SP_donald_bar7.dds
+    - name: remastered/limit/sp/donald_wi.bar/SP_donald_wi_bar7.dds
+    - name: remastered/limit/sp/donald2.bar/SP_donald2_bar7.dds
+    - name: remastered/limit/sp/donald2_wi.bar/SP_donald2_wi_bar7.dds
+    - name: remastered/limit/sp/genie_brave.bar/SP_genie_brave_bar1.dds
+    - name: remastered/limit/sp/genie_final.bar/SP_genie_final_bar1.dds
+    - name: remastered/limit/sp/genie_master.bar/SP_genie_master_bar1.dds
+    - name: remastered/limit/sp/genie_wisdom.bar/SP_genie_wisdom_bar1.dds
+    - name: remastered/limit/sp/goofy.bar/SP_goofy_bar5.dds
+    - name: remastered/limit/sp/goofy_wi.bar/SP_goofy_wi_bar5.dds
+    - name: remastered/limit/sp/goofy2.bar/SP_goofy2_bar7.dds
+    - name: remastered/limit/sp/goofy2_wi.bar/SP_goofy2_wi_bar7.dds
+    - name: remastered/limit/sp/jack.bar/SP_jack_bar14.dds
+    - name: remastered/limit/sp/last_alcanam.bar/SP_last_alcanam_bar1.dds
+    - name: remastered/limit/sp/mulan.bar/SP_mulan_bar9.dds
+    - name: remastered/limit/sp/peterpan.bar/SP_peterpan_bar1.dds
+    - name: remastered/limit/sp/ragnarok.bar/SP_ragnarok_bar1.dds
+    - name: remastered/limit/sp/riku.bar/SP_riku_bar14.dds
+    - name: remastered/limit/sp/simba.bar/SP_simba_bar8.dds
+    - name: remastered/limit/sp/sonic_rave.bar/SP_sonic_rave_bar1.dds
+    - name: remastered/limit/sp/sparrow.bar/SP_sparrow_bar10.dds
+    - name: remastered/limit/sp/stitch.bar/SP_stitch_bar1.dds
+    - name: remastered/limit/sp/strike_raid.bar/SP_strike_raid_bar1.dds
+    - name: remastered/limit/sp/trinity.bar/SP_trinity_bar17.png
+    - name: remastered/limit/sp/trinity_wi.bar/SP_trinity_wi_bar17.png
+    - name: remastered/limit/sp/trinity_zz.bar/SP_trinity_zz_bar17.png
+    - name: remastered/limit/sp/tron.bar/SP_tron_bar8.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/limit/CA_auron_bar11.dds
+  - name: remastered/limit/sp/trinity.bar/SP_trinity_bar15.png
+    multi:
+    - name: remastered/limit/sp/trinity_wi.bar/SP_trinity_wi_bar15.png
+    - name: remastered/limit/sp/trinity_zz.bar/SP_trinity_zz_bar15.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/limit/CA_trinity_bar15.dds
+
+#Obj
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/obj/P_EX100_SIDECAR.a.ca/-9.png
+  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-9.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.ca/-9.png
+  - name: remastered/obj/P_EX200.a.sp/-9.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/obj/P_EX200.a.ca/-9.png
+  - name: remastered/obj/P_EX220.a.sp/-9.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/obj/P_EX220.a.ca/-9.png
+  - name: remastered/obj/P_EX350.a.sp/-16.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/obj/P_EX350.a.ca/-16.png
+  - name: obj/PO06_PLAYER.a.sp
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: obj/PO06_PLAYER.a.ca
+  - name: remastered/obj/PO06_PLAYER.a.sp/-0.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/obj/PO06_PLAYER.a.ca/-0.png
+  - name: obj/PO07_PLAYER.a.sp
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: obj/PO07_PLAYER.a.ca
+  - name: remastered/obj/PO07_PLAYER.a.sp/-1.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/obj/PO07_PLAYER.a.ca/-1.png
+  - name: obj/PO08_PLAYER.a.sp
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: obj/PO08_PLAYER.a.ca
+  - name: remastered/obj/PO08_PLAYER.a.sp/-1.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/obj/PO08_PLAYER.a.ca/-1.png

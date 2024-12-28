@@ -51,9 +51,9 @@
   text: >-
     El nou usuari va actualitzar
 
-    els programes{:delay 82 00}{:clear }i va rebatejar el sistema com
+    els programes{:delay 82 00}{:clear }i va renombrar el sistema com
 
-    "S.O. Baluard Balmat".
+    «S.O. Baluard Balmat».
 - id: 868
   text: >-
     Utilitzava el sistema per al
@@ -271,9 +271,9 @@
 
     El meu usuari és l'usuari
 
-    d'aquest sistema: {:delay 7E 00}{:clear }{:delay 30 00}{:clear }Ansem el Savi.
+    d'aquest sistema: {:delay 7E 00}{:clear }{:delay 30 00}{:clear }Ànsem el Savi.
 - id: 925
-  text: Ansem?
+  text: Ànsem?
 - id: 926
   text: Crec que el PCM ens ha descobert.
 - id: 927
@@ -282,7 +282,7 @@
 
     Vosaltres sortiu ja del sistema.
 - id: 928
-  text: És clar... però Tron... l'Ansem...
+  text: És clar... però Tron... l'Ànsem...
 - id: 929
   text: Et durem la contrasenya!
 - id: 930
@@ -443,11 +443,11 @@
 - id: 981
   text: Serà millor que em posi a treballar.{:delay 7A 00}{:clear }{:delay 5D 00}{:clear }És el que voldria el meu usuari.
 - id: 982
-  text: El que voldria l'Ansem...
+  text: El que voldria l'Ànsem...
 - id: 983
-  text: Escolta'm, Tron.{:delay 43 00}{:clear }{:delay 33 00}{:clear }La contrasenya no ens la va donar l'Ansem.{:delay 89 00}{:clear }{:delay 31 00}{:clear }La vam trobar{:delay 5E 00}{:clear }{:delay 11 00}{:clear }en el món dels usuaris...{:delay 62 00}{:clear }per casualitat.
+  text: Escolta'm, Tron.{:delay 43 00}{:clear }{:delay 33 00}{:clear }La contrasenya no ens la va donar l'Ànsem.{:delay 89 00}{:clear }{:delay 31 00}{:clear }La vam trobar{:delay 5E 00}{:clear }{:delay 11 00}{:clear }en el món dels usuaris...{:delay 62 00}{:clear }per casualitat.
 - id: 984
-  text: I una cosa més...{:delay 54 00}{:clear }{:delay 18 00}{:clear }L'Ansem...{:delay 2A 00}{:clear }{:delay 1A 00}{:clear }era el nostre enemic.
+  text: I una cosa més...{:delay 54 00}{:clear }{:delay 18 00}{:clear }L'Ànsem...{:delay 2A 00}{:clear }{:delay 1A 00}{:clear }era el nostre enemic.
 - id: 985
   text: És a dir, encara l'és... suposo.
 - id: 986
@@ -456,18 +456,18 @@
   text: Com és això?
 - id: 988
   text: >-
-    L'Ansem va utilitzar el sistema original
+    L'Ànsem va utilitzar el sistema original
 
     de l'ENCOM i el va personalitzar. {:delay 04 01}{:clear }{:delay 36 00}{:clear }Jo formava part del sistema original
 
-    i l'Ansem em va modificar.
+    i l'Ànsem em va modificar.
 - id: 989
   text: I allò el converteix en el meu usuari.
 - id: 990
   text: >-
-    Però l'Ansem va ser
+    Però l'Ànsem va ser
 
-    també qui va dur el PCM.{:delay D6 00}{:clear }{:delay 5E 00}{:clear }L'Ansem que coneixia
+    també qui va dur el PCM.{:delay D6 00}{:clear }{:delay 5E 00}{:clear }L'Ànsem que coneixia
 
     no ho hagués fet.{:delay 9D 00}{:clear }{:delay 40 00}Sento no haver-vos-ho dit.
 - id: 991
@@ -1092,12 +1092,12 @@
   text: Elimina els enemics i dirigeix-te a la meta!
 - id: 19567
   text: >-
-    Intenta utilitzar Atacar, Carrega i
+    Intenta utilitzar Ataca, Carrega i
 
     Bloqueig per vèncer cinc sensecor!
 - id: 19568
   text: >-
-    Utilitza Atacar, Carrega i Bloqueig per
+    Utilitza Ataca, Carrega i Bloqueig per
 
     eliminar els enemics i arribar a la meta!
 - id: 19760

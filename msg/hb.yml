@@ -22,14 +22,14 @@
 
     a les dades de...{:clear }les investigacions
 
-    de l'Ansem.
+    de l'Ànsem.
 - id: 2940
   text: '{:unk13 87 00 73 00}{:unk08 01 01 06}Crec que sí.'
 - id: 2941
   text: >-
     {:unk13 A6 00 43 00}{:unk08 01 01 06}Però ja vau acabar
 
-    amb l'Ansem...
+    amb l'Ànsem...
 - id: 2942
   text: >-
     {:unk13 90 01 9B 00}{:unk08 01 00 05}Òndia, pot ser
@@ -61,11 +61,11 @@
 - id: 2952
   text: Què són aquests gargots?
 - id: 2953
-  text: Baluard... {:delay 5F 00}{:clear }{:delay 3C 00}Central... {:delay 4B 00}{:clear }{:delay 3C 00}{:clear }Seguretat, Tron... {:delay C8 00}{:clear }{:delay 37 00}{:clear }"Door to...
+  text: Baluard... {:delay 5F 00}{:clear }{:delay 3C 00}Central... {:delay 4B 00}{:clear }{:delay 3C 00}{:clear }Seguretat, Tron... {:delay C8 00}{:clear }{:delay 37 00}{:clear }«Door to...
 - id: 2954
   text: Sembla un diagrama o una cosa així.
 - id: 2955
-  text: '"Door To... Darkness"?'
+  text: '«Door To... Darkness»?'
 - id: 2956
   text: Oh!
 - id: 2957
@@ -80,7 +80,7 @@
 
     l'entorn de dades!{:delay B4 00}{:clear }{:delay 25 00}{:clear }DTD! No ho veus?
 
-    Les sigles de "Door To Darkness"!
+    Les sigles de «Door To Darkness»!
 - id: 2961
   text: >-
     És clar! Però...
@@ -90,7 +90,7 @@
   text: >-
     Ei, nanos. Digueu-me.
 
-    Algú ha dit "Door to Darkness"?
+    Algú ha dit «Door to Darkness»?
 - id: 2963
   text: Majestat!
 - id: 2964
@@ -121,7 +121,7 @@
   text: >-
     Amb aquella contrasenya podriem
 
-    accedir a les investigacions de l'Ansem.
+    accedir a les investigacions de l'Ànsem.
 - id: 2974
   text: >-
     Això vol dir...
@@ -129,7 +129,7 @@
     que potser descubriu el seu parador!
 - id: 2975
   text: >-
-    Deixi's de bromes, Majestat. {:delay 64 00}{:clear }{:delay 0F 00}{:clear }Ja vam derrotar l'Ansem,
+    Deixi's de bromes, Majestat. {:delay 64 00}{:clear }{:delay 0F 00}{:clear }Ja vam derrotar l'Ànsem,
 
     i vos ho sabeu.
 - id: 2976
@@ -192,9 +192,9 @@
 - id: 2999
   text: No
 - id: 3000
-  text: Selecciona un destí.
+  text: Selecciona una destinació.
 - id: 3001
-  text: Vols transportar-te aquí?
+  text: Vols transportar-t'hi?
 - id: 7525
   text: No es pot anar per aquí.
 - id: 8067
@@ -321,7 +321,7 @@
     el que creu el Léon...
 - id: 8164
   text: >-
-    Ha anat a l'estudi de l'Ansem a
+    Ha anat a l'estudi de l'Ànsem a
 
     esbrinar què carai anava tot això.
 - id: 8165
@@ -814,7 +814,7 @@
   text: >-
     Primer s'hauran de trobar les
 
-    dades de la investigació de l'Ansem.{:clear }Després us ho explicaré tot.
+    dades de la investigació de l'Ànsem.{:clear }Després us ho explicaré tot.
 
     Per favor, aneu amb compte.
 - id: 9003
@@ -1333,7 +1333,7 @@
   text: >-
     {:unk13 59 01 46 00}{:unk08 01 00 04}Hem trobat l'ordinador
 
-    que l'Ansem utilitzava!
+    que l'Ànsem utilitzava!
 - id: 12467
   text: '{:unk13 A5 00 E6 00}{:unk08 01 00 05}Ostres!'
 - id: 12468
@@ -1392,7 +1392,7 @@
   text: >-
     {:unk13 A0 00 5A 00}{:unk08 01 01 05}Heu trobat l'ordinador
 
-    de l'Ansem?
+    de l'Ànsem?
 - id: 12490
   text: >-
     {:unk13 B4 00 3C 00}{:unk08 01 01 07}Sí. El rei hi està
@@ -1425,7 +1425,7 @@
 - id: 12497
   text: '{:unk13 0E 01 2D 00}{:unk08 01 01 06}Bona idea!'
 - id: 12498
-  text: Ansem...
+  text: Ànsem...
 - id: 12499
   text: >-
     Òndia! Suposo que aquest
@@ -1470,7 +1470,7 @@
   text: >-
     {:unk13 AA 00 50 00}{:unk08 01 01 06}La sala d'ordinadors
 
-    de l'Ansem.
+    de l'Ànsem.
 - id: 12515
   text: Aquí està!
 - id: 12516
@@ -1595,7 +1595,7 @@
   text: >-
     Ni tan sols l'ordinador
 
-    de l'Ansem ho sap.
+    de l'Ànsem ho sap.
 - id: 12558
   text: Què estàs fent?
 - id: 12559
@@ -1604,7 +1604,7 @@
 
     parlar-nos d'aquells incorporis.
 - id: 12560
-  text: '[Estudis sobre els incorporis. Informes Ansem.]'
+  text: '[Estudis sobre els incorporis. Informes Ànsem.]'
 - id: 12561
   text: Què és això?
 - id: 12562
@@ -1644,14 +1644,14 @@
 
     paio que no coneixem.
 - id: 12575
-  text: L'Ansem el Savi!
+  text: L'Ànsem el Savi!
 - id: 12576
   text: Ens esteu prenent el pèl?
 - id: 12577
   text: >-
     Us heu oblidat de quin aspecte
 
-    tenia l'Ansem, Majestat?
+    tenia l'Ànsem, Majestat?
 - id: 12578
   text: És clar que no! Aquell no és ell. {:delay 68 00}{:clear }N'estic segur!
 - id: 12580
@@ -1661,7 +1661,7 @@
     per aquí, si us plau?
 - id: 12581
   text: >-
-    Mireu, aquest és l'Ansem. {:delay 78 00}{:clear }{:delay 25 00}{:clear }Ja sabeu, aquell a qui tant
+    Mireu, aquest és l'Ànsem. {:delay 78 00}{:clear }{:delay 25 00}{:clear }Ja sabeu, aquell a qui tant
 
     ens va costar derrotar.
 - id: 12582
@@ -1675,7 +1675,7 @@
   text: >-
     L'home de la foto és, sens dubte, {:delay 7C 00}{:clear }el que intentà apoderar-se del regne;{:delay 7C 00}{:clear }a qui vosaltres derrotàreu. {:delay 7F 00}{:clear }Però no lluitàveu contra ell,
 
-    sinó contra el seu sensecor.{:delay 44 01}{:clear }En realitat no era l'Ansem; {:delay 8F 00}{:clear }anava per allà dient-li a
+    sinó contra el seu sensecor.{:delay 44 01}{:clear }En realitat no era l'Ànsem; {:delay 8F 00}{:clear }anava per allà dient-li a
 
     tot el món que ho era.
 - id: 12585
@@ -1693,7 +1693,7 @@
   text: >-
     Eh... M'estic fent un embolic. {:delay 8C 00}{:clear }Si és un farsant,
 
-    què li va passar al vertader Ansem?
+    què li va passar al vertader Ànsem?
 - id: 12591
   text: >-
     Bé, això és el que
@@ -1701,7 +1701,7 @@
     intento esbrinar.
 - id: 12592
   text: >-
-    Ansem el Savi deu saber tot sobre
+    Ànsem el Savi deu saber tot sobre
 
     els plans de l'Organizació {XIII}{:delay FC 00}{:clear }i el que le està passant als mons.
 - id: 12593
@@ -1717,9 +1717,9 @@
   text: No em digueu que hi ha més!{:delay 5A 00}{:clear }{:delay 2E 00}{:clear }Ja vaig suficientment perdut!
 - id: 12597
   text: >-
-    Anem a veure...{:delay 5E 00}{:clear }Un tipus anomenat Ansem,
+    Anem a veure...{:delay 5E 00}{:clear }Un tipus anomenat Ànsem,
 
-    que no era realment l'Ansem,{:delay DE 00}{:clear }es va convertir en un sensecor.{:delay 74 00}{:clear }Llavors, també es va crear un
+    que no era realment l'Ànsem,{:delay DE 00}{:clear }es va convertir en un sensecor.{:delay 74 00}{:clear }Llavors, també es va crear un
 
     incorpori quan va passar allò?
 - id: 12598
@@ -1735,7 +1735,7 @@
   text: >-
     Sé que he vist abans
 
-    a aquell "fals" Ansem{:delay 90 00}{:clear }i també he vist el líder
+    a aquell «fals» Ànsem{:delay 90 00}{:clear }i també he vist el líder
 
     de l'Organització {XIII}.
 - id: 12602
@@ -1746,7 +1746,7 @@
   text: Vaja! {:delay 32 00}{:clear }{:delay 34 00}{:clear }No me'n recordo.
 - id: 12605
   text: >-
-    Ansem el Savi...{:delay 64 00}{:clear }El vertader Ansem... Ell deu saber
+    Ànsem el Savi...{:delay 64 00}{:clear }El vertader Ànsem... Ell deu saber
 
     la vertadera identitat de l'impostor.{:delay 07 01}{:clear }Per això haig de trobar-lo
 
@@ -1777,7 +1777,7 @@
   text: >-
     Pensava anar a demanar
 
-    ajuda a l'Ansem el Savi, {:delay A8 00}{:clear }{:delay 1C 00}{:clear }però m'he adonat que he oblidat
+    ajuda a l'Ànsem el Savi, {:delay A8 00}{:clear }{:delay 1C 00}{:clear }però m'he adonat que he oblidat
 
     una cosa molt important.
 - id: 12615
@@ -2136,7 +2136,7 @@
 - id: 12742
   text: Eh!
 - id: 12743
-  text: És el tipus aquell que no és l'Ansem!
+  text: És el tipus aquell que no és l'Ànsem!
 - id: 12744
   text: Vols dir el seu incorpori!
 - id: 12745
@@ -2144,7 +2144,7 @@
 - id: 12746
   text: Un moment! Ara ho entenc!
 - id: 12747
-  text: Savi Ansem,{:delay 54 00}{:clear }vinc a demanar son consell.
+  text: Savi Ànsem,{:delay 54 00}{:clear }vinc a demanar son consell.
 - id: 12748
   text: >-
     M'alegra tenir la oportunitat
@@ -2161,7 +2161,7 @@
     hagi provocat tot això...
 - id: 12751
   text: >-
-    Mestre Ansem.{:delay 48 00}{:clear }Amb respecte a l'experiment que
+    Mestre Ànsem.{:delay 48 00}{:clear }Amb respecte a l'experiment que
 
     li vaig presentar l'altre dia...{:delay 99 00}{:clear }{:delay 18 00}{:clear }amb el seu permís, voldria continuar...
 - id: 12752
@@ -2171,13 +2171,13 @@
     i el cor de tots els mons.{:delay C6 00}{:clear }Aquell lloc no debe ser profanat!
 - id: 12753
   text: >-
-    Però, mestre Ansem...
+    Però, mestre Ànsem...
 
     he estat pensant...
 - id: 12754
   text: Xehanort...{:delay 50 00}{:clear }{:delay 2D 00}{:clear }Serà millor que te n'oblidis.
 - id: 12755
-  text: Ja me'n recordo!{:delay 4E 00}{:clear }És en Xehanort!{:delay 3C 00}{:clear }L'aprenent de l'Ansem!
+  text: Ja me'n recordo!{:delay 4E 00}{:clear }És en Xehanort!{:delay 3C 00}{:clear }L'aprenent de l'Ànsem!
 - id: 12756
   text: >-
     El líder de l'Organització {XIII}
@@ -2745,7 +2745,7 @@
 - id: 15160
   text: Ostres! S'ha escapat!
 - id: 15161
-  text: Què estrany! {:delay 4B 00}{:clear }{:delay 23 00}{:clear }Què és això de "la mateixa cara"?
+  text: Què estrany! {:delay 4B 00}{:clear }{:delay 23 00}{:clear }Què és això de «la mateixa cara»?
 - id: 15162
   text: >-
     Ehh, jo crec que només
@@ -2915,12 +2915,12 @@
 - id: 16750
   text: El Léon ha caigut! Utilitza Sanar per despertar-lo!
 - id: 17002
-  text: Un retrat de l'Ansem.
+  text: Un retrat de l'Ànsem.
 - id: 17003
   text: >-
     Un retrat de l'home a qui
 
-    vas confondre con l'Ansem.
+    vas confondre con l'Ànsem.
 - id: 17004
   text: Un retrat d'en Xehanort.
 - id: 17005
@@ -3262,7 +3262,7 @@
 
     i habilitats per vèncer el Sephiroth!
 - id: 18836
-  text: "{:unk13 FA 00 3C 00}{:unk08 01 01 06}Un moment, Sora.{:clear }Què n'és de la teva màgia?"
+  text: "{:unk13 FA 00 3C 00}{:unk08 01 01 06}Un moment, Sora.{:clear }Què n'és, de la teva màgia?"
 - id: 18837
   text: '{:unk13 18 01 64 00}{:unk08 01 00 05}Eh?{:clear }Ah, doncs la veritat...'
 - id: 18838
@@ -3548,7 +3548,7 @@
 
     Haurem de buscar una altre camí.
 - id: 20358
-  text: Ha passat molt de temps, "vell amic".
+  text: N'ha passat molt, de temps, «vell amic».
 - id: 20541
   text: Utilitza atacs potents per obrir les vàlvules. Has d'obrir les tres a la vegada!
 - id: 20543
@@ -3609,15 +3609,15 @@
 - id: 21483
   text: "{:delayandfade 08 78} \nSegons el Merlí, el Pooh no recorda\nres perquè els sensecor han robat\nalgunes pàgines del seu llibre.\n \nEl Sora ha d'afanyar-se en\nrecuperar una a una les pàgines\ni tornar al món del simpàtic os\nabans que la cosa empitjori.\n \n \n"
 - id: 21484
-  text: "{:delayandfade 0A 78} \nEl Sora torna a la casa del Merlí\ni rep de part del Cid la notícia que\nl'ordinador de l'Ansem ha aparegut\ni que podria contenir dades sobre el\nRiku, la Kairi, el rei i l'Organització {XIII}.\n \nEntusiasmats per la troballa,\nen Sora, el Donald i el Goofy\ns'afanyen cap a la sala de l'ordinador.\n \n"
+  text: "{:delayandfade 0A 78} \nEl Sora torna a la casa del Merlí\ni rep de part del Cid la notícia que\nl'ordinador de l'Ànsem ha aparegut\ni que podria contenir dades sobre el\nRiku, la Kairi, el rei i l'Organització {XIII}.\n \nEntusiasmats per la troballa,\nen Sora, el Donald i el Goofy\ns'afanyen cap a la sala de l'ordinador.\n \n"
 - id: 21485
   text: "{:delayandfade 07 B4} \nGràcies a l'inestimable ajuda del Tron,\nel Sora i els seus aconsegueixen tornar al\nmón real, però encara queda molt per fer.\n \n \n \n \n \n \n"
 - id: 21486
-  text: "{:delayandfade 08 78} \nEs necesaria una contraseña\npara acceder a los datos de\nlas investigaciones de Ansem,\ny qué mejor lugar para buscarla\nque su propio estudio.\n \nSora y sus amigos saben que\ndar con ella no será una tarea\nfácil, pero tras un registro\nminucioso...\n"
+  text: "{:delayandfade 08 78} \nEs necesaria una contraseña\npara acceder a los datos de\nlas investigaciones de Ànsem,\ny qué mejor lugar para buscarla\nque su propio estudio.\n \nSora y sus amigos saben que\ndar con ella no será una tarea\nfácil, pero tras un registro\nminucioso...\n"
 - id: 21487
-  text: "{:delayandfade 0A 78} \nUn año atrás, Sora y sus amigos\nse enfrentaron a un vil sincorazón\nque pretendía hacerse con\nKingdom Hearts: Ansem, el buscador\nde oscuridad.\n \nSin embargo, ahora descubren que\nno es ese su verdadero nombre.\nAquel sincorazón era un impostor\nque simplemente suplantó tal nombre."
+  text: "{:delayandfade 0A 78} \nUn año atrás, Sora y sus amigos\nse enfrentaron a un vil sincorazón\nque pretendía hacerse con\nKingdom Hearts: Ànsem, el buscador\nde oscuridad.\n \nSin embargo, ahora descubren que\nno es ese su verdadero nombre.\nAquel sincorazón era un impostor\nque simplemente suplantó tal nombre."
 - id: 21488
-  text: "{:delayandfade 0A 78} \nL'infame líder de l'Organització {XIII}.\nL'incorpori del Xehanort, l'aprenent\nde l'Ansem.\n \n \n \n \n \n \n \n"
+  text: "{:delayandfade 0A 78} \nL'infame líder de l'Organització {XIII}.\nL'incorpori del Xehanort, l'aprenent\nde l'Ànsem.\n \n \n \n \n \n \n \n"
 - id: 21489
   text: "{:delayandfade 0A 78} \nHa arribat el moment de\nposar fi a la contesa.\n \nEl Xehanort no pot escapar-se!\n \n \n \n \n \n \n"
 - id: 21490
@@ -3627,7 +3627,7 @@
 - id: 21492
   text: "{:delayandfade 08 78} \nAra que ho han resolt,\nnomés queda una cosa a fer.\n \nMentre l'Aerith i la resta\nd'encarreguen de les coses en\nel món dels usuaris, el Sora ha\nd'entrar de nou a l'entorn de dades.\n \n \n"
 - id: 21493
-  text: "{:delayandfade 0A 78} \nEn acabar de compartir amb el Cloud\nles paraules del Sephiroth, el jove\nabaixa el cap i reflexiona...\n \n\"Doncs és l'hora que acabem\namb això\", sentència.\n \n \n \n"
+  text: "{:delayandfade 0A 78} \nEn acabar de compartir amb el Cloud\nles paraules del Sephiroth, el jove\nabaixa el cap i reflexiona...\n \n\"«Doncs és l'hora que acabem\namb això»\", sentencia.\n \n \n \n"
 - id: 21565
   text: El teus comandaments són en el llibre! Allibera'ls!
 - id: 21566

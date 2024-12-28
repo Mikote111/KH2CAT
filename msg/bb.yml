@@ -1,0 +1,1869 @@
+﻿- id: 3018
+  text: >-
+    Din Don ha anat a
+
+    la cambra de l'amo.{:clear }Si us plau, Sora, ves amb ell.{:theme 0A}
+
+    L'amo{:reset} està sol.
+- id: 3019
+  text: >-
+    No permetrem que ningú
+
+    sospitós campi pel castell!{:clear }Tot i que vostè, per descomptat,
+
+    sempre serà benvingut.
+- id: 3020
+  text: >-
+    Estic segur que l'amo se'n
+
+    penedeix del que ha dit.{:clear }Per favor, {:theme 0A}
+
+    ajudi'l a recuperar la rosa{:reset}.
+- id: 3021
+  text: >-
+    L'home de negro ha
+
+    fugit {:theme 0A}cap el jardí{:reset}.{:clear }Preparin-se per al que vingui
+
+    i tinguin molt de compte.
+- id: 3022
+  text: >-
+    El saló de ball i els jardins
+
+    són el millor d'aquest castell.{:clear }Espero que aquells intrusos
+
+    no causin danys...
+- id: 3023
+  text: >-
+    Si pogués, m'encantaria
+
+    oferir-los un te...{:clear }Intentin descansar una mica.
+
+    Aquest lloc sembla bastant segur.
+- id: 3024
+  text: >-
+    Hauríeu de poder arribar al
+
+    soterrani pel {:theme 0A}corredor oest{:reset}.{:clear }Probablement estiguin tots
+
+    tancats abaix, en la masmorra.
+- id: 3025
+  text: >-
+    La Bèstia és una persona de bon cor.
+
+    Estic segura que tot sortirà bé.
+- id: 3026
+  text: >-
+    Si us plau...
+
+    m'agradria estar a soles...
+- id: 3027
+  text: >-
+    Esperaré aquí.
+
+    Per favor, vagin a rescatar als altres!
+- id: 3028
+  text: >-
+    Busquen la Bella? Se n'ha
+
+    anat a per l'home de negre.{:clear }Em preocupa que l'amo hi vagi sol.
+
+    Podrien ajudar-lo a {:theme 0A}trobar la Bella{:reset}?
+- id: 3029
+  text: >-
+    Aquest castell va canviar
+
+    totalment quan va arribar la Bella.
+- id: 3030
+  text: >-
+    Em temo que la Bella no hi és.{:clear }Però la seva ropa segueix aquí,
+
+    així que dubto que hagi sortit.{:clear }Per què no la busquen en
+
+    {:theme 0A}la cambra de l'amo{:reset}?
+- id: 3031
+  text: >-
+    La Bella porta així massa temps.{:clear }I no hi ha res que jo pugui
+
+    fer per animar-la...
+- id: 3032
+  text: >-
+    Ara que ho diu, he vist per la
+
+    finestra un home vestit de negre.{:clear }Semblava dirigir-se al {:theme 0A}jardí{:reset}.
+- id: 3033
+  text: >-
+    Les armadures del corredor oest
+
+    haurien de deixar-lo passar ara.{:clear }Per favor, {:theme 0A}vagi a veure la Bella{:reset}!
+
+    De pressa!
+- id: 3034
+  text: >-
+    Què passa?{:clear }Hauríem d'anar a
+
+    per la Bella també?
+- id: 3035
+  text: Oh, això és horrible!{:clear }Em sembla que l'amo se'n va a la {:theme 0A}seva cambra{:reset}.
+- id: 3036
+  text: >-
+    Llavors aquelles coses ens va
+
+    atacar només per distreure'ns!?
+- id: 3037
+  text: >-
+    Mai havia vist l'amo
+
+    tan furiós.{:clear }Quan l'home de negre va dir «quelcom
+
+    molt preuat per a tu», no es referiria a...
+- id: 3038
+  text: >-
+    Sabíeu que el Din Don també
+
+    pot fer sonar la seva alarma?{:clear }És tan fort que
+
+    despertaria a qualsevol!
+- id: 3039
+  text: >-
+    Sembla que totes les estàtues
+
+    del castell s'han tornat dolentes.{:clear }Per favor, vagin amb compte.
+- id: 3040
+  text: >-
+    Per favor, vagin a dalt {:theme 0A}i preguntin{:reset}
+
+    al Din Don pel passadís secret.
+- id: 3044
+  text: Derrota els sensecor!
+- id: 3046
+  text: Ajuda la Bèstia a entrar en raó!
+- id: 3049
+  text: Venç tots els incorporis!
+- id: 3050
+  text: Venç tots els incorporis!
+- id: 3066
+  text: Eh? Quin lloc és aquest?
+- id: 3067
+  text: És enorme!
+- id: 3068
+  text: I una mica sinistre, no creieu?
+- id: 3069
+  text: Qui viurà aquí?
+- id: 3070
+  text: ''
+- id: 3071
+  text: Ei, no us sona aquell rugit?
+- id: 3072
+  text: Ei! És la Bèstia!
+- id: 3073
+  text: Sí!
+- id: 3074
+  text: I si anem a veure què li passa?
+- id: 3075
+  text: Mireu!
+- id: 3076
+  text: Som-hi!
+- id: 3077
+  text: On s'ha ficat?
+- id: 3078
+  text: És aquí!
+- id: 3079
+  text: ''
+- id: 3080
+  text: Oh, vinga, ja n'hi ha prou.
+- id: 3081
+  text: Que algú ens ajudi!
+- id: 3082
+  text: Just a temps!
+- id: 3083
+  text: >-
+    Òndia! Creiue que s'ha
+
+    oblidat de nosaltres?
+- id: 3084
+  text: >-
+    Amb tants sensecor lliure,
+
+    alguna n'ha hagut de passar.
+- id: 3085
+  text: Per què haurà fet allò?
+- id: 3086
+  text: ''
+- id: 3087
+  text: >-
+    {:unk13 5E 01 18 01}{:unk08 01 00 02}Si la Bèstia és aquí,
+
+    la Bella hauria de ser
+
+    a prop, no?
+- id: 3088
+  text: >-
+    {:unk13 18 01 2C 01}{:unk08 01 00 01}Cert.
+
+    Potser la Bella en
+
+    sàpiga alguna cosa.
+- id: 3089
+  text: '{:unk13 C8 00 5E 01}{:unk08 01 01 02}Anem a buscar-la!'
+- id: 3090
+  text: '{:unk13 9A 01 64 00}{:unk08 01 00 05}Què passa?'
+- id: 3091
+  text: >-
+    {:unk13 AA 00 96 00}{:unk08 01 01 05}M'ha semblat veure
+
+    una dona al final
+
+    d'aquelles escales...
+- id: 3094
+  text: Donald!
+- id: 3095
+  text: Oh! M'alegro tant que estiguis aquí!
+- id: 3096
+  text: Donald!
+- id: 3097
+  text: Sora! Goofy!
+- id: 3098
+  text: Com va?
+- id: 3099
+  text: Baixa'm! Baixaaaaaaa'm!
+- id: 3100
+  text: Què puc fer?
+- id: 3101
+  text: Shhh!
+- id: 3102
+  text: Molt bé!
+- id: 3103
+  text: Eh! Qui ha obert la porta?
+- id: 3104
+  text: '{:unk13 A0 00 DC 00}{:unk08 01 01 06}On és la Bèstia?'
+- id: 3105
+  text: >-
+    {:unk13 36 01 46 00}{:unk08 01 00 05}Pot ser que sigui en el ala oest.
+
+    Últimament no parlem molt.
+- id: 3106
+  text: '{:unk13 6D 00 8F 00}{:unk08 01 01 06}Que ha passat res?'
+- id: 3107
+  text: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}Sí.{:clear }És que no sou
+
+    aquí per això?
+- id: 3108
+  text: >-
+    {:unk13 FA 00 32 00}{:unk08 01 00 05}No exactament. Però
+
+    podem donar un cop de mà!
+- id: 3109
+  text: '{:unk13 0E 01 32 00}{:unk08 01 01 06}Ja que som aquí...'
+- id: 3110
+  text: '{:unk13 A0 00 A0 00}{:unk08 01 01 06}La Bèstia no et parla?'
+- id: 3111
+  text: '{:unk13 4A 01 50 00}{:unk08 01 00 05}Últimament està molt estrany.'
+- id: 3112
+  text: >-
+    {:unk13 4A 01 46 00}{:unk08 01 00 05}Els únics que podrien
+
+    saber-ne la raó estan
+
+    tancats a la masmorra.{:clear }Voldria ajudar-los,
+
+    però...
+- id: 3113
+  text: >-
+    {:unk13 0E 01 3C 00}{:unk08 01 01 06}Un moment.
+
+    Qui ha tancat a qui?
+- id: 3114
+  text: >-
+    {:unk13 FA 00 2C 01}{:unk08 01 00 01}La Bèstia va tancar
+
+    els seus servents.
+- id: 3115
+  text: '{:unk13 40 01 A0 00}{:unk08 01 00 05}Però, per què?'
+- id: 3116
+  text: "{:unk13 FA 00 32 00}{:unk08 01 00 05}Això m'agradaria saber a mi."
+- id: 3117
+  text: '{:unk13 49 01 2A 01}{:unk08 01 00 00}Mmm.{:clear }On és la masmorra?'
+- id: 3118
+  text: >-
+    {:unk13 4A 01 46 00}{:unk08 01 00 05}Podeu accedir al soterrani
+
+    pel corredor oest.
+
+    La masmorra és allà.
+- id: 3119
+  text: "{:unk13 2C 01 2C 01}{:unk08 01 00 00}Corredor oest. D'acord."
+- id: 3120
+  text: '{:unk13 A0 00 46 00}{:unk08 01 01 06}Aneu amb compte!'
+- id: 3121
+  text: >-
+    {:unk13 5E 01 32 00}{:unk08 01 00 05}Hi hauria d'haver un camí
+
+    al soterrani per aquí...
+- id: 3122
+  text: '{:unk06 02}{:unk13 8C 00 C8 00}{:unk08 03 01 06}És aquí!'
+- id: 3123
+  text: '{:unk06 02}{:unk13 B4 00 46 00}{:unk08 03 01 06}Amb permís!'
+- id: 3124
+  text: >-
+    {:unk13 F3 00 BE 00}{:unk08 01 01 01}Just quan començava
+
+    a posar-me còmoda...
+- id: 3125
+  text: '{:unk13 7C 01 32 00}{:unk08 01 00 05}Puc ajudar-los?'
+- id: 3126
+  text: >-
+    {:unk13 7C 01 50 00}{:unk08 01 00 05}Eh?{:clear }Què?{:clear }Oh, sí.
+
+    La Bella ens ha demanat
+
+    que anem al soterrani.
+- id: 3127
+  text: >-
+    {:unk13 AB 00 33 00}{:unk08 01 01 06}Ai, mare!{:clear }Volen ajudar els meus amics?
+
+    Haver-ho dit abans...
+- id: 3128
+  text: '{:unk13 DC 00 5E 01}{:unk08 01 00 01}Eehh...'
+- id: 3129
+  text: >-
+    {:unk13 86 01 32 00}{:unk08 01 00 05}Lamento
+
+    haver-los espantat.{:clear }Jo abans era
+
+    humana, fins que...{:clear }una fetillera em va
+
+    llençar un encanteri.
+- id: 3130
+  text: >-
+    {:unk13 2C 01 78 00}{:unk08 01 00 06}Em va convertir en un armari,
+
+    i al príncep en una bèstia.
+- id: 3131
+  text: '{:unk13 2C 01 46 00}{:unk08 01 00 05}El príncep és la Bèstia!?'
+- id: 3132
+  text: '{:unk13 B4 00 E6 00}{:unk08 01 01 00}La Bèstia és un príncep!?'
+- id: 3133
+  text: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}Efectivament.{:clear }Tot i que no solia
+
+    comportar-se com un príncep.
+- id: 3134
+  text: >-
+    {:unk13 72 01 32 00}{:unk08 01 00 05}Explica'ns més sobre
+
+    aquell... encanteri.
+- id: 3135
+  text: "{:unk13 2B 01 2E 00}{:unk08 01 00 05}Bé. Era una freda nit d'hivern..."
+- id: 3136
+  text: >-
+    {:unk13 C8 00 36 00}{:unk08 01 01 06}I això és tot per ara.{:clear }Sentireu la resta quan
+
+    hagueu rescatat als altres.{:clear }Això els servirà
+
+    d'incentiu.
+- id: 3137
+  text: '{:unk13 FA 00 B4 00}{:unk08 01 00 05}Doncs vaja...'
+- id: 3138
+  text: >-
+    {:unk13 3E 01 4A 00}De pressa. La masmorra
+
+    és humida i freda.{:clear }No és un bon lloc per a un rellotge!
+- id: 3139
+  text: '{:unk13 F1 00 29 00}{:unk08 01 00 05}Un rellotge?'
+- id: 3140
+  text: '{:unk13 FA 00 32 00}{:unk08 01 01 06}Aviat ho descobriran.'
+- id: 3141
+  text: >-
+    {:unk13 E6 00 32 00}{:unk08 01 01 06}D'acord.
+
+    En marxa.
+- id: 3142
+  text: Deu ser aquí.
+- id: 3143
+  text: Oh, oh!
+- id: 3144
+  text: >-
+    {:unk13 65 01 A9 00}{:unk08 01 01 05}Creieu que la masmorra
+
+    és darrere aquella porta?
+- id: 3145
+  text: >-
+    {:unk13 8B 00 A7 00}{:unk08 01 01 06}Vinga, hem d'alliberar
+
+    els servents!
+- id: 3146
+  text: '{:unk13 5E 01 C8 00}{:unk08 01 00 05}Tens raó. Som-hi.'
+- id: 3147
+  text: Aquí no hi ha ningú.
+- id: 3148
+  text: Llavors, no n'hi ha rescat?
+- id: 3149
+  text: Algú ha dit «rescat»?
+- id: 3150
+  text: >-
+    Sshh.{:delay 36 00}{:clear }Quiets.
+
+    Podrien ser els dolents.
+- id: 3151
+  text: A mi em semblen bons nanos.
+- id: 3152
+  text: Sí, som bons. Som amics.
+- id: 3153
+  text: Sí.{:delay 19 00}{:clear }{:delay 1E 00}{:clear }La Bella ens envia a buscar-vos.
+- id: 3154
+  text: ''
+- id: 3155
+  text: Soc en Sora.
+- id: 3156
+  text: Donald.
+- id: 3157
+  text: Goofy.
+- id: 3158
+  text: Jo... em dono corda sol, senyor.
+- id: 3159
+  text: M'alegro que estigueu bé.
+- id: 3160
+  text: >-
+    Nosaltres sí que ens
+
+    alegrem de veure'ls!
+- id: 3161
+  text: >-
+    És que també us han
+
+    encisat a vosaltres?
+- id: 3162
+  text: >-
+    Oh. Sí, exacte.{:delay 78 00} {:clear }Com ho ha sabut?
+
+    Va ser una bruixa.
+- id: 3163
+  text: Quants anys fa ja...?
+- id: 3164
+  text: Fou una freda nit d'hivern...
+- id: 3165
+  text: >-
+    Una anciana vingué al castell i demanà
+
+    permís per a refugiar-se del fred.
+- id: 3166
+  text: >-
+    Però a l'amo del castell,
+
+    és a dir, el príncep...
+- id: 3167
+  text: >-
+    Prou!
+
+    Deixi'm anar ara mateix!
+- id: 3168
+  text: >-
+    {:unk13 2C 01 46 00}{:unk08 01 01 06}L'amo no la deixà entrar.{:clear }La repudià pel seu...
+
+    ejem... aspecte humil.
+- id: 3169
+  text: '{:unk13 90 01 FA 00}{:unk08 01 00 05}Què malvat!'
+- id: 3170
+  text: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 05}Oui. Era un príncep malcriat, tan
+
+    egoísta i... com dir-ho?...
+
+    Cruel.
+- id: 3171
+  text: '{:unk06 02}{:unk13 A4 01 FA 00}{:unk08 03 00 02}Lumière!'
+- id: 3172
+  text: >-
+    {:unk13 C8 00 46 00}{:unk08 01 00 05}L'anciana digué al nostre
+
+    amo que no havia de deixar-se
+
+    enganyar per les aparences...{:clear }Però ell no li feu cas.
+- id: 3173
+  text: >-
+    {:unk13 2C 01 50 00}{:unk08 01 01 06}Aleshores l'anciana
+
+    es transformà.{:clear }En realitat era una
+
+    formosa fetillera.
+- id: 3174
+  text: >-
+    {:unk13 DC 00 46 00}{:unk08 01 00 05}I després convertí el príncep
+
+    en una bèstia, per a que el seu
+
+    aspecte fos tan horrible com el seu cor.
+- id: 3175
+  text: >-
+    {:unk13 4A 01 50 00}{:unk08 01 01 06}I per a que el càstig fos major,
+
+    ens encisà a tots els del castell.
+- id: 3176
+  text: >-
+    {:unk13 90 01 2C 01}{:unk08 01 00 01}Vaja...
+
+    Quina història.
+- id: 3177
+  text: >-
+    {:unk13 FA 00 3C 00}{:unk08 01 00 05}Hi ha res que poguem
+
+    fer per ajudar?
+- id: 3178
+  text: '{:unk06 02}{:unk13 2C 01 96 00}{:unk08 03 00 05}Anem a per la fetillera!'
+- id: 3179
+  text: '{:unk06 02}{:unk13 AA 00 78 00}{:unk08 03 00 05}Oh, no.'
+- id: 3180
+  text: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}Ja sabem el que s'ha
+
+    de fer, però tal i com
+
+    es comporta l'amo ara...
+- id: 3181
+  text: >-
+    {:unk13 DC 00 3C 00}{:unk08 01 01 06}Alguna cosa rara
+
+    li passa, no?
+- id: 3182
+  text: >-
+    {:unk13 96 00 64 00}{:unk08 01 00 06}És com si no pogués
+
+    confiar en ningú.
+- id: 3183
+  text: >-
+    {:unk13 4A 01 5A 00}{:unk08 01 01 06}No creureu que s'ha convertit
+
+    en un sensecor, oi?
+- id: 3184
+  text: '{:unk06 02}{:unk13 18 01 A0 00}{:unk08 03 00 06}Un sensecor!?'
+- id: 3185
+  text: >-
+    {:unk13 D2 00 3C 00}{:unk08 01 01 06}Si ells hi estan ficats,
+
+    és preferible que estem aquí.
+- id: 3186
+  text: >-
+    {:unk13 96 00 96 00}{:unk08 01 01 06}Trobem
+
+    la Bèstia!
+- id: 3187
+  text: "{:unk06 02}{:unk13 72 01 46 00}{:unk08 03 00 06}D'acord!"
+- id: 3188
+  text: >-
+    {:unk13 FA 00 C8 00}{:unk08 01 00 06}Segueixin-me, messieurs.
+
+    Conec una drecera.
+- id: 3189
+  text: >-
+    {:unk13 AA 00 C8 00}{:unk08 01 01 06}Deixin pas als
+
+    nostres hostes!
+- id: 3190
+  text: '{:unk13 A0 00 D2 00}{:unk08 01 01 05}Endavant, per favor.'
+- id: 3192
+  text: >-
+    {:unk13 A6 00 69 00}{:unk08 01 01 06}Bé, haig de revisar el
+
+    castell. Temo que la meva
+
+    absència hagi estat massa llarga.
+- id: 3193
+  text: "{:unk13 B3 00 D0 00}{:unk08 01 01 06}Jo també haig d'anar-me'n, estimats."
+- id: 3194
+  text: '{:unk13 FA 00 3C 00}{:unk08 01 01 06}Compte amb els sensecor!'
+- id: 3195
+  text: >-
+    {:unk13 5E 01 96 00}{:unk08 01 00 05}La cambra de l'amo
+
+    és just al final
+
+    de l'ala oest.{:clear }Aniré davant i
+
+    els esperaré allà.
+- id: 3196
+  text: Ara has d'encarregar-te... de la Bella.
+- id: 3197
+  text: >-
+    Pretèn arrabassar-te tot
+
+    allò que posseeixes.
+- id: 3198
+  text: El castell, la teva preuada rosa...{:delay A0 00}{:clear }{:delay 32 00}{:clear }I per últim... la teva vida.
+- id: 3199
+  text: No confiïs en ningú. Alimenta la teva ira!
+- id: 3200
+  text: Només ella et mantindrà fort.
+- id: 3201
+  text: >-
+    No és poder el que vull.
+
+    Ara només ansio...
+- id: 3202
+  text: Què? Estimar i ser estimat a canvi?{:delay E6 00}{:clear }{:delay 3D 00}{:clear }Qui podria estimar una bèstia?
+- id: 3203
+  text: Allà en tens els seus còmplices.
+- id: 3204
+  text: Ei, príncep!
+- id: 3205
+  text: Ai, mare! Amo!
+- id: 3206
+  text: Din Don... què ha passat?
+- id: 3207
+  text: >-
+    Doncs, amo... eh... aviam... d'això...
+
+    com ho diria jo?... En realitat...
+- id: 3208
+  text: >-
+    Et va enfurismar contra tots i
+
+    els vas tancar en un calabós!
+- id: 3209
+  text: Allò vaig fer?
+- id: 3210
+  text: '... Efectivament.'
+- id: 3211
+  text: Qui era aquell tipus?{:delay 64 00}{:clear }{:delay 0A 00}{:clear }El de negre.
+- id: 3212
+  text: >-
+    Xaldin!{:delay 49 00}{:clear }{:delay 77 00}Així es diu.{:delay 62 00}{:clear }Va sorgir de la foscor...
+
+    i ha utilitzat la meva ira per controlar-me.
+- id: 3213
+  text: >-
+    Ha fet aflorar tot el meu pesar,
+
+    la meva tristesa, el meu dolor...{:delay 08 01}{:clear }i ho ha transformat en ràbia.
+- id: 3214
+  text: >-
+    Em va deixar indefens... Era
+
+    incapaç de distingir la veritat.
+- id: 3215
+  text: >-
+    Òndia! Per això vas tancar tots
+
+    els teus amics en el calabós.
+- id: 3216
+  text: >-
+    Volies estar segur que
+
+    no els faries mal, oi?
+- id: 3217
+  text: Espero que realment així fos...
+- id: 3218
+  text: >-
+    És clar. Sabem que
+
+    en el fons ets bo.
+- id: 3219
+  text: >-
+    Té raó, amo.
+
+    Hem vist que podeu ser bo.{:delay 14 01}{:clear }Després de tot...
+- id: 3220
+  text: >-
+    La Bella coneix la bondat del vostre
+
+    cor, però, tot i així, em temo que...
+- id: 3221
+  text: Bella!
+- id: 3222
+  text: >-
+    L'he tratada malament.
+
+    Molt malament. I he sigut un egoista.
+- id: 3223
+  text: No ha dit res del tema.
+- id: 3224
+  text: >-
+    Ella mai en parlaria malament
+
+    a ningú... És massa bona.
+- id: 3225
+  text: >-
+    Veurà, l'amo es jutja a sí
+
+    mateix amb massa duresa.
+- id: 3226
+  text: Per què no vas a parlar amb ella?
+- id: 3227
+  text: Però...
+- id: 3228
+  text: Res de peròs! Anirem tots amb tu.
+- id: 3229
+  text: '{:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}Amo!'
+- id: 3230
+  text: '{:unk13 72 01 96 00}{:unk08 01 00 06}Ara tots estan bé.'
+- id: 3231
+  text: >-
+    {:unk13 5B 00 7D 00}{:unk08 01 01 03}Perfecte!
+
+    Gràcies!
+- id: 3232
+  text: '{:unk13 36 01 64 00}{:unk08 01 00 05}On és la Bella?'
+- id: 3233
+  text: >-
+    {:unk13 4A 01 DC 00}{:unk08 01 00 01}Oh, ha sortit disparada.
+
+    Anava seguint els passos d'un
+
+    home de negre o una cosa així...
+- id: 3234
+  text: >-
+    {:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}Què!?{:clear }Per què mai
+
+    em fa cas!?
+- id: 3235
+  text: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}És tota un caràcter!{:clear }És el seu esperit el
+
+    que la fa tan especial.
+- id: 3236
+  text: "{:unk13 7C 01 50 00}{:unk08 01 01 05}L'hem de trobar!"
+- id: 3237
+  text: T'ho adverteixo! Te'n penediràs!
+- id: 3238
+  text: Bella! On ets?
+- id: 3239
+  text: >-
+    Bèstia! Socors!
+
+    Estic en el saló de ball!
+- id: 3240
+  text: Bella!
+- id: 3241
+  text: Estic bé!
+- id: 3242
+  text: Ho hem aconseguit!
+- id: 3243
+  text: Permet-me'n discrepar.
+- id: 3244
+  text: Xaldin!
+- id: 3245
+  text: Ens veiem!
+- id: 3246
+  text: Què busca aquell aquí?
+- id: 3247
+  text: Deu ser de l'Organització {XIII}.
+- id: 3248
+  text: Has sentit a parlar dels incorporis?
+- id: 3249
+  text: >-
+    Quan una persona
+
+    es converteix en un sensecor,{:delay 83 00}{:clear }també es crea un incorpori.
+- id: 3250
+  text: >-
+    A veure, l'Organització té el
+
+    control de tots els incorporis.
+- id: 3251
+  text: >-
+    Exacte.
+
+    Anaven a convertir-te en un sensecor.{:delay D8 00}{:clear }El seu objectiu era conseguir
+
+    un nou incorpori i controlar-lo.
+- id: 3252
+  text: Esteu bé!
+- id: 3253
+  text: Bella!
+- id: 3254
+  text: Bella... Ho sento. No era jo mateix.{:delay 50 01}{:clear }Espero no haver-te fet mal.
+- id: 3255
+  text: Perdona'm.
+- id: 3256
+  text: >-
+    Sé que no erets tu mateix.
+
+    No has de disculpar-te.
+- id: 3257
+  text: >-
+    Però sí esperava...
+
+    que haguéssis canviat una miqueta.
+- id: 3258
+  text: Tant de bo aprenguessis a confiar en mi.
+- id: 3259
+  text: >-
+    Oh, em temo que
+
+    se'ns acaba el temps.
+- id: 3260
+  text: Què vols dir?
+- id: 3261
+  text: Recorden la rosa?
+- id: 3262
+  text: La del quarto de la Bèstia?
+- id: 3263
+  text: >-
+    Exacte. Vegin.
+
+    Si l'amo aprèn a estimar i{:delay DC 00}{:clear }a guanyar-se l'amor d'algú abans
+
+    que caigui l'último pètal...
+- id: 3264
+  text: "... es desfarà l'encanteri."
+- id: 3265
+  text: >-
+    De debò?
+
+    Creieu que ho aconseguirà?
+- id: 3266
+  text: Si, hi confiem.
+- id: 3267
+  text: Ajiah. Em sembla que teniu raó.
+- id: 3268
+  text: Espero que així sigui.
+- id: 3269
+  text: Què ha passat?
+- id: 3270
+  text: La porta s'ha obert!
+- id: 3271
+  text: Heu de partir?
+- id: 3272
+  text: Sí.
+- id: 3273
+  text: I res de discutir, d'acord?
+- id: 3274
+  text: Ens n'encarregarem.
+- id: 3275
+  text: Cuidin-se, estimats.
+- id: 3276
+  text: Aquí sempre seran benvinguts!
+- id: 3277
+  text: >-
+    Si us assabenteu de res del Riku o el rei,{:delay A2 00}{:clear }els sensecor, l'Organització...
+
+    el que sigui, aviseu-nos!
+- id: 3278
+  text: Bé, ens en anem!
+- id: 3279
+  text: Espero que tot vagi bé.
+- id: 3280
+  text: I jo.{:delay 28 00}{:clear }{:delay 2E 00}{:clear }Però, per què estarà tan nerviós?
+- id: 3281
+  text: L'amo té el seu costat tímid, sap?
+- id: 3282
+  text: '{:unk06 02}{:unk13 64 00 40 01}{:unk08 03 00 05}Ei!'
+- id: 3283
+  text: '{:unk13 5E 01 FA 00}{:unk08 01 00 05}Ni sensecor ni incorporis!'
+- id: 3284
+  text: '{:unk13 96 00 B4 00}{:unk08 01 00 05}No deuen ser lluny...'
+- id: 3285
+  text: "{:unk13 C6 00 B6 00}{:unk08 01 00 06}S'ha d'anar amb compte."
+- id: 3286
+  text: '{:unk13 68 01 C8 00}{:unk08 01 00 05}Sembles una mica nerviós.'
+- id: 3287
+  text: '{:unk13 C8 00 3C 00}{:unk08 01 01 06}Què feu aquí?'
+- id: 3288
+  text: >-
+    {:unk13 C8 00 78 00}{:unk08 01 00 06}El món dels incorporis
+
+    ha d'estar en algun lloc.{:clear }Estem buscant una entrada.
+- id: 3289
+  text: '{:unk13 7C 01 32 00}{:unk08 01 00 05}Mmm.'
+- id: 3290
+  text: Aquesta nit és molt important.
+- id: 3291
+  text: >-
+    Ui! Potser hem vingut
+
+    en un mal moment.
+- id: 3292
+  text: Bé, només hi ha una manera de saber-ho.
+- id: 3293
+  text: Donald!
+- id: 3294
+  text: >-
+    Ara, Monsieur, Mademoiselle...
+
+    per favor... gaudeixin de la velada.
+- id: 3295
+  text: >-
+    I també donem la benvinguda als
+
+    nostres honorables convidats.
+- id: 3296
+  text: Quina grata benvinguda!
+- id: 3297
+  text: L'Organització!
+- id: 3298
+  text: No apreneu la lecció.
+- id: 3299
+  text: Oh, és clar! Ara veuràs!
+- id: 3300
+  text: Fora!
+- id: 3301
+  text: Aquesta nit no!
+- id: 3302
+  text: >-
+    Vinc a reclamar una cosa
+
+    molt preuada per a tu.
+- id: 3303
+  text: Així m'agrada. Deixa que creixi la teva ira.
+- id: 3304
+  text: >-
+    Bèstia! Primer hem
+
+    de desfer-nos d'aquests!
+- id: 3305
+  text: '{:unk06 02}{:unk13 5E 01 64 00}{:unk08 03 01 06}On és la Bella!?'
+- id: 3306
+  text: '{:unk06 02}{:unk13 64 00 32 00}{:unk08 03 00 05}Aquí!'
+- id: 3307
+  text: '{:unk13 E0 00 26 00}{:unk08 01 00 04}Ufff, està fora de perill.'
+- id: 3308
+  text: "{:unk13 36 01 32 00}{:unk08 01 01 06}Al final el Xaldin no s'ha endut res."
+- id: 3309
+  text: '{:unk13 B4 00 AA 00}{:unk08 01 00 01}Què passa?'
+- id: 3310
+  text: '{:unk13 96 00 0E 01}{:unk08 01 01 06}Bella?'
+- id: 3311
+  text: '{:unk13 DC 00 32 00}{:unk08 01 01 06}Què els passa?'
+- id: 3312
+  text: >-
+    {:unk13 C8 00 46 00}{:unk08 01 00 05}Potser la Bella no sigui l'únic
+
+    valuós per a la Bèstia.
+- id: 3313
+  text: '{:unk13 FA 00 FA 00}{:unk08 01 00 05}Som-hi!'
+- id: 3314
+  text: Què passa?
+- id: 3315
+  text: Calma't, per favor!
+- id: 3316
+  text: Que em calmi!?
+- id: 3317
+  text: ''
+- id: 3318
+  text: >-
+    Havies de muntar una festa, oi?
+
+    No veus el que ha passat?
+- id: 3319
+  text: Eh! Què et passa?
+- id: 3320
+  text: La rosa... La meva preuada rosa...
+- id: 3321
+  text: Què passa? Se l'ha enduta?
+- id: 3322
+  text: >-
+    Però si el castell
+
+    és ple de roses...
+- id: 3323
+  text: Silenci! No en tens ni idea!
+- id: 3324
+  text: >-
+    Això no està bé, Bèstia.
+
+    No ho paguis amb la Bella.{:delay E4 00}{:clear }Ella no l'ha robada!
+- id: 3325
+  text: Ho sento.
+- id: 3326
+  text: No has de disculpar-te.
+- id: 3327
+  text: Però...
+- id: 3328
+  text: >-
+    Bella... Sora...
+
+    Vull que us en aneu del castell.
+- id: 3329
+  text: >-
+    Mira'm. No ho veus?
+
+    Això és el que soc.
+- id: 3330
+  text: >-
+    M'he esforçat per canviar
+
+    des que vas arribar.
+- id: 3331
+  text: >-
+    Però només m'hi enganyava.
+
+    No puc ser-ne diferent.
+- id: 3332
+  text: >-
+    Sempre seré una bèstia.
+
+    Per això he de viure-ho com a tal.{:delay 32 01}{:clear }Sol. Sense ningú.
+- id: 3333
+  text: Adeu, Bella.
+- id: 3334
+  text: Parles de debò?
+- id: 3335
+  text: Ai, ha estat molt clar.
+- id: 3336
+  text: Sí.
+- id: 3337
+  text: >-
+    Mira, Bella. Deixa'ns a nosaltres.{:delay 7E 00}{:clear }Si recuperem la seva rosa,
+
+    la Bèstia es calmarà.
+- id: 3338
+  text: '{:unk13 36 01 C8 00}{:unk08 01 00 05}Pobrissona...'
+- id: 3339
+  text: >-
+    {:unk13 5E 01 8C 00}{:unk08 01 00 05}No m'explico com
+
+    s'ha arribat a això...
+- id: 3340
+  text: >-
+    {:unk13 5E 01 64 00}{:unk08 01 00 05}I pensar que esperaven aquesta
+
+    nit amb tantes ganes...
+- id: 3341
+  text: >-
+    {:unk13 A0 00 A8 00}{:unk08 01 01 04}A veure, a veure... no hi ha
+
+    motiu per a posar-se tan trist.
+- id: 3342
+  text: >-
+    {:unk13 40 01 46 00}{:unk08 01 01 05}Quan la rosa es recuperi,
+
+    això s'haurà acabat.
+- id: 3343
+  text: >-
+    {:unk13 36 01 78 00}{:unk08 01 00 06}Per què és aquella rosa
+
+    tan especial?
+- id: 3344
+  text: >-
+    {:unk13 40 01 C8 00}{:unk08 01 00 02}Si l'amo aconsegueix amar i ser
+
+    amat, l'encanteri es trencarà.
+
+    I tots tornarem a ser humans.
+- id: 3345
+  text: '{:unk13 78 00 E6 00}{:unk08 01 01 05}Sí. Ens ho vau dir.'
+- id: 3346
+  text: >-
+    {:unk13 DC 00 C8 00}{:unk08 01 01 01}Però hi ha un
+
+    límit de temps.
+- id: 3347
+  text: >-
+    {:unk13 FA 00 4A 01}Ha de trobar el seu amor
+
+    vertader abans que caigui
+
+    l'últim pètal d'aquella rosa.
+- id: 3348
+  text: '{:unk13 5E 01 46 00}Ah, però allò no és tot...'
+- id: 3349
+  text: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}Amb el temps, cuidar-se d'aquella rosa
+
+    s'ha tornat una cosa molt important
+
+    en la vida diària de l'amo.
+- id: 3350
+  text: >-
+    {:unk13 5E 01 96 00}{:unk08 01 00 05}És com si tots els seus somnis
+
+    i esperances estiguessin lligats
+
+    a aquella sola flor...
+- id: 3351
+  text: '{:unk06 02}{:unk13 C8 00 32 00}{:unk08 03 01 06}Pobre Bèstia!'
+- id: 3352
+  text: '{:unk13 B4 00 2D 00}{:unk08 01 01 06}Hem de recuperar-la.'
+- id: 3353
+  text: '{:unk13 5E 01 C8 00}{:unk08 01 00 05}Li ho roguem!'
+- id: 3354
+  text: >-
+    {:unk13 DC 00 3C 00}{:unk08 01 01 05}Però no podem
+
+    fer-ho sense la Bèstia.{:clear }Si és tan important per a ell,
+
+    ha de fer-ho per sí mateix.
+- id: 3355
+  text: Ei! Bèstia!
+- id: 3356
+  text: Deixa'm en pau.
+- id: 3357
+  text: Au va, has d'escoltar-me.
+- id: 3358
+  text: >-
+    Abans no coneixies la por. Hauries
+
+    donat la teva vida per salvar la Bella.
+- id: 3359
+  text: >-
+    No saps el que va significar allò?
+
+    El teu valor ens va inspirar tots.
+- id: 3360
+  text: >-
+    Hauries d'haver-te'n guardat
+
+    alguna cosa per a tu mateix.
+- id: 3361
+  text: >-
+    De debò penses llençar per
+
+    la borda la teva felicitat?
+- id: 3362
+  text: >-
+    La rosa és la teva única esperança,
+
+    oi?
+- id: 3363
+  text: >-
+    No només es tratca de tu, és la
+
+    salvació per al Din Don i els altres.
+- id: 3364
+  text: >-
+    Així que no desaprofitis
+
+    la teva última oportunitat.{:delay 96 00}{:clear }Recordes com era això abans
+
+    que la Bella visqués aquí?
+- id: 3365
+  text: Veus?{:delay 4E 00}{:clear }No pots rendir-te, ara no.
+- id: 3366
+  text: Una cosa tinc clara...
+- id: 3367
+  text: Què?
+- id: 3368
+  text: Aquest castell em pertany!{:delay BA 00}{:clear }El Xaldin mai serà benvingut aquí!
+- id: 3369
+  text: Vaja, Bèstia, al final has vingut.
+- id: 3370
+  text: >-
+    Em tenies preocupat. 
+
+    Temia que t'haguessis rendit.
+- id: 3371
+  text: Què carai voleu?
+- id: 3372
+  text: Kingdom Hearts!
+- id: 3373
+  text: >-
+    Quan el Kingdom Hearts ens pertanyi...
+
+    la nostra existència serà plena.
+- id: 3374
+  text: >-
+    Ho entens, Bèstia?{:delay 8C 00}{:clear }Heus aquí la raó per la qual necessitem
+
+    el teu sensecor i el teu incorpori!
+- id: 3375
+  text: '{:unk13 64 00 3C 00}{:unk08 01 00 05}Bella...'
+- id: 3376
+  text: '{:unk13 C8 00 46 00}{:unk08 01 00 05}Porta així hores i hores.'
+- id: 3377
+  text: >-
+    {:unk13 96 00 64 00}{:unk08 01 00 06}Després del que la Bèstia
+
+    li va dir, no em sorprèn.
+- id: 3378
+  text: '{:unk13 2C 01 46 00}{:unk08 01 01 06}Ho sento.'
+- id: 3379
+  text: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 06}Bella, la Bèstia anirà a
+
+    recuperar la rosa.{:clear }Ja veuràs, tot
+
+    s'arreglarà molt aviat.
+- id: 3380
+  text: >-
+    {:unk13 54 01 3C 00}{:unk08 01 00 05}No, la Bella ja ha patit
+
+    bastant per mi...
+- id: 3381
+  text: '{:unk13 64 00 FA 00}{:unk08 01 01 06}Shhh!'
+- id: 3382
+  text: >-
+    {:unk13 5E 01 4A 01}{:unk08 01 01 06}Primer recuperem la rosa.
+
+    Cada cosa al seu temps.
+- id: 3383
+  text: Si és...
+- id: 3384
+  text: Mireu! És la rosa!
+- id: 3385
+  text: Bella!
+- id: 3386
+  text: Ràpid!
+- id: 3387
+  text: ''
+- id: 3388
+  text: Tu! Fora del meu castell!
+- id: 3389
+  text: >-
+    Com ho desitgis...
+
+    però la càrrega és excessiva.{:delay F0 00}{:clear }Què hauria de deixar aquí?
+- id: 3390
+  text: La Bella?{:delay 4E 00}{:clear } O la rosa?
+- id: 3391
+  text: Bella!
+- id: 3392
+  text: ''
+- id: 3393
+  text: Bé, Bella!
+- id: 3394
+  text: Té. Aquí la tens.
+- id: 3395
+  text: Bella...
+- id: 3396
+  text: >-
+    Ho sé.
+
+    Vols que em vagi del castell.
+- id: 3397
+  text: >-
+    El que és important és... que el Xaldin
+
+    no t'ha fet mal. Estàs fora de perill.
+- id: 3398
+  text: >-
+    A més...{:delay 78 00}{:clear }t'estic molt agraït...
+
+    per retornar-me la rosa...{:delay B0 01}{:clear }Gràcies.
+- id: 3399
+  text: >-
+    És el mínim que podia fer.{:delay 73 00}{:clear }Has sigut bo amb mi.
+
+    I no tenies per què.
+- id: 3400
+  text: Escolta, Bella...
+- id: 3401
+  text: Sí?
+- id: 3402
+  text: Digues-ho!
+- id: 3403
+  text: Endavant!
+- id: 3404
+  text: Vinga!
+- id: 3405
+  text: Ànims, senyor!
+- id: 3406
+  text: Confiem en vostè.
+- id: 3407
+  text: No et fagis el tímid ara.
+- id: 3408
+  text: Bella, vull que et quedis...
+- id: 3409
+  text: '... amb mi.'
+- id: 3410
+  text: T'ho suplico.
+- id: 3411
+  text: Ho faré.
+- id: 3412
+  text: Mestre, música!
+- id: 3413
+  text: >-
+    Ei, heu vist la cara que ha
+
+    fet la Bella en agafar la rosa?
+- id: 3414
+  text: Carai, n'estava gaudint de valent.
+- id: 3415
+  text: No hi ha ningú com ella, oi?
+- id: 3416
+  text: Sempre a punt per viure una aventura.
+- id: 3417
+  text: Semblen fets l'un per a l'altre.
+- id: 3418
+  text: Sí, sens dubte!
+- id: 7526
+  text: '{:unk13 4A 01 A0 00}{:unk08 01 00 05}Tots a punt?'
+- id: 7527
+  text: >-
+    {:unk13 8C 00 8C 00}Oui. La porta secreta
+
+    hauria d'obrir-se ara.
+- id: 7528
+  text: >-
+    {:unk13 7C 01 A0 00}{:unk08 01 01 05}Jo no veig cap
+
+    porta secreta.
+- id: 7529
+  text: >-
+    {:unk13 4A 01 A0 00}{:unk08 01 01 05}No us n'heu
+
+    de preocupar.
+- id: 7530
+  text: >-
+    {:unk13 54 01 C8 00}{:unk08 01 01 05}Només empenyi aquell bloc
+
+    d'allà, el que sobresurt.
+- id: 7531
+  text: '{:unk13 C8 00 A0 00}{:unk08 01 01 06}Entesos.'
+- id: 7534
+  text: >-
+    {:unk13 E6 00 5A 00}{:unk08 01 01 05}A veure...{:clear }Si la Bèstia és aquí en
+
+    el castell, aquella dona
+
+    ha de ser la Bella, oi?
+- id: 7535
+  text: >-
+    {:unk13 72 01 50 00}{:unk08 01 00 06}Sí, n'hauria.{:clear }I segur que ella sap què
+
+    li passa a la Bèstia.
+- id: 7536
+  text: '{:unk13 B4 00 6E 00}{:unk08 01 01 06}Doncs anem a buscar-la!'
+- id: 7576
+  text: >-
+    {:unk13 96 00 64 00}{:unk08 01 01 05}A veure, com
+
+    sortim d'aquí?
+- id: 7577
+  text: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}Em temo que no serà
+
+    tan fàcil.{:clear }Fixin-se, la porta que du
+
+    a l'altre costa està oculta
+
+    per un dispositiu.
+- id: 7578
+  text: '{:unk13 96 00 6E 00}{:unk08 01 01 05}Quina classe de dispositiu?'
+- id: 7579
+  text: '{:unk13 64 00 64 00}{:unk08 01 00 05}Observin.'
+- id: 7580
+  text: >-
+    {:unk13 96 00 0E 01}{:unk08 01 00 06}El fanal ha
+
+    baixat!
+- id: 7581
+  text: >-
+    {:unk13 B4 00 78 00}{:unk08 01 01 05}Exacte.{:clear }Hem d'encendre tots els
+
+    fanals d'aquest passatge.{:clear }Només així s'obrirà
+
+    la porta secreta.
+- id: 7582
+  text: >-
+    {:unk13 40 01 82 00}{:unk08 01 00 06}Però, com poden veure, els
+
+    fanals ja estan il・luminats
+
+    amb una flama encantada.
+- id: 7583
+  text: >-
+    {:unk13 B3 00 74 00}{:unk08 01 01 05}Han d'apagar la flama encantada
+
+    per a que jo pugui encendre
+
+    els llums com Déu mana.
+- id: 7584
+  text: >-
+    {:unk13 75 01 CD 00}{:unk08 01 00 06}No n'hi ha prou amb
+
+    llençar-los una mica d'aigua?
+- id: 7585
+  text: >-
+    {:unk13 18 01 8C 00}{:unk08 01 01 05}Em temo que no
+
+    seria suficient.{:clear }Però potser amb
+
+    el poder de la llum...
+- id: 7586
+  text: >-
+    {:unk13 D2 00 A0 00}{:unk08 01 01 05}Mmm...{:clear }Què us sembla si ho intento
+
+    amb la clau espasa?
+- id: 7587
+  text: '{:unk06 02}{:unk13 82 00 B4 00}{:unk08 03 01 06}Fantàstic!'
+- id: 7588
+  text: >-
+    Apropa't als fanals i utilitza l'ordre
+
+    de reacció Ruixar per apagar-los.
+- id: 7589
+  text: >-
+    {:unk13 4A 01 B4 00}{:unk08 01 00 06}Només queden tres fanals!{:clear }Si treballem en equip,
+
+    obrirem aquella porta de seguida!
+- id: 7590
+  text: '{:unk13 7C 01 C8 00}{:unk08 01 00 04}És bufar i fer ampolles!'
+- id: 7592
+  text: >-
+    {:unk06 02}{:unk13 BE 00 64 00}{:unk08 03 01 06}Què? Per què?
+
+    Lumiere! Tu...
+- id: 7593
+  text: >-
+    {:unk13 BE 00 82 00}{:unk08 01 01 05}Si es cansa i cau, els
+
+    fanals no encesos pujaran
+
+    un altre cop al sostre.
+- id: 7594
+  text: >-
+    {:unk13 4A 01 82 00}{:unk08 01 00 06}Abans d'allunyar-se, ha
+
+    d'ajudar el Din Don.{:clear }Quan recuperi la seva força,
+
+    tornarà a sostindre la palanca.
+- id: 7595
+  text: >-
+    Ajuda el Din Don a recobrar forces
+
+    amb l'ordre de reacció Restablir.
+- id: 7596
+  text: "{:unk13 B4 00 78 00}{:unk08 01 01 06}D'acord! Intentem-ho!"
+- id: 7597
+  text: >-
+    {:unk13 A0 00 AA 00}{:unk08 01 01 05}Doncs no és tan
+
+    senzill, mon ami.
+- id: 7598
+  text: >-
+    {:unk13 40 01 78 00}{:unk08 01 01 05}No esperarà que el Din Don es
+
+    quedi penjat d'aquella palanca
+
+    eternament.
+- id: 7599
+  text: NOT USED
+- id: 7600
+  text: NOT USED
+- id: 7601
+  text: NOT USED
+- id: 7743
+  text: >-
+    Ajuda la Bèstia a posar-se a la raó!
+
+    Demana al Din Don que faci sonar la
+
+    seva alarma per espavilar la Bèstia!
+- id: 7744
+  text: >-
+    Derrota tots els incorporis!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 7745
+  text: >-
+    Derrota tots els incorporis!
+
+    Si utilitzes les ordres de reacció
+
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+- id: 7746
+  text: Intenta moure l'Armari!
+- id: 7747
+  text: Intenta-ho mentre dorm. No fagis soroll.
+- id: 7748
+  text: Encèn tots els fanals!
+- id: 7749
+  text: El Din Don està esgotat! Ajuda'l a recuperar energia!
+- id: 7750
+  text: Queden dos fanals!
+- id: 7751
+  text: Queda un fanal!
+- id: 8305
+  text: Ajuda ela Din Don a reunir energia amb càrregues successives!
+- id: 8306
+  text: Aprofita qualsevol moment de flaquedat!
+- id: 12935
+  text: Tots han d'ajudar a encendre el fanal!
+- id: 12936
+  text: Té set! La Sra. Potts pot donar-li aigua!
+- id: 15718
+  text: >-
+    Si volen arribar a la {:theme 0A}masmorra{:reset},
+
+    vagin per aquesta porta.{:clear }Jo tornaré al quarto de la Bella.
+
+    Per favor, ajudin a la resta.
+- id: 15719
+  text: >-
+    Som-hi, nois.
+
+    No s'han de perdre les esperances.{:clear }El Sora i els seus amics són aquí!
+
+    Segur que ells ho arreglaran!
+- id: 15720
+  text: >-
+    Estàs viatjant per tot
+
+    arreu, oi, Sora?{:clear }Ja m'explicaràs les teves
+
+    aventures algun dia. M'encantaria.
+- id: 15721
+  text: >-
+    Oh, en Lumiere no es
+
+    pren res seriosament!{:clear }Si l'encanteri es trenca, ja
+
+    veurà el que és treballar.
+- id: 15722
+  text: >-
+    Sense aquella rosa, ni l'amo ni cap
+
+    de nosaltres tornarà a ser humà.{:clear }Si us plau, fagi que aquell home ens
+
+    retorni la nostra única esperança!
+- id: 15723
+  text: >-
+    Podríem preparar una
+
+    altra velada agradable,{:clear }puix abans ens han interromput
+
+    molt grollerament.
+
+    Què us sembla un sopar élégant?
+
+    Ens aixecaria l'ànim.
+- id: 15724
+  text: >-
+    Com ha canviat tot de cop!{:clear }Tant entusiasmada que estava
+
+    la Bella amb el ball d'avui!
+- id: 15725
+  text: >-
+    Gràcies a vosaltres, l'amo
+
+    i la Bella han fet les paus.{:clear }Ha sigut una gran ajuda.
+
+    Gràcies.
+- id: 15726
+  text: >-
+    Per què?...
+
+    Per què havia de passar això...?
+- id: 15727
+  text: >-
+    M'agradaria tornar al meu cos.{:clear }Tot i que, sincerament, m'he arribat
+
+    a encapritxar amb aquest aspecte!
+- id: 15728
+  text: >-
+    Estic segura que oblidarem
+
+    tot això ràpidament.{:clear }Sí, va fer por en un inici,
+
+    però, estaré bé mentre{:clear }hi hagi algú en qui confiar...
+- id: 15732
+  text: >-
+    Eh! Passa alguna cosa
+
+    especial en el castell avui?{:clear }La Bella està feliç i tots van
+
+    ocupats preparant alguna cosa.
+- id: 15733
+  text: >-
+    No és mala idea preparar
+
+    alguna cosa romàntica per a ells.{:clear }Seria cosa meva, és clar.
+
+    Soc primer majordom!
+- id: 15734
+  text: >-
+    Tinc una impressió
+
+    positiva sobre el día d'avui.{:clear }Ni tan sols l'amo podria
+
+    rebutjar la petició de la Bella.
+- id: 15735
+  text: >-
+    I bé? {:theme 0A}Com està l'amo{:reset}?{:clear }Ja. Coneixent-lo, probablement
+
+    estigui nerviós com un flam!
+- id: 15736
+  text: Per què va cridar l'amo a la Bella?{:clear }L'hi podeu preguntar de la meva part?
+- id: 15737
+  text: >-
+    Quan ja gairebé havíem trencat
+
+    l'encanteri, ha de passar això!
+- id: 15738
+  text: >-
+    L'amo de vegades pot ser una mica...
+
+    com dir-ho? Exagerat.{:clear }Podrien {:theme 0A}parlar amb ell {:reset}
+
+    per nosaltres, per favor?
+- id: 15739
+  text: >-
+    Estic segura que tot anirà bé
+
+    entre ells, però em preocupen.
+- id: 15742
+  text: >-
+    Em tranquilitza saber que tots estan bé.
+
+    Ara només falta que la Bèstia...{:clear }M'agradaria anar amb vosaltres, però
+
+    només us faria nosa. Confio en tu, Sora!
+- id: 15743
+  text: >-
+    Probablement l'amo
+
+    sigui en {:theme 0A}la seva cambra{:reset}.{:clear }Però tinguin compte.
+
+    Ha canviat molt últimament.
+- id: 15744
+  text: La porta està tancada.
+- id: 15746
+  text: La rosa ha desaparegut.
+- id: 15747
+  text: >-
+    Algú deu haver
+
+    destrossat l'habitació.
+- id: 15749
+  text: La porta està tancada.
+- id: 15750
+  text: >-
+    Al principi, la Bella i l'amo
+
+    gairebé no es parlaven.{:clear }Ara són inseparables! Oh, l'amour!
+
+    En la vida mai se sap!
+- id: 15751
+  text: >-
+    Sembla que algú temible
+
+    anava a per l'amo.{:clear }Sé que els espera una tasca difícil,
+
+    però no s'hi exigeixin massa.
+- id: 15752
+  text: >-
+    Han trobat la Bella?{:clear }Què? L'han sentida cridar des del
+
+    {:theme 0A}saló de ball{:reset}? Oh, no! Han d'ajudar-la!
+- id: 15753
+  text: >-
+    Què!?
+
+    La Bella necessita la nostra ajuda!?{:clear }No la fem esperar!
+
+    Som-hi, al {:theme 0A}saló de ball!{:reset} De pressa!
+- id: 15762
+  text: >-
+    He sentit un crit de la Bella
+
+    que ve del {:theme 0A}saló de ball{:reset}!{:clear }Deu estar en perill!
+
+    Què fem, Sora!?
+- id: 15763
+  text: >-
+    Una damisel・la en perill.
+
+    És l'hora d'entrar en acció, amo!
+- id: 15764
+  text: >-
+    Sé que no volen perdre temps,
+
+    però no imaginen el que els espera.{:clear }Preparin-se bé
+
+    abans de partir.
+- id: 15766
+  text: >-
+    No ho hauria d'haver fet, però vaig entrar
+
+    d'amagat. M'alegro que l'amo estigui millor.{:clear }Si poguessis {:theme 0A}parlar amb la
+
+    Bella{:reset}, segur que fan les paus.
+- id: 16664
+  text: >-
+    Aquell armari tan rar ens
+
+    està bloquejant el pas!{:clear }Mmm... Hauria de moure's si
+
+    l'empenyem {:theme 0A}pel costat esquerre{:reset}.
+- id: 16665
+  text: >-
+    Oh. La porta que duu a la
+
+    {:theme 0A}masmorra{:reset} és darrere l'armari.{:clear }Amb compte. A veure si el
+
+    movem sense que es desperti.
+- id: 16666
+  text: >-
+    Din Don baixarà la làmpada i podràs
+
+    trencar l'encanteri amb la clau espasa.{:clear }Després, la Sra. Potts
+
+    i el Lumiere l'encendran.
+- id: 16667
+  text: >-
+    Aquella caixa de fusta bloqueja el pas.
+
+    Anem a trencar-la i llestos.{:clear }Si el Din Don es cansa, porta'l
+
+    per a que la Sra. Potts el cuidi.
+- id: 16793
+  text: >-
+    Molt bé!
+
+    L'amo torna a ser el mateix!{:clear }Ara hauríem de parlar {:theme 0A}amb la Bella{:reset}.
+
+    Vinga, anem a veure-la!
+- id: 16865
+  text: >-
+    O sigui que això es el que ha passat. La cara
+
+    de la Bella em deia que alguna cosa no anava bé.{:clear }Odio haver d'involucrar-los en això,
+
+    però, em fairen el favor {:theme 0A}de parlar amb l'amo{:reset}?
+- id: 16960
+  text: >-
+    És difícil saber qui és la persona
+
+    que apareix en aquest vell retrat.
+- id: 16961
+  text: Aquesta rosa emet un fulgor misteriós.
+- id: 16962
+  text: Un armari amb una estranya forma.
+- id: 16963
+  text: >-
+    Aquells sortints no permeten
+
+    moure'l des d'aquest costat.
+- id: 16964
+  text: >-
+    No hi ha qui passi per davant
+
+    d'aquelles armadures.
+- id: 16965
+  text: Les armadures ni s'immuten.
+- id: 16966
+  text: >-
+    No hi ha qui passi per davant
+
+    d'aquelles armadures.
+- id: 16967
+  text: Les armadures ni s'immuten.
+- id: 16968
+  text: La porta gran està tancada.
+- id: 17323
+  text: No és suficient! Necessites carregar més ràpid!
+- id: 17627
+  text: >-
+    {:unk0f 03 64 00 6D 01}{:color #00F0F080}S'ha agregat l'ordre Grup.{:reset}
+
+    Permet canviar amb rapidesa els membres del grup.{:clear }Utilitza'l per intercanviar membres del grup a les
+
+    batalles, fins i tot si no és possible obrir els menús.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 64 00 84 01}{:color #00F0F080}S'ha agregat l'ordre Límit.{:reset}
+
+    Prem {:icon dynamic-dpad-left} per veure el Límit i després selecciona'l.{:clear }{:unk0f 00 00 00 00 00}Els Límits són habilitats que consumeixen els PM
+
+    del Sora i s'executen amb membres del grup.
+- id: 17628
+  text: >-
+    {:unk0f 03 64 00 84 01}{:color #00F0F080}S'ha agregat l'ordre Límit.{:reset}
+
+    Prem {:icon dynamic-dpad-left} per veure el Límit i després selecciona'l.{:clear }{:unk0f 00 00 00 00 00}Els Límits són habilitats que consumeixen els PM
+
+    del Sora i s'executen amb membres del grup.
+- id: 17709
+  text: >-
+    He vist un fum negre i espès
+
+    al voltant d'aquelles estàtues.{:clear }És això el que les fa moure's?{:clear }Em fa por que
+
+    ataquin així la gent!
+- id: 17710
+  text: >-
+    Així que heu arribat a la masmorra
+
+    pel corredor oest! I pensar que...{:clear }L'Armari estava bloquejant-ne la porta!
+
+    No haurà estat gens fàcil!
+- id: 18733
+  text: >-
+    Has de derrotar el sensecor
+
+    que controla la porta!
+- id: 18734
+  text: >-
+    Venç el sensecor!
+
+    Quan s'amagui, ataca'l i després
+
+    utilitza una ordre de reacció!
+- id: 18735
+  text: >-
+    Venç el sensecor!
+
+    Quan desapareixi, utilitza la
+
+    poderosa ordre de reacció!
+- id: 18736
+  text: >-
+    Derrota el Xaldin de l'Organització {XIII}!
+
+    Amb Aprendre aconseguiràs Saltar:
+
+    utilitza'l i et serà més fàcil!
+- id: 18753
+  text: L'armari bloqueja de nou la porta.
+- id: 18754
+  text: >-
+    {:unk08 02 00 06}Moure l'armari?
+
+    {:chardelay 33 00}Millor que no.
+
+    {:chardelay 09 00}A empènyer!
+- id: 19077
+  text: >-
+    La ximeneia és impressionant.
+
+    Haurà costat una fortuna.
+- id: 19078
+  text: >-
+    Ja no és possible moure
+
+    la maneta dels fanals.
+- id: 19079
+  text: >-
+    La làmpada crema amb força i
+
+    no tindria per què apagar-se.
+- id: 19208
+  text: >-
+    L'home que ha fugit pel jardí semblava
+
+    molt fort, Sora. Podràs amb ell?{:clear }Si et fas el dur,
+
+    potser no es fica amb tu.
+- id: 19750
+  text: Castell de la Bèstia
+- id: 19873
+  text: Gràcies!
+- id: 19882
+  text: Adeu!
+- id: 19883
+  text: Eh?
+- id: 19886
+  text: Eh?
+- id: 20186
+  text: >-
+    {:unk08 02 00 06}Una Essència intangible, una
+
+    entitat fosca lligada a una arma.
+
+    {:chardelay 33 00}Millor no arriscar-s'hi.
+
+    {:chardelay A1 00}Fem-li un cop d'ull!
+- id: 20602
+  text: Prem {:icon dynamic-triangle} per començar el duel! Fes-te amb els premis que deixa caure!
+- id: 21494
+  text: "{:delayandfade 07 F0} \nLa Bella confessa que la Bèstia es porta\nde forma estranya últimament i que ha tancat\nels seus servents en la masmorra del castell.\n \nEl grup s'afanya a alliberar-los, però es \ntopa amb una sorpresa en el seu camí... \nun armario parlant que resulta ser una\nsenyora sota l'efecte de un vil encís!\n"
+- id: 21495
+  text: "{:delayandfade 07 B4} \nLa senyora explica que també la Bèstia fou\nen el seu dia un humà, el príncep del castell.\n \nObtenir més respostes passa per alliberar\nels pobres servents encara reclusos en\nla masmorra, així que en Sora i els seus\namics segueixen endinsant-se en el castell.\n \n \n \n"
+- id: 21496
+  text: "{:delayandfade 07 C8} \nEl príncep, un noble consentit\ni gens amigable, va negar a una\npobre anciana refugi en el seu\ncastell en una nit de tempesta.\n \nPer desgràcia per a ell, l'anciana\nva resultar ser una bruixa, que\nper motiu de la seva fredor i egoisme,\nel va convertir en una horrible bèstia\ni també va encisar tots els seus servents.\n \n"
+- id: 21497
+  text: "{:delayandfade 07 B4} \nEn Sora i els altres aconsegueixen derrotar\nels seus enemics i protegir la Bella,\nallò tan preuat del que parlava\nel membre de l'Organització {XIII}...\nO això creuen ells.\n \nNo obstant, la Bèstia no reacciona\namb alegria, sinó que se'n va amb gran\ninquietud... Hi ha alguna cosa encara\nmés preuada per a ell, per ventura?\n"
+- id: 21498
+  text: "{:delayandfade 0A 78} \nLa rosa màgica és la clau per a\ntrencar el malèfic conjur que\nté embruixats la Bestia i tots\nels habitants del castell,\nd'allà la seva preocupació.\n \nAixò vol dir...\nque encara hi ha esperances!\n \n \n"
+- id: 21631
+  text: "{:delayandfade 07 C8} \nSi els herois volen trencar\nl'encanteri i tornar a tots els\nhabitants del castell a la seva\nforma original, abans hauran de\nfer posar a la raó la Bèstia.\n \nSeguint les indicacions dels\nservents, el Sora i els seus\ns'encaminan al quarto de la Bèstia.\n \n"

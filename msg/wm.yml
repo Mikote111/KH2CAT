@@ -213,15 +213,15 @@
 - id: 18082
   text: Blanc fixe
 - id: 18083
-  text: Accelerar
+  text: Accelera
 - id: 18084
   text: Teleportació
 - id: 18085
-  text: Desembarcar
+  text: Desembarca-hi
 - id: 18086
-  text: Entrar
+  text: Entra-hi
 - id: 18107
-  text: Cancel・lar
+  text: Cancel・la
 - id: 18410
   text: >-
     {:unk08 01 00 05}Som els teus mecànics gumi preferits,
@@ -230,7 +230,7 @@
 - id: 18411
   text: '{:unk08 01 01 06}I Xop!'
 - id: 18412
-  text: Feliç vol!
+  text: Bon viatge!
 - id: 18413
   text: '{:unk08 01 01 06}Ha desaparegut?'
 - id: 18414
@@ -498,7 +498,7 @@
   text: Llista d'episodis
 - id: 19498
   text: >-
-    Necessites la màgia "Magneto"
+    Necessites la màgia «Magneto»
 
     per moure l'estàtua.
 - id: 19499
@@ -508,12 +508,12 @@
     que l'indicador de Fusió sigui a 5 o més.
 - id: 19500
   text: >-
-    Necessites la màgia "Magneto+"
+    Necessites la màgia «Magneto+»
 
     per recuperar l'objecte perdut.
 - id: 19501
   text: >-
-    Necessites la màgia "Electro++"
+    Necessites la màgia «Electro++»
 
     per dur a terme la idea del Sebastià.
 - id: 19504
@@ -573,14 +573,14 @@
   text: >-
     Ha començat un estrany torneig.
 
-    {:width 90}El Dolor i el Pànic han de saber-ne alguna cosa...
+    {:width 90}El Dolor i el Pànic han de saber-ne més...
 - id: 19527
   text: La Copa Cèrber ha començat!
 - id: 19528
   text: >-
-    En aquest torneig, hi participen lluitadors molt
+    Un torneig amb rivals molt desafiants.
 
-    forts. Parla amb el Pànic per apuntar-t'hi!
+    Parla amb el Pànic per apuntar-t'hi!
 - id: 19529
   text: La Copa Tità ha començat!
 - id: 19530
@@ -592,9 +592,9 @@
   text: Comença la Copa Deesa del Destí!
 - id: 19532
   text: >-
-    Aquest torneig posa a prova la teva destresa.
+    Aquest torneig desafia la teva destresa.
 
-    Parla amb el Pànico per apuntar-t'hi!
+    Parla amb el Pànic per apuntar-t'hi!
 - id: 19533
   text: '{:width 95}¡La Copa Paradoxa del Dolor i el Pànic!'
 - id: 19534
