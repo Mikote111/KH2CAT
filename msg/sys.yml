@@ -2409,15 +2409,15 @@
 
     L'emmagatzematge del sistema està malmès.
 - id: 2735
-  text: Carrega partida
+  text: Carrega una partida
 - id: 2736
   text: Continua
 - id: 2737
-  text: Reintenta
+  text: Reintenta-ho
 - id: 2738
   text: Surt-ne
 - id: 2739
-  text: Salta escena
+  text: Salta l'escena
 - id: 2740
   text: Continua
 - id: 2741
@@ -4048,7 +4048,7 @@
 - id: 14425
   text: Enlairar-se cap al mapa dels mons?
 - id: 14426
-  text: Desa dades al dispositiu al d'emmagatzematge.
+  text: Desa dades al dispositiu d'emmagatzematge.
 - id: 14427
   text: Carrega dades del dispositiu d'emmagatzematge.
 - id: 14429
@@ -5726,7 +5726,7 @@
   text: >-
     Si la VT cau a menys de la meitat, {:color #F0F00080}augmenta
 
-    un 100%{:reset} l'experiència guanyada al vèncer 
+    un 100%{:reset} l'experiència guanyada en vèncer 
 
     enemics. Com més n'actives, major efecte.
 - id: 15340
@@ -6501,7 +6501,7 @@
 
     Si la VT cau a menys de la meitat, {:color #F0F00080}augmenta
 
-    un 100%{:reset} l'experiència guanyada al vèncer enemics.
+    un 100%{:reset} l'experiència guanyada en vèncer enemics.
 - id: 15930
   text: Rosa Estrepitosa
 - id: 15931
@@ -8190,7 +8190,7 @@
 
     l'emmagatzematge del sistema.
 
-    Es necessiten al menys 69 KB
+    Es necessiten almenys 69 KB
 
     d'espai lliure per desar la partida.
 - id: 18122
@@ -9353,7 +9353,7 @@
   text: >-
     El Sora recupera VT quan colpeja
 
-    al rival utilitzant una ordre Límit.
+    el rival utilitzant una ordre Límit.
 - id: 20338
   text: Gruta de la Membrança
 - id: 20339
@@ -9940,7 +9940,7 @@
 - id: 22013
   text: >-
     ⤷ Aquesta vegada {:color #FFEC1980}apareixerà un indicador {:reset}{:icon dynamic-triangle}!
-        Prem {:icon dynamic-triangle} al ritme de la canció i l'indicador!
+        Prem {:icon dynamic-triangle} al ritme de la cançó i l'indicador!
 - id: 22014
   text: >-
     ⤷ Fes-ho a temps! Si ho fas només {:color #FFEC1980}Bé{:reset}

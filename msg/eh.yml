@@ -1609,7 +1609,7 @@
   text: >-
     És que m'enganyen els ulls?
 
-    Si no és més que... una criatura.{:delay 4A 01}{:clear }Res a veure amb l'escollit de la llum.
+    De debò pot brandar la clau espasa?{:delay 4A 01}{:clear }Però si no és més que una criatura.
 - id: 19939
   text: >-
     Dona-li una oportunitat.
@@ -1654,7 +1654,7 @@
   text: >-
     L'escollit de la clau espasa
 
-    s'ha embarcat en una nova odisea.{:delay 77 01}{:clear }Asegurem-nos que sigui una que mai oblidi.{:delay 2C 01}{:clear } {:delay 50 00}{:clear }Marxeu.
+    s'ha embarcat en una nova odisea.{:delay 77 01}{:clear }Assegurem-nos que en sigui una que mai oblidi.{:delay 2C 01}{:clear } {:delay 50 00}{:clear }I ara, marxeu.
 - id: 19950
   text: >-
     Ja li he transmés el missatge.{:delay A5 00}{:clear }En Sora sap que ha de seguir

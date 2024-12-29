@@ -313,7 +313,7 @@
 - id: 4218
   text: Només espero que no em descobreixin.
 - id: 4219
-  text: Vaja! Tens por, reconeix-ho.
+  text: En fi! Tu tens por, reconeix-ho.
 - id: 4220
   text: I tu no?
 - id: 4221
@@ -351,7 +351,7 @@
   text: Els coneixes?
 - id: 4233
   text: >-
-    Conèixer-los?{:delay 3F 00}{:clear }Apa que no hem despatxat
+    Conèixer-los?{:delay 3F 00}{:clear }Apa que no hem estomacat
 
     dolents junts ni res!
 - id: 4234
@@ -360,7 +360,7 @@
 
     un munt de vegades.{:delay 84 00}{:clear }Perquè soc un drac ferotge!
 
-    Oi que sí?
+    Oi?
 - id: 4235
   text: Bé, una cosa així.{:delay 6E 00}{:clear }I... tu ets?
 - id: 4236
@@ -392,7 +392,7 @@
   text: >-
     I això fa que estiguis en deute
 
-    amb el Ping, fins el capdemunt.{:delay D2 00}{:clear }I sabeu què, xavals?
+    amb el Ping, fins al capdemunt.{:delay D2 00}{:clear }I sabeu què, xavals?
 
     Toca pagar!
 - id: 4245
@@ -405,7 +405,7 @@
   text: >-
     A veure, el Ping anava de camí a
 
-    allistar-se en l'Exèrcit Imperial.
+    allistar-se a l'Exèrcit Imperial.
 - id: 4249
   text: >-
     Busquem els altres reclutes
@@ -413,11 +413,11 @@
     del campament d'instrucció.
 - id: 4250
   text: >-
-    Veniu?{:delay 48 00}{:clear }Em serà més fàcil encaixar
+    Veniu?{:delay 48 00}{:clear }Em serà més fàcil encaixar-hi
 
-    si vinc amb vosaltres.
+    si soc amb nois com vosaltres.
 - id: 4251
-  text: Com que 'encaixar'?
+  text: Que vols dir amb «encaixar»?
 - id: 4252
   text: >-
     Bé, eh...
@@ -427,7 +427,7 @@
   text: >-
     Pretens fer-te passar
 
-    per un noi, no?
+    per un noi, oi?
 - id: 4254
   text: Ets... una noia?
 - id: 4255
@@ -435,16 +435,16 @@
 - id: 4256
   text: Jo no.
 - id: 4257
-  text: Diria que funciona.
+  text: Em sembla que funciona.
 - id: 4258
   text: >-
     No sé. Aquests dos
 
     s'empassarien qualsevol cosa.
 - id: 4259
-  text: No et passis!
+  text: Ei, que soc aquí, eh!
 - id: 4260
-  text: I recorda-te'n! Ets un xato!
+  text: I recorda-te'n! Ets un home!
 - id: 4261
   text: Ja era hora de calar alguna cosa.
 - id: 4262
@@ -1648,9 +1648,9 @@
   text: >-
     {:unk0f 03 1E 00 6D 01}{:color #00F0F080}S'ha agregat l'ordre Grup.{:reset}
 
-    Permet canviar amb rapidesa els membres del grup.{:clear }{:unk0f 00 00 00 00 00}Utilitza'l en les batalles en les que
+    Permet canviar amb rapidesa els membres del grup.{:clear }{:unk0f 00 00 00 00 00}Utilitza-la en les batalles en les
 
-    no és possible obrir els menús.
+    que no és possible obrir els menús.
 - id: 17630
   text: >-
     {:unk0f 03 1E 00 84 01}{:color #00F0F080}S'ha agregat l'ordre Límit.{:reset}

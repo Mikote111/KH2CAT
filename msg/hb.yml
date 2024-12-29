@@ -1178,12 +1178,12 @@
   text: >-
     Volem reconstruir Baluard Balmat
 
-    per a que sigui com abans. {:delay C3 00}{:clear }{:delay 1E 00}{:clear }Potser fins i tot millor.
+    perquè sigui com abans. {:delay C3 00}{:clear }{:delay 1E 00}{:clear }I qui sap. Potser fins i tot millor.
 - id: 12394
   text: >-
-    Queda molt per fer,
+    Queda molt per fer, però estic
 
-    però podrem amb tot...
+    segur que podrem amb tot...
 - id: 12395
   text: Excepte... amb allò.
 - id: 12396
@@ -2708,7 +2708,7 @@
 
     vulguis, però això no canviarà res.
 - id: 15150
-  text: Doncs t'apartarem per la força!
+  text: Aleshores farem que t'apartis!
 - id: 15151
   text: >-
     Però no ho soc. Estic amb
@@ -2728,18 +2728,18 @@
   text: I ploraràs?
 - id: 15155
   text: >-
-    Si home!{:delay 3C 00}{:clear }I si et recordo què tant durs que
+    Si home!{:delay 3C 00}{:clear }I si et recordo què tan durs
 
     són aquells a qui us enfronteu?
 - id: 15156
   text: Recordar-me?
 - id: 15157
-  text: '{:delay B0 00}{:clear }Així és. Ell solia posar aquesta mateixa cara.'
+  text: '{:delay B0 00}{:clear }Exacte! Ell solia posar aquesta mateixa cara.'
 - id: 15158
   text: >-
     Suposo que creus que pots
 
-    marejar-me dient coses aleatories.
+    marejar-me dient coses aleatòries.
 - id: 15159
   text: Porteu-vos bé!
 - id: 15160
@@ -2759,13 +2759,13 @@
   text: No serà...?
 - id: 15166
   text: >-
-    Pot ser que s'hagi obert la porta
+    Això deu ser la porta a
 
-    com va dir en Yen Sid.
+    què es referia el Yen Sid.
 - id: 15167
-  text: Sí senyor!
+  text: Oh, bufa!
 - id: 15168
-  text: Ho sento, Léon, {:delay 69 00}{:clear }{:delay 1E 00}{:clear }però la resta de mons ens criden.
+  text: Sento les presses, Léon, {:delay 69 00}{:clear }{:delay 1E 00}{:clear }però altres mons ens criden.
 - id: 15169
   text: >-
     L'Organització {XIII}...{:delay 64 00}{:clear }{:delay 50 00}{:clear }Semblen molt durs.
@@ -3191,7 +3191,7 @@
     on hi vivia la Malèfica.
 - id: 18230
   text: >-
-    Davant teu s'extèn una
+    Davant teu s'extèn un
 
     profund congost.
 - id: 18231
@@ -3243,9 +3243,9 @@
     Merlí ha visitat i sobre el futur.
 - id: 18244
   text: >-
-    En aquest llibre, es descriuen amb
+    En aquest llibre, es descriuen amb pèls
 
-    detall els encanteris creats pel Merlí.
+    i senyals els encanteris creats pel Merlí.
 - id: 18245
   text: >-
     Aquest és l'armari que en
@@ -3328,7 +3328,7 @@
 
     en això amb tot el teu cor...{:clear }i només anomenant-lo
 
-    podràs invocar un aliat...{:clear }per a que t'ajudi en
+    podràs invocar un aliat...{:clear }perquè t'ajudi en
 
     els moments difícils.
 - id: 18850
