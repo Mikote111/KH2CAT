@@ -6,7 +6,7 @@
 
     en la direcció que senyala la fletxa. Quan arribis
 
-    a la teva destinació, prem {:unk16 08} per desembarcar.
+    a la teva destinació, prem {:unk16 08} per desembarcar-hi.
 - id: 7682
   text: Comença una aventura!
 - id: 7683
@@ -269,45 +269,45 @@
 
     senyal tan rara que hem detectat.
 - id: 18545
-  text: Desembarcar a ZZ
+  text: Desembarca a ZZ
 - id: 18546
-  text: Desembarcar a Fi del mar
+  text: Desembarca a Fi del mar
 - id: 18547
-  text: Desembarcar a Vila Crepuscle
+  text: Desembarca a Vila Crepuscle
 - id: 18548
-  text: Desembarcar a Illes del Destí
+  text: Desembarca a Illes del Destí
 - id: 18549
-  text: Desembarcar a Baluard Balamt
+  text: Desembarca a Baluard Balamt
 - id: 18550
-  text: Desembarcar a Castell de la Bèstia
+  text: Desembarca a Castell de la Bèstia
 - id: 18551
-  text: Desembarcar a Coliseu de l'Olimp
+  text: Desembarca a Coliseu de l'Olimp
 - id: 18552
-  text: Desembarcar a Agrabah
+  text: Desembarca a Agrabah
 - id: 18553
-  text: Desembarcar a Terra de Dracs
+  text: Desembarca a Terra de Dracs
 - id: 18554
-  text: Desembarcar a Bosc dels Cent Acres
+  text: Desembarca a Bosc dels Cent Acres
 - id: 18555
-  text: Desembarcar a Terres del Regne
+  text: Desembarca a Terres del Regne
 - id: 18556
-  text: Desembarcar a Atlàntica
+  text: Desembarca a Atlàntica
 - id: 18557
-  text: Desembarcar a Castell Disney
+  text: Desembarca a Castell Disney
 - id: 18558
-  text: Desembarcar a Riu etern
+  text: Desembarca a Riu etern
 - id: 18559
-  text: Desembarcar a Ciutat de Halloween
+  text: Desembarca a Ciutat de Halloween
 - id: 18560
-  text: Desembarcar a FA
+  text: Desembarca a FA
 - id: 18561
-  text: Desembarcar a Port Royal
+  text: Desembarca a Port Royal
 - id: 18562
-  text: Desembarcar a Espaci paranoic
+  text: Desembarca a Espaci paranoic
 - id: 18563
-  text: Desembarcar a El Món Inexistent
+  text: Desembarca a El Món Inexistent
 - id: 18564
-  text: Potser després...
+  text: Potser més tard...
 - id: 18817
   text: '{:unk08 01 01 05}Només un?'
 - id: 18818
@@ -316,14 +316,14 @@
   text: >-
     {:unk08 01 00 05}Espereu!
 
-    Crec que és un món que coneixem!
+    Em sembla que és un món que coneixem!
 - id: 18820
   text: >-
     Utilitza {:icon dynamic-left-analog} per controlar la nau gumi.
 
     Intenta apropar-te a la ruta gumi amb forma de porta.
 
-    Quan hi arribis, prem {:icon dynamic-triangle} per desembarcar.{:clear }No pots desembarcar en mons no connectats per rutes gumi.
+    Quan hi arribis, prem {:icon dynamic-triangle} per desembarcar-hi.{:clear }No pots desembarcar a mons no connectats per rutes gumi.
 
     Obre les rutes gumi per connectar els mons.
 - id: 18821
@@ -372,9 +372,9 @@
   text: >-
     Utilitza {:icon dynamic-left-analog} per controlar la nau gumi.
 
-    Intenta apropar-te al món que hi ha en la part inferior de la pantalla.
+    Intenta apropar-te al món que hi ha a la part inferior de la pantalla.
 
-    Quan hi arribis, prem {:icon dynamic-triangle} per aterrar.
+    Quan hi arribis, prem {:icon dynamic-triangle} per aterrar-hi.
 - id: 18886
   text: >-
     {:unk08 01 00 05}Ei, sembla que ens dirigim
@@ -483,7 +483,7 @@
 - id: 19469
   text: Ara és inaccessible.
 - id: 19472
-  text: '{:icon dynamic-l1}{:width 90}Seleccionar destinació'
+  text: '{:icon dynamic-l1}{:width 90}Selecciona destinació'
 - id: 19473
   text: "{:icon dynamic-r1}Llista d'episodis"
 - id: 19474
@@ -493,7 +493,7 @@
 - id: 19476
   text: '{:icon dynamic-triangle}Diari del Grill'
 - id: 19477
-  text: Seleccionar destinació
+  text: Selecciona destinació
 - id: 19478
   text: Llista d'episodis
 - id: 19498

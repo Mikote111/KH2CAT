@@ -6,9 +6,9 @@
 
     el seu partit i no hi volen anar amb mi.
 - id: 16796
-  text: Avui no, ho sento.
+  text: Avui no, em sap greu.
 - id: 16797
-  text: Vaja.. Per què no?
+  text: Oh.. Per què no?
 - id: 16798
   text: >-
     Et recordes d'aquells nois que
@@ -19,14 +19,14 @@
 - id: 16800
   text: Sí.
 - id: 16801
-  text: Em pregunto què deu ser d'ell.{:delay 78 00}{:clear }{:delay 3C 00}El trobo molt a faltar.
+  text: Em pregunto què deu ser-ne.{:delay 78 00}{:clear }{:delay 3C 00}El trobo molt a faltar.
 - id: 16802
   text: >-
     És molt lluny, però sé
 
     que el tornarem a veure.
 - id: 16803
-  text: És clar! És clar que sí.
+  text: És clar! I tant que sí.
 - id: 16804
   text: I l'altre noi?
 - id: 16805
@@ -60,11 +60,11 @@
 
     vaig recordar que vam fer una promesa,{:delay EE 00}{:clear }alguna cosa important.{:delay 77 00}{:clear }Amb aquesta carta comença. Ho sé.
 - id: 16813
-  text: Vaja...{:delay 89 00}{:clear }Espero que li arribi.
+  text: Vaja...{:delay 89 00}{:clear }Espero que la hi arribi.
 - id: 16814
   text: Segur que sí.
 - id: 16815
-  text: Començava per la «S»...
+  text: Començava amb la «S»...
 - id: 16816
   text: Oi?...{:delay 43 00}{:clear }Sora?
 - id: 16817

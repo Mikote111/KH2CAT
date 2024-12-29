@@ -1307,16 +1307,16 @@
 
     membre de l'Organització {XIII}.
 - id: 18688
-  text: Obtén un comandament ◯!
+  text: Obtén una ordre ◯!
 - id: 18689
-  text: Obtén quatre comandaments ◯!
+  text: Obtén quatre ordres ◯!
 - id: 18715
   text: >-
     Venç el Xigbar!
 
     Has de contraatacar!
 
-    Si utilitzes comandaments de reacció
+    Si utilitzes ordres de reacció
 
     amb {:icon dynamic-triangle}, et resultarà més fàcil!
 - id: 18716
@@ -1512,7 +1512,7 @@
 - id: 19589
   text: Compte amb els enemics que venen des de dalt!
 - id: 19590
-  text: Apropa't als edificis per utilitzar comandaments de reacció!
+  text: Apropa't als edificis per utilitzar ordres de reacció!
 - id: 19591
   text: Llença els enemics contra el nucli per danyar-lo!
 - id: 19592
@@ -1540,17 +1540,17 @@
   text: >-
     Ves a pel Xemnas!
 
-    Utilitza comandaments de reacció per obrir-t'hi pas!
+    Utilitza ordres de reacció per obrir-t'hi pas!
 - id: 19608
   text: >-
     Ves a pel Xemnas!
 
-    Utilitza comandaments de reacció per obrir-t'hi pas!
+    Utilitza ordres de reacció per obrir-t'hi pas!
 - id: 19609
   text: >-
     Llença els enemics contra el nucli per danyar-lo!
 
-    Si és necessari, utilitza comandaments
+    Si és necessari, utilitza ordres
 
     de reacció per protegir-te!
 - id: 19610
@@ -1578,7 +1578,7 @@
 
     Utilitza {:icon dynamic-circle} per saltar repetidament i plana a l'aire amb {:icon dynamic-square}!
 
-    Si utilitzes els comandaments de reacció, la batalla serà més fàcil!
+    Si utilitzes les ordres de reacció, la batalla serà més fàcil!
 - id: 19618
   text: >-
     Derrota el Xemnas!
@@ -1598,7 +1598,7 @@
     És que no pot tornar encara!
 - id: 19935
   text: >-
-    Si no torna,
+    Si no en torna,
 
     saps bé què has de fer.{:delay E6 00}{:clear } {:delay 3C 00}{:clear }Si no, atèn-ne les conseqüències.
 - id: 19936
@@ -1802,7 +1802,7 @@
   text: >-
     Derrota l'encaputxat!
 
-    Fixa't en els comandaments
+    Fixa't en les ordres
 
     quan ataqui.
 - id: 20616

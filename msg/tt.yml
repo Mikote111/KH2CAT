@@ -42,19 +42,19 @@
 
     la paret al final de l'atzucac?
 
-    A vegades hi ha més d'una.
+    De vegades n'hi ha més d'una.
 - id: 2878
   text: >-
     És només una pilota.
 
     Sembla que algú va 
 
-    estar jugant amb ella.
+    estar-hi jugant.
 - id: 2879
   text: >-
-    S'escolten uns gemecs horribles en el 
+    Se senten uns gemecs horribles en el 
 
-    túnel de las Terraces del Capvespre.
+    túnel de les Terraces del Capvespre.
 
     Creus que podria ser un fantasma?
 - id: 2880
@@ -73,7 +73,7 @@
     de les Terraces del Capvespre?
 - id: 2882
   text: >-
-    Era només un reflexe a l'aigua.
+    Era només un reflex a l'aigua.
 
     És neta com un mirall!
 - id: 2883
@@ -98,7 +98,7 @@
 - id: 2890
   text: Fanfarroneria
 - id: 2891
-  text: Penjar cartells
+  text: Penja cartells
 - id: 2892
   text: '{:width 95}Liquidabrunzits'
 - id: 2893
@@ -257,7 +257,7 @@
 - id: 12162
   text: Junts ho petareu!
 - id: 12163
-  text: A per totes!
+  text: A totes!
 - id: 12164
   text: Promès!
 - id: 12165
@@ -274,7 +274,7 @@
   text: '{:unk13 78 00 64 00}{:unk06 00}{:unk08 01 01 06}3.600!'
 - id: 12168
   text: >-
-    {:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}I 300 per cap per gastar allà.
+    {:unk13 E6 00 46 00}{:unk06 00}{:unk08 01 01 06}I 300 per cap per gastar-hi.
 
     Quant seria?
 - id: 12169
@@ -309,11 +309,11 @@
 
     Però només en tenim...
 - id: 12177
-  text: '{:unk13 72 01 50 00}{:unk06 00}{:unk08 01 00 07}Jo tinc 800.'
+  text: '{:unk13 72 01 50 00}{:unk06 00}{:unk08 01 00 07}Jo en tinc 800.'
 - id: 12178
   text: '{:unk13 82 00 5A 00}{:unk06 00}{:unk08 01 00 05}Jo, 650.'
 - id: 12179
-  text: '{:unk13 F6 00 61 00}{:unk06 00}{:unk08 01 01 06}Jo 150. Ho sento.'
+  text: '{:unk13 F6 00 61 00}{:unk06 00}{:unk08 01 01 06}Jo 150. Em sap greu.'
 - id: 12180
   text: >-
     {:unk13 18 01 46 00}{:unk06 00}{:unk08 01 00 05}Tenim 1.600 calés!
@@ -345,7 +345,7 @@
   text: >-
     {:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}Estem 
 
-    tots llestos?
+    tots a punt?
 - id: 12186
   text: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}I bé? Quant en tenim?'
 - id: 12187
@@ -358,7 +358,7 @@
   text: >-
     {:unk13 96 01 40 00}{:unk06 00}{:unk08 01 01 05}Estem
 
-    tots llestos?
+    tots a punt?
 - id: 12191
   text: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}I bé? Quant en tenim?'
 - id: 12192
@@ -405,7 +405,7 @@
 - id: 12205
   text: Mola!
 - id: 12206
-  text: A pels bitllets!
+  text: Anem pels bitllets!
 - id: 12207
   text: >-
     No podrem estar sempre junts...{:delay 5D 00}{:clear }així que aprofitem el temps
@@ -462,7 +462,7 @@
 - id: 12232
   text: Se t'està desfent.
 - id: 12233
-  text: Ho sento.
+  text: Em sap greu.
 - id: 12234
   text: Anima't, home!
 - id: 12235
@@ -483,7 +483,7 @@
   text: Tan difícil és fer una platja?
 - id: 12243
   text: >-
-    Seria donar-li a l'enemic
+    Seria donar a l'enemic
 
     un altre punt d'entrada.
 - id: 12244
@@ -497,7 +497,7 @@
   text: >-
     Tot allò que pertany a aquella ciutat
 
-    ha de mantenir-se fora del món real.{:delay 09 01}{:clear }Borra-ho.
+    ha de mantenir-se fora del món real.{:delay 09 01}{:clear }Esborra-ho.
 - id: 12247
   text: Qui ets?
 - id: 12248
@@ -528,9 +528,9 @@
   text: Sí, a tu.
 - id: 12259
   text: >-
-    L'Olette m'ha embolicat per
+    L'Olette m'ha embolicat
 
-    anar de compres amb ella.
+    per anar-hi de compres.
 - id: 12260
   text: Ei! Vols venir?
 - id: 12261
@@ -539,7 +539,7 @@
 
     Heu vist allò?
 - id: 12262
-  text: S'està escaquejant...
+  text: S'està escapolint...
 - id: 12263
   text: >-
     Doncs tu mateix. Ens veiem 
@@ -571,15 +571,15 @@
 - id: 12274
   text: Em dic Naminé.
 - id: 12275
-  text: Roxas...{:delay 34 00}{:clear }{:delay 60 00}{:clear }et recordes del teu nom de veritat?
+  text: Roxas...{:delay 34 00}{:clear }{:delay 60 00}{:clear }et recordes del teu veritable nom?
 - id: 12276
-  text: Controla la teva llengua, Naminé.
+  text: Controla la llengua, Naminé.
 - id: 12277
-  text: Pero si ningú li ho diu, el Roxas es...
+  text: Pero si ningú li ho diu, el Roxas...
 - id: 12278
   text: És millor que no sàpiga la veritat.
 - id: 12279
-  text: Ei! Tu ets el que em va robar!
+  text: Ei! Tu ets aquell pispa!
 - id: 12281
   text: Seifer, monstre, fes una postura guapa.
 - id: 12282
@@ -612,7 +612,7 @@
     leccions de disciplina.
 - id: 12292
   text: >-
-    És clar que sí! El Seifer sempre
+    I tant que sí! El Seifer sempre
 
     es preocupa per la ciutat
 - id: 12293
@@ -668,11 +668,11 @@
 - id: 12308
   text: Junts ho petareu!
 - id: 12309
-  text: A per totes!
+  text: A totes!
 - id: 12310
   text: Promès!
 - id: 12311
-  text: Jo em piro.
+  text: Jo piro.
 - id: 12312
   text: Restauració al 48%.
 - id: 12313
@@ -686,7 +686,7 @@
   text: Calma't.
 - id: 12316
   text: >-
-    No importa.{:delay 64 00}{:clear } {:delay 69 00}{:clear }Mentre la Naminé cumpleixi
+    Tant és.{:delay 64 00}{:clear } {:delay 69 00}{:clear }Mentre la Naminé compleixi
 
     amb el seu objectiu...{:delay CF 00}{:clear }{:delay 30 00}{:clear }no haurem de preocupar-nos
 
@@ -1088,7 +1088,7 @@
     més frenètic de l'estiu!
 - id: 13296
   text: >-
-    Efectivament!{:delay 72 00}{:clear }Avui es celebra el combat
+    Efectivament!{:delay 72 00}{:clear }Avui se celebra el combat
 
     pel títol d'Struggle!
 - id: 13297
@@ -1159,13 +1159,13 @@
   text: >-
     {:unk13 44 01 58 00}{:unk08 01 00 05}Ja coneixeu les normes, però tot 
 
-    i així mai va malament recordar-les.
+    i així, mai va malament recordar-les.
 - id: 13314
   text: Ei...{:delay 28 00}{:clear }perdona'm pel que va passar ahir.
 - id: 13315
   text: Què? Segueixes preocupat per allò? {:delay 9B 00}{:clear }No cal que et capfiquis per coses així.
 - id: 13316
-  text: Són masses coses.
+  text: Són massa coses.
 - id: 13317
   text: Ho sento, nano.
 - id: 13318
@@ -1207,11 +1207,11 @@
   text: Respecta els teus superiors.
 - id: 13331
   text: >-
-    {:delay 31 00}Guau, mireu com salten espurnes! {:delay 91 00}{:clear }Suposo que el Seifer no s'esperava
+    {:delay 31 00}Guau, mireu com salten espurnes! {:delay 91 00}{:clear }Suposo que el Seifer no esperava
 
     lluitar contra un dels seus!
 - id: 13332
-  text: Des de quan el Vivi és tan dur de pelar?
+  text: Des de quan el Vivi és un os tan dur de rosegar?
 - id: 13333
   text: Ja ets meu!
 - id: 13334
@@ -1238,7 +1238,7 @@
   text: Jugueu net, nois.
 - id: 13342
   text: >-
-    I ara, el combat que estaveu
+    I ara, el combat que estàveu
 
     esperant:{:delay BB 00}{:clear }El Roxas contra el Vivi!
 - id: 13343
@@ -1251,16 +1251,16 @@
 
     Lluita rere lluita.
 - id: 13346
-  text: És que no em recordes? {:delay 60 00}{:clear } {:delay 25 00}{:clear }Soc jo. {:delay 33 00}{:clear } {:delay 1D 00}{:clear }Ja saps,{:delay 59 00}{:clear }l'Axel.
+  text: És que no em recordes? {:delay 60 00}{:clear } {:delay 25 00}{:clear }Soc jo. {:delay 33 00}{:clear } {:delay 1D 00}{:clear }Ja saps,{:delay 59 00}{:clear }l'Àxel.
 - id: 13347
-  text: Axel?
+  text: Àxel?
 - id: 13348
   text: >-
     La teva ment està 
 
     completament en blanc.{:delay 86 00}{:clear } {:delay 20 00}{:clear }Quina passada!{:delay 6A 00}{:clear }Ni els foscants podran amb aquesta!
 - id: 13349
-  text: Espera! Diga'm què està passant.
+  text: Espera! Digue'm què està passant.
 - id: 13350
   text: >-
     Aquesta ciutat, és 
@@ -1337,7 +1337,7 @@
 
     contra Setzer, l'actual campió!{:delay 0E 01}{:clear } {:delay 1B 00}{:clear }El guanyador d'aquest combat 
 
-    serà l'autèntic campió! {:delay B4 00}{:clear } {:delay 16 00}{:clear }I podrà vacil.lar durant
+    serà l'autèntic campió! {:delay B4 00}{:clear } {:delay 16 00}{:clear }I podrà vacil・lar durant
 
     tot un any, amics meus!
 - id: 13378
@@ -1398,7 +1398,7 @@
 
     suposo que puc donar-te una pista.
 - id: 13399
-  text: Comença per la «S»!
+  text: Comença amb la «S»!
 - id: 13400
   text: El seu progrés és esbalaïdor.
 - id: 13401
@@ -1409,7 +1409,7 @@
 
     amb el de la Kairi.{:delay AA 00}{:clear } {:delay 4F 00}{:clear }I això, de passada, ha afectat el Sora.{:delay BF 00}{:clear } {:delay 14 00}{:clear }Ho entens?
 - id: 13403
-  text: La Naminé...{:delay 5A 00}{:clear } {:delay 1E 00}{:clear }es tot un prodigi.
+  text: La Naminé...{:delay 5A 00}{:clear } {:delay 1E 00}{:clear }és tot un prodigi.
 - id: 13404
   text: >-
     No va nèixer com els altres incorporis.{:delay 96 00}{:clear } {:delay 3F 00}{:clear }Pot interferir en els cors
@@ -1421,7 +1421,7 @@
   text: >-
     Podria dir-t'ho...{:delay 8B 00}{:clear } {:delay 33 00}{:clear }però potser primer hauries 
 
-    d'il.luminar-me amb el teu nom vertader.
+    d'il・luminar-me amb el teu veritable nom.
 - id: 13407
   text: És Ànsem.
 - id: 13408
@@ -1437,7 +1437,7 @@
     vacances d'estiu,{:delay 97 00}{:clear }així que ni mencionis els deures.
 - id: 13412
   text: >-
-    Vam quedar en què 
+    Vam quedar que 
 
     els acabaríem avui.
 - id: 13413
@@ -1445,7 +1445,7 @@
 - id: 13414
   text: Llavors no series aquí!
 - id: 13415
-  text: Però nano, et va anar d'un pel...
+  text: Però nano, et va anar d'un pèl...
 - id: 13416
   text: Pareu de canviar de tema!
 - id: 13417
@@ -1477,16 +1477,16 @@
 
     i esbrinarem què està passant.
 - id: 13424
-  text: Tots ens donaran un cop de mà.
+  text: Tothom ens donarà un cop de mà.
 - id: 13425
-  text: Tot allò per mi?
+  text: Tot això per mi?
 - id: 13426
-  text: Vaig a per uns gelats!
+  text: Vaig per uns gelats!
 - id: 13427
   text: >-
     {:unk13 EA 00 87 00}{:unk08 01 00 05}Hi ha un estrany rumor
 
-    circulant per allà.{:clear }Voleu sentir-lo?
+    circulant per allà.{:clear }Voleu escoltar-lo?
 - id: 13428
   text: >-
     {:unk13 AE 00 4E 00}{:unk08 01 01 06}Coneixeu les escales de 
@@ -1494,11 +1494,11 @@
     l'Estació del Capvespre, no?
 - id: 13429
   text: >-
-    {:unk13 B5 00 51 00}{:unk06 01}{:unk08 01 01 06}Hi pugem i baixem 
+    {:unk13 B5 00 51 00}{:unk06 01}{:unk08 01 01 06}Hi pugem i en baixem 
 
-    sense fixar-nos-hi gaire.{:clear }Però... i aquí es troba la part més desconcertant;{:clear }el nombre d'esglaons
+    sense fixar-nos-hi gaire.{:clear }Però... i aquí es troba la part més desconcertant;{:clear }el nombre d'esglaons en varia
 
-    varia segons pugis o baixis.
+    segons hi puges o en baixes.
 - id: 13430
   text: '{:unk13 0B 01 50 00}{:unk06 02}{:unk08 03 00 05}De debò!?'
 - id: 13431
@@ -1517,7 +1517,7 @@
   text: >-
     {:unk13 E6 00 50 00}{:unk08 01 00 05}Hi deu haver més
 
-    rumors circulant per allà.{:clear }Separem-nos!{:clear }Jo vaig a per
+    rumors circulant per allà.{:clear }Separem-nos!{:clear }Jo vaig per
 
     les Set Meravelles...
 - id: 13434
@@ -1571,7 +1571,7 @@
   text: >-
     Va ser en Rai qui els va comptar.{:delay 50 00}{:clear }Ell estava com...{:delay 61 00}{:clear }«Mai em surten els mateixos
 
-    esglaons, col.lega.»{:delay A0 00}{:clear }
+    esglaons, col・lega.»{:delay A0 00}{:clear }
 - id: 13450
   text: >-
     Llavors...
@@ -1597,9 +1597,9 @@
   text: El misteri del tren fantasma!
 - id: 13457
   text: >-
-    Tothom coneix
+    Tothom coneix la
 
-    la Sisena Meravella!
+    Sisena Meravella!
 - id: 13458
   text: Sí? Doncs jo no.
 - id: 13459
@@ -1610,7 +1610,7 @@
   text: >-
     Si els rumors són certs,
 
-    aviat passarà.
+    aviat hi passarà.
 - id: 13462
   text: Es diu que el tren va buit:{:delay AD 00}{:clear }{:delay 26 00}{:clear }sense maquinista,{:delay 67 00}{:clear }sense revisor,{:delay 59 00}{:clear }sense passatgers...{:delay 51 00}{:clear }sense tornada.
 - id: 13463
@@ -1623,7 +1623,7 @@
 - id: 13465
   text: Bona tarda, colgafocs.{:delay 6E 00}{:clear } {:delay 20 00}{:clear }Què esteu fent aquí?
 - id: 13466
-  text: Què més et dona?
+  text: Què tant te fa?
 - id: 13467
   text: M'és igual. Digueu-m'ho igualment.
 - id: 13468
@@ -1652,12 +1652,12 @@
 - id: 13478
   text: Sí que existeix!
 - id: 13479
-  text: I no va ningú a bord!
+  text: I no en va ningú a bord!
 - id: 13480
   text: >-
-    Quina és la pega?
+    Quina és la treta?
 
-    Hi ha d'haver una pega, no?
+    Hi ha d'haver una treta, no?
 - id: 13481
   text: Llavors és real?
 - id: 13482
@@ -1703,7 +1703,7 @@
 - id: 13499
   text: Roxas...
 - id: 13500
-  text: '{:delay 3C 00}{:clear }Està a la mansió encantada.'
+  text: '{:delay 3C 00}{:clear }És a la mansió encantada.'
 - id: 13501
   text: Saps una cosa...?
 - id: 13502
@@ -1730,7 +1730,7 @@
 - id: 13511
   text: Naminé?
 - id: 13512
-  text: Aquest soc...{:delay 3C 00}{:clear }{:delay 33 00}{:clear }jo?...{:delay 45 00}{:clear }{:delay 5D 00}{:clear }I també hi és l'Axel.
+  text: Aquest soc...{:delay 3C 00}{:clear }{:delay 33 00}{:clear }jo?...{:delay 45 00}{:clear }{:delay 5D 00}{:clear }I també hi és l'Àxel.
 - id: 13513
   text: Sou millors amics.
 - id: 13514
@@ -1750,14 +1750,14 @@
 
     passant últimament.
 - id: 13519
-  text: Coneixes a aquests tres, oi?
+  text: Coneixes aquests tres, oi?
 - id: 13520
-  text: Sí...{:delay 44 00}{:clear }{:delay 35 00}El Sora, en Donald i en Goofy.{:delay A1 00}{:clear }Estaven als meus somnis.
+  text: Sí...{:delay 44 00}{:clear }{:delay 35 00}El Sora, en Donald i en Goofy.{:delay A1 00}{:clear }Eren als meus somnis.
 - id: 13521
   text: >-
     Fa gairebé un any...{:delay 5A 00}{:clear }{:delay 33 00}{:clear }van passar algunes coses...{:delay 8E 00}{:clear }i vaig haver de separar els records
 
-    enllaçats del cor del Sora.{:delay E6 00}{:clear }{:delay 23 00}{:clear }Però ara...{:delay 5A 00}{:clear }tornaré a col.locar-los
+    enllaçats del cor del Sora.{:delay E6 00}{:clear }{:delay 23 00}{:clear }Però ara...{:delay 5A 00}{:clear }tornaré a col・locar-los
 
     just on eren.
 - id: 13522
@@ -1770,7 +1770,7 @@
 
     diguem que el Sora...
 - id: 13525
-  text: A mi?{:delay 7C 00}{:clear }Perquè?
+  text: A mi?{:delay 7C 00}{:clear }Per què?
 - id: 13526
   text: Tu preserves la meitat del seu ésser.{:delay 9B 00}{:clear }{:delay 82 00}{:clear }Et necessita, Roxas.
 - id: 13527
@@ -1787,15 +1787,15 @@
 - id: 13531
   text: Així és com em diu en DiZ.
 - id: 13532
-  text: Mmm... No puc ajudar-te.
+  text: Mmm... No puc ajudar-t'hi.
 - id: 13533
   text: És curiós...{:delay 49 00}{:clear }{:delay 85 00}{:clear }De cop i volta és com si...{:delay 88 00}{:clear }no em conegués a mi mateix.
 - id: 13534
   text: Tu...{:delay 3C 00}{:clear }{:delay 50 00}{:clear }Tu no hauries d'haver existit, Roxas.
 - id: 13535
-  text: Què?{:delay 5A 00}{:clear }{:delay 29 00}{:clear }Com pots dir una cosa així...{:delay 93 00}{:clear }{:delay 2B 00}{:clear }encara que fós veritat?
+  text: Què?{:delay 5A 00}{:clear }{:delay 29 00}{:clear }Com pots dir una cosa així...{:delay 93 00}{:clear }{:delay 2B 00}{:clear }encara que fos veritat?
 - id: 13536
-  text: Ho sento.{:delay 3C 00}{:clear }{:delay 23 00}{:clear }Suposo que hi ha coses que...{:delay 50 00}{:clear }realment és millor no dir.
+  text: Em sap greu.{:delay 3C 00}{:clear }{:delay 23 00}{:clear }Suposo que hi ha coses que...{:delay 50 00}{:clear }realment és millor no dir.
 - id: 13537
   text: Roxas! Roxas!
 - id: 13538
@@ -1803,7 +1803,7 @@
 - id: 13539
   text: L'has vista?
 - id: 13540
-  text: Sí. Mira la finestra... Fixa't.
+  text: Sí. Mira la finestra... Fixa-t'hi.
 - id: 13541
   text: Bah, quin desengany!
 - id: 13542
@@ -1811,7 +1811,7 @@
 - id: 13543
   text: En fi, tornem al lloc de sempre.{:delay B8 00}{:clear }El Hayner i l'Olette ens esperen.
 - id: 13544
-  text: Ei, nois. Com va anar?
+  text: Ei, nois. Com ha anat?
 - id: 13545
   text: >-
     La nena de la finestra ha resultat ser
@@ -1822,7 +1822,7 @@
 - id: 13547
   text: Perfecte!
 - id: 13548
-  text: Bé, anem a pel Hayner?{:delay 78 00}{:clear }Segur que està a la estació.
+  text: Bé, anem pel Hayner?{:delay 78 00}{:clear }Segur que ja és a la estació.
 - id: 13549
   text: >-
     Només ens queden dos dies
@@ -1899,7 +1899,7 @@
   text: Som...{:delay 56 00}{:clear }millors amics, oi?
 - id: 13573
   text: >-
-    És clar... però no deixaré que em
+    I tant... però no deixaré que em
 
     converteixin en un foscant per...{:delay EC 00}{:clear }Un moment! Ja te'n recordes?
 - id: 13574
@@ -1926,11 +1926,11 @@
   text: Aquesta Organització {XIII}...{:delay 6F 00}{:clear }no és res bo.
 - id: 13582
   text: >-
-    Bons o dolents. No ho sé.{:delay E5 00}{:clear }Són un grup d'éssers incomplets
+    Bons o dolents. No ho sé.{:delay E5 00}{:clear }Són un grup d'éssers incomplerts
 
-    que busquen esdevenir-ne complets.{:delay C8 00}{:clear }{:delay 30 00}{:clear }Amb aquest objectiu, busquen
+    que busquen esdevenir-ne complets.{:delay C8 00}{:clear }{:delay 30 00}{:clear }Amb aquest objectiu, cerquen
 
-    alguna cosa desesperadament.
+    quelcom desesperadament.
 - id: 13583
   text: El què?
 - id: 13584
@@ -1945,12 +1945,12 @@
   text: >-
     Res que esbrinis tindrà el poder
 
-    per canviar el teu destí.
+    de canviar el teu destí.
 - id: 13590
   text: >-
     Encara que res canviï,
 
-    vull saber-ho.{:delay B0 00}{:clear }Tinc dret a saber-ho!
+    vull saber-ho.{:delay B0 00}{:clear }Hi tinc dret!
 - id: 13591
   text: >-
     Un incorpori no té dret
@@ -1962,7 +1962,7 @@
   text: >-
     DiZ, se'ns acaba el temps.
 
-    Masses incorporis!
+    Massa incorporis!
 - id: 13594
   text: >-
     Roxas, els incorporis com nosaltres
@@ -2003,9 +2003,9 @@
 - id: 13607
   text: És el destí d'un incorpori.
 - id: 13608
-  text: Totalment esfereïdor, Roxas.
+  text: Totalment esbalaïdor, Roxas.
 - id: 13609
-  text: Axel.
+  text: Àxel.
 - id: 13610
   text: >-
     De veritat et recordes
@@ -2014,9 +2014,9 @@
 - id: 13611
   text: Però ja és massa tard!
 - id: 13612
-  text: Dos?
+  text: Dues?
 - id: 13613
-  text: Axel...
+  text: Àxel...
 - id: 13614
   text: Ens veurem en una altra vida.
 - id: 13615
@@ -2073,7 +2073,7 @@
   text: >-
     Em sembla que les meves vacances
 
-    d'estiu...{:delay 96 00}{:clear }{:delay 2B 00}{:clear }han acabat.
+    d'estiu...{:delay 96 00}{:clear }{:delay 2B 00}{:clear }s'han acabat.
 - id: 13636
   text: Eh? Què és aquest lloc?
 - id: 13637
@@ -2104,12 +2104,12 @@
   text: >-
     Per cert,
 
-    heu vist un tipus anomenat Axel?{:delay 02 01}{:clear }Suposo que és per aquí.
+    heu vist un tipus anomenat Àxel?{:delay 02 01}{:clear }Suposo que és per aquí.
 - id: 13647
   text: Me la bufa.
 - id: 13648
   text: >-
-    Us explico; l'Axel ha decidit actuar
+    Us explico; l'Àxel ha decidit actuar
 
     al nostre marge.
 - id: 13649
@@ -2122,9 +2122,9 @@
   text: No està molt organitzada aquesta organització...
 - id: 13653
   text: >-
-    No baixeu la guàrdia.{:delay 96 00}{:clear }L'Axel no s'aturarà davant de ningú
+    No baixeu la guàrdia.{:delay 96 00}{:clear }L'Àxel no s'aturarà davant de ningú
 
-    per tal de convertir-vos en sense-cors.
+    per tal de convertir-vos en sensecors.
 - id: 13654
   text: >-
     Carai, gràcies per preocupar-te
@@ -2134,7 +2134,7 @@
     sabem cuidar-nos molt bé.
 - id: 13655
   text: >-
-    Me n'alegro.{:delay 8A 00}{:clear }Deixant l'Axel a part, ens partiria
+    Me n'alegro.{:delay 8A 00}{:clear }Deixant l'Àxel a part, ens partiria
 
     el cor saber que us ha passat alguna cosa.
 - id: 13656
@@ -2152,7 +2152,7 @@
   text: >-
     Sora, tu segueix lluitant
 
-    contra aquells sense-cor.
+    contra aquells sensecor.
 - id: 13661
   text: Seguim-lo!
 - id: 13662
@@ -2218,7 +2218,7 @@
 
     t'estava buscant.
 - id: 13684
-  text: Diga'm on és!
+  text: Digue'm on és!
 - id: 13685
   text: Doncs...
 - id: 13686
@@ -2239,9 +2239,9 @@
 - id: 13693
   text: Kairi...
 - id: 13694
-  text: Creus que ha pogut ser l'Axel?
+  text: Creus que ha pogut ser l'Àxel?
 - id: 13695
-  text: Ho sento...
+  text: Em sap greu...
 - id: 13696
   text: >-
     Ei, no és culpa teva.
@@ -2622,7 +2622,7 @@
 - id: 14167
   text: 'Instruccions: Càmera'
 - id: 14168
-  text: Escull una arma!
+  text: Tria una arma!
 - id: 14169
   text: 'Instruccions: Combat'
 - id: 14170
@@ -2648,7 +2648,7 @@
 - id: 14180
   text: Derrota tots els enemics misteriosos!
 - id: 14181
-  text: Enfronta't al misteriós Axel!
+  text: Enfronta't al misteriós Àxel!
 - id: 14182
   text: Enfronta't al  Setzer!
 - id: 14183
@@ -2656,15 +2656,15 @@
 - id: 14184
   text: Derrota tots els enemics estranys!
 - id: 14185
-  text: ₓₓ Axel
+  text: ₓₓ Àxel
 - id: 14186
   text: Derrota tots els enemics estranys!
 - id: 14187
-  text: Acaba amb els sense-cor!
+  text: Acaba amb els sensecor!
 - id: 14188
-  text: Acaba amb els sense-cor!
+  text: Acaba amb els sensecor!
 - id: 14189
-  text: Acaba amb els sense-cor!
+  text: Acaba amb els sensecor!
 - id: 14190
   text: Derrota tots els incorporis!
 - id: 14191
@@ -2672,7 +2672,7 @@
 - id: 14192
   text: ₓₓ Foscant
 - id: 14193
-  text: Lluita al costat de l'Axel i derrota tots els incorporis!
+  text: Lluita al costat de l'Àxel i derrota tots els incorporis!
 - id: 14202
   text: Enfronta't i derrota l'altre Roxas!
 - id: 14203
@@ -2702,9 +2702,9 @@
 - id: 14304
   text: Donald! Goofy!
 - id: 14305
-  text: Quina migdiada més gran!
+  text: Quina migdiada més grossa!
 - id: 14306
-  text: Llavors, estàvem dormits?
+  text: Llavors, estàvem adormits?
 - id: 14307
   text: >-
     Suposo que sí...
@@ -2783,7 +2783,7 @@
   text: Ei, com us dèieu?
 - id: 14333
   text: >-
-    Huy, perdón.
+    Ui, perdó.
 
     Som el Sora, el Donald i el Goofy.
 - id: 14334
@@ -2799,7 +2799,7 @@
 
     no se li veia la cara,{:delay B4 00}{:clear }però tenia unes orelles
 
-    grans i rodones.
+    grosses i rodones.
 - id: 14337
   text: El rei!
 - id: 14338
@@ -2816,7 +2816,7 @@
 - id: 14342
   text: Fins una altra!
 - id: 14343
-  text: Vaha! El rei ens està buscant!
+  text: Apa! El rei ens està buscant!
 - id: 14344
   text: Sí, som-hi, cap a l'estació!
 - id: 14345
@@ -2844,14 +2844,14 @@
 
     el Regne de la Foscor, no?
 - id: 14354
-  text: Ajà.
+  text: Ahà.
 - id: 14355
   text: Però acabem de veure'l...
 - id: 14356
   text: Sí.
 - id: 14357
   text: >-
-    Y si el rei és aquí,
+    I si el rei és aquí,
 
     és que el Riku també hi es!
 - id: 14358
@@ -2869,7 +2869,7 @@
 - id: 14361
   text: Ei! De què rius?
 - id: 14362
-  text: De la teva cara!
+  text: De la vostra cara!
 - id: 14363
   text: >-
     Què em dieu, nois? {:delay 5F 00}{:clear }Us ve de gust viure
@@ -2895,7 +2895,7 @@
   text: >-
     Hem vingut a acomiadar-nos-en.{:delay 5F 00}{:clear }Alguna cosa ens deia 
 
-    que ho havíem defer.
+    que ho havíem de fer.
 - id: 14374
   text: Oh. De veritat? Gràcies.
 - id: 14375
@@ -2953,12 +2953,12 @@
 - id: 14398
   text: Estic trist.
 - id: 14399
-  text: Tornarem.
+  text: Hi tornarem.
 - id: 14400
   text: >-
-    Sí, ja tornarem a visitar
+    Sí, podem tornar a visitar el
 
-    el Hayner i la resta.
+    Hayner i la resta un altre cop.
 - id: 14401
   text: Ei, vosaltres, d'on sortiu?
 - id: 14402
@@ -3052,23 +3052,25 @@
     perfecte per a mi.
 - id: 14447
   text: >-
-    Bah, és igual quant de dur que sigui.{:delay 78 00}{:clear }Quan sigui un sense-cor,
+    Bah, és igual com de dur que sigui.{:delay 78 00}{:clear }Quan sigui un sensecor,
 
-    farà el que jo diga.
+    farà el que jo digui.
 - id: 14448
-  text: Un sense-cor?
+  text: Un sensecor?
 - id: 14449
   text: >-
     Exacte.{:delay 54 00}{:clear }Són aquells éssers que surten
 
-    del més fosc del cor de la gent.{:delay D2 00}{:clear }I, ei, amb tots aquells sense-cor
+    del més fosc del cor de la gent.{:delay D2 00}{:clear }I, ei, amb tots aquells sensecor
 
     de la seva part, estimat amic meu,{:delay E1 00}{:clear }La Malèfica ho conquerirà tot!
 - id: 14450
   text: >-
     Estic amb deute amb aquella bruixa,{:delay 96 00}{:clear }així que em dedico a recórrer
 
-    el món per aconseguir-li{:delay CF 00} {:clear }un gran exèrcit de sense-cor.
+    els mons per aconseguir-li{:delay CF 00} {:clear }un gran exèrcit de sensecor,
+
+    tot per a ella.
 - id: 14451
   text: >-
     Què faig parlant amb vosaltres,
@@ -3103,7 +3105,7 @@
   text: >-
     Sa majestat el va desterrar
 
-    a una altra dimensió fa molt.{:delay E6 00}{:clear }{:delay 2F 00}{:clear }Com haurà escapat?
+    a una altra dimensió fa molt.{:delay E6 00}{:clear }{:delay 2F 00}{:clear }Com deu haver escapat?
 - id: 14461
   text: '{:delay A5 00}{:clear }Voleu saber com?{:delay 6A 00}{:clear }La Malèfica em va alliberar! Així vaig escapar!{:delay D4 00}{:clear }I ara el vostre món... què dic?{:delay BB 00}{:clear }Tots els mons perteneixeran a un servidor!'
 - id: 14462
@@ -3112,14 +3114,14 @@
 
     m'ajudarà a conquerir-los.
 - id: 14463
-  text: La Malèfica, és clar...
+  text: La Malèfica, i tant...
 - id: 14464
   text: >-
     Ohh! De què rieu?{:delay 5A 00}{:clear }{:delay 15 00}{:clear }El poder de la Malèfica
 
     és incommensurable!
 - id: 14465
-  text: És cuita.
+  text: Està cuita.
 - id: 14467
   text: Què vols dir?
 - id: 14468
@@ -3133,7 +3135,7 @@
   text: ''
 - id: 14471
   text: >-
-    A mi els sense-cor!
+    A mi els sensecor!
 
     A formar!
 - id: 14472
@@ -3147,7 +3149,7 @@
   text: >-
     Ah, no ho sabíeu?{:delay 8A 00}{:clear }És el vell Yen Sid.{:delay 8A 00}{:clear }És clar que ja deu
 
-    ser un sense-cor.
+    ser un sensecor.
 - id: 14475
   text: El mestre Yen Sid viu aquí?
 - id: 14476
@@ -3155,9 +3157,9 @@
 - id: 14477
   text: Vaja! Deu ser molt poderós!
 - id: 14478
-  text: Sense-cor per aquí i per allà!{:delay B4 00}{:clear } {:delay 1E 00}{:clear }Les coses no han canviat gens!
+  text: Sensecor per aquí i per allà!{:delay B4 00}{:clear } {:delay 1E 00}{:clear }Les coses no han canviat gens!
 - id: 14479
-  text: Doncs menys mal que som aquí.
+  text: Doncs encara sort que som aquí.
 - id: 14480
   text: >-
     Llavors,
@@ -3173,9 +3175,9 @@
   text: O sigui que tu ets el Sora...{:delay B4 00}{:clear }{:delay 21 00}{:clear }Molt bé, heu vist ja el rei?
 - id: 14485
   text: >-
-    L'hem vist, Mestre.
+    Sí que l'hem vist, Mestre.
 
-    Però no hem pogut parlar amb ell.
+    Però no hem tingut ocasió de parlar-hi.
 - id: 14486
   text: >-
     Sí... el rei està molt
@@ -3188,12 +3190,12 @@
     a vosaltres tres serà el meu deure.
 - id: 14488
   text: >-
-    Teniu un perillós viatge per fer.
+    Teniu un perillós viatge a fer.
 
-    Heu d'anar ben preparats.
+    Heu d'anar-hi ben preparats.
 - id: 14489
   text: >-
-    Llavors... hem d'embarcarnos 
+    Llavors... hem d'embarcar-nos 
 
     en una altra missió?
 - id: 14490
@@ -3246,29 +3248,29 @@
   text: >-
     Un moment, com és que els
 
-    sense-cor segueixen per allà?
+    sensecor segueixen per allà?
 - id: 14502
   text: >-
     Les teves accions passades van impedir
 
-    una immensa expansió dels sense-cor{:delay 34 01}{:clear }des de la gran Foscor, {:delay 78 00}{:clear }d'això en pots estar segur.
+    una immensa expansió dels sensecor{:delay 34 01}{:clear }des de la gran Foscor, {:delay 78 00}{:clear }d'això en pots estar segur.
 - id: 14503
   text: >-
-    Malgrat això, els sense-cor són
+    Malgrat això, els sensecor són
 
-    foscor feta realita{:delay F6 00}{:clear }{:delay 15 00}{:clear }i sempre queden vestigis 
+    foscor feta realitat{:delay F6 00}{:clear }{:delay 15 00}{:clear }i sempre queden vestigis 
 
     de foscor a tots els cors.
 - id: 14504
   text: >-
-    És cert, hi ha menys sense-cor,{:delay 78 00}{:clear }però mentre quedi foscor en un
+    És cert, hi ha menys sensecor,{:delay 78 00}{:clear }però mentre quedi foscor en un
 
     sol cor, serà difícil erradicar-los.
 - id: 14505
   text: >-
     Òndia! Això vol dir{:delay 7F 00}{:clear }que si tots els cors
 
-    estiguessin plens de llum,{:delay 96 00}{:clear }els sense-cor desapareixerien.
+    estiguessin plens de llum,{:delay 96 00}{:clear }els sensecor desapareixerien.
 - id: 14506
   text: >-
     Ara hem de parlar dels
@@ -3280,14 +3282,14 @@
 
     cedeix a la foscor del seu cor,{:delay 43 01}{:clear }també es convertirà
 
-    en un sense-cor.
+    en un sensecor.
 - id: 14509
   text: Això ja ho sabeu.
 - id: 14510
   text: ''
 - id: 14511
   text: >-
-    Els sense-cor sempre estan a l'aguait,
+    Els sensecor sempre estan a l'aguait,
 
     intentant capturar nous cors.{:delay 32 01}{:clear }Mai baixeu la guàrdia!{:delay 82 00}{:clear }{:delay 26 00}{:clear }Ara bé...
 - id: 14512
@@ -3296,7 +3298,7 @@
 
     cor i voluntat fortes,{:delay F0 00}{:clear }sigui bo o dolent,
 
-    es converteix en un sense-cor,{:delay F6 00}{:clear }{:delay 24 00}{:clear }la closca buida que deixa rere
+    es converteix en un sensecor,{:delay F6 00}{:clear }{:delay 24 00}{:clear }la closca buida que deixa rere
 
     seu actua amb voluntat pròpia.
 - id: 14513
@@ -3326,14 +3328,14 @@
     comuna dels incorporis.
 - id: 14518
   text: >-
-    Però hi ha d'altres...{:delay 69 00}{:clear }Alguns més grans, d'altres amb
+    Però n'hi ha d'altres...{:delay 69 00}{:clear }Alguns més grans, d'altres amb
 
-    poders aterridors i singulars...{:delay 09 01}{:clear }{:delay 2D 00}{:clear }Estigueu a l'aguait!
+    poders esfereïdors i singulars...{:delay 09 01}{:clear }{:delay 2D 00}{:clear }Estigueu a l'aguait!
 - id: 14519
   text: >-
-    En el vostre viatge veureu un nombre
+    En el vostre viatge veureu un
 
-    alarmant de foscants.{:delay 2C 01}{:clear }Intentaran fer-vos mal.
+    nombre alarmant de foscants.{:delay 2C 01}{:clear }Intentaran fer-vos mal.
 - id: 14520
   text: >-
     Tot i així, no són més que closques buides
@@ -3353,7 +3355,7 @@
   text: Organització {XIII}...
 - id: 14524
   text: >-
-    Els sense-cor actuen per instint,{:delay 77 00}{:clear }però els incorporis ho fan
+    Els sensecor actuen per instint,{:delay 77 00}{:clear }però els incorporis ho fan
 
     de manera sofisticada.{:delay BB 00}{:clear }Poden pensar i planificar.
 
@@ -3377,7 +3379,7 @@
   text: >-
     Ara viatja de món en món
 
-    combatent els sense-cor,{:delay FC 00}{:clear }mentre busca la resposta
+    combatent els sensecor,{:delay FC 00}{:clear }mentre busca la resposta
 
     a l'endevinalla dels incorporis{:delay E5 00}{:clear }i l'Organització {XIII}.
 - id: 14529
@@ -3388,14 +3390,14 @@
   text: No ho sabrem fins que el busquem.
 - id: 14533
   text: >-
-    Aviam, abans d'anar-te'n, necessitaràs
+    Bé, doncs, abans d'anar-te'n, necessitaràs
 
     robes de viatge més adients.
 - id: 14534
-  text: Aquelles et queden una mica petites.
+  text: Aquestes et queden una mica petites.
 - id: 14535
   text: >-
-    Per aquí trobaràs a les tres fades.{:delay BA 00}{:clear }Si els ho demanes, et 
+    Per aquí trobaràs les tres fades.{:delay BA 00}{:clear }Si els ho demanes, et 
 
     proporcionaran peces més a mida.
 - id: 14536
@@ -3405,13 +3407,13 @@
     Sí que creixes de pressa, Sora!
 - id: 14538
   text: >-
-    Riku, el rei, vosaltres i jo.{:delay 9C 00}{:clear }{:delay 24 00}{:clear }M'és igual el que sigui aquella
+    El Riku, el rei, vosaltres i jo.{:delay 9C 00}{:clear }{:delay 24 00}{:clear }M'és igual el que sigui aquella
 
     Organització o el que estigui planejant.{:delay B4 00}{:clear }{:delay 28 00}{:clear }Sent nosaltres cinc, vull dir, sis;
 
-    no tenim per què preocupar-nos. Oi que sí?
+    no tenim per què preocupar-nos. Oi?
 - id: 14539
-  text: És clar!
+  text: I tant!
 - id: 14540
   text: >-
     Mireu qui és aquí, estimades!
@@ -3442,7 +3444,7 @@
   text: >-
     Està bé. Totes juntes, estimades.
 
-    I res de renyades!
+    I prou de rondinades!
 - id: 14551
   text: Ai, mare!
 - id: 14552
@@ -3460,7 +3462,7 @@
 - id: 14558
   text: ''
 - id: 14559
-  text: Vaja!
+  text: Guau!
 - id: 14560
   text: Dues claus espasa!
 - id: 14561
@@ -3472,7 +3474,7 @@
   text: >-
     La teva vestimenta té, a
 
-    més a més, otros poderes...
+    més a més, altres poderes...
 - id: 14563
   text: >-
     ... però hauràs de descobrir-los a
@@ -3492,7 +3494,7 @@
 - id: 14567
   text: Ei! La nau gumi!
 - id: 14568
-  text: Llestos per marxar?
+  text: A punt per marxar?
 - id: 14569
   text: A veure, a veure... Un moment.
 - id: 14570
@@ -3525,12 +3527,12 @@
   text: >-
     No obstant,
 
-    la clau espasa us servirà de guía.
+    la clau espasa us servirà de guia.
 - id: 14577
   text: >-
-    Quan de la clau espasa sorgeix un
+    Quan de la clau espasa en sorgeixi
 
-    feix de llum, torneu a la nau gumi.
+    un feix de llum, torneu a la nau gumi.
 - id: 14578
   text: >-
     Si bé els mons poden semblar-vos molt
@@ -3546,7 +3548,7 @@
   text: Però estigueu alerta.{:delay 8C 00}{:clear }{:delay 2D 00}{:clear }A mesura que avanceu...
 - id: 14583
   text: >-
-    ... els sense-cor i els incorporis
+    ... els sensecor i els incorporis
 
     utilitzaran les seves pròpies rutes.{:delay 0C 01}{:clear }Passadissos de la foscor
 
@@ -3572,12 +3574,12 @@
 - id: 14589
   text: Mestre Yen Sid!
 - id: 14590
-  text: Apreciem de molt la seva ajuda.
+  text: Apreciem molt la seva ajuda.
 - id: 14591
-  text: Caram! Què és allò?
+  text: Valga'm Déu! Què és allò?
 - id: 14592
   text: >-
-    No hem vist allò
+    No ho hem vist
 
     abans en algun lloc?
 - id: 14593
@@ -3614,14 +3616,14 @@
   text: És un lloc d'allò més misteriós.
 - id: 14839
   text: >-
-    Ho sento, però la Malèfica
+    Em sap greu, però la Malèfica
 
     ja no pot ajudar-te.
 - id: 14854
   text: >-
-    Sí. I el rei deu saber on és el Riku, {:delay B6 00}{:clear }perquè estaven junts en el Regne de
+    Sí. I el rei deu saber on és el Riku, {:delay B6 00}{:clear }perquè eren junts al Regne de la Foscor
 
-    la Foscor quan vam tancar la porta.{:delay CE 00}{:clear }{:delay 10 00}{:clear }Us en recordeu?
+    quan vam tancar-ne la porta.{:delay CE 00}{:clear }{:delay 10 00}{:clear }Us en recordeu?
 
     Quan vam derrotar l'Ànsem.
 - id: 14855
@@ -3667,14 +3669,14 @@
 
     i tu no sàpigues que soc jo,{:delay 03 01}{:clear }però tornarem a veure'ns.
 - id: 15275
-  text: Algun dia. Aviat.{:delay 6B 00}{:clear }Ho prometo!
+  text: Algun dia. Aviat.{:delay 6B 00}{:clear }T'ho prometo!
 - id: 15276
   text: >-
     És que...{:delay 75 00}{:clear }crec que...{:delay 64 00}{:clear }he estat esquivant la pregunta
 
     que de veritat vull fer.
 - id: 15277
-  text: Què em passarà ara?{:delay 78 00}{:clear }{:delay 47 00}{:clear }Diga'm almenys això.{:delay 50 00}{:clear }{:delay 2E 00}{:clear }Tota la resta ja no m'importa.
+  text: Què em passarà ara?{:delay 78 00}{:clear }{:delay 47 00}{:clear }Digue'm almenys això.{:delay 50 00}{:clear }{:delay 2E 00}{:clear }Tota la resta ja no m'importa.
 - id: 15382
   text: '{:unk13 FC 00 52 00}{:unk08 01 00 05}Ben fet.'
 - id: 15383
@@ -3693,7 +3695,7 @@
   text: '{:unk13 09 01 6A 00}{:unk08 01 00 05}No està malament.'
 - id: 15387
   text: >-
-    {:unk13 16 01 5E 00}{:unk08 01 00 05}Crec que podries
+    {:unk13 16 01 5E 00}{:unk08 01 00 05}Penso que podries
 
     fer-ho millor.
 - id: 15388
@@ -3772,7 +3774,7 @@
 - id: 15909
   text: Crec que passo.{:delay 3C 00}{:clear }{:delay 34 00}{:clear }No em sortiria del cor, saps? {:delay 80 00} {:clear }{:delay 43 00}{:clear }No en tinc. {:delay 40 00}{:clear }
 - id: 15910
-  text: Axel, què és el que pretenies?
+  text: Àxel, què és el que pretenies?
 - id: 15911
   text: >-
     Ell... era l'únic que em queia bé.{:delay E6 00}{:clear }Em feia sentir...
@@ -3783,7 +3785,7 @@
 - id: 15913
   text: La Kairi és a la masmorra del castell.{:delay 82 00}{:clear }Afanyeu-vos.
 - id: 15914
-  text: Axel...
+  text: Àxel...
 - id: 16038
   text: >-
     {:color #00F00080}Les ordres de reacció{:reset} s'utilitzen per
@@ -3882,7 +3884,7 @@
 
     Utilitza {:icon dynamic-dpad-up-down} per seleccionar Objecte, i prem {:icon dynamic-cross}.
 
-    Escull l'objecte que vulguis utilitzar i prem {:icon dynamic-cross}.{:clear }{:unk0f 00 00 00 00 00}Per a la drecera, prem {:icon dynamic-l1} i {:icon dynamic-cross}.
+    Tria l'objecte que vulguis utilitzar i prem {:icon dynamic-cross}.{:clear }{:unk0f 00 00 00 00 00}Per a la drecera, prem {:icon dynamic-l1} i {:icon dynamic-cross}.
 
     Pots canviar-la en el menú principal.
 - id: 16132
@@ -3895,7 +3897,7 @@
 
     paràmetres i aprendràs nous atacs.{:clear }També puges de nivell quan vences
 
-    enemics i guanyes experiència.{:clear }Si et resulta difícil vèncer a l'enemic,
+    enemics i guanyes experiència.{:clear }Si et resulta difícil vèncer l'enemic,
 
     puja el nivell del Roxas abans d'avançar.
 - id: 16473
@@ -3977,7 +3979,7 @@
     Normes d'Struggle:
 
 
-    El combat acaba si uno dels participants
+    El combat acaba si un dels participants
 
     perd totes les seves esferes.
 - id: 17303
@@ -3998,9 +4000,9 @@
 - id: 17311
   text: Sortien boles de la paret.
 - id: 17312
-  text: Només era el teu reflexe a l'aigua.
+  text: Només era el teu reflex a l'aigua.
 - id: 17313
-  text: 'Destí: Estació Central'
+  text: 'Destinació: Estació Central'
 - id: 17314
   text: Les Set Meravelles han estat descobertes!
 - id: 17315
@@ -4032,7 +4034,7 @@
 
     {:chardelay 33 00}No tant.
 
-    {:chardelay 09 00}És clar que sí!
+    {:chardelay 09 00}I tant que sí!
 - id: 17346
   text: >-
     {:unk08 00 00 00}Aquest bastó sembla màgic, com si 
@@ -4044,7 +4046,7 @@
 
     {:chardelay 33 00}No tant.
 
-    {:chardelay 0B 00}És clar que sí!
+    {:chardelay 0B 00}I tant que sí!
 - id: 17348
   text: >-
     {:unk08 00 00 00}Aquest escut és molt resistent. Un
@@ -4056,12 +4058,12 @@
 
     {:chardelay 33 00}No tant.
 
-    {:chardelay 0A 00}És clar que sí!
+    {:chardelay 0A 00}I tant que sí!
 - id: 17355
   text: >-
-    "Llença la brossa al dipòsit
+    «Llença la brossa al dipòsit
 
-    de la Placeta del Tramvia."
+    de la Placeta del Tramvia.»
 - id: 17356
   text: >-
     En aquest traster,
@@ -4182,10 +4184,10 @@
 
     Hayner i Roxas.
 - id: 17408
-  text: Pròxima obertura. Taller de fabricació d'objectes.
+  text: Propera obertura. Taller de fabricació d'objectes.
 - id: 17411
   text: >-
-    Necessites calés per comprar objectes.{:clear }Per guanyar alguns, busca
+    Necessites calés per comprar objectes.{:clear }Per guanyar-ne alguns, busca
 
     feina al taulell d'anuncis.
 - id: 17412
@@ -4221,7 +4223,7 @@
   text: >-
     La millor manera d'aconseguir informació
 
-    és preguntar. Parla amb tots.
+    és preguntar. Parla amb tothom.
 - id: 17419
   text: >-
     Si trobes llocs
@@ -4351,7 +4353,7 @@
   text: >-
     El Hayner va dir que ell se n'encarregaria, però
 
-    jo sabia que anava a passar alguna cosa així.{:clear }Escull una feina d'{:theme 0A}aquest taulell{:reset} o
+    jo sabia que anava a passar alguna cosa així.{:clear }Tria una feina d'{:theme 0A}aquest taulell{:reset} o
 
     del que hi ha a la {:theme 0A}Placeta del Tramvia{:reset}.
 - id: 17455
@@ -4360,14 +4362,14 @@
 
     estar esperant a la Plaça de l'Estació.{:clear }Sembla que té coses a fer, així
 
-    que jo també faré un esforç.
+    que jo també hi faré un esforç.
 - id: 17459
   text: >-
     Se't veu molt ocupat.
 
     Estàs treballant?{:clear }Jo practicaré per
 
-    al pròxim Struggle!
+    al proper Struggle!
 - id: 17461
   text: >-
     Ei, Roxas! Ja has aconseguit la teva part?
@@ -4384,7 +4386,7 @@
   text: Mmm... Això hauria de cobrir les despeses...
 - id: 17464
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Seguir treballant?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Segueixes treballant?
 
     {:chardelay 33 00}Sí, els calés mai estan de més!
 
@@ -4393,7 +4395,7 @@
   text: Ben fet, Roxas!
 - id: 17466
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Seguir treballant?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Segueixes treballant?
 
     {:chardelay 33 00}Sí, els calés mai estan de més!
 
@@ -4405,7 +4407,7 @@
     Fins i tot podem comprar un meló!
 - id: 17468
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Tenes molts calés. Seguir treballant?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Tenes molts calés. Segueixes treballant?
 
     {:chardelay 33 00}Sí, els calés mai estan de més!
 
@@ -4423,7 +4425,7 @@
 
     pujada no és gens fàcil.{:clear }M'agradaria trobar
 
-    a algú que m'ajudés.
+    algú que m'ajudés.
 - id: 17489
   text: >-
     Has anat fins a dalt? La posta de sol
@@ -4433,12 +4435,12 @@
   text: >-
     He estat tan ocupat amb el combat
 
-    d'Struggle que m'he oblidat de la botiga!{:clear }Ho sento. Torni més tard, si us plau.
+    d'Struggle que m'he oblidat de la botiga!{:clear }Em sap greu. Torni més tard, si us plau.
 - id: 17498
   text: >-
     Corren rumors sobre set meravelles
 
-    que hi ha a las Terraces del Capvespre.{:clear }No acostumo a creure'm els rumors,
+    que hi ha a les Terraces del Capvespre.{:clear }No acostumo a creure'm els rumors,
 
     però aquest m'esgarrifa una mica.
 - id: 17499
@@ -4452,7 +4454,7 @@
   text: >-
     He estat tan ocupat amb les armes de
 
-    l'Struggle que m'he oblidat de la feina!{:clear }Ho sento, però la meva botiga
+    l'Struggle que m'he oblidat de la feina!{:clear }Em sap greu, però la meva botiga
 
     encara no està preparada.
 - id: 17515
@@ -4466,7 +4468,7 @@
   text: >-
     Estic preparant l'equip
 
-    per a l'Struggle!{:clear }Ho sento, però no tinc temps
+    per a l'Struggle!{:clear }Em sap greu, però no tinc temps
 
     per atendre la botiga.
 - id: 17517
@@ -4494,7 +4496,7 @@
     aquells moments per colpejar-lo!
 - id: 17525
   text: >-
-    Esteu preparats?{:clear }La botiga d'objectes està oberta.
+    Esteu preparats?{:clear }La botiga d'objectes és oberta.
 
     Comprem coses per a més endavant!
 - id: 17526
@@ -4547,14 +4549,14 @@
     no hi ha res com una baralla del carrer!
 - id: 17534
   text: >-
-    Ajà!{:clear }Anaves a dir alguna cosa?
+    Ahà!{:clear }Anaves a dir res?
 
     Pots venir quan vulguis, xaval.
 - id: 17535
   text: >-
     Creus que ets fort només
 
-    perquè has guanyat?{:clear }La pròxima vegada lluitaré de debó!
+    perquè has guanyat?{:clear }La propera vegada lluitaré de debó!
 - id: 17536
   text: >-
     El Seifer et clavarà
@@ -4567,9 +4569,9 @@
     Hi ha d'haver un error!
 - id: 17538
   text: >-
-    El Seifer no anava seriosament!
+    El Seifer no anava de debò!
 
-    A la pròxima te n'enteraràs!
+    A la propera sabràs el que és bo!
 - id: 17539
   text: Victòria.
 - id: 17540
@@ -4580,9 +4582,9 @@
   text: >-
     Vols un autògraf?
 
-    Ho sento, estic ocupat.{:clear }Per què no vas cap aquell taulell?
+    Em sap greu, estic ocupat.{:clear }Per què no vas cap aquell taulell?
 
-    Allà l'àrbitre explica les normes.
+    L'àrbitre hi explica les normes.
 - id: 17543
   text: >-
     Has vingut perquè el campió
@@ -4606,14 +4608,14 @@
     Però no ens passem, eh?
 - id: 17546
   text: >-
-    Je, je, je...{:clear }RR...Ro...
+    He, he, he...{:clear }RR...Ro...
 
     xaa...ssss...
 - id: 17547
   text: >-
-    Per què he participat en aquest torneig?{:clear }Per què ara tots
+    Per què he participat en aquest torneig?{:clear }Per què ara tothom
 
-    em giren l'esquena?
+    em gira l'esquena?
 - id: 17552
   text: >-
     Tots els participants han
@@ -4621,7 +4623,7 @@
     de conèixer les normes!
 - id: 17553
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Escoltar les normes?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Escoltes les normes?
 
     {:chardelay 33 00}Ara no.
 
@@ -4630,7 +4632,7 @@
   text: >-
     Quan estiguis preparat, puja al
 
-    quadrilàter i parla amb l'organizador!
+    quadrilàter i parla amb l'organitzador!
 - id: 17557
   text: >-
     Primer deixa que l'àrbitre
@@ -4654,7 +4656,7 @@
   text: >-
     Ha arribat el moment del combat final!
 
-    Estàs llest?
+    Estàs a punt?
 - id: 17561
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Preparat per lluitar amb el Vivi?
@@ -4671,9 +4673,9 @@
   text: "{:unk13 00 01 40 01}{:unk08 02 00 06}Preparat per lluitar contra el Setzer?\n{:chardelay 33 00}Encara no.\n{:chardelay 09 00}Estic preparat! ¡Comencem! "
 - id: 17587
   text: >-
-    {:color #00F0F080}Prem {:icon dynamic-start} per accedir al menú principal.{:clear }{:reset}Allà hi pots consultar la condició i els calés i canviar
+    {:color #00F0F080}Prem {:icon dynamic-start} per accedir al menú principal.{:clear }{:reset}Hi pots consultar la condició i els calés i canviar la
 
-    la configuració. Durant les batalles no podràs obrir-lo.{:clear }El Diari del Roxas conté {:color #00F0F080}pistes{:reset} sobre com avançar
+    configuració. Durant les batalles no podràs obrir-lo.{:clear }El Diari del Roxas conté {:color #00F0F080}pistes{:reset} per avançar
 
     i esdeveniments passats.
 - id: 17588
@@ -4690,16 +4692,16 @@
     però hi jugava tota l'estona.
 - id: 17590
   text: >-
-    Avui haig denganxar cartells
+    Avui haig d'enganxar cartells
 
-    per al pròxim combat d'Struggle!
+    per al proper combat d'Struggle!
 - id: 17593
   text: >-
     Has estat genial!
 
     Gràcies!{:clear }Vull més! Estic desitjant veure
 
-    el pròxim combat d'Struggle!
+    el proper combat d'Struggle!
 - id: 17594
   text: >-
     Vens de l'Estació Central?{:clear }Jo hi vaig a agafar un tren
@@ -4747,9 +4749,9 @@
   text: >-
     I pensar que era un gos amagat
 
-    en un sac. Pobret!{:clear }Tot i que només fos el meu reflexe a
+    en un sac. Pobret!{:clear }Tot i només ser el meu reflex a l'aigua,
 
-    l'aigua,no he pogut evitar sobresaltar-me!
+    no he pogut evitar sobresaltar-me!
 - id: 17607
   text: >-
     Una mansió passat el trenc
@@ -4785,14 +4787,14 @@
   text: >-
     Ara pots veure la condició dels
 
-    membres del grup al menú principal.{:clear }Totes les habilitats i doblers del
+    membres del grup al menú principal.{:clear }Totes les habilitats i calés del
 
     Roxas s'han traspassat al Sora.{:clear }Al Diari del Grill, hi ha {:color #00F0F080}pistes de com
 
     avançar{:reset} i esdeveniments passats.
 - id: 17631
   text: >-
-    Has vingut a buscar feina?{:clear }Yo no aconsegueixo trobar-ne
+    Has vingut a buscar feina?{:clear }Jo no aconsegueixo trobar-ne
 
     cap que pugui fer.
 - id: 17632
@@ -4804,7 +4806,7 @@
   text: >-
     Com més n'espanto,
 
-    més n'apareixen!{:clear }Què faré?
+    més n'apareixen!{:clear }Què hi faré?
 - id: 17635
   text: >-
     Espero trobar actors aviat.
@@ -4833,7 +4835,7 @@
   text: >-
     Els combats d'Struggle sempre
 
-    atreuen multituds, i tot gràcies a mi!{:clear }Ningú se n'adonaria sense aquests
+    atreuen multituds, i tot gràcies a mi!{:clear }Ningú se n'assabentaria sense aquests
 
     cartells! Això sí, estic esgotat!
 - id: 17643
@@ -4883,7 +4885,7 @@
     que em donessin un cop de mà.
 - id: 17654
   text: >-
-    L'estación està pujant la costa.
+    L'estació és pujant la costa.
 
     Anem en tren a l'Estació Central.{:clear }Crec que el tren local segueix
 
@@ -4901,7 +4903,7 @@
 
     Tramvia et du a la mansió encantada.{:clear }Però només és un rumor. No
 
-    et facis moltes il.lusions.
+    et facis moltes il・lusions.
 - id: 17659
   text: >-
     Has dormit tant de temps que pot ser que
@@ -4916,7 +4918,7 @@
     haurem de preparar de valent!
 - id: 17661
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Pujar al tren?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Pugem al tren?
 
     {:chardelay 33 00}Encara no.
 
@@ -4925,19 +4927,19 @@
   text: >-
     No tornis a la mansió, podries
 
-    agafar el son un altre cop!{:clear }A més a més, hem d'esbrinar quina classe
+    agafar el son un altre cop!{:clear }A més, hem d'esbrinar quina classe
 
-    de lloc és aquest. Estic nerviós!
+    de lloc és aquest. Quins nervis!
 - id: 17663
   text: >-
-    Hora de començar la nostra aventura!{:clear }Si encara hi ha res que vulguis fer
+    Hora de començar la nostra aventura!{:clear }Si encara hi ha res que vulguis fer aquí,
 
-    aquí, aquesta és la teva última oportunitat.
+    aquesta és la teva última oportunitat.
 - id: 17664
   text: >-
     Si vols saber coses d'aquesta ciutat,
 
-    ves al solar. Nosaltres estem ocupats.{:clear }Però seguro que la tropa
+    ves al solar. Nosaltres estem ocupats.{:clear }Però segur que la tropa
 
     del Seifer t'ajudarà.
 - id: 17665
@@ -4989,16 +4991,16 @@
   text: >-
     Què estrany! Sento que per alguna
 
-    raó me n'haig de despedir...{:clear }Com si hagués de dir adeu a algú que
+    raó me n'haig de acomiadar...{:clear }Com si hagués de dir adeu a algú que
 
     he esperat llargament per veure...
 - id: 17674
   text: >-
     Ah, Sora, aquell moneder...
 
-    Bah, no importa.{:clear }Torna a visitar-nos, d'acord?
+    Bah, tant és.{:clear }Torna a visitar-nos, d'acord?
 
-    Estarem on sempre.
+    Serem on sempre.
 - id: 17675
   text: >-
     Aviam, hem vingut fins aquí en
@@ -5026,7 +5028,7 @@
 
     trobaríem el Pete aquí!{:clear }Es veu que no només causa
 
-    problemes en el nostre món!
+    problemes al nostre món!
 - id: 17680
   text: >-
     Quina torre més estranya!
@@ -5163,7 +5165,7 @@
   text: Podràs partir quan et canviïs de roba!
 - id: 17950
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Canviar de roba?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Canvies de roba?
 
     {:chardelay 33 00}Encara no.
 
@@ -5179,7 +5181,7 @@
   text: >-
     Ens han parlat de tu. Afanya't
 
-    i prova't les teves noves peces!{:clear }Això sí, abans has d'estar
+    i emprova't les teves noves peces!{:clear }Això sí, abans has d'estar
 
     preparat per al viatge.
 - id: 17953
@@ -5193,7 +5195,7 @@
   text: >-
     Aquestes peces et serviran
 
-    a mesura que creixis!{:clear }Encara no coneixes el seu potencial vertader.
+    a mesura que creixis!{:clear }Encara no coneixes el seu veritable potencial.
 
     Hauràs d'aprendre a fer-lo servir!
 - id: 17955
@@ -5445,7 +5447,7 @@
   text: >-
     {:unk13 4D 01 CE 00}{:unk08 01 00 07}Necessitaves això, Roxas?{:clear }Segur que pensaves
 
-    en practicar una mica.
+    a practicar una mica.
 - id: 18396
   text: '{:unk13 5D 01 5E 00}{:unk06 02}{:unk08 03 00 05}Roxas!'
 - id: 18397
@@ -5463,21 +5465,21 @@
 
     {:chardelay 33 00}No, gràcies.
 
-    {:chardelay 09 00}Vull desafiar-li.
+    {:chardelay 09 00}Vull desafiar-lo.
 - id: 18424
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Guanyes o perds! Sense rencor.
 
     {:chardelay 33 00}No, gràcies.
 
-    {:chardelay 09 00}Vull desafiar-li.
+    {:chardelay 09 00}Vull desafiar-lo.
 - id: 18425
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Guanyes o perds! Sense rencor.
 
     {:chardelay 33 00}No, gràcies.
 
-    {:chardelay 09 00}Desafiar-li.
+    {:chardelay 09 00}Desafiar-lo.
 - id: 18430
   text: Veus una escriptura borrosa.
 - id: 18431
@@ -5501,7 +5503,7 @@
     {:chardelay 09 00}Lluitem!
 - id: 18436
   text: >-
-    De prop, pots llegir las normes d'Struggle.{:clear }No són les normes del torneig,
+    De prop, pots llegir les normes d'Struggle.{:clear }No són les normes del torneig,
 
     sinó les que tu et vas inventar. Els
 
@@ -5510,7 +5512,7 @@
   text: >-
     {:unk13 31 01 37 00}{:unk08 01 01 05}Quin ensurt!{:clear }M'ha semblat veure algú,
 
-    però només era el meu reflexe.{:clear }Segur que aquesta és una
+    però només era el meu reflex.{:clear }Segur que aquesta és una
 
     de les Set Meravelles!
 - id: 18514
@@ -5555,7 +5557,7 @@
     però t'estalvia molt de temps!
 - id: 18596
   text: >-
-    Escull una de les tres armes.
+    Tria una de les tres armes.
 
     L'elecció determinarà el teu estil de lluita!
 - id: 18597
@@ -5606,7 +5608,7 @@
     Lluita amb la singular clau espasa!
 - id: 18606
   text: >-
-    Derrota el misteriós Axel!
+    Derrota el misteriós Àxel!
 
     Lluita amb la singular clau espasa!
 - id: 18607
@@ -5620,7 +5622,7 @@
   text: >-
     Venç els enemics que et rodegen.
 
-    Ja t'encarregaràs després de l'Axel.
+    Ja t'encarregaràs després de l'Àxel.
 - id: 18609
   text: >-
     Utilitza la misteriosa clau espasa
@@ -5630,7 +5632,7 @@
   text: >-
     Utilitza la misteriosa clau espasa
 
-    per vèncer l'Axel!
+    per vèncer l'Àxel!
 - id: 18611
   text: >-
     Utilitza la clau espasa per
@@ -5662,7 +5664,7 @@
     derrota tots els incorporis!!
 - id: 18618
   text: >-
-    Lluita junt l'Axel i
+    Lluita junt l'Àxel i
 
     derrota tots els incorporis!
 - id: 18619
@@ -5751,11 +5753,11 @@
     Et servirà per a la teva feina.
 - id: 18922
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Patinar?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Patines?
 
     {:chardelay 33 00}Tinc altres coses a fer.
 
-    {:chardelay 52 00}És clar!
+    {:chardelay 52 00}I tant!
 - id: 18968
   text: >-
     Que si he vist passar algú?
@@ -5842,7 +5844,7 @@
   text: >-
     Has guanyat una nova habilitat!
 
-    Aquestes peces van ser fetes per a tu!{:clear }Aquesta transformació t'ajudarà a
+    Aquestes peces han estat fetes per a tu!{:clear }Aquesta transformació t'ajudarà a
 
     desenvolupar tot el teu potencial, Sora!
 - id: 19001
@@ -5894,7 +5896,7 @@
   text: >-
     El Seifer estava fet pols!
 
-    La pròxima vegada no perderà!
+    La propera vegada no perdrà!
 - id: 19018
   text: >-
     El Seifer és un geni! Tu
@@ -5944,14 +5946,14 @@
   text: >-
     {:unk08 02 00 06}{:chardelay 33 00}Cap.
 
-    {:chardelay 0A 00}Començament.
+    {:chardelay 0A 00}Inici.
 
     {:chardelay 0B 00}Interludi.
 
-    {:chardelay 0C 00}El que està per venir.
+    {:chardelay 0C 00}El que vindrà.
 - id: 19129
   text: >-
-    {:unk13 00 01 D0 00}«Començament»{:clear }En cada viatge ocorren
+    {:unk13 00 01 D0 00}«Inici»{:clear }A cada viatge ocorren
 
     trobades casuals, i
 
@@ -5973,7 +5975,7 @@
 
     mateixos llaços, encara que
 
-    els seus camins es separin.{:clear }Quan dubtis del camí que
+    els seus camins se separin.{:clear }Quan dubtis del camí que
 
     has recorregut, quan perdis
 
@@ -5992,7 +5994,7 @@
 
     d'aquest «món intersticial».{:clear }Què és la realitat? Què és
 
-    l'il・lusió? El camí escollit pel
+    la il・lusió? El camí escollit pel
 
     nen condueix als seus records.{:clear }Quan t'atrapi el corrent
 
@@ -6004,7 +6006,7 @@
     doncs allí la confusió cessarà.
 - id: 19131
   text: >-
-    {:unk13 00 01 D0 00}«El que vindrà»{:clear }Veurem el dia en que aquesta batalla,
+    {:unk13 00 01 D0 00}«El que vindrà»{:clear }Veurem el dia en què aquesta batalla,
 
     sorgida de la confusió, cessi?
 
@@ -6083,7 +6085,7 @@
     quantes vegades més.
 - id: 19148
   text: >-
-    Bravo! Estàs llest per
+    Bravo! Estàs a punt per
 
     enfrontar-te al Seifer!{:clear }Pots lluitar a l'Struggle quan
 
@@ -6097,9 +6099,9 @@
   text: >-
     {:unk13 5E 01 50 00}{:unk08 01 00 05}És fàcil!{:clear }Cadascú té cent esferes!
 
-    Heu d'atacar per treure les
+    Heu d'atacar per treure
 
-    seves esferes a l'adversari.{:clear }Així de simple.{:clear }Si li assesteu un cop,
+    les esferes a l'adversari.{:clear }Així de simple.{:clear }Si li assesteu un cop,
 
     l'adversari deixarà
 
@@ -6116,9 +6118,9 @@
 
     el participant amb més
 
-    esferes guanya.{:clear }Quan estigueu llestos, parleu
+    esferes guanya.{:clear }Quan estigueu a punt, parleu
 
-    amb l'organizador del torneig.
+    amb l'organitzador del torneig.
 
     És al quadrilàter.
 - id: 19548
@@ -6290,7 +6292,7 @@
   text: >-
     Ànims, Jack.{:delay 58 00}{:clear }Ja se'ns acudirà un altre
 
-    pla per a Halloween.{:delay AC 00}{:clear }La pròxima vegada ho farem junts.
+    pla per a Halloween.{:delay AC 00}{:clear }La propera vegada ho farem junts.
 - id: 19696
   text: Poder!
 - id: 19697
@@ -6306,7 +6308,7 @@
   text: L'has trobada?
 - id: 19701
   text: >-
-    Encara no m'ho crec.{:delay A2 00}{:clear }He volat!{:delay C6 00}{:clear }La Kai... no s'ho creurà
+    Encara no m'ho puc creure.{:delay A2 00}{:clear }He volat!{:delay C6 00}{:clear }La Kai... no s'ho creurà
 
     quan li ho expliqui!
 - id: 19702
@@ -6336,7 +6338,7 @@
 
     porta secreta i canviar el món.
 - id: 19709
-  text: Però tampoc traicionaré el Sora.
+  text: Però tampoc trairé el Sora.
 - id: 19710
   text: Un per a tots i tots per a un.
 - id: 19711
@@ -6344,9 +6346,9 @@
 - id: 19712
   text: El teu cor ha guanyat aquesta batalla.
 - id: 19713
-  text: Soc l'Ànsem,
+  text: Soc jo, l'Ànsem,
 - id: 19714
-  text: el buscador de la foscor.
+  text: el cercador de la foscor.
 - id: 19715
   text: Sora!
 - id: 19716
@@ -6363,7 +6365,7 @@
     però mai ens oblidarem.
 - id: 19719
   text: >-
-    No importa on siguem, els nostres
+    Tant és on siguem, els nostres
 
     cors ens tornaran a reunir.
 - id: 19720
@@ -6377,16 +6379,16 @@
   text: M'ho promets?
 - id: 19723
   text: >-
-    CaraI, així queden els mons
+    Òndia, així queden els mons
 
-    invaïts pels sensecor?
+    envaïts pels sensecor?
 - id: 19724
   text: >-
     Aquells mons es recuperaran
 
     si derrotem l'Ànsem, oi?{:delay A8 00}{:clear }Però si els mons es recuperen
 
-    i queden desconectats,{:delay 55 01}{:clear }què passarà amb aquest lloc...
+    i queden desconnectats,{:delay 55 01}{:clear }què passarà amb aquest lloc...
 
     i amb nosaltres?
 - id: 19725
@@ -6398,13 +6400,13 @@
     essència del cor.
 - id: 19726
   text: >-
-    Això no és cert!{:delay 34 00}{:clear }El cor pot ser dèbil
+    Això no és cert!{:delay 34 00}{:clear }El cor pot ser dèbil i de
 
-    i de vegades cedir.{:delay 2C 01}{:clear }Però ara sé que en el fons hi
+    vegades pot arribar a cedir.{:delay 2C 01}{:clear }Però ara sé que en el fons hi
 
     ha una llum que mai s'apaga!
 - id: 19727
-  text: Kingdom Hearts!{:delay 8C 00}{:clear }Dona'm el poder de la foscor...
+  text: Kingdom Hearts!{:delay 8C 00}{:clear }Omple'm amb el poder de la foscor...
 - id: 19728
   text: T'equivoques,{:delay 5E 00}{:clear }ara ho sé sens dubte.{:delay 6B 00}{:clear }El Kingdom Hearts... és llum!
 - id: 19729
@@ -6434,7 +6436,7 @@
     i el rei Mickey.
 - id: 19737
   text: >-
-    Però, on serà
+    Però, on deu ser
 
     la porta cap a la llum?
 - id: 19738
@@ -6449,7 +6451,7 @@
 
     Ha trobat un dels panys.
 - id: 19744
-  text: No te n'oblidis.{:delay 54 00}{:clear }Sempre estic amb tu.
+  text: Mai te n'oblidis.{:delay 54 00}{:clear }Vagis on vagis, sempre estic amb tu.
 - id: 19747
   text: Vila Crepuscle
 - id: 19863
@@ -6459,7 +6461,7 @@
 - id: 19891
   text: No sents res. Res és real.
 - id: 19892
-  text: Jo puc donar-te un sentit.
+  text: Jo puc donar-te un propòsit.
 - id: 19893
   text: Roxas...
 - id: 19894
@@ -6467,9 +6469,9 @@
 - id: 19895
   text: Doncs res, suposo.
 - id: 19896
-  text: Marxem.
+  text: Som-hi.
 - id: 19897
-  text: Anar-nos-en? On vols que ens en anem?{:delay 6E 00}{:clear } {:delay 0A 00}{:clear }Ni que tinguéssim una llar on tornar.
+  text: «Som-hi» a on?{:delay 6E 00}{:clear } {:delay 0A 00}{:clear }Ni que tinguéssim una llar on tornar.
 - id: 19898
   text: No existim, te'n recordes?
 - id: 19899
@@ -6493,28 +6495,28 @@
 - id: 19908
   text: Ens heu ajudat en el Castell de l'Oblit.
 - id: 19909
-  text: Je. No hauràs de repetir-m'ho.
+  text: He. No hauràs de repetir-m'ho.
 - id: 19910
   text: Gràcies.
 - id: 19911
   text: Mira qui es desperta per fi
 - id: 19912
-  text: Axel...
+  text: Àxel...
 - id: 19913
-  text: Igual m'he equivocat.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Potser és hora d'anar a dormir.{:delay 82 00}{:clear }Aviat no podrem tornar a parlar como ara.
+  text: Potser m'he equivocat.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Potser és hora d'anar a dormir.{:delay 82 00}{:clear }Aviat no podrem tornar a parlar como ara.
 - id: 19914
   text: Vols dir que... {:delay 7D 00}{:clear }és l'hora de tornar on pertanyo?
 - id: 19915
   text: >-
     Saps què? He estat pensant sobre 
 
-    una cosa que va dir la Naminé.{:delay 0E 01}{:clear } {:delay 32 00}{:clear }Roxas... estàs segur de 
+    una cosa que va dir la Naminé.{:delay 0E 01}{:clear } {:delay 32 00}{:clear }Roxas... estàs segur 
 
     que realment no tens cor?{:delay 68 01}{:clear }I si tots nosaltres en tinguéssim un?
 
     Ella, tu, jo... Tots. {:delay 40 01}{:clear }Potser no són més que il・lusions meves.
 - id: 19916
-  text: No ho sé.{:delay A9 00}{:clear }No puc... veure el meu interior.
+  text: No ho sé.{:delay A9 00}{:clear }No puc... mirar endins.
 - id: 19919
   text: Au, no em deixis a mitges.
 - id: 19920
@@ -6537,7 +6539,7 @@
 
     i serà sempre la meva llar.{:delay C8 00}{:clear } {:delay 64 00}{:clear }
 
-    Com li deu anar als nois? Hayner, Pence, Olette... {:delay 39 01}{:clear }Em recordo molt d'ells.
+    Com els deu anar, als nois? El Hayner, el Pence, l'Olette... {:delay 39 01}{:clear }Em recordo molt d'ells.
 - id: 19924
   text: >-
     Quan tornis a veure'ls, podràs
@@ -6549,9 +6551,9 @@
 
     El Sora m'espera.
 - id: 19926
-  text: Sí, ho suposava.{:delay 81 00}{:clear } {:delay 83 00}{:clear }Nano, aquest gelat si que està bo, eh?
+  text: Sí, ho suposava.{:delay 81 00}{:clear } {:delay 83 00}{:clear }Nano, aquest gelat si que és bo, eh?
 - id: 19927
-  text: Cuida't. D'acord, Axel?
+  text: Cuida't. D'acord, Àxel?
 - id: 19928
   text: Tu també, col・lega.
 - id: 19987
@@ -6567,11 +6569,11 @@
     {:chardelay A1 00}S'haurà d'examinar!
 - id: 20188
   text: >-
-    Però imagino... que si hi ha alguna
+    Però imagino... que si hi ha res
 
-    cosa allà,  en el nostre interior, {:delay 13 01}{:clear } {:delay 0F 00}{:clear }ho sentiriem, no?
+    allà,  dins nostre, {:delay 13 01}{:clear } {:delay 0F 00}{:clear }ho sentiríem, no?
 - id: 20189
-  text: I si fos així... Bah, deixa-ho estar.
+  text: I si així fos... Bah, deixa-ho estar.
 - id: 20539
   text: >-
     La imatge de tu obtenint vells
@@ -6579,7 +6581,7 @@
     poders se't projecta a la ment.
 - id: 20540
   text: >-
-    Has obtingut una peça de puzle!
+    Has obtingut una peça de trencaclosques!
 
 
     Hi ha peces repartides per tots els mons,
@@ -6593,7 +6595,7 @@
 
     Accedeix al Diari del Grill per veure
 
-    les peces que ja hagis trobat.
+    les peces que ja has trobat.
 - id: 20594
   text: Prem {:icon dynamic-triangle} per començar el duel! No donis quarter als enemics!
 - id: 20596
@@ -6602,7 +6604,7 @@
   text: Prem {:icon dynamic-triangle} per començar el duel! Molt de compte amb els seus atacs!
 - id: 20687
   text: >-
-    Derrota l'Axel!
+    Derrota l'Àxel!
 
     Procura no acostar-te a les flames!
 - id: 21374
@@ -6640,7 +6642,7 @@
     veure amb la teva aventura, Sora.
 - id: 21386
   text: >-
-    {:unk13 59 01 18 01}{:unk08 01 01 02}No el perdis, estimat.{:clear }Si és una peça d'alguna cosa,
+    {:unk13 59 01 18 01}{:unk08 01 01 02}No la perdis, estimat.{:clear }Si és una peça d'alguna cosa,
 
     potser reunir-ne la resta
 
@@ -6667,7 +6669,7 @@
 - id: 21480
   text: "{:delayandfade 0A 78} \nEls Roxas i els seus amics comproven\nles Set Meravelles una a una,\nperò ni una d'elles sembla tenir\nrealment res de meravellós.\n \n \n \n \n"
 - id: 21481
-  text: "{:delayandfade 0A 78} \nSegons l'Ànsem, la foscor és\nla vertadera essència del cor.\n \nPerò fins i tot en el més profund\nde les tenebres, sempre hi ha una\nllum que mai s'apaga.\n\nEl Kingdom Hearts és llum i alberga\nel poder de contrarrestar tota foscor.\n \n"
+  text: "{:delayandfade 0A 78} \nSegons l'Ànsem, la foscor és\nla veritable essència del cor.\n \nPerò fins i tot en el més profund\nde les tenebres, sempre hi ha una\nllum que mai s'apaga.\n\nEl Kingdom Hearts és llum i alberga\nel poder de contrarrestar tota foscor.\n \n"
 - id: 21482
   text: "{:delayandfade 07 78} \nSegons el rei, l'ordinador de la vella\nmansió podria estar connectat amb\nl'altra Vila Crepuscle. Des d'allà,\npotser es podria arribar fins el Regne\nde la Foscor.\n \nIl・lusionat per la idea de reunir-se\namb el seu amic, el Sora registra cada\npam de la mansió. I llavors...\n \n"
 - id: 21629

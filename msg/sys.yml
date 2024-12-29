@@ -1499,19 +1499,19 @@
 - id: 1449
   text: ''
 - id: 1452
-  text: Botiga
+  text: Tenda
 - id: 1453
   text: >-
     El grup recupera completament 
 
-    la VT i els PM. Només es pot utilitzar en el menú.
+    la VT i els PM. Només es pot utilitzar al menú.
 - id: 1474
   text: Clau del Regne
 - id: 1475
   text: >-
     Clauer original de la clau espasa.
 
-    Redueix el dany a la meitat en
+    Redueix el mal a la meitat en
 
     moments crítics.
 - id: 1476
@@ -1742,10 +1742,10 @@
 
     {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 12{:reset}
 - id: 1590
-  text: Gel elemental
+  text: Glaç elemental
 - id: 1591
   text: >-
-    Descarrega cristalls de gel sobre l'objectiu. 
+    Descarrega cristalls de glaç sobre l'objectiu. 
 
     {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 15{:reset}
 - id: 1592
@@ -2362,7 +2362,7 @@
 - id: 2716
   text: No es pot desar en un nou fitxer.
 - id: 2717
-  text: Desa nou fitxer.
+  text: Desa un nou fitxer.
 - id: 2718
   text: >-
     {:position 0,16}No hi ha suficient espai lliure
@@ -2469,7 +2469,7 @@
 - id: 2764
   text: Compra
 - id: 2765
-  text: Vendre
+  text: Ven
 - id: 2766
   text: Surt-ne
 - id: 2767
@@ -2479,7 +2479,7 @@
 - id: 2769
   text: Compra objectes.
 - id: 2770
-  text: Vendre objectes.
+  text: Ven objectes.
 - id: 2771
   text: Tanca el menú.
 - id: 2772
@@ -2962,7 +2962,7 @@
   text: >-
     Aquest escut no poseeix una gran força,
 
-    però és excel・lent per la defensa.
+    però és excel・lent per a la defensa.
 
     Bloqueja diversos atacs.
 - id: 8309
@@ -3028,7 +3028,7 @@
 
     Recupera PM en proporció 
 
-    al dany que reps.
+    al mal que reps.
 - id: 8847
   text: Maça màgica
 - id: 8848
@@ -3321,7 +3321,7 @@
   text: Glaç Donald
 - id: 13046
   text: >-
-    Llença una descàrrega de gel
+    Llença una descàrrega de glaç
 
     sobre l'enemic. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 13047
@@ -3986,7 +3986,7 @@
   text: >-
     Roxas:
 
-    Aquest lloc em dona mala espina...
+    Aquest lloc em fa mala espina...
 - id: 14226
   text: ''
 - id: 14279
@@ -4240,7 +4240,7 @@
   text: Helicòpter
 - id: 14746
   text: >-
-    Dona un poderós salt ofensiu
+    Fa un poderós salt ofensiu
 
     per atacar a enemics a l'aire.
 - id: 14747
@@ -4321,42 +4321,42 @@
   text: >-
     Recupera per complet tres indicadors
 
-    de Fusió. Només es pot utilitzar en el menú.
+    de Fusió. Només es pot utilitzar al menú.
 - id: 14811
   text: Recàrrega de Fusió+
 - id: 14812
   text: >-
     Recupera per complet els indicadors
 
-    de Fusió. Només es pot utilitzar en el menú.
+    de Fusió. Només es pot utilitzar al menú.
 - id: 14813
   text: Impuls de vigor
 - id: 14814
   text: >-
     Augmenta en 1 la Força.
 
-    Només es pot utilitzar en el menú.
+    Només es pot utilitzar al menú.
 - id: 14815
   text: Impuls màgic
 - id: 14816
   text: >-
     Augmenta en 1 la Màgia.
 
-    Només es pot utilitzar en el menú.
+    Només es pot utilitzar al menú.
 - id: 14817
   text: Impuls defensiu
 - id: 14818
   text: >-
     Augmenta en 1 la Defensa.
 
-    Només es pot utilitzar en el menú.
+    Només es pot utilitzar al menú.
 - id: 14819
   text: Impuls hàbil
 - id: 14820
   text: >-
     Augmenta en 1 els PH màxims.
 
-    Només es pot utilitzar en el menú.
+    Només es pot utilitzar al menú.
 - id: 14821
   text: loop demo
 - id: 14823
@@ -4905,7 +4905,7 @@
   text: >-
     Aquesta gema desborda de poder del
 
-    foc. Es un element extrany que
+    foc. Es un element estrany que
 
     serveix per fabricar objectes.
 - id: 15029
@@ -4914,7 +4914,7 @@
   text: >-
     Aquest misteriós cristall desborda de
 
-    poder del foc. És un element extrany 
+    poder del foc. És un element estrany 
 
     que serveix per fabricar objectes.
 - id: 15039
@@ -5283,9 +5283,9 @@
   text: >-
     Anunci del torneig d'Struggle.
 
-    Diu: ‛Prepara't per
+    Diu: «Prepara't per
 
-    passar-t'ho en gran!’
+    passar-t'ho en gran!»
 - id: 15121
   text: Cartell
 - id: 15122
@@ -5310,7 +5310,7 @@
   text: >-
     Uns esbossos que va deixar la Naminé.
 
-    Els dibujos semblen tenir un
+    Els dibuixos semblen tenir un
 
     profund significat.
 - id: 15127
@@ -5319,9 +5319,9 @@
   text: >-
     Membre del Comité de Restauració
 
-    {:width 90}de Bastió Balmat{:width 100}.
+    {:width 90}de Baluard Balmat{:width 100}.
 
-    Extrany carnet de membre honorari.
+    Estrany carnet de membre honorari.
 - id: 15129
   text: Pedra del Olimp
 - id: 15130
@@ -5365,7 +5365,7 @@
   text: Gelat
 - id: 15140
   text: >-
-    Gelat trobat dins d'una capsa.
+    Gelat trobat dins una capsa.
 
     Mmm. És refrescant i fa
 
@@ -5431,7 +5431,7 @@
   text: >-
     Aquest fragment de gema conté el
 
-    poder del gel. És un ingredient
+    poder del glaç. És un ingredient
 
     molt comú per fabricar objectes.
 - id: 15211
@@ -5440,7 +5440,7 @@
   text: >-
     Aquesta roca enclou el poder del
 
-    gel. És un ingredient comú
+    glaç. És un ingredient comú
 
     per fabricar objectes.
 - id: 15213
@@ -5449,7 +5449,7 @@
   text: >-
     Aquesta gema desborda de poder del
 
-    gel. És un ingredient estrany que
+    glaç. És un ingredient estrany que
 
     serveix per fabricar objectes.
 - id: 15215
@@ -5458,7 +5458,7 @@
   text: >-
     Aquest misteriós cristall desborda de
 
-    poder del gel. És un ingredient molt 
+    poder del glaç. És un ingredient molt 
 
     inusual per fabricar objectes.
 - id: 15217
@@ -5509,9 +5509,9 @@
   text: No es pot canviar ningú.
 - id: 15241
   text: >-
-    Permet configurar els botons d'accès
+    Permet configurar els botons de
 
-    directe i altres funcions.
+    dreceres i altres funcions.
 - id: 15242
   text: >-
     Canvia la configuració 
@@ -5633,7 +5633,7 @@
   text: Extracombo
 - id: 15317
   text: >-
-    Augmenta el dany de latac
+    Augmenta el mal de l'atac
 
     final a terra, en relació al
 
@@ -5642,7 +5642,7 @@
   text: Extracombo aeri
 - id: 15319
   text: >-
-    Augmenta el dany de l'atac
+    Augmenta el mal de l'atac
 
     final a l'aire, en relació al
 
@@ -5651,11 +5651,11 @@
   text: Extrarreacció
 - id: 15321
   text: >-
-    {:color #F0F00080}Augmenta un 50%{:reset} el dany
+    {:color #F0F00080}Augmenta un 50%{:reset} el mal
 
     causat amb ordres de reacció.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15322
   text: Letal +
 - id: 15323
@@ -5671,7 +5671,7 @@
 
     a terra i a l'aire.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15326
   text: Càrrega de bogeria
 - id: 15327
@@ -5682,14 +5682,14 @@
 
     però desactiva l'atac final del combo.
 - id: 15328
-  text: Fusió per dany
+  text: Fusió per mal
 - id: 15329
   text: >-
     {:width 90}Omple l'indicador de Fusió cada vegada 
 
     que pateixes mal. La recàrrega és
 
-    proporcional al dany rebut.
+    proporcional al mal rebut.
 - id: 15330
   text: Extrafusió
 - id: 15331
@@ -5698,14 +5698,14 @@
 
     l'indicador de Fusió durant la Càrrega PM.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15332
   text: Extraforma
 - id: 15333
   text: >-
     Augmenta la duració de cada Forma de Fusió.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15334
   text: Extrainvoca
 - id: 15335
@@ -5728,7 +5728,7 @@
 
     un 100%{:reset} l'experiència guanyada al vèncer 
 
-    enemics. Quants més n'actives, major efecte.
+    enemics. Com més n'actives, major efecte.
 - id: 15340
   text: Fulla sana
 - id: 15341
@@ -5757,7 +5757,7 @@
   text: >-
     Apropa i recull esferes properes.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15348
   text: Premi gros
 - id: 15349
@@ -5773,36 +5773,36 @@
   text: >-
     Augmenta la quantitat d'objectes
 
-    que apareixen. Si tot
+    que apareixen. Si tot el grup
 
-    el grup ho porta, n'apareixeran més.
+    la porta, n'apareixeran més.
 - id: 15352
   text: Extrapiro
 - id: 15353
   text: >-
-    Augmenta el dany dels
+    Augmenta el mal dels
 
     atacs Piro en un {:color #F0F00080}20%{:reset}.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15354
   text: Extraglaç
 - id: 15355
   text: >-
-    Augmenta el dany dels
+    Augmenta el mal dels
 
     atacs Glaç en un {:color #F0F00080}20%{:reset}.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15356
   text: Extraelectro
 - id: 15357
   text: >-
-    Augmenta el dany dels
+    Augmenta el mal dels
 
     atacs Electro en un {:color #F0F00080}20%{:reset}.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15358
   text: Extraobjectes
 - id: 15359
@@ -5811,14 +5811,14 @@
 
     de cura a la batalla en un {:color #F0F00080}50%{:reset}.
 
-    quants més n'actives, major efecte.
+    com més n'actives, major efecte.
 - id: 15360
-  text: Aspira danys
+  text: Aspira mals
 - id: 15361
   text: >-
     Recupera PM en proporció al
 
-    dany que reps. Si n'actives més,
+    mal que reps. Si n'actives més,
 
     l'efecte augmentarà.
 - id: 15362
@@ -5829,28 +5829,28 @@
 
     la velocitat de recuperació dels mateixos.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15364
   text: Defensor
 - id: 15365
   text: >-
     Augmenta la defensa en {:color #F0F00080}3{:reset} a l'instant.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15366
   text: Segona Oportunitat
 - id: 15367
   text: >-
     Assegura un punt de vitalitat
 
-    si reps danys severs.
+    si reps mals severs.
 - id: 15368
   text: Una vegada més
 - id: 15369
   text: >-
     Assegura un punt de vitalitat si
 
-    reps danys a causa d'un combo.
+    reps mals a causa d'un combo.
 - id: 15370
   text: Auto Límit
 - id: 15371
@@ -5883,11 +5883,11 @@
   text: Pressa PM+
 - id: 15379
   text: >-
-    Si consumeixes tots els PM, {:color #F0F00080}augmenta un 50%{:reset}
+    Si consumeixes tots els PM, n'{:color #F0F00080}augmenta un 50%{:reset}
 
-    la velocitat de recuperació dels mateixos.
+    la velocitat de recuperació.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15380
   text: Pressa PM++
 - id: 15381
@@ -5896,7 +5896,7 @@
 
     la velocitat de recuperació d'aquests.
 
-    Quants més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15483
   text: Halosfera
 - id: 15485
@@ -5997,7 +5997,7 @@
   text: Terror gèlid
 - id: 15517
   text: >-
-    Cristalls de gel envolten a l'enemic
+    Cristalls de glaç envolten a l'enemic
 
     en un ferotge atac. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 15518
@@ -6142,9 +6142,9 @@
 - id: 15581
   text: Llistes
 - id: 15582
-  text: Confirma llistes de coleccions completades.
+  text: Confirma llistes de col・leccions completades.
 - id: 15583
-  text: '{:icon dynamic-square}Llista de la colecció'
+  text: '{:icon dynamic-square}Llista de la col・lecció'
 - id: 15584
   text: Llista d'objectes fabricats pels Moguris.
 - id: 15585
@@ -6437,7 +6437,7 @@
   text: >-
     Retorna PM en relació
 
-    proporcional al dany que reps.
+    proporcional al mal que reps.
 - id: 15870
   text: Visca la Reina
 - id: 15871
@@ -6464,7 +6464,7 @@
   text: Emblema de l'Heroi
 - id: 15919
   text: >-
-    Augmenta el dany dels atacs
+    Augmenta el mal dels atacs
 
     finals a l'aire, en proporció
 
@@ -6492,7 +6492,7 @@
 - id: 15926
   text: Depurador Fotònic
 - id: 15927
-  text: '{:color #F0F00080}Augmenta un 20%{:reset} el dany dels atacs Electro.'
+  text: '{:color #F0F00080}Augmenta un 20%{:reset} el mal dels atacs Electro.'
 - id: 15928
   text: Ala de Gavina
 - id: 15929
@@ -6515,7 +6515,7 @@
   text: >-
     Gaudeix d'un gran poder ofensiu.
 
-    {:color #F0F00080}Augmenta un 50%{:reset} el dany causat
+    {:color #F0F00080}Augmenta un 50%{:reset} el mal causat
 
     amb comandos de reacció.
 - id: 15934
@@ -6531,7 +6531,7 @@
   text: Carbassa Decisiva
 - id: 15937
   text: >-
-    Quants més combos executes,
+    Com més combos executes,
 
     més mal causes, i realitzes un
 
@@ -6553,7 +6553,7 @@
 
     una major quantitat de premis de fusió
 
-    en lloc de dinners.
+    en lloc de calés.
 - id: 15942
   text: Abisme Misteriós
 - id: 15943
@@ -6615,14 +6615,14 @@
   text: >-
     Poderós bastó de màgia i força abismals.
 
-    Recupera PM en proporció al dany que reps.
+    Recupera PM en proporció al mal que reps.
 - id: 15958
   text: Visca el Rei+
 - id: 15959
   text: >-
     Poderós escut de gran força i defensa.
 
-    Redueix el dany a la {:color #F0F00080}meitat{:reset} en
+    Redueix el mal a la {:color #F0F00080}meitat{:reset} en
 
     moments crítics.
 - id: 15972
@@ -6784,7 +6784,7 @@
 
     Has obtingut {:color #FFFF0080}{:unk0d }{:unk0d }{:reset}
 
-    per completar la colecció.
+    per completar la col・lecció.
 - id: 16081
   text: >-
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
@@ -7549,9 +7549,9 @@
   text: >-
     Roxas:
 
-    Què tal si explorem
+    I si explorem la
 
-    la mansió encantada?
+    mansió encantada?
 - id: 17733
   text: ''
 - id: 17734
@@ -8243,7 +8243,7 @@
   text: >-
     Sora:
 
-    El Lleó ens donarà els detalls.
+    El Léon ens donarà els detalls.
 - id: 18481
   text: ''
 - id: 18565
@@ -8638,7 +8638,7 @@
 - id: 19492
   text: INFORME DE BATALLA
 - id: 19541
-  text: '{:width 90}Trofeu ‛Struggle’'
+  text: '{:width 90}Trofeu «Struggle»'
 - id: 19542
   text: >-
     Trofeu del torneig d'Struggle.
@@ -8806,7 +8806,7 @@
 
     de Fusió que apareixen.
 
-    Major efecte quants més n'equipes.
+    Major efecte com més n'equipes.
 - id: 20012
   text: Llum i Foscor
 - id: 20013
@@ -8818,7 +8818,7 @@
   text: Control de mal
 - id: 20015
   text: >-
-    Redueix el dany a la meitat
+    Redueix el mal a la meitat
 
     en cas d'emergència.
 
@@ -8872,7 +8872,7 @@
   text: >-
     Aplega una gran força i poder
 
-    màgic. Redueix el dany a la
+    màgic. Redueix el mal a la
 
     meitat en cas d'emergència.
 - id: 20029
@@ -8975,7 +8975,7 @@
 
     un enemic llunyà i el colpeja, 
 
-    anul・lant la seva guardia.
+    fet que anul・la la seva guardia.
 - id: 20084
   text: Propulsió aèria
 - id: 20085
@@ -8991,7 +8991,7 @@
   text: >-
     Atrau els enemics a l'aire
 
-    i llença un combo final. El dany
+    i llença un combo final. El mal
 
     és proporcional a l'habilitat màgica.
 - id: 20088
@@ -9114,7 +9114,7 @@
   text: >-
     Llença un combo final contra els que
 
-    et rodegen. El dany és proporcional 
+    et rodegen. El mal és proporcional 
 
     a l'habilitat màgica.
 - id: 20121
@@ -9573,21 +9573,21 @@
   text: >-
     Redueix un 
 
-    {:color #F0F00080}10%{:reset} el dany rebut.
+    {:color #F0F00080}10%{:reset} el mal rebut.
 - id: 20493
   text: Closca+
 - id: 20494
   text: >-
     Redueix un 
 
-    {:color #F0F00080}20%{:reset} el dany rebut.
+    {:color #F0F00080}20%{:reset} el mal rebut.
 - id: 20495
   text: Closca++
 - id: 20496
   text: >-
     Redueix un 
 
-    {:color #F0F00080}40%{:reset} el dany rebut.
+    {:color #F0F00080}40%{:reset} el mal rebut.
 - id: 20498
   text: '{:icon remembrance}'
 - id: 20499
@@ -10088,7 +10088,7 @@
 
     la nau gumi i prem {:icon dynamic-cross} per {:color #FFEC1980}disparar{:reset}!
 - id: 22050
-  text: 'Prem {:icon dynamic-circle} per {:color #00FA3080}donar voltes{:reset}!'
+  text: 'Prem {:icon dynamic-circle} per {:color #00FA3080}fer voltes{:reset}!'
 - id: 22051
   text: '{:color #FFEC1980}Mantén premut{:reset} {:icon dynamic-cross} per {:color #00FA3080}fixar{:reset} un objectiu!'
 - id: 22052

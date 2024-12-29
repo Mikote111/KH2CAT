@@ -203,7 +203,7 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si utilitzes els comandaments de reacció
+    Si utilitzes les ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8069
@@ -221,7 +221,7 @@
   text: >-
     Derrota tots els enemics!
 
-    Si utilitzes els comandaments de reacció
+    Si utilitzes les ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8073
@@ -247,7 +247,7 @@
   text: >-
     Derrota tots els enemics!
 
-    Si utilitzes els comandaments de reacció
+    Si utilitzes les ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8085
@@ -833,7 +833,7 @@
   text: >-
     El Léon i els altres són a la zona
 
-    residencial. Han anat a casa del Merlí.
+    residencial. Han anat a casa el Merlí.
 - id: 9006
   text: >-
     És bo el gelat de sal marina, eh?
@@ -986,7 +986,7 @@
     Oncle Garrepa.
 - id: 12332
   text: >-
-    {:unk13 F0 00 F5 00}{:unk08 01 01 01}Ai, no creieu...{:clear }No consegueixo reproduïr
+    {:unk13 F0 00 F5 00}{:unk08 01 01 01}Ai, no creieu...{:clear }No aconsegueixo reproduir
 
     el sabor del meu vell gelat
 
@@ -1032,21 +1032,21 @@
     que us tornaria a veure.
 - id: 12347
   text: >-
-    "Potser no tornem a veure'ns,
+    «Potser mai tornem a veure'ns,
 
-    però mai ens n'oblidarem."
+    però mai ens oblidarem.»
 - id: 12348
   text: Se suposa que aquell era el Léon?
 - id: 12349
   text: >-
     Tots estan treballant
 
-    a casa del Merlí. {:delay AF 00}{:clear }{:delay 0A 00}{:clear }Som-hi!
+    a casa el Merlí. {:delay AF 00}{:clear }{:delay 0A 00}{:clear }Som-hi!
 - id: 12350
   text: >-
-    El Comité de Reconstrucció
+    Us presento el Comitè de
 
-    de Baluard Balmat!
+    Reconstrucció de Baluard Balmat!
 - id: 12351
   text: Quant de temps!
 - id: 12352
@@ -1054,7 +1054,7 @@
 - id: 12353
   text: Ho sabia.
 - id: 12354
-  text: Què sabias?
+  text: Què sabies?
 - id: 12355
   text: >-
     Fa poc, de cop, tots ens recordem
@@ -1080,14 +1080,14 @@
     Tots junts un altre cop!
 - id: 12362
   text: >-
-    Escolteu... mm... Estem buscant el Riku
+    Escolteu... mm... Estem buscant
 
-    i el rei. Els heu vist?
+    el Riku i el rei. Els heu vist?
 - id: 12363
   text: Bé.
 - id: 12364
   text: >-
-    Ho sento. Però dieu-nos si podem
+    Em sap greu. Però digueu-nos si podem
 
     ajudar en qualsevol cosa, d'acord?
 - id: 12365
@@ -1103,7 +1103,7 @@
   text: Exacte!
 - id: 12370
   text: >-
-    Crec que us vindria
+    Em sembla que us vindria
 
     bé la nostra ajuda.
 - id: 12371
@@ -1114,7 +1114,7 @@
 
     donar-nos un cop de mà per aquí.
 - id: 12373
-  text: Com si anéssim a negar-nos.
+  text: Com si ens hi anéssim a negar.
 - id: 12374
   text: '{:delay 83 00}{:clear }Oblidava amb qui estic parlant.'
 - id: 12375
@@ -1126,7 +1126,7 @@
     compliments del Léon.
 - id: 12377
   text: >-
-    Seguiu-me fins el pati interior.
+    Seguiu-me fins al pati interior.
 
     Hi ha una cosa que heu de veure.
 - id: 12378
@@ -1153,10 +1153,10 @@
   text: >-
     Teniu...
 
-    Són per a vosaltres.{:delay B4 00}{:clear }El Léon va pensar que us agradaria tenir-les.
+    Són per a vosaltres.{:delay B4 00}{:clear }El Léon va pensar que us agradaria tenir-los.
 - id: 12386
   text: >-
-    Membro Honorífic del Comitè de
+    Membre Honorífic del Comitè de
 
     Reconstrucció de Baluard Balmat!
 - id: 12387
@@ -1164,12 +1164,12 @@
 - id: 12388
   text: És genial, eh?
 - id: 12389
-  text: Eh, gràcies, Léo-... Eh?
+  text: Ei, gràcies, Léo-... Eh?
 - id: 12390
   text: >-
-    Oh, no! Hem d'anar-nos
+    Oh, no! Se suposava que
 
-    al pati interior!
+    anàvem al pati interior!
 - id: 12391
   text: Mireu allò.
 - id: 12392
@@ -1276,7 +1276,7 @@
 - id: 12448
   text: Anem a veure a la resta.
 - id: 12449
-  text: Seran a casa del Merlí.
+  text: Seran a casa el Merlí.
 - id: 12450
   text: >-
     {:unk13 09 01 46 00}{:unk08 01 00 06}Ai! Era tan a prop
@@ -1286,7 +1286,7 @@
   text: >-
     {:unk13 0E 01 46 00}{:unk08 01 00 06}Com anem, xicots?{:clear }El Léon i els seus amics
 
-    són a la zona residencial.{:clear }Sí, a casa del Merlí.
+    són a la zona residencial.{:clear }Sí, a casa el Merlí.
 - id: 12452
   text: Ah! Cloud!
 - id: 12453
@@ -2660,18 +2660,18 @@
 
     Ho he aconseguit!{:clear }He recreat el
 
-    ‛Gelat de sal marina’!
+    «Gelat de sal marina»!
 - id: 14248
   text: >-
     {:unk13 72 01 8C 00}{:unk08 01 00 06}Mmm!
 
-    Podem provar-lo?
+    Podem tastar-lo?
 - id: 14249
-  text: '{:unk13 FF 00 41 00}{:unk08 01 00 05}És clar!'
+  text: '{:unk13 FF 00 41 00}{:unk08 01 00 05}I tant!'
 - id: 14250
   text: '{:unk06 02}{:unk13 45 01 32 00}{:unk08 03 00 05}Bufa! És bo!'
 - id: 14251
-  text: '{:unk06 02}{:unk13 13 01 3F 00}{:unk08 03 00 05}Què salat!'
+  text: '{:unk06 02}{:unk13 13 01 3F 00}{:unk08 03 00 05}Que salat!'
 - id: 14252
   text: '{:unk13 A4 01 6E 00}{:unk08 01 00 06}I dolç!'
 - id: 14253
@@ -2927,7 +2927,7 @@
   text: >-
     El gargot que diu
 
-    ‛Door to Darkness’.
+    «Door to Darkness».
 - id: 17006
   text: No saps per a què serveix aquest aparell.
 - id: 17007
@@ -2936,18 +2936,18 @@
   text: Està tancada amb un sistema especial.
 - id: 17624
   text: >-
-    {:unk0f 03 1E 00 59 01}{:color #00F0F080}S'ha agregat el comandament Màgia.{:reset}
+    {:unk0f 03 1E 00 59 01}{:color #00F0F080}S'ha agregat l'ordre Màgia.{:reset}
 
     En utilitzar màgia, consumeixes PM de
 
-    l'indicador de la part inferior dreta.{:clear }{:unk0f 00 00 00 00 00}Per utilitzar accesos directes, prem {:icon dynamic-l1}.
+    l'indicador de la part inferior dreta.{:clear }{:unk0f 00 00 00 00 00}Per utilitzar dreceres, prem {:icon dynamic-l1}.
 
-    En acabar-se, els PM es recuperen en els
+    En acabar-se, els PM es recuperen als
 
-    cercles de llum o després d'un temps.
+    cercles de llum o després d'una estona.
 - id: 17625
   text: >-
-    {:unk0f 03 1E 00 59 01}{:color #00F0F080}S'ha agregat el comandament Invocar.{:reset}
+    {:unk0f 03 1E 00 59 01}{:color #00F0F080}S'ha agregat l'ordre Invocar.{:reset}
 
     En utilitzar-lo, l'indicador de Fusió es converteix en el d'Invocar.{:clear }{:unk0f 00 00 00 00 00}El personatge invocat reemplaça la resta
 
@@ -2967,7 +2967,7 @@
   text: >-
     Derrota a tots els enemics!
 
-    Si utilitzes els comandaments de reacció
+    Si utilitzes les ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fácil!
 - id: 17863
@@ -3571,7 +3571,7 @@
 
     arriba a zero amb els cops de godalla.
 
-    Aprofita els comandaments de reacció!
+    Aprofita les ordres de reacció!
 - id: 20546
   text: >-
     Venç la Larxene de l'Organització {XIII}!
@@ -3609,7 +3609,7 @@
 - id: 21483
   text: "{:delayandfade 08 78} \nSegons el Merlí, el Pooh no recorda\nres perquè els sensecor han robat\nalgunes pàgines del seu llibre.\n \nEl Sora ha d'afanyar-se en\nrecuperar una a una les pàgines\ni tornar al món del simpàtic os\nabans que la cosa empitjori.\n \n \n"
 - id: 21484
-  text: "{:delayandfade 0A 78} \nEl Sora torna a la casa del Merlí\ni rep de part del Cid la notícia que\nl'ordinador de l'Ànsem ha aparegut\ni que podria contenir dades sobre el\nRiku, la Kairi, el rei i l'Organització {XIII}.\n \nEntusiasmats per la troballa,\nen Sora, el Donald i el Goofy\ns'afanyen cap a la sala de l'ordinador.\n \n"
+  text: "{:delayandfade 0A 78} \nEl Sora torna a casa el Merlí\ni rep de part del Cid la notícia que\nl'ordinador de l'Ànsem ha aparegut\ni que podria contenir dades sobre el\nRiku, la Kairi, el rei i l'Organització {XIII}.\n \nEntusiasmats per la troballa,\nen Sora, el Donald i el Goofy\ns'afanyen cap a la sala de l'ordinador.\n \n"
 - id: 21485
   text: "{:delayandfade 07 B4} \nGràcies a l'inestimable ajuda del Tron,\nel Sora i els seus aconsegueixen tornar al\nmón real, però encara queda molt per fer.\n \n \n \n \n \n \n"
 - id: 21486
@@ -3629,8 +3629,8 @@
 - id: 21493
   text: "{:delayandfade 0A 78} \nEn acabar de compartir amb el Cloud\nles paraules del Sephiroth, el jove\nabaixa el cap i reflexiona...\n \n\"«Doncs és l'hora que acabem\namb això»\", sentencia.\n \n \n \n"
 - id: 21565
-  text: El teus comandaments són en el llibre! Allibera'ls!
+  text: Les teves ordres són al llibre! Allibera-les!
 - id: 21566
-  text: Ja pots utilitzar els comandaments!
+  text: Ja pots utilitzar les ordres!
 - id: 21623
   text: Troba el vertader abans que sigui massa tard!

@@ -466,13 +466,19 @@ assets:
     source:
     - name: remastered/field2d/es0field.2dd/CA_es0field_2dd1.png
 
-  #BARRA D'ORDRES
+  #MENÚ D'ORDRES
   - name: remastered/field2d/sp/tt0command.2dd/SP_tt0command_2dd0.png
     method: copy
     platform: pc
     package: kh2_first
     source:
     - name: remastered/field2d/tt0command.2dd/CA_tt0command_2dd0.png
+  - name: remastered/field2d/sp/tt2command.2dd/SP_tt2command_2dd0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/field2d/tt2command.2dd/CA_tt2command_2dd0.png
   - name: remastered/field2d/sp/tt3command.2dd/SP_tt3command_2dd0.png
     method: copy
     platform: pc
@@ -2298,6 +2304,12 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_TT04_MS00_bar6.png
+  - name: remastered/msn/sp/TT06_WORK_BAGGAGE.bar/SP_TT06_WORK_BAGGAGE_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_BAGGAGE_01_bar3.png
   - name: remastered/msn/sp/TT06_BAGGAGE_01.bar/SP_TT06_BAGGAGE_01_bar3.png
     multi:
     - name: remastered/msn/sp/TT06_BAGGAGE_02.bar/SP_TT06_BAGGAGE_02_bar4.png
@@ -2306,6 +2318,12 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_TT06_BAGGAGE_01_bar3.png
+  - name: remastered/msn/sp/TT06_WORK_LETTER.bar/SP_TT06_WORK_LETTER_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_LETTER_01_bar4.png
   - name: remastered/msn/sp/TT06_LETTER_01.bar/SP_TT06_LETTER_01_bar4.png
     multi:
     - name: remastered/msn/sp/TT06_LETTER_02.bar/SP_TT06_LETTER_02_bar5.png
@@ -2314,6 +2332,12 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_TT06_LETTER_01_bar4.png
+  - name: remastered/msn/sp/TT06_WORK_PERFORM.bar/SP_TT06_WORK_PERFORM_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT06_PERFORM_01_bar4.png
   - name: remastered/msn/sp/TT06_PERFORM_01.bar/SP_TT06_PERFORM_01_bar4.png
     multi:
     - name: remastered/msn/sp/TT06_PERFORM_02.bar/SP_TT06_PERFORM_02_bar5.png
@@ -2322,6 +2346,12 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_TT06_PERFORM_01_bar4.png
+  - name: remastered/msn/sp/TT07_WORK_CLEAN.bar/SP_TT07_WORK_CLEAN_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT07_CLEAN_01_bar4.png
   - name: remastered/msn/sp/TT07_CLEAN_01.bar/SP_TT07_CLEAN_01_bar4.png
     multi:
     - name: remastered/msn/sp/TT07_CLEAN_02.bar/SP_TT07_CLEAN_02_bar5.png
@@ -2330,6 +2360,12 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_TT07_CLEAN_01_bar4.png
+  - name: remastered/msn/sp/TT07_WORK_POSTER.bar/SP_TT07_WORK_POSTER_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT07_POSTER_01_bar4.png
   - name: remastered/msn/sp/TT07_POSTER_01.bar/SP_TT07_POSTER_01_bar4.png
     multi:
     - name: remastered/msn/sp/TT07_POSTER_02.bar/SP_TT07_POSTER_02_bar5.png
@@ -2344,6 +2380,12 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_TT07_SKATE_01_bar5.png
+  - name: remastered/msn/sp/TT07_WORK_WORM.bar/SP_TT07_WORK_WORM_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msn/CA_TT07_WORM_01_bar3.png
   - name: remastered/msn/sp/TT07_WORM_01.bar/SP_TT07_WORM_01_bar3.png
     multi:
     - name: remastered/msn/sp/TT07_WORM_02.bar/SP_TT07_WORM_02_bar4.png
@@ -2629,3 +2671,12 @@ assets:
     package: kh2_sixth
     source:
     - name: remastered/obj/PO08_PLAYER.a.ca/-1.png
+
+#FONT BONA B)
+  - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_sixth
+    source:
+    - name: remastered/msg/CA_fontimage_bar1.png
+

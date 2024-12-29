@@ -161,9 +161,9 @@
   text: Segueix el Hayner!
 - id: 10460
   text: >-
-    En Sora i els seus amics s'han despertat en una antiga i
+    En Sora i els seus amics s'han despertat en una
 
-    estranya mansió. Han dormit molt de
+    antiga i estranya mansió. Han dormit molt de
 
     temps... i a més a més han perdut la memòria!
 - id: 10461
@@ -334,7 +334,7 @@
 
     on vivia el Roxas. Hi ha d'haver una porta
 
-    al Regne de les Tenebres en algun lloc.
+    al Regne de la Foscor en algun lloc.
 - id: 10503
   text: Busca una entrada a la foscor!
 - id: 10504
@@ -850,7 +850,7 @@
   text: >+
     El Xaldin interromp el ball per dir
 
-    que ha robat una cosa "molt preada". 
+    que ha robat una cosa «molt preada». 
 
     La Bèstia corre a la seva cambra.
 
@@ -2681,7 +2681,7 @@
 
 - id: 10927
   text: >+
-    Atrapa la nau pirata: la "Perla Negra"!
+    Atrapa la nau pirata: la Perla Negra!
 
 - id: 10928
   text: >+
@@ -2689,7 +2689,7 @@
 
     era abans part de la tripulació del Jack.
 
-    Ara en Jack vol recuperar la "Perla".
+    Ara en Jack vol recuperar la Perla.
 
 - id: 10929
   text: >+
@@ -3107,99 +3107,99 @@
   text: >+
     Guiat per una veu que el cridava, en
 
-    Sora va despertar en una vella mansió.
+    Sora desperta en una vella mansió.
 
     Devia haver estat dormint allà
 
-    molt de temps, però no aconseguia
+    molt de temps, però no aconsegueix
 
     recordar res.
 
 - id: 11003
   text: >+
-    En sortir, es trobava en una ciutat que li
+    En sortir, es troba en una ciutat que
 
-    resultava estranyament familiar
+    li resulta estranyament familiar.
 
-    , encara que mai no hi havia estat.
+    encara que mai no hi havia estat.
 
 - id: 11004
   text: >+
-    En Sora vagava perplex per Vila Crepuscle
+    En Sora vaga perplex per Vila Crepuscle
 
-    quan es va trobar amb en Hayner, en Pence
+    quan es troba amb en Hayner, en Pence
 
-    i l'Olette al carreró. Van dir que algú
+    i l'Olette al carreró. Li diuen que algú
 
     havia preguntat per en Sora i els seus
 
-    amics a l'estació. Per la descripció que fan,
+    amics a l'estació. Per la descripció que
 
-    deu tractar-se del rei.
+    en fan, deu tractar-se del rei.
 
 - id: 11005
   text: >+
-    En Sora i els seus amics va córrer cap
+    En Sora i els seus amics corren cap
 
-    a l'estació, però de sobte es van veure
+    a l'estació, però de sobte es veuen
 
     rodejats per una munió d'enemics.
 
-    L'home vestit de negre que els va fer
+    L'home vestit de negre que els fa
 
-    sortir del mal pas no era altre que el rei
+    sortir del mal pas no és altre que el rei
 
-    en persona! Però no hi va haver gaire
+    en persona! Però no hi ha hagut gaire
 
     temps per celebrar el retrobament.
 
-    “Heu de pujar al tren i sortir de la
+    «Heu de pujar al tren i sortir de la
 
-    ciutat!”, va dir el rei; i va donar al Sora
+    ciutat!», els diu el rei; i dona al Sora
 
     un moneder amb diners abans d'anar-se'n.
 
-    Saber que el rei està atrapat al
+    Saber que el rei va estar atrapat al
 
     Regne de la Foscor i continua sa i estalvi,
 
-    significa que en Riku també deu estar
+    fa entendre que en Riku també deu estar
 
-    bé. En Sora va decidir sortir a la recerca 
+    bé. En Sora decideix sortir a la recerca 
 
-    del Riku: “Així podrem tornar a les illes
+    d'en Riku: «Així podrem tornar a les illes
 
-    junts. La Kairi és allà esperant-nos!”.
+    junts. La Kairi és allà esperant-nos!».
 
     I, per descomptat, en Donald i en Goofy
 
-    van decidir anar amb ell.
+    decideixen anar-hi també.
 
 - id: 11006
   text: >+
     Ha arribat l'hora de començar una nova
 
-    aventura. Com digué el rei, havien
+    aventura. Com havia dit el rei, havien
 
     d'agafar un tren i sortir de la ciutat.
 
-    Es van acomiadar d'en Hayner i els altres,
+    S'acomiaden d'en Hayner i els altres,
 
-    que havien anat a l'estació per
+    que han vingut a l'estació per
 
     veure'ls marxar.
 
 - id: 11007
   text: >+
-    Va ser un comiat emotiu, malgrat
+    Ha estat un comiat emotiu, malgrat
 
-    que en Sora acabava de conèixer els
+    que en Sora acaba de conèixer els
 
     tres amics... Encara amb una gran
 
-    tristesa, van pujar al tren, que els va
+    tristesa, pugen al tren, que els
 
-    dur fins a la base d'una solitària torre.
+    du fins a la base d'una solitària torre.
 
 - id: 11008
   text: >+
@@ -3413,11 +3413,11 @@
 
 - id: 11022
   text: >+
-    La contrasenya era: “Gelat de sal marina”.
+    La contrasenya era: «Gelat de sal marina».
 
     En introduir el nom del sabor preferit de
 
-    l'Ansem el Savi es va activar un mecanisme
+    l'Ànsem el Savi es va activar un mecanisme
 
     que va provocar un feix de llum.
 
@@ -3435,7 +3435,7 @@
 
 - id: 11024
   text: >+
-    Un cop més tornem a Baluard
+    Un cop més tornàvem a Baluard
 
     Balmat. Les coses havien canviat,
 
@@ -3585,9 +3585,9 @@
   text: >+
     Un cop érem al món exterior, uns
 
-    gargots en una paret ("Door to
+    gargots en una paret («Door to
 
-    Darkness") i l'ajuda del rei ens va
+    Darkness») i l'ajuda del rei ens va
 
     servir per descobrir la contrasenya:
 
@@ -4779,7 +4779,7 @@
 
     hienes ens van atacar. El seu nou aspecte
 
-    "salvatge" va obligar el Sora, el Donald i el Goofy
+    «salvatge» va obligar el Sora, el Donald i el Goofy
 
     a practicar per acostumar-se a la
 
@@ -4815,9 +4815,9 @@
 
     li va preguntar si hi havia algú més digne
 
-    de ser rei, la lleona va murmurar: "Si
+    de ser rei, la lleona va murmurar: «Si
 
-    en Simba fos aquí..."
+    en Simba fos aquí...»
 
 - id: 11170
   text: >+
@@ -4849,7 +4849,7 @@
 
     va dir que preferia oblidar el passat i viure
 
-    en el present... "hakuna matata".
+    en el present... «hakuna matata».
 
 - id: 11174
   text: >+
@@ -5435,11 +5435,11 @@
 
     un pirata solitari que vam conèixer al
 
-    port, per robar el "Interceptor" de la Marina
+    port, per robar l'Interceptor de la Marina
 
-    Reial i sortir a navegar a pel
+    Reial i sortir a navegar en busca del
 
-    vaixell pirata, la "Perla Negra".
+    vaixell pirata, la Perla Negra.
 
 - id: 11235
   text: >+
@@ -5549,7 +5549,7 @@
 
     retrobar-se, i Jack va aixecar ancoratges i es va embarcar
 
-    de nou en la seva estimada "Perla Negra".
+    de nou en la seva estimada Perla Negra.
 
 - id: 11244
   text: >+
@@ -5643,7 +5643,7 @@
 
     més, el llegendari pirata Jack Sparrow
 
-    va marxar en el "Perla Negra".
+    va marxar en el Perla Negra.
 
 - id: 11252
   text: >+
@@ -5824,7 +5824,7 @@
 - id: 11270
   text: Un missatge
 - id: 11271
-  text: Donar les gràcies a la Namine.
+  text: Agrair a la Naminé.
 - id: 11272
   text: El despertar
 - id: 11273
@@ -5979,7 +5979,7 @@
   text: >-
     Les paraules de la Bèstia fan somriure la Bella:
 
-    "Bella, vull que et quedis...".
+    «Bella, vull que et quedis...».
 - id: 11318
   text: Auron contra Hades
 - id: 11319
@@ -6449,39 +6449,35 @@
 
     No fa gaire, en Sora va viatjar amb
 
-    en Donald i en Goofy a la recerca de la seva
+    en Donald i en Goofy a la recerca de
 
-    estimada amiga Kairi, que havia
+    la seva estimada amiga Kairi, que havia
 
-    desaparegut misteriosament
-
-    en la foscor.
+    desaparegut misteriosament en la foscor.
 
 
     Al final, van aconseguir salvar
 
     els mons de l'amenaçadora
 
-    foscor que se'ls acostava
+    foscor que se'ls apropava
 
     Poc després, en Sora va voler
 
-    localitzar en Riku, el seu millor amic,
+    localitzar en Riku, el seu millor
 
-    que havia quedat atrapat darrere 
+    amic, que havia quedat atrapat rere 
 
-    la porta de la foscor
-
-    quan va ser 
+    la porta de la foscor quan va ser
 
     segellada. Llavors, va quedar sota
 
-    un profund somni.
+    un profund son.
 
 
-    Ara, amb roba nova i
+    Ara, amb roba nova i una
 
-    una determinació renovada, en Sora
+    determinació renovada, en Sora
 
     ha tornat a sortir a la recerca
 
@@ -6490,88 +6486,82 @@
   text: Donald
 - id: 11457
   text: >-
-    És el mag de les corts
+    És el mag de les corts del Castell
 
-    del Castell de Disney.
+    de Disney.
 
 
-    Fa un temps, en Donald es va posar en marxa
+    Fa un temps, en Donald es va posar
 
-    amb en Goofy a la recerca del
+    en marxa amb en Goofy a la recerca
 
-    rei Mickey. Durant la seva missió,
+    del rei Mickey. Durant la seva missió,
 
-    van conèixer en Sora i
+    van conèixer en Sora i es van fer
 
-    es van fer grans amics.
+    grans amics.
 
 
     Després d'ajudar-lo a salvar els
 
-    mons de la foscor, en Donald
+    mons de la foscor, en Donald i en
 
-    i en Goofy van continuar
+    Goofy van continuar buscant el rei,
 
-    buscant el rei, que havia decidit
+    que havia decidit romandre al
 
-    romandre al Regne
-
-    de la Foscor.
+    Regne de la Foscor.
 
 
-    Però abans que poguessin trobar-lo
+    Però abans que poguessin trobar-lo,
 
-    , els tres amics van
+    els tres amics van caure en un son
 
-    caure en un somni profund.
+    profund.
 - id: 11458
   text: Goofy
 - id: 11459
   text: >-
-    És el capità dels
+    És el capità dels Cavallers Reials
 
-    Reials Cavallers del Castell de Disney.
+    del Castell de Disney.
 
 
     Va sortir amb en Donald a la recerca
 
     del rei, que els havia ordenat
 
-    “seguir l'escollit de la clau
+    «seguir l'escollit de la clau espasa».
 
-    espasa”. I així, es van unir a en Sora.
+    I així, es van unir a en Sora.
 
 
     Després d'ajudar a salvar els mons
 
     de la foscor, en Goofy va continuar
 
-    la recerca. Però de la mateixa manera
+    la recerca. Però de la mateixa
 
-    que en Donald i en Sora, va caure en un
+    manera que en Donald i en Sora,
 
-    somni profund.
+    va caure en un son profund.
 
-    Què devia fer
-
-    abans d'adormir-se?
+    Què devia fer abans d'adormir-se?
 - id: 11460
   text: Kairi
 - id: 11461
   text: >-
-    És l'amiga de la infància d'en Sora i
+    És l'amiga de la infància d'en Sora
 
-    una de les Set Princeses que
+    i una de les Set Princeses que
 
-    enllacen les claus als
+    enllacen les claus als panys.
 
-    panys. Quan
+    Quan va quedar atrapada en la foscor,
 
-    va quedar atrapada en la foscor, en Riku
+    en Riku i en Sora van intentar
 
-    i en Sora van intentar rescatar-la,
-
-    cadascú a la seva manera.
+    rescatar-la, cadascú a la seva manera.
 
 
     Gràcies a ells, la Kairi va aconseguir
@@ -6580,11 +6570,11 @@
 
     va perdre els records d'en Sora.
 
-    Per tant, va deixar d'anar a l'illot on
+    Per aquest motiu, va deixar d'anar a
 
-    sempre havien jugat.
+    l'illot on sempre havien jugat.
 - id: 11462
-  text: Ansem
+  text: Ànsem
 - id: 11463
   text: >-
     Estrany portador de la foscor.
@@ -6882,28 +6872,28 @@
     resident de la foscor.
 
 
-    Va esvair-se
+    Va esvair-se apuntant un somriure
 
-    apuntant un somriure de satisfacció després
+    de satisfacció després d'enfrontar-se
 
-    d'enfrontar-se al Sora. Però sembla
+    al Sora. Però sembla que en Sora era
 
-    que en Sora era l'únic que podia veure'l.
+    l'únic que podia veure'l.
 - id: 11498
   text: Selphie
 - id: 11499
   text: >-
     Una noia que vivia a les
 
-    mateixes illes que en Sora. Solia
+    mateixes illes que en Sora.
 
-    jugar amb ell i altres nois.
+    Solia jugar amb ell i altres nois.
 
-     El seu parador és una incògnita després
+    El seu parador és una incògnita
 
-    de la desaparició de les Illes del
+    després de la desaparició de les
 
-    Destí en el passat, però, amb
+    Illes del Destí fa temps, però, amb
 
     l'ajuda d'en Sora, va poder tornar
 
@@ -6978,31 +6968,27 @@
   text: Pete
 - id: 11513
   text: >-
-    Era, sovint, el capità d'un vaixell de vapor.
+    Era, sovint, el capità d'un vaixell
 
-    En Donald i en Goofy el coneixen bé.
+    de vapor. En Donald i en Goofy el
 
-    És tan malvat que el rei
+    coneixen bé. És tan malvat que el
 
-    Mickey va haver de desterrar-lo
+    rei Mickey el va haver de desterrar
 
-    i enviar-lo a una altra dimensió. 
+    i enviar a una altra dimensió. La
 
-    La Malèfica el va trobar i el va ajudar
+    Malèfica el va trobar i el va ajudar
 
-    a tornar de l'exili. Des de
+    a tornar de l'exili. Des de llavors,
 
-    llavors, en Pete ha estat
+    en Pete ha estat recorrent els mons
 
-    recorrent els mons per
+    per reunir un exèrcit de sensecor.
 
-    reunir un exèrcit de sensecor.
+    Junts planegen prendre el control
 
-    Junts planegen prendre el
-
-    control i regnar sobre
-
-    tots els mons.
+    i regnar sobre tots els mons.
 - id: 11514
   text: Malèfica
 - id: 11515
@@ -7013,9 +6999,9 @@
 
     els sensecor i va liderar-ne
 
-    un grup per obtenir
+    un grup per obtenir el poder
 
-    el poder de la foscor.
+    de la foscor.
 
     Com a part del seu malèvol pla,
 
@@ -7026,32 +7012,30 @@
 
     Al final, ella mateixa va sucumbir
 
-    al poder de la foscor
+    al poder de la foscor i va ser
 
-    i va ser derrotada per en Sora i els seus
+    derrotada per en Sora i els seus
 
-    amics. Encara que va aconseguir tornar
+    amics. Encara que va aconseguir
 
-    gràcies al seu poder pervers.
+    tornar gràcies al seu poder pervers.
 - id: 11516
   text: Pluto
 - id: 11517
   text: >-
-    El gos fidel del rei és molt
+    El gos fidel del rei és molt més
 
-    més que la seva mascota. Els
+    que la seva mascota. Els uneixen
 
-    uneixen els vincles més forts
+    els vincles més forts que existeixen:
 
-    que existeixen: l'amistat i la
+    l'amistat i la lleialtat.
 
-    lleialtat.
+    Quan en Mickey va desaparèixer,
 
-    Quan Mickey va desaparèixer, Pluto
+    en Pluto va embarcar-se a la seva
 
-    va embarcar-se a la seva recerca amb
-
-    els altres.
+    recerca amb els altres.
 
 
     Espero que el seu famós musell
@@ -7102,18 +7086,16 @@
 
     El rei Mickey i en Riku van quedar-se
 
-    al Regne de les Tenebres per
+    al Regne de la Foscor per
 
     evitar que els sensecor
 
-    s'escapessin de nou. En
+    s'escapessin de nou.
 
 
-    Donald, en Goofy i en Sora marxen
+    En Donald, en Goofy i en Sora
 
-    de nou, decidits a
-
-    trobar-lo.
+    marxen de nou, decidits a trobar-lo.
 - id: 11522
   text: El rei Mickey
 - id: 11523
@@ -7179,34 +7161,32 @@
 
     Com en Sora, en Donald havia
 
-    caigut en un somni profund, tot i que
+    caigut en un son profund, tot i que
 
     va despertar-se uns instants abans.
 
 
-    Estan contents de
+    Estan contents de retrobar-se després
 
-    retrobar-se després de tant de
+    de tant de temps i estan preparats
 
-    temps i estan preparats per
-
-    compartir noves aventures.
+    per compartir noves aventures.
 - id: 11530
   text: Goofy
 - id: 11531
   text: >-
-    És el Capità dels
+    És el Capità dels Cavallers Reials
 
-    Reials Cavallers del Castell Disney.
+    del Castell Disney.
 
 
-    En Goofy va caure en un somni
+    En Goofy va caure en un son
 
     profund, com en Sora i en Donald.
 
     No recorda què va passar,
 
-    però després del somni,
+    però després de la migdiada,
 
     està com nou.
 
@@ -7246,33 +7226,31 @@
   text: Hayner
 - id: 11539
   text: >-
-    Un noi de caràcter
+    Un noi de caràcter conflictiu
 
-    conflictiu que viu a Vila
+    que viu a Vila Crepuscle.
 
-    Crepuscle. Fa tot el que
+    Fa tot el que li ve al cap...    
 
-    li ve al cap...
+    i arrossega d'aquesta manera a
 
-    arrossegant d'aquesta manera a
-
-    en Pence i n'Olette.
+    en Pence i l'Olette.
 
 
     Sempre hi ha mala llet entre ell
 
     i en Seifer, l'autoproclamat
 
-    “disciplinari”.
+    «disciplinari».
 - id: 11540
   text: Pence
 - id: 11541
   text: >-
     Un noi de Vila Crepuscle.
 
-    Se sol reunir amb el Hayner (el
+    Se sol reunir amb el Hayner
 
-    “líder”) i l'Olette (la noia
+    (el «líder») i l'Olette (la noia
 
     responsable).
 
@@ -7288,9 +7266,7 @@
 
     Li encanta estar amb els seus amics,
 
-    sobretot si
-
-    hi ha gelat de sal marina.
+    sobretot si és amb gelats de sal marina.
 - id: 11542
   text: Olette
 - id: 11543
@@ -7309,11 +7285,11 @@
     els deures no estiguin fets.
 
 
-    Li agrada anar de compres al Carrer
+    Li agrada sortir a comprar al Carrer
 
-    del Mercat i veure el sol sortint a l'alba
+    del Mercat i veure el sol sortint a
 
-    mentre xerra amb els seus amics.
+    l'alba mentre xerra amb els seus amics.
 - id: 11544
   text: Seifer
 - id: 11545
@@ -7426,60 +7402,58 @@
 
     papallones o separar les aigües del
 
-    mar, els encanteris de Yen Sid són
+    mar, els encanteris d'en Yen Sid
 
-    senzillament increïbles. Només
+    són senzillament increïbles. Només
 
     el seu nom fa tremolar a molts.
 
 
-    Yen Sid va compartir la seva saviesa
+    En Yen Sid va compartir la seva
 
-    amb Sora i els seus amics, i els va mostrar
+    saviesa amb en Sora i els seus amics,
 
-    algunes tècniques molt valuoses
+    i els va mostrar algunes tècniques
 
-    per afrontar els perills d'
+    molt valuoses per afrontar els perills
 
-    aquesta nova aventura.
+    d'aquesta nova aventura.
 - id: 11556
   text: Flora
 - id: 11557
   text: >-
     Flora és una fada plena de bondat
 
-    que sempre vesteix de vermell. Com a
+    que sempre vesteix de vermell.
 
-    líder del grup, Fauna i
+    Com a líder del grup, la Fauna
 
-    Primavera confien en ella a
+    i la Primavera hi confien a
 
     l'hora de prendre decisions.
 
 
-    Flora va ajudar en Sora a preparar
+    La Flora va dotar en Sora de
 
-    el viatge dotant-lo
+    roba amb poders màgics per 
 
-    de roba amb poders màgics.
+    ajudar-lo preparar el viatge.
 - id: 11558
   text: Fauna
 - id: 11559
   text: >-
     La Fauna sempre vesteix
 
-    de verd. És una fada generosa
+    de verd. És una fada generosa i
 
-    i només utilitza la seva màgia per
+    només utilitza la seva màgia per
 
     ajudar els altres.
 
 
     Va col・laborar en la confecció
 
-    de les robes màgiques de
-
-    Sora.
+    de les robes màgiques d'en Sora.
 - id: 11560
   text: Primavera
 - id: 11561
@@ -7490,18 +7464,18 @@
 
     encara que una mica obstinada.
 
-    Juntament amb la Fauna i la Flora, fa tot el
+    Juntament amb la Fauna i la Flora,
 
-    possible perquè Malèfica
+    fa tot el possible perquè la
 
-    no faci mal a ningú.
+    Malèfica no faci mal a ningú.
 
 
-    Primavera va ajudar en Sora a
+    La Primavera va vestir en Sora
 
-    preparar el seu viatge
+    amb roba màgica per ajudar-lo
 
-    vestint-lo amb roba màgica.
+    a preparar el seu viatge.
 - id: 11562
   text: Sora
 - id: 11563
@@ -7515,11 +7489,11 @@
     l'illa d'on venen.
 
 
-    No fa gaire, en Sora va lluitar durament
+    No fa gaire, en Sora va lluitar
 
-    contra la Malèfica, perquè els seus
+    durament contra la Malèfica, perquè
 
-    sensecor havien envaït els
+    els seus sensecor havien envaït els
 
     passadissos del castell.
 - id: 11564
@@ -7528,42 +7502,48 @@
   text: >-
     És el Mag de la Cort de Disney.
 
-    Juntament amb en Sora i en Goofy, viatja pels
+    Juntament amb en Sora i en Goofy,
 
-    mons a la recerca del rei Mickey,
+    viatja pels mons a la recerca del
 
-    que està en algun lloc lluitant contra les
+    rei Mickey, que és a algun lloc
 
-    forces de la foscor.
+    lluitant contra les forces de la
+    
+    foscor.
 
 
     Fa temps, Donald va participar
 
-    en una gran batalla que es va lliurar aquí
+    en una gran batalla que es va
 
-    contra Malèfica, perquè els seus sensecor 
+    lliurar aquí contra la Malèfica,
 
-    van envair els passadissos del castell.
+    perquè els seus sensecor van
+
+    envair els passadissos del castell.
 - id: 11566
   text: Goofy
 - id: 11567
   text: >-
-    Capità dels
+    Capità dels Cavallers Reials del
 
-    Reials Cavallers del Castell de Disney.
+    Castell de Disney.
 
     Recorre els mons amb en Sora i
 
-    en Donald a la recerca del rei Mickey,
+    en Donald a la recerca del rei
 
-    que està en algun lloc
+    Mickey, que és a algun lloc
 
-    lluitant contra les forces de la foscor.
+    lluitant contra les forces de
+
+    la foscor.
 
 
     Fa temps, en Goofy va lliurar
 
-    una gran batalla contra Malèfica
+    una gran batalla contra la Malèfica
 
     i els sensecor que ocupaven
 
@@ -7572,13 +7552,13 @@
   text: L'Oncle Garrepa
 - id: 11569
   text: >-
-    És l'oncle d'en Donald. Abans que
+    És l'oncle d'en Donald. Abans
 
-    aparegués els sensecor,
+    que apareguessin els sensecor,
 
-    va vagar pels mons en un vaixell
+    va vagar pels mons en una nau
 
-    gumi construint un gran
+    gumi per construir un gran
 
     imperi comercial.
 
@@ -7586,9 +7566,9 @@
 
     del que molts podrien imaginar,
 
-    però és bastant garrepa
+    però és bastant garrepa per
 
-    per afluixar la bossa.
+    afluixar la bossa.
 
 
     Ara, s'ha ficat en un
@@ -7602,57 +7582,55 @@
   text: >-
     Joanet és un dels tres nebots
 
-    d'en Donald, i és el líder de la colla.
+    d'en Donald, i és el líder de la
 
-    Ell porta a terme els plans de
+    colla. Ell porta a terme els plans
 
-    Jaumet i té compte de Jordinet
+    d'en Jaumet i cuida d'en Jordinet
 
-    perquè no es quedi enrere ajudant a l'Oncle
+    perquè no es quedi enrere ajudant
 
-    Garrepa amb el seu negoci de gelats.
+    l'Oncle Garrepa amb el seu negoci
 
-    Es distingeix pel
+    de gelats. Es distingeix pel seu
 
-    seu barret vermell.
+    barret vermell.
 
 
     L'última vegada que el vam veure,
 
-    estava treballant a la ciutat de Paso i
+    estava treballant a Ciutat de Pas
 
-    estava estalviant per a una expedició.
+    i estalviava per a una expedició.
 - id: 11572
   text: Jaumet
 - id: 11573 
   text: >-
     És un dels tres nebots d'en
 
-    Donald i està ajudant l'Oncle Garrepa
+    Donald i està ajudant l'Oncle
 
-    amb el seu negoci de gelats.
+    Garrepa amb el negoci de gelats.
 
-    En Jaumet sempre porta un barret blau.
+    En Jaumet sempre porta un barret
 
-    És intel・ligent, alegre i sovint
+    blau. És intel・ligent, alegre i sovint
 
     se li ocorren idees divertides.
 
 
-    L'última vegada que vam veure en Jaumet,
+    L'última vegada que vam veure'l,
 
-    estava treballant a Ciutat del
+    estava treballant a Ciutat de Pas
 
-    Paso i estalviava
-
-    per anar a una expedició.
+    i estalviava per anar a una expedició.
 - id: 11574
   text: Jordinet
 - id: 11575
   text: >-
-    És un dels tres nebots d'en
+    És un dels tres nebots d'en Donald
 
-    Donald i està ajudant l'Oncle Garrepa
+    i està ajudant l'Oncle Garrepa
 
     amb el seu negoci de gelats.
 
@@ -7667,31 +7645,31 @@
 
     L'última vegada que el vam veure,
 
-    estava treballant a la ciutat del Paso i
+    estava treballant a Ciutat del Pas
 
-    estava estalviant per a una expedició.
+    i estalviava per a una expedició.
 - id: 11576
   text: Merlí
 - id: 11577
   text: >-
-    Un poderós mag que actualment
+    Un poderós mag que actualment viu
 
-    viu a Baluard Balmat. La seva casa
+    a Baluard Balmat. La seva casa és
 
-    és el lloc de reunió del
+    el lloc de reunió del Comitè de
 
-    Comitè de Restauració de la Ciutat.
+    Restauració de la Ciutat.
 
 
     En Merlí té poders màgics i una
 
-    saviesa incomparable. Va ser ell qui va
+    saviesa incomparable. Va ser ell
 
-    ensenyar a en Donald tot el que
+    qui va ensenyar a en Donald tot
 
-    sap sobre màgia. Posseeix una
+    el que sap sobre màgia. Posseeix
 
-    misteriosa bossa que pot
+    una misteriosa bossa que pot
 
     contenir qualsevol cosa,
 
@@ -7700,55 +7678,55 @@
   text: Léon
 - id: 11579
   text: >
-    Destre espadatxí que porta
+    Destre espadatxí que porta una
 
-    una pistola espasa. El seu nom real és
+    pistola espasa. El seu nom real és
 
-    Squall Leonhart. Per deixar enrere el seu
+    Squall Leonhart. Per deixar enrere
 
-    passat, va adoptar el nom de Léon;
+    el seu passat, va adoptar el nom de
 
-    un home indefens la llar del qual
+    Léon; un home indefens la llar del
 
-    va ser envaïda pels sensecor.
+    qual va ser envaïda pels sensecor.
 
 
     Durant un temps es va refugiar aquí
 
-    i allà, però, i en part gràcies a
+    i allà, però, i en part gràcies a en
 
-    en Sora, en Léon va acceptar Baluard Balmat
+    Sora, en Léon va acceptar Baluard
 
-    com a casa seva. Ara treballa
+    Balmat com a casa seva. Ara treballa
 
     incansablement en la seva reconstrucció.
 - id: 11580
   text: Cid
 - id: 11581
   text: >-
-    És un enginyer i un geni de
+    És un enginyer i un geni de la
 
-    la tecnologia, així com
+    tecnologia, així com un pilot
 
-    un pilot d'elit. Va conèixer el Sora quan
+    d'elit. Va conèixer el Sora
 
-    tenia una botiga en un lloc
+    quan tenia una botiga en
 
-    lluny de casa.
+    un lloc lluny de casa.
 
 
-    Ara que ha tornat a casa, el Cid 
+    Ara que ha tornat a casa, en
 
-    s'ha convertit en un membre
+    Cid s'ha convertit en un membre
 
     actiu del Comitè de Restauració.
 - id: 11582
   text: Cloud
 - id: 11583
   text: >-
-    Un «Soldat» que maneja una
+    Un «Soldat» que maneja una espasa
 
-    espasa descomunal sense despentinar-se
+    descomunal sense despentinar-se
 
     pas. Va lluitar contra en Sora,
 
@@ -7771,24 +7749,24 @@
   text: Aerith
 - id: 11585
   text: >-
-    Una jove els ulls tranquils de la qual
+    Una jove els ulls tranquils de la
 
-    amaguen una voluntat de ferro.
+    qual amaguen una voluntat de ferro.
 
-    Com en Léon, va conèixer
+    Com en Léon, va conèixer en Sora
 
-    en Sora quan vivia lluny de casa.
+    quan vivia lluny de casa. Ella
 
-    Ella ja el va ajudar llavors, i
+    ja el va ajudar llavors, i ho torna
 
-    ho torna a fer ara en el seu nou viatge.
+    a fer ara en el seu nou viatge.
 
 
-    L'Aerith ara treballa al costat d'en Léon
+    L'Aerith ara treballa al costat
 
-    i la Yuffie per restaurar la ciutat a
+    d'en Léon i la Yuffie per restaurar
 
-    la seva antiga glòria.
+    la ciutat a la seva antiga glòria.
 - id: 11586
   text: Tifa
 - id: 11587
@@ -7798,14 +7776,14 @@
     amb afany.
 
 
-    Decidida i implacable, la Tifa ja
+    Decidida i implacable, la Tifa
 
-    ha remogut cel i terra.
+    ja ha remogut cel i terra.
 
 
-    El seu viatge no acabarà fins que
+    El seu viatge no acabarà fins
 
-    trobi aquella persona.
+    que trobi aquella persona.
 - id: 11588
   text: Yuffie
 - id: 11589
@@ -7816,20 +7794,20 @@
 
     Baluard Balmat i col・labora
 
-    en la defensa de la ciutat. La
+    en la defensa de la ciutat.
 
 
-    Yuffie va conèixer en Sora quan
+    La Yuffie va conèixer en Sora quan
 
     vivia lluny de la seva terra natal.
 
-    L'última vegada, gràcies a la seva ajuda,
+    L'última vegada, gràcies a la seva
 
-    els sensecor van ser derrotats i
+    ajuda, els sensecor van ser derrotats
 
-    ella va poder tornar a casa. Des d'aleshores
+    i ella va poder tornar a casa. Des
 
-    li ha estat molt agraïda.
+    d'aleshores li ha estat molt agraïda.
 - id: 11590
   text: Sephiroth
 - id: 11591
@@ -7841,21 +7819,21 @@
 
     Durant una època, se'n desconeixia
 
-    el parador, i ningú sap
+    el parador, i ningú sap amb
 
-    amb certesa per què ha tornat.
+    certesa per què ha tornat.
 
 
-    Sembla tenir alguna
+    Sembla tenir alguna connexió
 
-    connexió amb el passat de Cloud.
+    amb el passat d'en Cloud.
 - id: 11592
   text: Yuna
 - id: 11593
   text: >-
     Membre d'un trio únic
 
-    de dones joves inseparables.
+    de noies joves inseparables.
 
 
     Buscaven en Léon,
@@ -7867,21 +7845,21 @@
   text: >-
     Membre d'un trio únic
 
-    de dones joves amables.
+    de noies joves amables.
 
 
-    Sembla que les tres hi han estat
+    Sembla que les tres han
 
-    contractades per dur
+    estat contractades per dur
 
-    a terme una missió... Què serà?
+    a terme una missió... Què deu ser?
 - id: 11596
   text: Paine
 - id: 11597
   text: >-
     Membre d'un trio únic
 
-    de dones joves inseparables.
+    de noies joves inseparables.
 
 
     Diuen que venen en to de pau...
@@ -7914,18 +7892,18 @@
     És el Mag de les Corts.
 
 
-    Va deixar el castell de Disney a la
+    Va deixar el castell de Disney
 
-    nau gumi per buscar el rei
+    amb la nau gumi per buscar el rei
 
     Mickey.
 
 
     En Donald i la Bèstia són vells
 
-    coneguts. L'últim cop que
+    coneguts. L'últim cop que es van
 
-    es van trobar, van lluitar junts per
+    trobar, van lluitar junts per
 
     alliberar la Bella dels seus captors.
 - id: 11602
@@ -9787,7 +9765,7 @@
 
     a gestionar els assumptes del castell
 
-    mentre els cavallers estan fora.
+    mentre els cavallers són fora.
 - id: 11806
   text: Xip
 - id: 11807
@@ -10844,9 +10822,9 @@
 
     Per evitar-lo, el millor és utilitzar
 
-    el Cicló, t'elevaràs en l'aire
+    el Cicló, t'elevaràs enlaire i
 
-    i podràs atacar-lo amb combinacions!
+    podràs atacar-lo amb combos!
 - id: 11934
   text: Ombra
 - id: 11935
@@ -11099,7 +11077,7 @@
   text: Pitonissa
 - id: 11961
   text: >-
-    Domina els encanteris de Gel
+    Domina els encanteris de Glaç
 
     i és immune a aquest tipus de màgia.
 
@@ -11210,7 +11188,7 @@
 
     Té una VT baixa i no pot suportar el fred.
 
-    Si fas servir els encanteris de Gel, no et
+    Si fas servir els encanteris de Glaç, no et
 
     resultarà difícil vèncer-lo.
 - id: 11974
@@ -11635,7 +11613,7 @@
     Va aparèixer amb el Cap gelat.
 
 
-    Era feble als encanteris de Gel,
+    Era feble als encanteris de Glaç,
 
     però va turmentar el Sora i companyia
 
@@ -11655,7 +11633,7 @@
 
     però va turmentar el Sora i companyia
 
-    utilitzant hàbilment el gel.
+    utilitzant hàbilment el glaç.
 - id: 12026
   text: Usurpador
 - id: 12027
@@ -11835,13 +11813,13 @@
     difícil preveure els seus moviments.
 
 
-    Quan apareix amb els ombrívols,
+    Quan apareix amb els foscants,
 
     pots aturar els seus moviments amb
 
     Finta abans d'atacar-los.
 - id: 12046
-  text: Ombrívol
+  text: Foscant
 - id: 12047
   text: >-
     És difícil preveure els moviments
@@ -12742,36 +12720,36 @@
 
     El meu estudi de la «foscor del cor»
 
-    va començar com una simple prova psicològica i
+    va començar com una simple prova psicològica
 
-    ràpidament va esdevenir un problema
+    i ràpidament va esdevenir un problema
 
     cada cop més gros.
 
 
     Encoratjat pel més jove dels meus alumnes,
 
-    en Ienzo, he construït un enorme laboratori al
+    en Ienzo, vaig construir un enorme laboratori
 
-    soterrani del meu castell. Sense adonar-me'n,
-
-
-    els meus sis aprenents
-
-    van començar a reunir un gran nombre de
-
-    subjectes per dur a terme experiments perillosos
-
-    sobre la «foscor del cor».
+    al soterrani del meu castell.
 
 
-    Tan aviat com ho vaig saber, vaig reunir els meus
+    Sense adonar-me'n, els meus sis aprenents
 
-    aprenents i els vaig ordenar, no només
+    havien començat a reunir un gran nombre de
 
-    l'aturada immediata dels seus estudis, sinó també la destrucció
+    subjectes per dur a terme experiments
 
-    dels resultats obtinguts.
+    perillosos sobre la «foscor del cor».
+
+
+    Tan aviat com ho vaig saber, vaig reunir els
+
+    meus aprenents i els vaig ordenar, no només
+
+    l'aturada immediata dels seus estudis, sinó
+
+    també la destrucció dels resultats obtinguts.
 
 
     Què dimonis passava als cors
@@ -12780,9 +12758,9 @@
 
     És possible que, mentre encalçaven el
 
-    misteri de la foscor del cor,
+    misteri de la foscor del cor, ells mateixos
 
-    ells mateixos s'hagueren perdut en les seves profunditats?
+    s'hagueren perdut en les seves profunditats?
 
 
     Encara que no són ells, sinó jo, el més neci
@@ -12790,16 +12768,14 @@
     per haver començat aquests experiments.
 
 
-    No hauríem d'interferir
-
-    al fons dels
+    No hauríem d'interferir en el fons dels
 
     cors dels altres, siguin quines siguin les 
 
     raons que ens puguin dur a fer-ho...
 
 
-    El meu error em va dur a la desesperació.
+    El meu error va dur-me a la desesperació.
 
 
     Però un visitant d'un altre món
@@ -12807,28 +12783,30 @@
     em va calmar l'ànima abatuda.
 
 
-    Un petit rei, anomenat Mickey, venia
+    Un petit rei, anomenat Mickey, venia brandant
 
-    brandant la «clau espasa», una arma capaç
+    la «clau espasa», una arma capaç de dur
 
-    de dur al món tant el caos com la prosperitat.
+    al món tant el caos com la prosperitat.
 
 
     La seva saviesa va sorprendre'm. La nostra
 
-    amistat va créixer gràcies a les nostres
+    amistat va crèixer gràcies a les nostres
 
     cordials converses.
 
 
-    Gràcies al seu consell, vaig decidir revisar les
+    Gràcies al seu consell, vaig decidir revisar
 
-    dades que havia obtingut al meu laboratori
+    les dades que havia obtingut al meu
 
-    subterrani.
+    laboratori subterrani.
 
 
-    Va ser allà on vaig descobrir els «Informes Ansem».
+    Va ser allà on vaig descobrir
+    
+    els «Informes Ànsem».
 
 
     Tot i que portaven el meu nom,
@@ -13431,7 +13409,7 @@
 
     Mentrestant, el rei s'havia aventurat 
 
-    al Regne de les Tenebres i havia intentat, juntament amb l' 
+    al Regne de la Foscor i havia intentat, juntament amb l' 
 
     escollit de la clau espasa, tancar la porta
 
@@ -15969,16 +15947,14 @@
   text: Sora
 - id: 19373
   text: >-
-    L'heroi escollit per la clau espasa,
+    L'heroi escollit per la clau espasa i
 
-    no fa gaire
-
-    salvador de tots els mons.
+    no fa gaire salvador de tots els mons.
 
 
-    S'ha sumit en un
+    S'ha sumit en un son profund,
 
-    somni profund, en una misteriosa mansió,
+    en una misteriosa mansió,
 
     amb els seus amics Donald i Goofy.
 
@@ -16011,34 +15987,30 @@
 
     No fa gaire, en Sora va viatjar amb
 
-    en Donald i en Goofy a la recerca de la seva
+    en Donald i en Goofy a la recerca de
 
-    estimada amiga Kairi, que havia
+    la seva estimada amiga Kairi, que havia
 
-    desaparegut misteriosament
-
-    en la foscor.
+    desaparegut misteriosament en la foscor.
 
 
-    Al final, van aconseguir salvar els
+    Al final, van aconseguir salvar
 
-    mons de l'amenaçadora
+    els mons de l'amenaçadora
 
-    foscor que
-
-    se'ls apropava.
+    foscor que se'ls apropava.
 
 
     Més tard, en Sora va
 
-    caure en un somni profund.
+    caure en un son profund.
 
 
     Ara s'ha despertat de nou, però
 
     ni tan sols és capaç de recordar
 
-    per què estava dormint.
+    per què dormia.
 - id: 19599
   text: '{:unk 72}Cops'
 - id: 19616
@@ -16186,7 +16158,7 @@
 - id: 20164
   text: Goofy
 - id: 20165
-  text: "És el Capità dels Cavallers\nReals del Castell Disney i\nacompanya en Sora buscant\nel rei Mickey.\n \nSimpàtic i una mica estupefacte,\nsempre acompanya fidelment els\nseus lleials amics."
+  text: "És el Capità dels Cavallers\nReials del Castell Disney i\nacompanya en Sora buscant\nel rei Mickey.\n \nSimpàtic i una mica estupefacte,\nsempre acompanya fidelment els\nseus lleials amics."
 - id: 20272
   text: Examina l'Essència intangible.
 - id: 20273
