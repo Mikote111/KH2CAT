@@ -2,16 +2,14 @@
   text: '{:unk06 02}{:unk13 A4 01 78 00}{:unk08 03 00 05}Ho hem aconseguit!'
 - id: 2936
   text: >-
-    {:unk13 96 00 3C 00}{:unk08 01 01 06}On heu
-
-    estat?
+    {:unk13 96 00 3C 00}{:unk08 01 01 06}On heu estat?
 - id: 2937
   text: '{:unk13 A4 00 3C 00}{:unk08 01 01 05}A veure, eh...'
 - id: 2938
   text: >-
     {:unk13 B9 00 3C 00}{:unk08 01 01 05}Dins d'aquest ordinador
 
-    hi ha un... món...{:clear }... on hi viuen uns... eh...
+    hi ha un... món...{:clear }... on viuen uns... eh...
 
     programes i...
 - id: 2939
@@ -24,7 +22,7 @@
 
     de l'Ànsem.
 - id: 2940
-  text: '{:unk13 87 00 73 00}{:unk08 01 01 06}Crec que sí.'
+  text: '{:unk13 87 00 73 00}{:unk08 01 01 06}Em sembla que sí.'
 - id: 2941
   text: >-
     {:unk13 A6 00 43 00}{:unk08 01 01 06}Però ja vau acabar
@@ -78,7 +76,7 @@
   text: >-
     Mira això! Deu ser
 
-    l'entorn de dades!{:delay B4 00}{:clear }{:delay 25 00}{:clear }DTD! No ho veus?
+    l'entorn de dades!{:delay B4 00}{:clear }{:delay 25 00}{:clear }DTD! Ho veus?
 
     Les sigles de «Door To Darkness»!
 - id: 2961
@@ -92,7 +90,7 @@
 
     Algú ha dit «Door to Darkness»?
 - id: 2963
-  text: Majestat!
+  text: Sa Majestat!
 - id: 2964
   text: Us estàvem buscant!
 - id: 2965
@@ -112,7 +110,7 @@
   text: >-
     Aviam, la Porta a la Foscor
 
-    només pot obrir-se{:delay A3 00}{:clear }quan es reuneixen les Set Princeses.{:delay 6E 00}{:clear }Que són Blancaneus, Jasmín, Bella...
+    només pot obrir-se{:delay A3 00}{:clear }quan es reuneixen les Set Princeses.{:delay 6E 00}{:clear }Que són Blancaneus, Jasmin, Bella...
 - id: 2971
   text: És clar...
 - id: 2972
@@ -129,16 +127,16 @@
     que potser descubriu el seu parador!
 - id: 2975
   text: >-
-    Deixi's de bromes, Majestat. {:delay 64 00}{:clear }{:delay 0F 00}{:clear }Ja vam derrotar l'Ànsem,
+    Deixi's de bromes, sa Majestat. {:delay 64 00}{:clear }{:delay 0F 00}{:clear }Ja vam derrotar l'Ànsem,
 
     i vos ho sabeu.
 - id: 2976
   text: >-
     Em sembla que tinc
 
-    molt per explicar-vos.
+    molt a explicar-vos.
 - id: 2977
-  text: Som tot orelles, Majestat!
+  text: Som tot orelles, sa Majestat!
 - id: 2978
   text: >-
     Està bé, però abans
@@ -150,7 +148,7 @@
   text: >-
     No us preocupeu,
 
-    no aniré enlloc.{:delay 8B 00}{:clear }Si aquells sensecor ataquen, seré aquí
+    no me n'aniré enlloc.{:delay 8B 00}{:clear }Si aquells sensecor ataquen, seré aquí
 
     i m'ocuparé de fer-los-hi front.
 - id: 2981
@@ -658,7 +656,7 @@
 - id: 8263
   text: Vaja, vaja...
 - id: 8264
-  text: Haurà passat alguna cosa?
+  text: Què deu haver passat?
 - id: 8265
   text: ''
 - id: 8266
@@ -679,9 +677,9 @@
   text: Què ha passat?
 - id: 8271
   text: >-
-    Mmm... doncs que m'he trobat amb
+    Mmm... doncs que m'he topat
 
-    una cosa que us pot interessar.
+    amb això al Districte 0.
 - id: 8272
   text: El llibre del Pooh!
 - id: 8273
@@ -699,7 +697,7 @@
 
     patit cap mal, així que...{:delay E8 00}{:clear }{:delay 45 00}Espereu. Serà millor que avisi
 
-    al Léon i els altres abans.{:delay C2 00}{:clear }Vaig a buscar-los.
+    el Léon i els altres abans.{:delay C2 00}{:clear }Vaig a buscar-los.
 
     Torno en res.
 - id: 8275
@@ -732,7 +730,7 @@
 - id: 8287
   text: I què fem amb el Merlí?
 - id: 8288
-  text: Bah, ja li'n direm alguna cosa!
+  text: Bé, suposo que li ho podríem explicar!
 - id: 8289
   text: Entesos!
 - id: 8290
@@ -748,7 +746,7 @@
   text: >-
     {:unk13 18 01 78 00}{:unk08 01 01 06}Aviam...{:clear }el Pooh sembla haver-se
 
-    olblidat de mí per complet.{:clear }I no només de mi, també
+    oblidat de mí per complet.{:clear }I no només de mi, també
 
     dels seus altres amics.
 - id: 8294
@@ -821,7 +819,7 @@
   text: >-
     {:theme 0A}L'ordinador és allà davant.{:reset}{:clear }Dins, el camí es torna enganyós.
 
-    Si us perdeu, camineu prop de la paret.
+    Si us perdeu, camineu prop la paret.
 - id: 9004
   text: >-
     Busco un paio amb una gran espasa.
@@ -1293,7 +1291,7 @@
   text: Què fas?
 - id: 12454
   text: >-
-    Aniré a per ell.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Aquesta vegada hi posarem punt i final. {:delay 69 00}{:clear }{:delay 50 00}{:clear }Jo, i qui representa tota la
+    L'enganxaré.{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }Aquest cop hi posarem punt i final. {:delay 69 00}{:clear }{:delay 50 00}{:clear }Jo, i qui representa tota la
 
     foscor de dins meu.
 - id: 12456
@@ -1369,7 +1367,7 @@
 - id: 12478
   text: Eh?
 - id: 12479
-  text: Anem a informar.
+  text: Anem a informar-ne.
 - id: 12480
   text: A qui?
 - id: 12481
@@ -1377,7 +1375,7 @@
 - id: 12482
   text: Sí, ja saps, la Malèfi...
 - id: 12483
-  text: No li feu cas.{:delay 3C 00}{:clear }{:delay 14 00}{:clear }Us aseguro... que venim en pau.
+  text: No li feu cas.{:delay 3C 00}{:clear }{:delay 14 00}{:clear }Us asseguro... que venim en pau.
 - id: 12484
   text: Mentidera...
 - id: 12485
@@ -1401,27 +1399,27 @@
 - id: 12491
   text: '{:unk13 DC 00 96 00}{:unk08 01 00 05}El rei?'
 - id: 12492
-  text: '{:unk13 95 00 2D 00}{:unk08 01 01 06}Esta amb el Léon.'
+  text: '{:unk13 95 00 2D 00}{:unk08 01 01 06}És amb el Léon.'
 - id: 12493
   text: '{:unk06 02}{:unk13 8C 00 91 00}{:unk08 03 01 05}Per fi veurem el rei!'
 - id: 12494
   text: '{:unk06 02}{:unk13 A4 01 41 00}{:unk08 03 00 05}Hurra!'
 - id: 12495
   text: >-
-    {:unk13 86 01 B8 00}{:unk08 01 00 00}Eh...{:clear }El Riku està
+    {:unk13 86 01 B8 00}{:unk08 01 00 00}Eh...{:clear }El Riku és
 
     amb ells?
 - id: 12496
   text: >-
-    {:unk13 BE 00 50 00}{:unk08 01 00 06}Bé, almenys puc
+    {:unk13 BE 00 50 00}{:unk08 01 00 06}Bé, com a mínim
 
-    preguntar-li al
+    puc preguntar al
 
-    rei què és d'ell.{:clear }I aquell ordinador
+    rei què n'és, d'ell.{:clear }I aquell ordinador
 
-    potser podria
+    potser podria dir-nos-en
 
-    dir-nos alguna cosa.
+    alguna cosa.
 - id: 12497
   text: '{:unk13 0E 01 2D 00}{:unk08 01 01 06}Bona idea!'
 - id: 12498
@@ -1439,7 +1437,7 @@
   text: Ei, vosaltres!
 - id: 12503
   text: >-
-    Estic buscant a algú. Heu vist
+    Estic buscant algú. Heu vist
 
     un xato amb el pèl de punta?
 - id: 12504
@@ -1458,7 +1456,7 @@
   text: >-
     {:unk13 4A 01 73 00}{:unk08 01 01 06}El rei no
 
-    està amb tu?
+    és amb tu?
 - id: 12512
   text: '{:unk06 02}{:unk13 18 01 C3 00}{:unk08 03 01 06}Ei!'
 - id: 12513
@@ -1472,13 +1470,13 @@
 
     de l'Ànsem.
 - id: 12515
-  text: Aquí està!
+  text: És aquí!
 - id: 12516
   text: On és la Kairi... i el Riku?
 - id: 12517
   text: Afluixa... {:delay 3C 00}{:clear }{:delay 23 00}{:clear }Que vols trencar-lo o què?
 - id: 12518
-  text: Oh... ho sento. {:delay 5A 00}{:clear }{:delay 12 00}{:clear }Crec que m'he emocionat.
+  text: Oh... ho sento. {:delay 5A 00}{:clear }{:delay 12 00}{:clear }Em sembla que m'he emocionat.
 - id: 12519
   text: Baixa d'allà!
 - id: 12520
@@ -1582,7 +1580,7 @@
   text: ''
 - id: 12553
   text: >-
-    Crec que vol saber
+    Em sembla que vol saber
 
     què estem buscant.
 - id: 12554
@@ -1627,7 +1625,7 @@
 
     fet funcionar.
 - id: 12571
-  text: Oh! Majestat!
+  text: Oh! Sa Majestat!
 - id: 12572
   text: >-
     Ben fet. {:delay 3A 00}{:clear }L'ordinador ens dirà tot
@@ -1651,7 +1649,7 @@
   text: >-
     Us heu oblidat de quin aspecte
 
-    tenia l'Ànsem, Majestat?
+    tenia l'Ànsem, sa Majestat?
 - id: 12578
   text: És clar que no! Aquell no és ell. {:delay 68 00}{:clear }N'estic segur!
 - id: 12580
@@ -1755,13 +1753,13 @@
   text: Tu! {:delay 3C 00}{:clear }{:delay 2D 00}{:clear }Tu vas començar tot això! {:delay 54 00}{:clear }{:delay 4E 00}{:clear }Per culpa teva, el Riku i la Kairi...
 - id: 12607
   text: >-
-    {:delay 30 00}{:clear }Majestat...
+    {:delay 30 00}{:clear }Sa Majestat...
 
     sabeu on és el Riku?
 - id: 12608
   text: Ell... {:delay 3C 00}{:clear }{:delay 54 00}{:clear }Ho sento. {:delay 48 00}{:clear }No sé res.
 - id: 12609
-  text: De debò, Majestat? {:delay 42 00}{:clear }{:delay 30 00}{:clear }N'esteu segurs?
+  text: De debò, sa Majestat? {:delay 42 00}{:clear }{:delay 30 00}{:clear }N'esteu segurs?
 - id: 12610
   text: Ho sento, Sora.
 - id: 12611
@@ -1839,7 +1837,7 @@
     penós per part seva.
 - id: 12631
   text: >-
-    Crec que ens hem
+    Em sembla que ens hem
 
     equivocat de bàndol.
 - id: 12632
@@ -1977,7 +1975,7 @@
 
     una mica de temps, d'acord?
 - id: 12681
-  text: Majestat!
+  text: Sa Majestat!
 - id: 12682
   text: >-
     Entesos. Partirem en
@@ -1986,7 +1984,7 @@
 - id: 12683
   text: Bé. Aneu amb compte!
 - id: 12684
-  text: El mateix us dic, Majestat!
+  text: El mateix us dic, sa Majestat!
 - id: 12685
   text: Espereu, nois!
 - id: 12686
@@ -2002,7 +2000,7 @@
 - id: 12691
   text: Endavant!
 - id: 12692
-  text: Ho sento, Majestat!
+  text: Ho sento, sa Majestat!
 - id: 12693
   text: ''
 - id: 12694
@@ -2078,7 +2076,7 @@
 
     acabar amb aquesta batalla d'una vegada!
 - id: 12717
-  text: Sí, Majestat!
+  text: Sí, sa Majestat!
 - id: 12718
   text: Compte!
 - id: 12719
@@ -2091,7 +2089,7 @@
 
     T'has d'aixecar!
 - id: 12722
-  text: Vinga, desperta!
+  text: Au va, desperta!
 - id: 12723
   text: Goofy, és l'hora de menjar!
 - id: 12724
@@ -2118,9 +2116,9 @@
   text: Ahhh, Goofy!
 - id: 12735
   text: >-
-    Ai, Majestat, sempre
+    Ai, sa Majestat, sempre
 
-    m'acaben donant a la closca.
+    m'acaben fument a la closca.
 - id: 12736
   text: ''
 - id: 12737
@@ -2198,7 +2196,7 @@
 - id: 12763
   text: Som-hi!
 - id: 12764
-  text: Majestat!
+  text: Sa Majestat!
 - id: 12765
   text: Xehanort!
 - id: 12766
@@ -2212,7 +2210,7 @@
 
     On és la Kairi? I el Riku?
 - id: 12768
-  text: No sé res de cap Kairi.{:delay 83 00}{:clear }{:delay 30 00}{:clear }En quant al Riku...{:delay 71 00}{:clear }potser hauries de preguntar-li al teu rei.
+  text: No sé res de cap Kairi.{:delay 83 00}{:clear }{:delay 30 00}{:clear }Pel que fa al Riku...{:delay 71 00}{:clear }potser hauries de preguntar-li al teu rei.
 - id: 12769
   text: Alto!
 - id: 12770
@@ -2441,7 +2439,7 @@
 - id: 12852
   text: Serà una broma!
 - id: 12853
-  text: Vinga ja!
+  text: Au va!
 - id: 12854
   text: Quin fàstic!
 - id: 12855
@@ -2787,7 +2785,7 @@
 - id: 15255
   text: Sí que se't veu una mica canviat, Cloud...
 - id: 15256
-  text: Passa alguna cosa?
+  text: Que passa res?
 - id: 15257
   text: Ehh...
 - id: 15258
@@ -2795,25 +2793,25 @@
 - id: 15259
   text: ''
 - id: 15260
-  text: No t'hi fiquis.
+  text: No vull ficar-t'hi.
 - id: 15261
   text: >-
-    Voldràs dir que no em vols
+    Vols dir... que no em voldràs al
 
-    al teu costat quando marxis.
+    teu costat quan te'n tornis a anar?
 - id: 15263
   text: De debò?
 - id: 15264
   text: Sí.
 - id: 15265
   text: >-
-    Veus? No sembles molt segur. {:delay 91 00}{:clear }{:delay 64 00}{:clear }Bé, d'acord, ho entenc.
+    Veus? No en sembles gaire segur. {:delay 91 00}{:clear }{:delay 64 00}{:clear }Bé, d'acord, ho entenc.
 
     Ves-te'n. Fes el que has de fer.
 - id: 15266
   text: Eh?
 - id: 15267
-  text: Per molt lluny que siguis d'aquí,{:delay 70 00}{:clear }{:delay 4D 00}quan trobis la teva llum... {:delay 51 00}{:clear }{:delay 37 00}{:clear }segur que et guiarà de tornada...{:delay 7A 00}{:clear }{:delay 4F 00}Oi que sí?
+  text: Per molt lluny que siguis d'aquí,{:delay 70 00}{:clear }{:delay 4D 00}quan trobis la teva llum... {:delay 51 00}{:clear }{:delay 37 00}{:clear }segur que et guiarà de tornada...{:delay 7A 00}{:clear }{:delay 4F 00}Oi?
 - id: 15268
   text: Suposo.
 - id: 15269
@@ -2840,7 +2838,7 @@
     pel bé dels nostres amics!
 - id: 15774
   text: >-
-    Vinga va, és tot un montatge
+    Au va, és tot un muntatge
 
     de l'Organització {XIII}.
 - id: 15775
@@ -2947,9 +2945,9 @@
     cercles de llum o després d'una estona.
 - id: 17625
   text: >-
-    {:unk0f 03 1E 00 59 01}{:color #00F0F080}S'ha agregat l'ordre Invocar.{:reset}
+    {:unk0f 03 1E 00 59 01}{:color #00F0F080}S'ha agregat l'ordre Invoca.{:reset}
 
-    En utilitzar-lo, l'indicador de Fusió es converteix en el d'Invocar.{:clear }{:unk0f 00 00 00 00 00}El personatge invocat reemplaça la resta
+    En utilitzar-lo, l'indicador de Fusió es converteix en el d'Invoca.{:clear }{:unk0f 00 00 00 00 00}El personatge invocat reemplaça la resta
 
     del grup. Prova les diferents accions que
 
@@ -3124,14 +3122,14 @@
     fes allò, podria enderrocar la casa.
 - id: 17938
   text: >-
-    Què està passant!? Tindrà alguna
+    Què està passant!? Tindrà res
 
-    cosa a veure amb aquells programes?{:clear }Si és així, aneu per aquell terminal
+    a veure amb aquells programes?{:clear }Si és així, aneu-hi per aquell terminal
 
     i arregleu-ho amb el Tron.
 - id: 17939
   text: >-
-    La ciudad sencera està tremolant!
+    La ciutat sencera està tremolant!
 
     Sora, què passa allà dins?
 - id: 18015
@@ -3305,7 +3303,7 @@
     d'agraïment.
 - id: 18845
   text: >-
-    {:unk13 A0 00 4B 00}{:unk08 01 01 07}Gràcies, Majestat!{:clear }Ara hem de reunir-nos
+    {:unk13 A0 00 4B 00}{:unk08 01 01 07}Gràcies, sa Majestat!{:clear }Ara hem de reunir-nos
 
     amb el Tron.{:clear }Podríeu esperar-nos
 
@@ -3328,7 +3326,7 @@
 
     en això amb tot el teu cor...{:clear }i només anomenant-lo
 
-    podràs invocar un aliat...{:clear }perquè t'ajudi en
+    podràs Invoca un aliat...{:clear }perquè t'ajudi en
 
     els moments difícils.
 - id: 18850
@@ -3345,7 +3343,7 @@
   text: >-
     {:unk13 DC 00 46 00}{:unk08 01 00 06}Gràcies, Merlí.{:clear }Estem preocupats pel Pooh,
 
-    així que tornarem en quant
+    així que tornarem tan aviat com
 
     trobem les pàgines arrencades.
 - id: 18908
@@ -3595,7 +3593,7 @@
 - id: 21388
   text: '{:unk13 31 01 5A 00}{:unk08 01 00 05}Eh?'
 - id: 21389
-  text: '{:unk13 82 00 37 00}{:unk08 01 01 06}Crec que han sortit de allà.'
+  text: '{:unk13 82 00 37 00}{:unk08 01 01 06}Em sembla que han sortit d'allà.'
 - id: 21390
   text: >-
     {:unk13 54 01 8C 00}{:unk08 01 00 05}Des de quan hi ha allà un forat?

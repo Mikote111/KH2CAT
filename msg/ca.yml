@@ -19,7 +19,7 @@
 - id: 7783
   text: Em pregunto què faria el Jack.
 - id: 7784
-  text: No sé...{:delay 6B 00}{:clear }Suposo que fugiria.
+  text: No ho sé...{:delay 6B 00}{:clear }Suposo que fugiria.
 - id: 7785
   text: I a què esperem?
 - id: 7786
@@ -48,7 +48,7 @@
   text: >-
     Jo diria improbable.
 
-    Estem vius i som pirates!
+    Som vius i som pirates!
 - id: 7795
   text: Capità Jack Sparrow.
 - id: 7796
@@ -61,7 +61,7 @@
   text: >-
     O sigui que voleu jugar als pirates!{:delay 66 00}{:clear }Millor deixeu-vos de ximpleries
 
-    de nens petits. A per ells!
+    de nens petits. Mateu-los!
 - id: 7800
   text: S'han acabat els jocs!
 - id: 7801
@@ -104,16 +104,16 @@
     {:theme 0A}aquella cova{:reset} on em van tenir a mi.
 - id: 7881
   text: >-
-    Hem d'afanyar-nos i rescatar
+    Hem d'afanyar-nos i rescatar la
 
-    la Srta. Swann! Preparats per partir?
+    Srta. Swann! Preparats per partir?
 - id: 7882
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Partim ja?
 
-    {:chardelay 33 00}Encara no hi estic llest.
+    {:chardelay 33 00}Encara no hi estic a punt.
 
-    {:chardelay 09 00}Estic llest!
+    {:chardelay 09 00}Hi estic a punt!
 - id: 7883
   text: >-
     Vaig lluitar amb en Jack una vegada
@@ -132,7 +132,7 @@
   text: >-
     Si et canses, pots descansar
 
-    abaix, en la bodega.{:clear }A més, és un lloc segur
+    a baix, al celler.{:clear }A més, és un lloc segur
 
     si els enemics ens ataquen.
 - id: 7886
@@ -196,7 +196,7 @@
     que em té intranquil・la...
 - id: 7895
   text: >-
-    {:theme 0A}La Isla de Muerta, el cementiri de naus...{:reset}
+    {:theme 0A}L'Isla de Muerta, el cementiri de naus...{:reset}
 
     Quins llocs freqüenten aquells monstres!{:clear }Es sentiran com a casa en llocs així.
 
@@ -291,16 +291,16 @@
 - id: 9951
   text: O els sensecor!
 - id: 9952
-  text: Anem a esbrinar-ho!
+  text: Només hi ha una manera de saber-ho!
 - id: 9953
   text: L'or asteca?
 - id: 9954
   text: >-
-    Exacte! No perteneixem al
+    Exacte! I gràcies a la 
 
-    món dels vius,{:delay BE 00}{:clear }així que no podem morir.
+    maledicció que hi té,{:delay BE 00}{:clear }no som ni entre els
 
-    Però tampoc estem morts.
+    vius ni els morts.
 - id: 9955
   text: >-
     De debò? Doncs a mi em
@@ -330,7 +330,8 @@
   text: >-
     A qui has dit mocós? Som el Sora,
 
-    Donald i Goofy! No us n'oblideu!
+    el Donald i el
+     Goofy! No us n'oblideu!
 - id: 9963
   text: >-
     I no ho farem,{:delay 4A 00}{:clear }puix gravats en les vostres
@@ -388,9 +389,9 @@
   text: '{:unk13 C8 00 AF 00}{:unk08 01 00 05}Doncs ja som aquí!'
 - id: 9981
   text: >-
-    {:unk13 B1 00 32 00}{:unk08 01 01 06}Potser poguem agafar prestada
+    {:unk13 B1 00 32 00}{:unk08 01 01 06}Potser podem agafar prestada
 
-    una nau pirata i fer una volta!
+    una nau pirata i fer-hi una volta!
 - id: 9982
   text: >-
     {:unk13 C5 00 37 00}{:unk08 01 01 06}Era una broma!{:clear }Aquells tipus es dirigien
@@ -406,7 +407,7 @@
 - id: 9985
   text: Elizabeth!
 - id: 9986
-  text: Atureu-vos!
+  text: Alto!
 - id: 9987
   text: Què carai!?
 - id: 9988
@@ -428,14 +429,14 @@
   text: '{:unk13 16 01 F6 00}{:unk08 01 00 01}Has trobat la teva amiga?'
 - id: 9994
   text: >-
-    {:unk13 D5 00 39 00}{:unk08 01 01 06}Quan vaig arribar, ja era tard.
+    {:unk13 D5 00 39 00}{:unk08 01 01 06}Quan hi he arribat, ja era tard.
 
     Però haig de rescatar-la!{:clear }Podríeu ajudar-me?
 - id: 9996
   text: >-
     {:unk13 B6 00 39 00}{:unk08 01 01 06}Jo soc en William Turner,
 
-    però dieu-me Will.
+    però digueu-me Will.
 - id: 9997
   text: >-
     {:unk13 9F 00 04 01}{:unk08 01 00 02}D'acord, Will.
@@ -464,7 +465,7 @@
     La Perla Negra és quasi inabastable.
 - id: 10003
   text: >-
-    Faries bé en buscar-te
+    Faries bé a buscar-te
 
     una altra noia, nano.
 - id: 10004
@@ -487,11 +488,11 @@
     treure de la garjola, Sparrow.{:delay F0 00}{:clear }Ajuda'm i liquida el teu deute.
 - id: 10009
   text: >-
-    Hauràs conquerir la
+    Hauràs de conquerir la
 
-    dama tu solet, amic.{:delay 9D 00}{:clear }No veig en què me'n puc beneficiar.
+    dama tu solet, amic.{:delay 9D 00}{:clear }No veig en què me n'hi puc beneficiar.
 - id: 10010
-  text: Som-hi, Capità!
+  text: Au va, Capità!
 - id: 10011
   text: >-
     Segur que pots portar
@@ -504,7 +505,7 @@
 - id: 10014
   text: Capità Sparrow.
 - id: 10015
-  text: Som en Sora, Donald i Goofy.
+  text: Som en Sora, en Donald i en Goofy.
 - id: 10016
   text: Jo soc en Will Turner.
 - id: 10017
@@ -529,7 +530,7 @@
 - id: 10025
   text: Què penses d'aquell Will?
 - id: 10026
-  text: No sé. Acabem de coneixer-lo.
+  text: No ho sé. L'acabem de conèixer.
 - id: 10027
   text: >-
     Mmm... Crec que la meva
@@ -548,7 +549,7 @@
 
     Això és or asteca maleït.{:delay 5C 01}{:clear }Una de les vuit-centes vuitanta-dues
 
-    peces idèntiques que li van entregar{:delay FC 00}{:clear }a en Cortés en un arca de pedra.
+    peces idèntiques que van entregar{:delay FC 00}{:clear }a en Cortés en un arca de pedra.
 - id: 10031
   text: >-
     Ja no crec en les històries de
@@ -560,17 +561,17 @@
 
     jo quan m'ho van explicar.{:delay 77 00}{:clear }Era a l'Isla de Muerta,
 
-    una illa impossible de trobar,{:delay A5 00}{:clear }excepte per als que
+    una illa impossible de trobar,{:delay A5 00}{:clear }excepte per als
 
-    ja saben on està.{:delay A5 00}{:clear }La vam trobar.{:delay 66 00}{:clear }Allà era l'arca. I a dins, l'or.
+    que ja saben on és.{:delay A5 00}{:clear }La vam trobar.{:delay 66 00}{:clear }Allà era l'arca. I a dins, l'or.
 
-    I ens ho vam quedar tot!{:delay 14 01}{:clear }Hi vam comerciar.
+    I ens el vam quedar tot!{:delay 14 01}{:clear }Hi vam comerciar.
 
-    El vam malgastar en beguda, menjar{:delay 14 01}{:clear }i companyia agradable.{:delay 72 00}{:clear }Contra més gastàvem,
+    El vam malgastar en beguda, menjar{:delay 14 01}{:clear }i companyia agradable.{:delay 72 00}{:clear }Com més gastàvem,
 
-    més ens n'adonavem que...{:delay 0B 01}{:clear }la beguda no ens satisfeia,{:delay 8A 00}{:clear }el menjar es convertia en
+    més ens adonavem que...{:delay 0B 01}{:clear }la beguda no ens satisfeia,{:delay 8A 00}{:clear }el menjar es convertia en
 
-    cendres en les nostres boques...{:delay EA 00}{:clear }Era tot causat per la maledicció, Srta. Turner.
+    cendres a les nostres boques...{:delay EA 00}{:clear }Era tot causat per la maledicció, Srta. Turner.
 
     Vam sucumbir a la cobdícia,{:delay FC 00}{:clear }i ara hi estem consumits.
 - id: 10033
@@ -592,9 +593,9 @@
 
     assetjant mariners i colons.{:delay 4A 01}{:clear }Teníem 881 peces, però havíem perdut
 
-    tota esperança de trobar-ne l'última.{:delay 86 01}{:clear }Tots aquells anys vos ereu
+    tota esperança de trobar-ne l'última.{:delay 86 01}{:clear }Tots aquells anys vos éreu
 
-    fora de perill en el vostre llit,{:delay D8 00}{:clear }llegint relats de pirates,
+    fora de perill al vostre llit,{:delay D8 00}{:clear }llegint relats de pirates,
 
     somiant amb aventures en alta mar...{:delay 32 01}{:clear }Nosaltres hem suportat turments
 
@@ -631,14 +632,14 @@
   text: >-
     {:unk13 73 01 38 00}{:unk08 01 00 05}És la que ens durà
 
-    fins a la Isla de Muerta.{:clear }Allà es dirigeix el Barbossa.
+    fins a l'Isla de Muerta.{:clear }S'hi dirigeix el Barbossa.
 
     Entesos?
 - id: 10043
   text: '{:unk13 1E 01 90 00}{:unk08 01 01 06}Com ho saps?'
 - id: 10044
   text: >-
-    {:unk13 A4 00 DA 00}{:unk08 01 01 01}Ai, xicot...{:clear }Una vegada, els dos perseguim
+    {:unk13 A4 00 DA 00}{:unk08 01 01 01}Ai, xicot...{:clear }Una vegada, els dos perseguíem
 
     un tresor... l'or asteca.{:clear }Era amagat
 
@@ -647,7 +648,7 @@
     em va robar el vaixell.
 - id: 10045
   text: >-
-    {:unk13 7A 01 99 00}{:unk08 01 00 01}Llavors va a per
+    {:unk13 7A 01 99 00}{:unk08 01 00 01}Llavors va per
 
     aquell tresor.
 - id: 10046
@@ -683,7 +684,7 @@
   text: '{:unk13 F7 00 A7 00}{:unk08 01 00 01}Preparat?'
 - id: 10053
   text: >-
-    {:unk13 0E 01 39 00}{:unk08 01 00 05}Crec que només ens
+    {:unk13 0E 01 39 00}{:unk08 01 00 05}Em sembla que només ens
 
     volia treure del damunt...
 - id: 10054
@@ -705,7 +706,7 @@
   text: >-
     Totes i cadascuna de les peces que
 
-    vam sostraure han estat retornats,{:delay 08 01}{:clear }excepte aquesta.
+    vam sostraure han estat retornades,{:delay 08 01}{:clear }excepte aquesta.
 - id: 10060
   text: >-
     I ara, la sang serà retornada,
@@ -772,10 +773,10 @@
 - id: 10080
   text: El medalló!
 - id: 10081
-  text: A per ells, colla d'ingrats!
+  text: Que no escapin, colla d'ingrats!
 - id: 10082
   text: >-
-    {:unk13 0A 01 39 00}{:unk08 01 00 05}Ho vaig haver de fer.{:clear }El Jack no és un pirata
+    {:unk13 0A 01 39 00}{:unk08 01 00 05}Ho he hagut de fer.{:clear }El Jack no és un pirata
 
     de conte.{:clear }Dels pirates de veritat
 
@@ -787,9 +788,9 @@
     Jo duré el timó.
 - id: 10084
   text: >-
-    Així que li heu dit a Barbosa
+    Així que heu dit a Barbosa que
 
-    que el meu cognom era el vostre.
+    el meu cognom era el vostre.
 - id: 10085
   text: Per què el meu nom?
 - id: 10086
@@ -803,10 +804,10 @@
   text: >-
     Es teu. Te'l vaig agafar quan et
 
-    trobarem a la deriva en el mar.
+    trobarem a la deriva al mar.
 - id: 10089
   text: >-
-    Ha passat tant de temps...{:delay 3C 00}{:clear }{:delay 58 00}{:clear }Creia que l'havia perdut. {:delay 66 00}{:clear } {:delay 64 00}{:clear }Era un regal de mon pare.
+    Ha passat tant de temps...{:delay 3C 00}{:clear }{:delay 58 00}{:clear }Pensava que l'havia perdut. {:delay 66 00}{:clear } {:delay 64 00}{:clear }Era un regal de mon pare.
 
     Ell me'l va enviar.
 - id: 10090
@@ -861,7 +862,7 @@
 - id: 10102
   text: Molt bé! Dueu-lo al calabós!
 - id: 10103
-  text: Ens apropeam a l'Interceptor.{:delay 8A 00}{:clear }Què fem, Capità?
+  text: Ens apropem a l'Interceptor.{:delay 8A 00}{:clear }Què fem, Capità?
 - id: 10104
   text: Tu què creus, idiota?
 - id: 10105
@@ -904,7 +905,7 @@
   text: >-
     Us dono la meva paraula: feu el que us dic{:delay 74 00}{:clear }o apretaré el gallet i em
 
-    perdré en el fons del mar.
+    perdré al fons del mar.
 - id: 10118
   text: >-
     Anomeneu les vostres condicions...
@@ -916,7 +917,7 @@
 
     i en Sora, Donald{:delay A4 00}{:clear }i Goofy també.
 - id: 10120
-  text: Alguna cosa més?
+  text: Res més?
 - id: 10121
   text: Foteu el camp!
 - id: 10122
@@ -924,14 +925,14 @@
 - id: 10123
   text: '... però els sensecor es queden!'
 - id: 10125
-  text: No n'hi ha dret!
+  text: No hi ha dret!
 - id: 10126
   text: >-
     {:unk13 7B 01 97 00}{:unk08 01 00 02}Bona feina,
 
     Barbossa!{:clear }Qui hagués dit que
 
-    anava a ser tan fàcil?
+    seria tan fàcil?
 - id: 10127
   text: >-
     {:unk13 5D 00 9C 00}{:unk08 01 01 04}Barbossa,
@@ -946,13 +947,13 @@
   text: >-
     {:unk13 C3 00 57 00}Els barrils de pòlvora
 
-    són a punt, Capità!
+    estan a punt, Capità!
 - id: 10130
   text: '{:unk13 12 01 77 00}{:unk08 01 01 02}Bé doncs adeu-siau!'
 - id: 10131
   text: '{:unk13 17 01 48 00}{:unk08 01 01 05}Què fem ara!?'
 - id: 10132
-  text: '{:unk13 8A 01 02 01}{:unk08 01 00 01}Serem fets cendra!'
+  text: '{:unk13 8A 01 02 01}{:unk08 01 00 01}Quedarem fets cendra!'
 - id: 10133
   text: >-
     {:unk13 55 01 0B 01}{:unk08 01 00 01}Per a què lluitar, xicots?{:clear }Un pirata sap
@@ -964,9 +965,9 @@
   text: '{:unk13 39 01 1C 01}{:unk08 01 00 02}Com qualsevol pirata.'
 - id: 10136
   text: >-
-    {:unk13 64 01 A3 00}{:unk08 01 00 02}Primer, hem
+    {:unk13 64 01 A3 00}{:unk08 01 00 02}Primer, hem d'encarregar-nos
 
-    d'encarregar-nos de la pólvora.{:clear }No penso perdre
+    de la pólvora.{:clear }No penso perdre
 
     aquest vaixell per res!
 - id: 10137
@@ -975,7 +976,7 @@
 
     confiar en un pirata.
 - id: 10138
-  text: '{:unk13 47 01 87 00}{:unk08 01 01 01}Savia decisió, xicot.'
+  text: '{:unk13 47 01 87 00}{:unk08 01 01 01}Sàvia decisió, xicot.'
 - id: 10139
   text: Tot net!
 - id: 10140
@@ -987,7 +988,7 @@
   text: >-
     {:unk13 4C 01 50 00}{:unk08 01 00 05}Tu et quedes
 
-    en el vaixell, nena!
+    al vaixell, nena!
 - id: 10142
   text: >-
     {:unk13 E8 00 39 00}{:unk08 01 00 05}Ni parlar-ne!
@@ -1055,7 +1056,7 @@
 - id: 10163
   text: Me n'alegro.
 - id: 10164
-  text: Ajà.
+  text: Ahà.
 - id: 10165
   text: Ei, Sora,{:delay 54 00}{:clear }t'estàs posant vermell?
 - id: 10166
@@ -1240,7 +1241,7 @@
   text: Badament?
 - id: 10226
   text: >-
-    És en el Codi dels pirates. {:delay 69 00}{:clear } {:delay 1E 00}{:clear }Qualsevol que invoqui el «parlament» no pot
+    És al Codi dels pirates. {:delay 69 00}{:clear } {:delay 1E 00}{:clear }Qualsevol que invoqui el «parlament» no pot
 
     ser ferit fins que acabin les negociacions.
 - id: 10227
@@ -1668,7 +1669,7 @@
     posar rumb a l'Isla de Muerta!
 - id: 15856
   text: >-
-    Seguro que el Jack estarà bé.{:clear }És un d'aquells tipus
+    Segur que el Jack estarà bé.{:clear }És un d'aquells tipus
 
     que sempre se'n surt.
 - id: 15857
@@ -1785,7 +1786,7 @@
 
     robar tresors! Carall!
 - id: 16669
-  text: '{:unk13 9F 00 04 01}{:unk08 01 00 02}És clar!{:clear }Jo soc en Sora.'
+  text: '{:unk13 9F 00 04 01}{:unk08 01 00 02}I tant!{:clear }Jo soc en Sora.'
 - id: 16670
   text: >-
     {:unk13 9F 00 04 01}{:unk08 01 00 02}Aquests són en
@@ -1854,7 +1855,7 @@
 - id: 17352
   text: T'ha caigut la peça d'or!
 - id: 17353
-  text: Han robado el medalló! Recupera'l ràpid!
+  text: Han robat el medalló! Recupera'l ràpid!
 - id: 17354
   text: Recupera el medalló! Ràpid!
 - id: 17426
@@ -1898,16 +1899,16 @@
     oi?
 - id: 18341
   text: >-
-    ‛Per utilitzar en cas d'atac pirata.
+    «Per utilitzar en cas d'atac pirata.
 
-    Comodor Norrington."
+    Comodor Norrington.»
 - id: 18342
   text: '«Un present per als pirates.»'
 - id: 18343
   text: >-
-    "Un símbol de pau i prosperitat
+    «Un símbol de pau i prosperitat
 
-    a Port Royal."
+    a Port Royal.»
 - id: 18344
   text: Timó de l'Interceptor, un navili de la marina.
 - id: 18345
@@ -2039,7 +2040,7 @@
 
     {:chardelay 33 00}Millor no arriscar-s'hi.
 
-    {:chardelay A1 00}Fem-li un cop d'ull!
+    {:chardelay A1 00}Fem-hi un cop d'ull!
 - id: 20614
   text: Prem {:icon dynamic-triangle} per començar el duel! Identifica i ataca l'original!
 - id: 21548
@@ -2055,7 +2056,7 @@
 - id: 21553
   text: "{:delayandfade 0A 78} \nEn Will no es refia dels pirates,\ni encara menys d'un com el Jack.\nAquella és la raó que decidís\nabandonar-lo en l'illa i tornar\na Port Royal.\n \n \n \n"
 - id: 21554
-  text: "{:delayandfade 07 78} \nAtrapats a la bodega del navili\ni rodejats de barrils de pólvora,\ntots semblen condemnats a acabar\nen el fons dels mars.\n \nPerò gràcies a l'astúcia del\nllegendari Jack i a la destresa\ndel Sora amb la seva clau espasa,\nel grup en surt il・lés un cop més.\n \n"
+  text: "{:delayandfade 07 78} \nAtrapats al celler del navili\ni rodejats de barrils de pólvora,\ntots semblen condemnats a acabar\nen el fons dels mars.\n \nPerò gràcies a l'astúcia del\nllegendari Jack i a la destresa\ndel Sora amb la seva clau espasa,\nel grup en surt il・lés un cop més.\n \n"
 - id: 21555
   text: "{:delayandfade 0A 78} \nLes coses no semblen estar\ngens tranquil・les a Port Royal\nquan el Sora i els seus\narriben de nou a port.\n \n \n \n"
 - id: 21556

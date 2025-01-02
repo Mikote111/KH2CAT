@@ -2109,9 +2109,9 @@
   text: Me la bufa.
 - id: 13648
   text: >-
-    Us explico; l'Àxel ha decidit actuar
+    Us explico; l'Àxel ha decidit
 
-    al nostre marge.
+    actuar al nostre marge.
 - id: 13649
   text: També és de l'Organització?
 - id: 13650
@@ -2134,9 +2134,9 @@
     sabem cuidar-nos molt bé.
 - id: 13655
   text: >-
-    Me n'alegro.{:delay 8A 00}{:clear }Deixant l'Àxel a part, ens partiria
+    Me n'alegro.{:delay 8A 00}{:clear }Deixant l'Àxel a part, ens partiria el
 
-    el cor saber que us ha passat alguna cosa.
+    cor saber que us ha passat alguna cosa.
 - id: 13656
   text: Cor? No teniu cap cor!
 - id: 13657
@@ -2152,7 +2152,7 @@
   text: >-
     Sora, tu segueix lluitant
 
-    contra aquells sensecor.
+    contra els sensecor.
 - id: 13661
   text: Seguim-lo!
 - id: 13662
@@ -2161,7 +2161,7 @@
   text: >-
     No n'estic segur, però potser ens
 
-    dur fins el món de l'Organització.
+    du fins al món de l'Organització.
 - id: 13664
   text: >-
     No siguis insensat.
@@ -2180,7 +2180,7 @@
   text: >-
     Ei, què us sembla si toqueu el dos de la meva ciutat?
 
-    Ja heu causat prous problemes.
+    Ja heu causat prou problemes.
 - id: 13669
   text: Riku...
 - id: 13670
@@ -2211,7 +2211,7 @@
 - id: 13681
   text: Ei, com és que coneixeu la Kairi?
 - id: 13682
-  text: De veritat la Kairi ha estat aquí?
+  text: De debò la Kairi ha estat aquí?
 - id: 13683
   text: >-
     Sí.{:delay 69 00}{:clear }I... ha dit que
@@ -2235,7 +2235,7 @@
 - id: 13690
   text: Per què has trigat tant, Kairi?
 - id: 13691
-  text: D'alguna manera vaig saber que hi series aquí.
+  text: D'alguna manera, sabia que series aquí.
 - id: 13693
   text: Kairi...
 - id: 13694
@@ -2250,7 +2250,7 @@
 - id: 13697
   text: Irònic que ho estigui dient jo...
 - id: 13698
-  text: Haig d'ajudar a la Kairi!
+  text: Haig d'ajudar la Kairi!
 - id: 13701
   text: Ha anat d'un pèl!
 - id: 13702
@@ -2265,15 +2265,15 @@
   text: >-
     S'ha obert una nova ruta.{:delay 72 00}{:clear }I la Kairi i el Riku ens 
 
-    hi esperen en algun punt.
+    en esperen en algun punt.
 - id: 13707
   text: Aleshores us hauríeu d'afanyar.
 - id: 13708
-  text: Tornareu?
+  text: Hi tornareu?
 - id: 13709
   text: Ho prometo!
 - id: 13725
-  text: Ei, crec que ja gairebé hi som!
+  text: Ei, em sembla que ja gairebé hi som!
 - id: 13726
   text: ''
 - id: 13728
@@ -2535,7 +2535,7 @@
 - id: 13811
   text: Ens quedem a defensar el fort.
 - id: 13812
-  text: Saluda a la Kairi!
+  text: Saluda la Kairi!
 - id: 13813
   text: Fet!
 - id: 13814
@@ -5214,7 +5214,7 @@
   text: >-
     Això no m'agrada.{:clear }Queda't amb el trofeu per
 
-    ara, ja m'ho tornaràs!
+    ara, ja me'l tornaràs!
 - id: 17962
   text: >-
     Has sorprès el Seifer amb
@@ -6560,13 +6560,13 @@
   text: Suposo que no.
 - id: 20172
   text: >-
-    {:unk08 02 00 06}Una Essència intangible, un ent
+    {:unk08 02 00 06}Una Essència intangible, una
 
-    fosc lligat a una arma.
+    entitat fosca lligada a una arma.
 
     {:chardelay 33 00}Millor no arriscar-s'hi.
 
-    {:chardelay A1 00}S'haurà d'examinar!
+    {:chardelay A1 00}Fem-hi un cop d'ull!
 - id: 20188
   text: >-
     Però imagino... que si hi ha res

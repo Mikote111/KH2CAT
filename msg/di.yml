@@ -70,7 +70,7 @@
 - id: 16817
   text: Restauració al 79%.
 - id: 16818
-  text: Potser... esperar no sigui el més adequat.
+  text: Potser... esperar no és el més adequat.
 - id: 16819
   text: Això mateix pensava jo! {:delay 76 00}{:clear }Si tens un somni, no esperis. Actua.{:delay BC 00}{:clear }És una de les normes de la vida.{:delay 88 00}{:clear }Et queda clar?
 - id: 16820

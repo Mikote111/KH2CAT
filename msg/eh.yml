@@ -1657,14 +1657,16 @@
     s'ha embarcat en una nova odisea.{:delay 77 01}{:clear }Assegurem-nos que en sigui una que mai oblidi.{:delay 2C 01}{:clear } {:delay 50 00}{:clear }I ara, marxeu.
 - id: 19950
   text: >-
-    Ja li he transmés el missatge.{:delay A5 00}{:clear }En Sora sap que ha de seguir
+    Ja li he transmés el missatge.
+    
+    Tal i com volies.{:delay A5 00}{:clear }He dit a en Sora que segueixi
 
     combatent els sensecor.
 - id: 19951
   text: >-
     Bé.{:delay 4D 00}{:clear } {:delay 37 00}{:clear }No només poseeixes el poder d'infligir
 
-    danys als cors, sinó que també saps...{:delay D2 00}{:clear }sembrar les llavors del dubte en un cor receptiu.
+    mal als cors, sinó que també saps...{:delay D2 00}{:clear }sembrar les llavors del dubte en un cor receptiu.
 - id: 19952
   text: >-
     D'aquí poc, en Sora començarà a dubtar de sí mateix.{:delay DC 00}{:clear } {:delay 0F 00}{:clear }El dubte el durà a la incertesa

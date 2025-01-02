@@ -3467,21 +3467,23 @@
 
 - id: 11027
   text: >+
-    La Vall del Malvat estava infestada de sensecor
+    La Vall del Malvat estava infestada de
 
-    i incorporis. En Sora es va disposar a
+    sensecor i incorporis. En Sora es va
 
-    enfrontar-se a les hordes, però va aparèixer
+    disposar a enfrontar-s'hi, però va
 
-    l'Organització {XIII} amb el seu habitual
+    aparèixer l'Organització {XIII} amb el seu
 
-    reguitzell d'intrigants paraules. Sense temps
+    habitual reguitzell d'intrigants paraules.
 
-    per reaccionar, la clau espasa va brillar i
+    Sense temps per reaccionar, la clau espasa
 
-    va aparèixer la porta a un nou món. Amb les
+    va brillar i va aparèixer la porta a un nou
+    
+    món. Amb les paraules d'en Yen Sid presents,
 
-    paraules d'en Yen Sid presents, partim.
+    partim.
 
 - id: 11028
   text: >+
@@ -3505,9 +3507,9 @@
   text: >+
     Han aparegut espines al Castell Disney!
 
-    Si no ens afanyem, quedarà
+    Si no ens afanyem, quedarà sumit
 
-    sumit en la foscor.
+    en la foscor.
 
 - id: 11031
   text: >+
@@ -3529,7 +3531,7 @@
 
 - id: 11034
   text: >+
-    Després de tornar a can Merlí, vam descobrir
+    Després de tornar a cal Merlí, vam descobrir
 
     l'existència d'un ordinador que l'Ansem
 
@@ -3789,15 +3791,15 @@
 
 - id: 11065
   text: >+
-    Els seus anys de servei a la Bèstia els
+    Els seus anys de servei a la Bèstia
 
-    feien creure que els sensecor eren la
+    els feien creure que els sensecor eren
 
-    causa del seu comportament. I, per descomptat,
+    la causa del seu comportament. I, per
 
-    si els sensecors es trobaven entremig,
+    descomptat, si els sensecor hi eren
 
-    era una feina per a nosaltres!
+    ficats, era una feina per a nosaltres!
 
 - id: 11066
   text: >+
@@ -3847,15 +3849,19 @@
 
     perseguien la Bella. Va sortir-ne il・lesa,
 
-    però en Xaldin va aconseguir escapar-ne. La
+    però en Xaldin va aconseguir escapar-ne.
 
-    Bèstia es va disculpar pel seu comportament
+    La Bèstia es va disculpar pel seu
 
-    i ambdós van tornar a portar-se bé. 
+    comportament i ambdós van tornar a
 
-    No obstant això, encara
+    portar-se bé. 
 
-    serà necessari una mica més de temps perquè es desfaci l'encanteri.
+    No obstant això, encara serà necessari
+
+    una mica més de temps perquè es desfaci
+
+    l'encanteri.
 
 - id: 11072
   text: >+
@@ -3941,13 +3947,15 @@
   text: >+
     Va resultar ser una amiga de l'Hèrcules
 
-    anomenada Megara, que anava a parlar amb
+    anomenada Megara, que anava a parlar
 
-    l'Hades per demanar-li que el deixés descansar
+    amb l'Hades per demanar-li que el deixés
 
-    . Vam pensar que era perillós,
+    descansar . Vam pensar que era perillós,
 
-    nogensmenys vam partir cap a l'Inframon per anar a buscar-la.
+    nogensmenys vam partir cap a l'Inframon
+
+    per anar a buscar-lo.
 
 - id: 11080
   text: >+
@@ -4009,9 +4017,9 @@
 
     per un individu vestit de negre. En aquell
 
-    moment, l'Hades va arribar i va explicar que
+    moment, l'Hades va arribar i va explicar
 
-    tenia la Meg segrestada a l'Inframon.
+    que tenia la Meg segrestada a l'Inframon.
 
     L'Hèrcules va voler anar a ajudar-la,
 
@@ -4375,9 +4383,9 @@
   text: >+
     La Mulan va intentar allistar-se amb el nom
 
-    de Ping, però no la van acceptar. En Sora li
+    de Ping, però no la van acceptar. En Sora
 
-    va proposar una manera per demostrar la
+    li va proposar una manera per demostrar la
 
     seva valia: havia de completar les missions
 
@@ -4397,11 +4405,11 @@
 
     Llavors, en Mushu va veure en Shan Yu
 
-    entrar en una cova. El Ping es convertiria en un
+    entrar en una cova. El Ping es convertiria
 
-    heroi si aconseguia derrotar el temible
+    en un heroi si aconseguia derrotar el
 
-    cabdill hun.
+    temible cabdill hun.
 
 - id: 11125
   text: >+
@@ -4427,11 +4435,11 @@
 
 - id: 11127
   text: >+
-    Ens vam enfrontar a l'exèrcit enemic
+    Ens vam enfrontar a l'exèrcit enemic al
 
-    al cim de la muntanya. En Ping va tenir
+    cim de la muntanya. En Ping va tenir una
 
-    una idea brillant per acabar amb en Shan Yu
+    idea brillant per acabar amb en Shan Yu
 
     i els sensecor, però es va descobrir que
 
@@ -4443,11 +4451,11 @@
   text: >+
     La Mulan estava decidida a abandonar i
 
-    tornar a casa seva. Aleshores, va veure que
+    tornar a casa seva. Aleshores, va veure
 
-    en Shan Yu, a qui tots donàvem per mort,
+    que en Shan Yu, a qui tots donàvem per
 
-    es dirigia a la Ciutat Imperial.
+    mort, es dirigia a la Ciutat Imperial.
 
 - id: 11129
   text: >+
@@ -4584,16 +4592,18 @@
 - id: 11144
   text: >+
     Quan el Sora va intentar parlar amb en Pooh,
-
+ 
     una estranya força el va empènyer fora.
 
     El llibre estava a punt de ser robat pels
 
-    sensecor. En Sora va recuperar el llibre i el va
+    sensecor. En Sora va recuperar el llibre
 
-    tornar a entrar-hi, però va resultar que l'única cosa
+    i el va tornar a entrar-hi, però va
 
-    que hi quedava era la casa d'en Pooh.
+    resultar que l'única cosa que hi
+
+    quedava era la casa d'en Pooh.
 
 - id: 11145
   text: >+
@@ -4981,37 +4991,37 @@
 
 - id: 11188
   text: >+
-    Tothom es preparava per a un
+    Tothom es preparava per a un gran musical,
 
-    gran musical, però l'Ariel no podia
+    però l'Ariel no podia concentrar-se en
 
-    concentrar-se en els assajos. En Sebastià
+    els assajos. En Sebastià va demanar
 
-    va demanar al Sora, el Donald i el Goofy que
+    al Sora, el Donald i el Goofy que
 
-    participessin en l'obra, però ni tan
+    participessin en l'obra, però ni tan sols
 
-    sols això va aconseguir que l'Ariel se centrés.
+    això va aconseguir que l'Ariel se centrés.
 
 - id: 11189
   text: >+
-    Pel que sembla, l'Ariel tenia curiositat pel
+    Pel que sembla, l'Ariel tenia curiositat
 
-    món humà. En Flounder va suggerir que li
+    pel món humà. En Flounder va suggerir
 
-    podrien ensenyar una estàtua que havia
+    que li podrien ensenyar una estàtua que
 
-    trobat. Vaig pensar que això l'
+    havia trobat. Vaig pensar que això
 
-    animaria, perquè adorava la superfície.
+    l'animaria, perquè adorava la superfície.
 
 - id: 11190
   text: >+
-    A l'Ariel li encantava el regal d'en Flounder,
+    A l'Ariel li encantava el regal d'en
 
-    ja que l'estàtua representava l'home
+    Flounder, ja que l'estàtua representava
 
-    per qui l'Ariel sospirava.
+    l'home per qui l'Ariel sospirava.
 
 - id: 11191
   text: >+
@@ -5647,15 +5657,15 @@
 
 - id: 11252
   text: >+
-    Tafanejant l'ordinador de l'Ansem, el
+    Tafanejant l'ordinador de l'Ansem,
 
-    PCM va arrossegar-nos dintre del
+    el PCM va arrossegar-nos dins el
 
     sistema informàtic. El comandant Sark
 
-    va ficar-nos dintre d'una cel・la, on vam conèixer
+    va ficar-nos dintre d'una cel・la, on vam
 
-    a Tron, un programa de seguretat.
+    conèixer en Tron, un programa de seguretat.
 
 - id: 11253
   text: >+
@@ -6098,28 +6108,28 @@
   text: >-
     Al bosc de bambú hi havia Mushu i Mulan,
 
-    que es feien passar per un nen anomenat “Ping”.
+    que es feien passar per un nen anomenat «Ping».
 - id: 11352
   text: L'Allau!
 - id: 11353
   text: >-
-    Per derrotar a Shan Yu, Mulan va disparar un canó
+    Per vèncer en Shan Yu, la Mulan va disparar
 
-    i va causar una enorme allau.
+    un canó i va causar una enorme allau.
 - id: 11354
   text: Mulan descoberta
 - id: 11355
   text: >-
-    Quan el capità Shang descobreix que Mulan
+    Quan el capità Shang descobreix que la
 
-    és una dona, l'expulsa de l'exèrcit.
+    Mulan és una dona, l'expulsa de l'exèrcit.
 - id: 11356
   text: La més valenta de la Xina
 - id: 11357
   text: >-
-    L'emperador va donar les gràcies a Mulan per
+    L'emperador va donar les gràcies a Mulan
 
-    derrotar Shan Yu i salvar la Xina.
+    per derrotar Shan Yu i salvar la Xina.
 - id: 11358
   text: Un home de negre
 - id: 11359
@@ -6947,22 +6957,22 @@
   text: Chicken Little
 - id: 11507
   text: >-
-    Chicken Little és bastant més
+    En Chicken Little és bastant més
 
-    valent que molts nois
+    valent que molts nois el doble
 
-    el doble d'alts que ell.
+    d'alts que ell.
 
-    Mai rebutja un repte, per
+    Mai rebutja un repte, per gros
 
-    gros que sigui.
+    que sigui.
 
 
     És un fidel amic d'en Sora.
 
-    Sempre que el cridi,
+    Sempre que el cridi, vindrà
 
-    vindrà a ajudar-lo immediatament.
+    a ajudar-lo immediatament.
 - id: 11512
   text: Pete
 - id: 11513
@@ -7057,19 +7067,19 @@
     tingut, d'aventures!
 
 
-    Recordareu que jo també soc
+    Recordareu que jo també soc la
 
-    la consciència oficial del meu amic
+    consciència oficial del meu amic
 
-    Pinotxo i, quan puc,
+    Pinotxo i, quan puc, li dono un cop
 
-    li dono un cop de mà. Intento ajudar-lo a
+    de mà. Intento ajudar-lo a seguir el
 
-    seguir el camí correcte i distingir
+    camí correcte i distingir el bé del
 
-    el bé del mal. De vegades és vailet
+    mal. De vegades és vailet molt
 
-    molt entremaliat.
+    entremaliat.
 - id: 11520
   text: El rei Mickey
 - id: 11521
@@ -7735,9 +7745,9 @@
     que la seva vida és tot un enigma.
 
 
-    Busca en Sephiroth, ja que és
+    Cerca en Sephiroth, ja que és la
 
-    la clau per acabar amb la seva foscor
+    clau per acabar amb la seva foscor
 
     interior d'una vegada per totes.
 - id: 11584
@@ -7826,9 +7836,9 @@
   text: Yuna
 - id: 11593
   text: >-
-    Membre d'un trio únic
+    Membre d'un trio únic de noies
 
-    de noies joves inseparables.
+    joves inseparables.
 
 
     Buscaven en Léon,
@@ -7838,23 +7848,23 @@
   text: Rikku
 - id: 11595
   text: >-
-    Membre d'un trio únic
+    Membre d'un trio únic de noies
 
-    de noies joves amables.
+    joves amables.
 
 
     Sembla que les tres han
 
-    estat contractades per dur
+    estat contractades per dur a
 
-    a terme una missió... Què deu ser?
+    terme una missió... Què deu ser?
 - id: 11596
   text: Paine
 - id: 11597
   text: >-
-    Membre d'un trio únic
+    Membre d'un trio únic de noies
 
-    de noies joves inseparables.
+    joves inseparables.
 
 
     Diuen que venen en to de pau...
@@ -7928,18 +7938,18 @@
   text: Bèstia
 - id: 11605
   text: >-
-    Una horrible bèstia amb dents
+    Una horrible bèstia amb dents i urpes
 
-    i urpes afilades. La seva possessió més preuada
+    afilades. La seva possessió més preada
 
     és una misteriosa rosa, conservada
 
     en una campana de vidre.
 
 
-    Una vegada, en Sora i els seus amics el
+    Una vegada, en Sora i els seus amics
 
-    van ajudar a rescatar la Bella
+    el van ajudar a rescatar la Bella
 
     de les urpes de la Malèfica.
 - id: 11606
@@ -7950,9 +7960,9 @@
 
     castigar-lo per l'egoisme del seu
 
-    cor, una bruixa
+    cor, una bruixa el va convertir
 
-    el va convertir en una bèstia.
+    en una bèstia.
 
 
     Estava tan avergonyit de la seva
@@ -7961,9 +7971,9 @@
 
     al seu castell.
 
-    Conèixer la Bella va suavitzar el seu
+    Conèixer la Bella va suavitzar el
 
-    cor i li va donar esperança.
+    seu cor i li va donar esperança.
 - id: 11608
   text: Bèstia
 - id: 11609
@@ -7979,94 +7989,94 @@
 
     L'encanteri només es trencarà si
 
-    aprèn a estimar i aconsegueix que algú
+    aprèn a estimar i aconsegueix que
 
-    l'estimi abans que
+    algú l'estimi abans que caigui
 
-    caigui l'últim pètal de la rosa encantada.
+    l'últim pètal de la rosa encantada.
 
 
-    Quan va conèixer la Bella, per
+    Quan va conèixer la Bella, per primer
 
-    primera vegada a la seva vida va sentir que
+    cop a la seva vida va sentir que
 
     alguna cosa havia canviat dins seu.
 - id: 11610
   text: Bella
 - id: 11611
   text: >-
-    Aquesta jove fou presonera
+    Aquesta jove fou presonera al
 
-    al castell de la Bèstia. Al principi
+    castell de la Bèstia. Al principi
 
-    ella el temia, però a poc a poc,
+    ella el temia, però a poc a poc, va
 
-    va comprendre que rere la seva aparença
+    comprendre que rere la seva aparença
 
-    feroç s'amagava un
-
-    cor ferit.
+    feroç s'amagava un cor ferit.
 
 
     La Bella és una de les Set
 
-    Princeses necessàries per
+    Princeses necessàries per obrir
 
-    obrir l'última porta al Regne de
+    l'última porta al Regne de la
 
-    la Foscor. Quan fou segrestada
+    Foscor. Quan fou segrestada pels
 
-    pels sensecor, el Sora i la Bèstia
+    sensecor, el Sora i la Bèstia la
 
-    la van rescatar i ella els està
+    van rescatar i ella els està
 
     enormement agraïda.
 - id: 11612
   text: Bella
 - id: 11613
   text: >-
-    La Bella va aconseguir veure més enllà de
+    La Bella va aconseguir veure més
 
-    l'aparença ferotge de la Bèstia i el va ajudar a
+    enllà de l'aparença ferotge de la
 
-    compartir els sentiments del seu
+    Bèstia i el va ajudar a compartir
 
-    cor, que havia amagat
+    els sentiments del seu cor, que
 
-    durant tant de temps. A la
+    havia amagat durant tant de temps.
 
 
-    Bella li encanten els llibres que
+    A la Bella li encanten els llibres
 
-    relaten aventures emocionants
+    que relaten aventures emocionants
 
     en indrets remots.
 - id: 11614
   text: Din Don
 - id: 11615
   text: >-
-    El majordom de la Bèstia. Quan
+    El majordom de la Bèstia. Quan la
 
-    la fetillera va encantar tothom al
+    fetillera va encantar tothom al
 
-    castell, el va convertir en un rellotge.
+    castell, el va convertir en un
 
-    Serà perquè el Din Don és
+    rellotge.
+    
+    Serà perquè el Din Don és tan
 
-    tan picallós pel que fa a l'ordre
+    picallós pel que fa a l'ordre
 
     i la puntualitat?
 - id: 11616
   text: Lumiere
 - id: 11617
   text: >-
-    És el maître del castell. Quan
+    És el maître del castell. Quan la
 
-    la fetillera va encantar tothom,
+    fetillera va encantar tothom, a ell
 
-    a ell el va convertir en un canelobre.
+    el va convertir en un canelobre.
 
-    El Lumiere és eloqüent i
+    En Lumiere és eloqüent i
 
     resulta encantador.
 - id: 11618
@@ -8081,25 +8091,23 @@
 
     La Sra. Potts sempre està
 
-    disposada a reconfortar el teu cor
+    disposada a reconfortar el teu
 
-    amb una fumejant tassa de te.
+    cor amb una fumejant tassa de te.
 - id: 11620
   text: Xip
 - id: 11621
   text: >-
-    El fillet de la senyora Potts. Per obra
+    El fillet de la senyora Potts.
 
-    de la fetillera, el Xip
+    Per obra de la fetillera, el Xip
 
     es va convertir en una tassa de te.
 
 
-    Li faltava una dent
+    Li faltava una dent i per això
 
-    i per això la tassa té un petit
-
-    escantell.
+    la tassa té un petit escantell.
 - id: 11622
   text: Armari
 - id: 11623
@@ -8115,9 +8123,9 @@
   text: >-
     El núm. {III} de l'Organització {XIII}.
 
-    Els seus estratagemes han corromput el
+    Els seus estratagemes han corromput
 
-    cor de la Bèstia.
+    el cor de la Bèstia.
 
 
     Els motius de l'Organització
@@ -8129,20 +8137,20 @@
   text: Sora
 - id: 11627
   text: >-
-    L'heroi escollit per la
+    L'heroi escollit per la clau
 
-    clau espasa continua el seu viatge
+    espasa continua el seu viatge
 
-    a la recerca del Riku. No
+    a la recerca del Riku.
 
 
-    fa gaire, ell i Hèrcules
+    No fa gaire, ell i l'Hèrcules
 
     van posar fi als plans de l'Hades
 
-    per dominar el món. El Fil l'ha
+    per dominar el món. En Fil l'ha
 
-    anomenat “Aprenent d'Heroi”.
+    anomenat «Aprenent d'Heroi».
 - id: 11628
   text: Ànec Donald
 - id: 11629
@@ -8151,22 +8159,22 @@
 
     En una carta, el rei els va dir al
 
-    Goofy i a ell que havien de “seguir
+    Goofy i ell que havien de «seguir
 
-    a l'escollit de la clau espasa”.
+    l'escollit de la clau espasa».
 
     De llavors ençà, recorren els
 
-    mons juntament amb el Sora.
+    mons juntament amb en Sora.
 
 
-    En el passat, van
+    En el passat, van ajudar l'Hèrcules
 
-    ajudar l'Hèrcules a evitar que l'Hades controlés el
+    a evitar que l'Hades controlés el
 
     món. El Fil l'ha anomenat
 
-    “Aprenent d'Heroi”.
+    «Aprenent d'Heroi».
 - id: 11630
   text: Goofy
 - id: 11631
@@ -8175,22 +8183,22 @@
 
     En una carta, el Rei els va dir al
 
-    Donald i a ell que havien de “seguir
+    Donald i a ell que havien de «seguir
 
-    a l'escollit de la clau espasa”.
+    l'escollit de la clau espasa».
 
     De llavors ençà, recorren els
 
     mons juntament amb el Sora.
 
 
-    En el passat, van
+    En el passat, van ajudar l'Hèrcules
 
-    ajudar l'Hèrcules a evitar que l'Hades controlés el
+    a evitar que l'Hades controlés el
 
     món. El Fil l'ha anomenat
 
-    “Aprenent d'Heroi”.
+    «Aprenent d'Heroi».
 - id: 11632
   text: Hèrcules
 - id: 11633
@@ -8205,9 +8213,9 @@
 
     ell no és un déu. En el passat,
 
-    uní forces amb Sora i
+    uní forces amb Sora i els
 
-    els seus amics per evitar que
+    seus amics per evitar que
 
     l'Hades s'apoderés del món.
 
@@ -8216,9 +8224,9 @@
 
     una multitud omple les grades
 
-    i ell mai els decep. Mai
+    i ell mai els decep. Mai ha
 
-    ha perdut un combat.
+    perdut un combat.
 - id: 11634
   text: Hèrcules
 - id: 11635
@@ -8242,24 +8250,24 @@
   text: Filoctetes
 - id: 11637
   text: >-
-    Fil, per als amics. És un
+    Fil, per als amics. És un veterà
 
-    veterà entrenador d'herois
+    entrenador d'herois i el mentor
 
-    i el mentor de l'Hèrcules. També
+    de l'Hèrcules. També ha entrenat
 
-    ha entrenat en Sora i els seus amics
+    en Sora i els seus amics durant
 
-    durant les primeres aventures
+    les primeres aventures amb el
 
-    amb el gran heroi. El Fil
+    gran heroi.
 
 
-    ha estat molt ocupat últimament.
+    El Fil ha estat molt ocupat últimament.
 
-    Està a càrrec del Coliseu
+    Està a càrrec del Coliseu i avalua
 
-    i avalua els concursants dels tornejos.
+    els concursants dels tornejos.
 - id: 11638
   text: Mègara
 - id: 11639
@@ -8268,9 +8276,9 @@
 
     enginyosa i una veritable amiga
 
-    de l'Hèrcules. Des que el va conèixer, la
+    de l'Hèrcules. Des que el va conèixer,
 
-    Meg és més oberta i ha après
+    la Meg és més oberta i ha après
 
     a confiar en els altres.
 
@@ -8294,11 +8302,11 @@
 
     fidel company de l'Hèrcules.
 
-    El Zeus va crear el Pegàs a partir d'un núvol
+    El Zeus va crear el Pegàs a partir
 
-    i el va obsequiar a l'Hèrcules quan
+    d'un núvol i el va obsequiar a
 
-    encara era un nadó.
+    l'Hèrcules quan encara era un nadó.
 
 
     Van estar separats durant uns anys,
@@ -8308,20 +8316,20 @@
   text: Auron
 - id: 11643
   text: >-
-    Un guerrer que l'Hades ha
+    Un guerrer que l'Hades va
 
     fet portar des de l'Inframon.
 
 
     A canvi de la seva llibertat, l'Auron
 
-    va rebre l'ordre de derrotar l'Hèrcules,
+    va rebre l'ordre de derrotar
 
-    però es va negar a ajudar l'Hades.
+    l'Hèrcules, però s'hi va negar.
 
-    Les seves “enigmàtiques paraules foren
+    Les seves enigmàtiques paraules foren:
 
-    : “Aquesta és la meva història”.
+    «Aquesta és la meva història».
 
 
     No li agrada parlar de si mateix.
@@ -8333,18 +8341,18 @@
   text: >-
     És un dels lacais de l'Hades.
 
-    El Dolor va intentar atacar l'Hèrcules
+    En Dolor va intentar atacar l'Hèrcules
 
     quan era només un nadó, però l'heroi
 
     es va defensar estomacant-lo de valent.
 
 
-    El Dolor pot canviar
+    El Dolor pot canviar de forma
 
-    de forma a voluntat, però és una
+    a voluntat, però és una mica
 
-    mica eixelebrat. Mai s'allunya del
+    eixelebrat. Mai s'allunya del
 
     seu malvat company Pànic.
 - id: 11646
@@ -8353,18 +8361,18 @@
   text: >-
     És un dels lacais de l'Hades.
 
-    El Pànic va intentar atacar l'Hèrcules
+    En Pànic va intentar atacar l'Hèrcules
 
     quan era només un nadó, però l'heroi
 
     es va defensar estomacant-lo de valent.
 
 
-    El Pànic pot canviar
+    En Pànic pot canviar de forma
 
-    de forma a voluntat, però és una
+    a voluntat, però és una mica
 
-    mica eixelebrat. Mai s'allunya del
+    eixelebrat. Mai s'allunya del
 
     seu malvat company Dolor.
 - id: 11648
@@ -8374,15 +8382,15 @@
     És el Senyor de l'Inframon.
 
 
-    L'última vegada que el Sora i els seus
+    L'última vegada que el Sora i els
 
-    amics es van creuar amb ell, va intentar
+    seus amics es van creuar amb ell, va
 
-    dominar el món utilitzant els
+    intentar dominar el món utilitzant
 
-    sensecor, però els tres amics
+    els sensecor, però els tres amics i
 
-    i l'Hèrcules van posar fi als seus plans.
+    l'Hèrcules van posar fi als seus plans.
 
     No obstant això, l'Hades sempre serà
 
@@ -8397,20 +8405,20 @@
   text: >-
     És el guardià de l'entrada a
 
-    l'Inframon i la lleial mascota de
+    l'Inframon i la lleial mascota
 
-    l'Hades.
+    de l'Hades.
 
 
-    L'última vegada, l'Hèrcules, el Sora,
+    L'última vegada, l'Hèrcules,
 
-    el Donald i el Goofy s'uniren i el
+    el Sora, el Donald i el Goofy
 
-    derrotaren, però l'Hades el va fer
+    s'uniren i el derrotaren, però
 
-    tornar i ara el ca té
+    l'Hades el va fer tornar i ara
 
-    set de venjança.
+    el ca té set de venjança.
 - id: 11652
   text: L'Hidra
 - id: 11653
@@ -8433,16 +8441,16 @@
     El núm. {IX} de l'Organització {XIII}.
 
 
-    Mentre rondava pel món
+    Mentre rondava pel món de l'Hèrcules,
 
-    de l'Hèrcules, va robar la Pedra de
+    va robar la Pedra de l'Olimp.
 
-    l'Olimp. Lluita de manera lamentable.
+    Lluita de manera lamentable.
 
 
-    Quan el Demyx va interpel・lar el Sora,
+    Quan el Demyx va interpel・lar el
 
-    el va anomenar «Roxas».
+    Sora, el va anomenar «Roxas».
 - id: 11658
   text: Sora
 - id: 11659
@@ -8815,62 +8823,62 @@
     de l'Exèrcit Imperial.
 
 
-    El Capità Shang ha
+    El Capità Shang ha d'entrenar
 
-    d'entrenar un grup desigual de reclutes
+    un grup desigual de reclutes
 
-    que han estat cridats
+    que han estat cridats per
 
-    per lluitar contra els huns. És
+    lluitar contra els huns. És
 
-    molt disciplinat
+    molt disciplinat i exigeix
 
-    i exigeix un treball dur a les seves
+    un treball dur a les seves
 
     tropes inexpertes.
 - id: 11696
   text: Yao
 - id: 11697
   text: >-
-    És un dels reclutes
+    És un dels reclutes allistats
 
-    allistats per defensar la Xina
+    per defensar la Xina de la
 
-    de la invasió dels huns.
+    invasió dels huns.
 
 
     El Yao és un tipus baixet que
 
-    sol presumir de ser
+    sol presumir de ser més
 
-    més fort que ningú.
+    fort que ningú.
 - id: 11698
   text: Chien Po
 - id: 11699
   text: >-
-    És un dels reclutes
+    És un dels reclutes allistats
 
-    allistats per defensar la Xina
+    per defensar la Xina de la
 
-    de la invasió dels huns. Al
+    invasió dels huns.
 
 
-    Chien Po li encanta el bon menjar
+    A en Chien Po li encanta el bon
 
-    i probablement somia més amb
+    menjar i probablement somia més
 
-    viandes que
+    amb viandes que amb rebre honors
 
-    amb rebre honors o anar d'aventura.
+    o anar d'aventura.
 - id: 11700
   text: Ling
 - id: 11701
   text: >-
-    És un dels reclutes
+    És un dels reclute sallistats
 
-    allistats per defensar la Xina
+    per defensar la Xina de la
 
-    de la invasió dels huns.
+    invasió dels huns.
 
 
     El que més li agrada és
@@ -8985,22 +8993,22 @@
   text: Winnie the Pooh
 - id: 11715
   text: >-
-    En Pooh, pels amics. És un
+    En Pooh, per als amics. És un
 
-    os simpàtic que viu al
+    os simpàtic que viu al Bosc
 
-    Bosc dels Cent Acres.
+    dels Cent Acres.
 
     Li encanta menjar i venera
 
     la mel.
 
 
-    En Pooh li agrada fer exercici
+    A en Pooh li agrada fer exercici
 
-    cada matí, perquè diu
+    cada matí, perquè diu que
 
-    que li desperta la fam.
+    li desperta la fam.
 - id: 11718
   text: Tigger
 - id: 11719
@@ -9389,27 +9397,27 @@
     temps en una gran batalla.
 
 
-    En un dels seus viatges anteriors,
+    En un dels seus viatges anteriors, quan
 
-    quan l'Úrsula va intentar apoderar-se
+    l'Úrsula va intentar apoderar-se del
 
-    del trident, el Sora va defensar l'Atlàntica.
+    trident, el Sora va defensar l'Atlàntica.
 - id: 11770
   text: Ànec Donald
 - id: 11771
   text: >-
-    El Mag de la Cort recorre els
+    El Mag de la Cort recorre els mons
 
-    mons a la recerca de pistes sobre la ubicació
+    a la recerca de pistes sobre la
 
-    del rei Mickey.
+    ubicació del rei Mickey.
 
 
     En els seus viatges anteriors, el Donald
 
-    i els seus amics van ajudar a defensar l'
+    i la colla van ajudar a defensar l'Atlàntica
 
-    Atlàntica de l'Úrsula, la Bruixa del Mar.
+    de l'Úrsula, la Bruixa del Mar.
 - id: 11772
   text: Goofy
 - id: 11773
@@ -9688,16 +9696,16 @@
 
     una carta que el rei havia deixat just
 
-    abans de desaparèixer. Va ser
+    abans de desaparèixer. Va ser llavors
 
-    llavors quan el Donald va emprendre aquest llarg
+    quan en Donald va emprendre aquest
 
-    viatge.
+    llarg viatge.
 
 
-    El seu desig més gran és
+    El seu desig més gran és retrobar-se
 
-    retrobar-se amb el rei i tornar plegats
+    amb el rei i tornar plegats
 
     al Castell Disney.
 - id: 11800
@@ -9711,16 +9719,16 @@
 
     una carta que el rei havia deixat just
 
-    abans de desaparèixer. Va ser
+    abans de desaparèixer. Va ser llavors
 
-    llavors quan el Goofy va emprendre aquest llarg
+    quan en Goofy va emprendre aquest
 
-    viatge.
+    llarg viatge.
 
 
-    El seu desig més gran és
+    El seu desig més gran és retrobar-se
 
-    retrobar-se amb el rei i tornar plegats
+    amb el rei i tornar plegats
 
     al Castell Disney.
 - id: 11802
@@ -9732,11 +9740,11 @@
 
     En absència del Mickey, és ella
 
-    qui regna. Ella em va demanar
+    qui regna. Ella em va demanar que
 
-    que acompanyés el Donald i el Goofy com a Cronista
+    acompanyés el Donald i el Goofy
 
-    Reial.
+    com a Cronista Reial.
 
     La reina Minnie està molt preocupada
 
@@ -9754,9 +9762,9 @@
     la companya del Donald.
 
 
-    Està ajudant la reina Minnie
+    Està ajudant la reina Minnie a
 
-    a gestionar els assumptes del castell
+    gestionar els assumptes del castell
 
     mentre els cavallers són fora.
 - id: 11806
@@ -9767,50 +9775,50 @@
 
     del regne. Ajuda a mantenir la nau
 
-    gumi perque pugui viatjar a qualsevol
+    gumi perque pugui viatjar a
 
-    destinació.
+    qualsevol destinació.
 
     És diligent i acaba
 
     tot el que comença.
 
 
-    El Xip és gairebé idèntic al seu amic
+    El Xip és gairebé idèntic al seu
 
-    Xop, però es distingeixen
+    amic Xop, però es distingeixen
 
-    pel color del nas i la
+    pel color del nas i la forma
 
-    forma de les dents frontals.
+    de les dents frontals.
 - id: 11808
   text: Xop
 - id: 11809
   text: >-
     Un dels especialistes en mecànica
 
-    del regne. Ajuda a mantenir
+    del regne. Ajuda a mantenir la nau
 
-    la nau gumi, perque pugui viatjar a qualsevol
+    gumi, perque pugui viatjar a
 
-    destinació.
+    qualsevol destinació.
 
     El Xop és molt impulsiu, però
 
     meticulós i consistant a
 
-    l'hora d'acabar
+    l'hora d'acabar treballs
 
-    treballs importants
+    importants.
 
 
-    . El Xop és gairebé idèntic al seu amic
+    El Xop és gairebé idèntic al seu
 
-    Xip, però es distingeixen
+    amic Xip, però es distingeixen
 
-    pel color del nas i la
+    pel color del nas i la forma
 
-    forma de les dents frontals.
+    de les dents frontals.
 - id: 11810
   text: Escombres
 - id: 11811
@@ -9837,9 +9845,9 @@
     recerca del Riku i el rei.
 
 
-    Per alliberar el Castell Disney d'
+    Per alliberar el Castell Disney
 
-    una invasió d'esbarzers, el Sora
+    d'una invasió d'esbarzers, el Sora
 
     va travessar una porta creada pel
 
@@ -9853,15 +9861,15 @@
     El Mag de la Cort.
 
 
-    Per salvar el Castell Disney,
+    Per salvar el Castell Disney, en
 
-    el Donald va creuar una porta que
+    Donald va creuar una porta que en
 
-    el Merlí va fer aparèixer i va arribar a
+    Merlí va fer aparèixer i va arribar
 
-    un món en blanc i negre
+    a un món en blanc i negre li
 
-    que li resultava estranyament familiar.
+    resultava estranyament familiar.
 - id: 11816
   text: Goofy
 - id: 11817
@@ -9875,9 +9883,9 @@
 
     Merlí va fer aparèixer i va arribar a
 
-    un món en blanc i negre
+    un món en blanc i negre que li
 
-    que li resultava estranyament familiar.
+    resultava estranyament familiar.
 - id: 11818
   text: Pete
 - id: 11819
@@ -10492,43 +10500,44 @@
   text: Ànec Donald
 - id: 11883
   text: >-
-    El Mag de la Cort va sortir
+    El Mag de la Cort va sortir del
 
-    del Castell Disney a la recerca del
+    Castell Disney a la recerca del
 
     rei Mickey.
 
 
-    El Donald va intentar utilitzar l'ordinador
+    En Donald va intentar utilitzar
 
-    de l'Ansem per trobar el rei, però la
+    l'ordinador de l'Ansem per trobar
 
-    seva impaciència va fer que el PCM
+    el rei, però la seva impaciència va
 
-    transportés els tres amics
+    fer que el PCM transportés els tres
 
-    a un món dins del sistema
+    amics a un món dins el sistema
 
     informàtic.
 - id: 11884
   text: Goofy
 - id: 11885
   text: >-
-    El Capità dels Cavallers Reials va sortir
+    El Capità dels Cavallers Reials va
 
-    del Castell Disney a la recerca del
+    sortir del Castell Disney a la recerca
 
-    rei Mickey.
+    del rei Mickey.
 
-    El Goofy va intentar utilitzar l'ordinador
 
-    de l'Ansem per trobar el rei, però la
+    En Goofy va intentar utilitzar
 
-    seva impaciència va fer que el PCM
+    l'ordinador de l'Ansem per trobar
 
-    transportés els tres amics
+    el rei, però la seva impaciència va
 
-    a un món dins del sistema
+    fer que el PCM transportés els tres
+
+    amics a un món dins el sistema
 
     informàtic.
 - id: 11886
@@ -10537,7 +10546,9 @@
   text: >-
     És un programa de seguretat creat
 
-    per un usuari amb l'objectiu de vigilar el PCM.
+    per un usuari amb l'objectiu de
+
+    vigilar el PCM.
 
 
     El Tron és molt eficient i farà
@@ -10549,15 +10560,15 @@
   text: >-
     Aquest potent programa no
 
-    respon a cap usuari,
+    respon a cap usuari, només
 
-    només al PCM.
+    al PCM.
 
-    El comandant Sark és bastant
+    El comandant Sark és bastant sever
 
-    sever amb qualsevol programa
+    amb qualsevol programa que provi
 
-    que provi de resistir el poder del seu amo.
+    de resistir el poder del seu amo.
 - id: 11890
   text: PCM
 - id: 11891
@@ -10571,17 +10582,15 @@
 
     En lloc de treballar per als
 
-    usuaris, el PCM està
+    usuaris, el PCM està planejant
 
-    planejant controlar ell mateix
+    controlar ell mateix el sistema.
 
-    el sistema. Es
+    Es nega a executar les ordres
 
-    nega a executar les
+    dels usuaris, intenta dur a
 
-    ordres dels usuaris,
-
-    intenta dur a terme el seu pla malvat i està
+    terme el seu pla malvat i està
 
     sembrant el caos entre els
 
@@ -10838,22 +10847,20 @@
   text: >-
     Acostuma a bloquejar els atacs
 
-    frontals. Intenta utilitzar combinacions
+    frontals. Intenta utilitzar combos
 
     des de l'esquena i acaba amb
 
     Audàcia.
 
 
-    Quan està enfurismat,
+    Quan està enfurismat, envesteix
 
-    envesteix repetidament. Aprofita-te'n
+    repetidament. Aprofita-te'n i
 
-    i utilitza les ordres de
+    utilitza les ordres de reacció.
 
-    reacció. I finalment,
-
-    prova amb Contra!
+    I finalment, prova amb Contra!
 - id: 11938
   text: Roca platejada
 - id: 11939
@@ -10936,9 +10943,9 @@
   text: >-
     Té dues cares, i ambdues
 
-    requereixen
+    requereixen estratègies de
 
-    estratègies de combat diferents.
+    combat diferents.
 
 
     Si està en l'aire, acosta't
@@ -10974,16 +10981,14 @@
   text: >-
     Acostuma a voletejar per la zona,
 
-    a l'aguait. Quan es
+    a l'aguait. Quan es llenci en picat,
 
-    llenci en picat, utilitza Esgarip per atrapar-lo
+    utilitza Esgarip per atrapar-lo i
 
-    i atacar els enemics
-
-    propers amb ell.
+    atacar-hi els enemics propers.
 
 
-    Després d'aquest atac, usa combinacions
+    Després d'aquest atac, usa combos
 
     aèries i remata'l.
 - id: 11952
@@ -11145,15 +11150,15 @@
     descobrir-lo amb la guàrdia baixa.
 
 
-    Si té poca VT, la llança
+    Si té poca VT, la llança embogeix.
 
-    embogeix. Arrabassa-li amb
+    Arrabassa-li amb Roba llança i
 
-    Roba llança i utilitza-la per atacar.
+    utilitza-la per atacar.
 
-    Intenta que baixi la seva VT i
+    Intenta que baixi la seva VT i treu-li
 
-    treu-li la llança, et serà d'allò més útil.
+    la llança, et serà d'allò més útil.
 - id: 11970
   text: Estrella matutina
 - id: 11971
@@ -11232,11 +11237,11 @@
   text: Gàrgola pètria
 - id: 11981
   text: >-
-    Sembla una estàtua
+    Sembla una estàtua ordinària,
 
-    ordinària, però de sobte
+    però de sobte es converteix
 
-    es converteix en un enemic molest.
+    en un enemic molest.
 
 
     És immune a la màgia i pot
@@ -11250,11 +11255,11 @@
   text: Gàrgola guerrera
 - id: 11983
   text: >-
-    Sembla una estàtua
+    Sembla una estàtua ordinària,
 
-    ordinària, però de sobte
+    però de sobte es converteix
 
-    es converteix en un enemic molest.
+    en un enemic molest.
 
 
     És immune a la màgia i pot
@@ -11265,11 +11270,9 @@
 
     i podràs utilitzar ordres de
 
-    reacció. Si ho fas en el
+    reacció. Si ho fas en el moment
 
-    moment adequat, venceràs
-
-    d'un sol cop.
+    adequat, venceràs d'un sol cop.
 - id: 11984
   text: Cavaller agosarat
 - id: 11985
@@ -11333,11 +11336,11 @@
   text: Centaure fatal
 - id: 11993
   text: >-
-    La seva llança és letal. Per vèncer-lo,
+    La seva llança és letal. Per
 
-    és convenient llançar atacs
+    vèncer-lo, és convenient llençar
 
-    prudents amb Salta.
+    atacs prudents amb Salta.
 
 
     Si té poca VT, es torna
@@ -11534,15 +11537,15 @@
   text: >-
     Roman en un lloc i dispara
 
-    llavors. Quan t'ataqui
+    llavors. Quan t'ataqui amb
 
-    amb les seves arrels, utilitza
+    les seves arrels, utilitza
 
     les ordres de reacció.
 
-    Amb Poda, pots
+    Amb Poda, pots arrencar-la
 
-    arrencar-la d'arrel i atacar els enemics
+    d'arrel i atacar els enemics
 
     propers simultàniament!
 - id: 12014
@@ -11633,13 +11636,13 @@
   text: >-
     Aquest sensecor va aparèixer al
 
-    castell de la Bèstia. Va prendre possessió
+    castell de la Bèstia. Va prendre
 
-    de la porta d'entrada a la
+    possessió de la porta d'entrada
 
-    masmorra, transformant-se en el
+    a la masmorra i es va transformar
 
-    sensecor anomenat Custodi.
+    en el sensecor anomenat Custodi.
 
 
     Tenia l'habilitat d'ocultar-se,
@@ -11662,9 +11665,9 @@
 
     la porta.
 
-    El poder de la clau espasa
+    El poder de la clau espasa va ser
 
-    va ser completament descarregat al pany
+    completament descarregat al pany
 
     que bloquejava amb els braços.
 - id: 12030
@@ -11678,11 +11681,11 @@
     castell de la Bèstia.
 
 
-    Apareixia
+    Apareixia, desapareixia i corria
 
-    , desapareixia i corria embogit. No fou una batalla fàcil
+    embogit. No fou una batalla fàcil
 
-    pel Sora i els seus amics.
+    per al Sora i els seus amics.
 - id: 12032
   text: Ombra sotjant
 - id: 12033
@@ -13043,18 +13046,18 @@
 
     En aquest regne, on tota l'existència
 
-    s'ha desintegrat, he aconseguit preservar el meu sentit d'identitat
+    s'ha desintegrat, he aconseguit preservar
 
-    a
+    el meu sentit d'identitat a través
 
-    través del pensament i l'escriptura.
+    del pensament i l'escriptura.
 
 
-    En aquest lloc, fins i tot el temps ha perdut
+    En aquest lloc, fins i tot el temps ha
 
-    el seu significat. Aquí l'eternitat és només
+    perdut el seu significat. Aquí l'eternitat
 
-    un moment.
+    és només un moment.
 
 
     He d'afanyar-me. Ben segur que
@@ -13111,40 +13114,39 @@
     fort és el que dona les ordres?
 
 
-    Si algú es desprengués del seu cos
+    Si algú es desprengués del seu cos i
 
-    i ànima i s'hi convertís, no seria
+    ànima i s'hi convertís, no seria capaç
 
-    capaç de controlar els que d'altra manera serien
+    de controlar els que d'altra manera
 
-    ingovernables sensecor?
+    serien ingovernables sensecor?
 
 
     A més, no estaria planejant fer
 
-     ús de l'instint d'aquestes criatures?
-
-    Si els cercadors de cors tinguessin
-
-    el punt de mira cap a un cor més gran i més
-
-    poderós, el seu objectiu final seria més clar
-
-    que l'aigua.
+    ús de l'instint d'aquestes criatures?
 
 
-    El cor més gran
+    Si els cercadors de cors tinguessin el
 
-    és el cor del món.
+    punt de mira cap a un cor més gran i més
+
+    poderós, el seu objectiu final seria més
+
+    clar que l'aigua.
 
 
-    Això no és més que una conjectura, però
+    El cor més gran és el del món.
 
-    sospito que els sensecor els està
 
-    utilitzant per buscar el camí que
+    Això no és més que una conjectura,
 
-    condueix al cor del món.
+    però sospito que els sensecor els
+
+    està utilitzant per buscar el camí
+
+    que condueix al cor del món.
 - id: 14061
   text: Informe Ànsem 6
 - id: 14062
@@ -14136,14 +14138,14 @@
 
     i només la seva cara és vulnerable.
 
-    Ataca-l'hi implacablement!
+    Ataca'l implacablement!
 
 
     Si t'atrapa amb el seu làser, utilitza
 
-    repetidament l'ordre de
+    repetidament l'ordre de reacció
 
-    reacció Raig invers per escapar.
+    Raig invers per escapar.
 
     Si ho aconsegueixes, una gran explosió
 
@@ -14166,9 +14168,9 @@
 
     amb els seus plans per dominar
 
-    tots els mons. També dona suport a
+    tots els mons. També dona suport
 
-    l'Hades i els seus sensecor.
+    a l'Hades i els seus sensecor.
 - id: 14758
   text: El fantasma de l'Scar
 - id: 14759
@@ -14408,11 +14410,11 @@
 
     A en Dèmyx se li havia ordenat
 
-    «alliberar la veritable naturalesa d'en
+    «alliberar la veritable naturalesa
 
-    Sora» mentre era
+    d'en Sora» mentre era al
 
-    al Coliseu de l'Olimp.
+    Coliseu de l'Olimp.
 - id: 14783
   text: Luxord
 - id: 14784
@@ -14593,9 +14595,9 @@
 
     És prou gran per portar-hi també
 
-    els instruments
+    els instruments que requereixen
 
-    que requereixen les seves entremaliadures.
+    les seves entremaliadures.
 - id: 17250
   text: Luxord
 - id: 17251
@@ -14699,37 +14701,35 @@
   text: Kairi
 - id: 17924
   text: >-
-    És l'amiga de la infància d'en Sora i
+    És l'amiga de la infància d'en Sora
 
-    una de les Set Princeses que
+    i una de les Set Princeses que
 
-    enllacen les claus i els
+    enllacen les claus i els panys.
 
-    panys.
+    No recordava res d'en Sora,
 
-    No recordava res d'en Sora, però com que ha
+    però com que ha recuperat els
 
-    recuperat els seus
-
-    records, l'únic que vol és
+    seus records, l'únic que vol és
 
     reunir-s'hi.
 
 
-    Després de caure per un estrany forat
+    Després de caure per un estrany
 
-    de foscor, va arribar a
+    forat de foscor, va arribar a
 
     Vila Crepuscle i es va fer amiga
 
     d'en Hayner, en Pence i l'Olette. 
 
-    Aviat, l'Axel la va segrestar. La
+    Aviat, l'Axel la va segrestar.
 
 
-    Kairi desitja amb tota la seva ànima
+    La Kairi desitja amb tota la seva
 
-    tornar a veure el seu amic Sora.
+    ànima tornar a veure el seu amic Sora.
 - id: 17943
   text: Saïx
 - id: 17944
@@ -14737,31 +14737,29 @@
     El núm. {VII} de l'Organització {XIII}.
 
 
-    Seguia els passos de 
+    Seguia els passos de l'Axel renegat,
 
-    l'Axel renegat, però, per alguna raó,
+    però, per alguna raó, semblava més
 
-    semblava més interessat en la seguretat
-
-    d'en Sora. En
+    interessat en la seguretat d'en Sora.
 
 
-    Saïx no té cor, però és
+    Saïx no té cor, però és un expert
 
-    un expert a fer mal al cor.
+    a fer mal al cor.
 
-    Sens dubte, la seva fredor amaga el seu
+    Sens dubte, la seva fredor amaga el
 
-    rostre més salvatge. Va insinuar
+    seu rostre més salvatge. Va insinuar
 
     que sabia quelcom d'en Riku.
 - id: 18041
   text: Xehanort
 - id: 18042
   text: >-
-    El que una vegada va ser aprenent de
+    El que una vegada va ser aprenent
 
-    l'Ànsem el Savi.
+    de l'Ànsem el Savi.
 
 
     Després de convertir-se en un
@@ -14775,11 +14773,11 @@
     el nom d'«Ansem», per descomptat.
 
 
-    Mentrestant, en Xemnas, el seu incorpori,
+    Mentrestant, en Xemnas, el seu
 
-    s'havia elevat al lideratge de
+    incorpori, s'havia elevat al
 
-    l'Organització {XIII}.
+    lideratge de l'Organització {XIII}.
 - id: 18246
   text: >-
     Necessitem més diners per anar a la platja.
@@ -16301,9 +16299,7 @@
 
     {:icon dynamic-dpad}: Mou cursor
 
-
-    {:icon dynamic-cross}: Tria/Deixa la peça
-    
+    {:icon dynamic-cross}: Tria/Posa la peça
 
     {:icon dynamic-circle}: Cancel・la
 
@@ -16328,9 +16324,7 @@
 
     {:icon dynamic-dpad}: Mou cursor
 
-
-    {:icon dynamic-cross}: Tria/Deixa la peça
-
+    {:icon dynamic-cross}: Tria/Posa la peça
 
     {:icon dynamic-circle}: Cancel・la
 
@@ -16348,7 +16342,7 @@
 
     {:unk0d }
 - id: 20689
-  text: Has aconseguit un objecte per completar el trencaclosques!
+  text: Has obtingut un objecte per enllestir el trencaclosques!
 - id: 20690
   text: >2-
 

@@ -657,7 +657,7 @@
   text: Simba, de què està parlant?
 - id: 8631
   text: >-
-    Vinga, digue'ls qui va ser el
+    Va, digue'ls qui va ser el
 
     responsable de la mort del Mufasa.
 - id: 8632
@@ -793,7 +793,7 @@
     menjar carronya per viure.
 - id: 8672
   text: >-
-    Vinga! No n'hi ha per a tant!{:delay 78 00}{:clear }A mi em va agradar aquell elefant
+    Au va! No n'hi ha per a tant!{:delay 78 00}{:clear }A mi em va agradar aquell elefant
 
     mort que ens vam menjar ahir.
 - id: 8673
@@ -1173,10 +1173,10 @@
 - id: 8793
   text: '... és un cor fort.'
 - id: 8794
-  text: Au, au, vinga! Som-hi doncs!{:delay 72 00}{:clear }{:delay AE 00}Vinga, fora! Sí, sí.
+  text: Au, au, va! Som-hi doncs!{:delay 72 00}{:clear }{:delay AE 00}Va, fora! Sí, sí.
 - id: 8795
   text: >-
-    És l'hora que reanudeu
+    És hora que reanudeu
 
     la vostra lluita!
 - id: 8796

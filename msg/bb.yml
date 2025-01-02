@@ -44,9 +44,9 @@
   text: >-
     Hauríeu de poder arribar al
 
-    soterrani pel {:theme 0A}corredor oest{:reset}.{:clear }Probablement estiguin tots
+    soterrani pel {:theme 0A}corredor oest{:reset}.{:clear }Probablement siguin tots
 
-    tancats abaix, en la masmorra.
+    tancats abaix, a la masmorra.
 - id: 3025
   text: >-
     La Bèstia és una persona de bon cor.
@@ -61,7 +61,7 @@
   text: >-
     Esperaré aquí.
 
-    Per favor, vagin a rescatar als altres!
+    Per favor, vagin a rescatar els altres!
 - id: 3028
   text: >-
     Busquen la Bella? Se n'ha
@@ -107,7 +107,7 @@
   text: Oh, això és horrible!{:clear }Em sembla que l'amo se'n va a la {:theme 0A}seva cambra{:reset}.
 - id: 3036
   text: >-
-    Llavors aquelles coses ens va
+    Llavors aquelles coses ens van
 
     atacar només per distreure'ns!?
 - id: 3037
@@ -121,9 +121,9 @@
   text: >-
     Sabíeu que el Din Don també
 
-    pot fer sonar la seva alarma?{:clear }És tan fort que
+    pot fer sonar la seva alarma?{:clear }Sona tan fort que
 
-    despertaria a qualsevol!
+    despertaria qualsevol!
 - id: 3039
   text: >-
     Sembla que totes les estàtues
@@ -131,7 +131,7 @@
     del castell s'han tornat dolentes.{:clear }Per favor, vagin amb compte.
 - id: 3040
   text: >-
-    Per favor, vagin a dalt {:theme 0A}i preguntin{:reset}
+    Per favor, vagin a dalt i {:theme 0A}preguntin{:reset}
 
     al Din Don pel passadís secret.
 - id: 3044
@@ -143,13 +143,13 @@
 - id: 3050
   text: Venç tots els incorporis!
 - id: 3066
-  text: Eh? Quin lloc és aquest?
+  text: Ei? Què és aquest lloc?
 - id: 3067
   text: És enorme!
 - id: 3068
   text: I una mica sinistre, no creieu?
 - id: 3069
-  text: Qui viurà aquí?
+  text: Qui hi deu viure?
 - id: 3070
   text: ''
 - id: 3071
@@ -171,19 +171,19 @@
 - id: 3079
   text: ''
 - id: 3080
-  text: Oh, vinga, ja n'hi ha prou.
+  text: Oh, au va, ja n'hi ha prou.
 - id: 3081
   text: Que algú ens ajudi!
 - id: 3082
   text: Just a temps!
 - id: 3083
   text: >-
-    Òndia! Creiue que s'ha
+    Òndia! Creieu que s'ha
 
     oblidat de nosaltres?
 - id: 3084
   text: >-
-    Amb tants sensecor lliure,
+    Amb tant sensecor lliure,
 
     alguna n'ha hagut de passar.
 - id: 3085
@@ -218,7 +218,7 @@
 - id: 3094
   text: Donald!
 - id: 3095
-  text: Oh! M'alegro tant que estiguis aquí!
+  text: Oh! M'alegro tant que siguis aquí!
 - id: 3096
   text: Donald!
 - id: 3097
@@ -226,7 +226,7 @@
 - id: 3098
   text: Com va?
 - id: 3099
-  text: Baixa'm! Baixaaaaaaa'm!
+  text: Baixa'm! Baixa'm!!!!!!
 - id: 3100
   text: Què puc fer?
 - id: 3101
@@ -239,9 +239,9 @@
   text: '{:unk13 A0 00 DC 00}{:unk08 01 01 06}On és la Bèstia?'
 - id: 3105
   text: >-
-    {:unk13 36 01 46 00}{:unk08 01 00 05}Pot ser que sigui en el ala oest.
+    {:unk13 36 01 46 00}{:unk08 01 00 05}Pot ser que sigui a l'ala oest.
 
-    Últimament no parlem molt.
+    Últimament no parlem gaire.
 - id: 3106
   text: '{:unk13 6D 00 8F 00}{:unk08 01 01 06}Que ha passat res?'
 - id: 3107
@@ -251,9 +251,9 @@
     aquí per això?
 - id: 3108
   text: >-
-    {:unk13 FA 00 32 00}{:unk08 01 00 05}No exactament. Però
+    {:unk13 FA 00 32 00}{:unk08 01 00 05}No exactament. Però podem
 
-    podem donar un cop de mà!
+    donar-hi un cop de mà!
 - id: 3109
   text: '{:unk13 0E 01 32 00}{:unk08 01 01 06}Ja que som aquí...'
 - id: 3110
@@ -273,7 +273,7 @@
   text: >-
     {:unk13 0E 01 3C 00}{:unk08 01 01 06}Un moment.
 
-    Qui ha tancat a qui?
+    Qui ha tancat qui?
 - id: 3114
   text: >-
     {:unk13 FA 00 2C 01}{:unk08 01 00 01}La Bèstia va tancar
@@ -360,7 +360,7 @@
   text: >-
     {:unk13 C8 00 36 00}{:unk08 01 01 06}I això és tot per ara.{:clear }Sentireu la resta quan
 
-    hagueu rescatat als altres.{:clear }Això els servirà
+    hagueu rescatat els altres.{:clear }Això els servirà
 
     d'incentiu.
 - id: 3137
@@ -387,10 +387,10 @@
   text: >-
     {:unk13 65 01 A9 00}{:unk08 01 01 05}Creieu que la masmorra
 
-    és darrere aquella porta?
+    és darrere aquesta porta?
 - id: 3145
   text: >-
-    {:unk13 8B 00 A7 00}{:unk08 01 01 06}Vinga, hem d'alliberar
+    {:unk13 8B 00 A7 00}{:unk08 01 01 06}Va, hem d'alliberar
 
     els servents!
 - id: 3146
@@ -398,12 +398,12 @@
 - id: 3147
   text: Aquí no hi ha ningú.
 - id: 3148
-  text: Llavors, no n'hi ha rescat?
+  text: Llavors, no hi ha ningú a rescatar?
 - id: 3149
   text: Algú ha dit «rescat»?
 - id: 3150
   text: >-
-    Sshh.{:delay 36 00}{:clear }Quiets.
+    Sshh.{:delay 36 00}{:clear }Silenci.
 
     Podrien ser els dolents.
 - id: 3151
@@ -423,7 +423,7 @@
 - id: 3158
   text: Jo... em dono corda sol, senyor.
 - id: 3159
-  text: M'alegro que estigueu bé.
+  text: M'alegro que esteu bé.
 - id: 3160
   text: >-
     Nosaltres sí que ens
@@ -462,7 +462,7 @@
   text: >-
     {:unk13 2C 01 46 00}{:unk08 01 01 06}L'amo no la deixà entrar.{:clear }La repudià pel seu...
 
-    ejem... aspecte humil.
+    ehem... aspecte humil.
 - id: 3169
   text: '{:unk13 90 01 FA 00}{:unk08 01 00 05}Què malvat!'
 - id: 3170
@@ -492,7 +492,7 @@
   text: >-
     {:unk13 DC 00 46 00}{:unk08 01 00 05}I després convertí el príncep
 
-    en una bèstia, per a que el seu
+    en una bèstia, perquè el seu
 
     aspecte fos tan horrible com el seu cor.
 - id: 3175
@@ -507,11 +507,11 @@
     Quina història.
 - id: 3177
   text: >-
-    {:unk13 FA 00 3C 00}{:unk08 01 00 05}Hi ha res que poguem
+    {:unk13 FA 00 3C 00}{:unk08 01 00 05}Hi ha res que puguem
 
     fer per ajudar?
 - id: 3178
-  text: '{:unk06 02}{:unk13 2C 01 96 00}{:unk08 03 00 05}Anem a per la fetillera!'
+  text: '{:unk06 02}{:unk13 2C 01 96 00}{:unk08 03 00 05}Anem per la fetillera!'
 - id: 3179
   text: '{:unk06 02}{:unk13 AA 00 78 00}{:unk08 03 00 05}Oh, no.'
 - id: 3180
@@ -542,7 +542,7 @@
   text: >-
     {:unk13 D2 00 3C 00}{:unk08 01 01 06}Si ells hi estan ficats,
 
-    és preferible que estem aquí.
+    és preferible que siguem aquí.
 - id: 3186
   text: >-
     {:unk13 96 00 96 00}{:unk08 01 01 06}Trobem
@@ -564,11 +564,11 @@
   text: '{:unk13 A0 00 D2 00}{:unk08 01 01 05}Endavant, per favor.'
 - id: 3192
   text: >-
-    {:unk13 A6 00 69 00}{:unk08 01 01 06}Bé, haig de revisar el
+    {:unk13 A6 00 69 00}{:unk08 01 01 06}Bé, haig de revisar el castell.
 
-    castell. Temo que la meva
+    Temo que la meva absència
 
-    absència hagi estat massa llarga.
+    hagi estat massa llarga.
 - id: 3193
   text: "{:unk13 B3 00 D0 00}{:unk08 01 01 06}Jo també haig d'anar-me'n, estimats."
 - id: 3194
@@ -597,11 +597,11 @@
   text: Només ella et mantindrà fort.
 - id: 3201
   text: >-
-    No és poder el que vull.
+    Ja en tinc prou, de força.
 
-    Ara només ansio...
+    Només ansio una cosa...
 - id: 3202
-  text: Què? Estimar i ser estimat a canvi?{:delay E6 00}{:clear }{:delay 3D 00}{:clear }Qui podria estimar una bèstia?
+  text: Què? Estimar i ser estimat a canvi?{:delay E6 00}{:clear }{:delay 3D 00}{:clear }Qui podria estimar mai una bèstia?
 - id: 3203
   text: Allà en tens els seus còmplices.
 - id: 3204
@@ -617,15 +617,15 @@
     com ho diria jo?... En realitat...
 - id: 3208
   text: >-
-    Et va enfurismar contra tots i
+    Et vas enfurismar contra tots
 
-    els vas tancar en un calabós!
+    i els vas tancar a un calabós!
 - id: 3209
-  text: Allò vaig fer?
+  text: Que vaig fer què?
 - id: 3210
-  text: '... Efectivament.'
+  text: 'Sí... ho vas fer.'
 - id: 3211
-  text: Qui era aquell tipus?{:delay 64 00}{:clear }{:delay 0A 00}{:clear }El de negre.
+  text: Qui era aquell tipus amb qui parlaves?{:delay 64 00}{:clear }{:delay 0A 00}{:clear }El de negre.
 - id: 3212
   text: >-
     Xaldin!{:delay 49 00}{:clear }{:delay 77 00}Així es diu.{:delay 62 00}{:clear }Va sorgir de la foscor...
@@ -645,7 +645,7 @@
   text: >-
     Òndia! Per això vas tancar tots
 
-    els teus amics en el calabós.
+    els teus amics al calabós.
 - id: 3216
   text: >-
     Volies estar segur que
@@ -655,7 +655,7 @@
   text: Espero que realment així fos...
 - id: 3218
   text: >-
-    És clar. Sabem que
+    I tant. Sabem que
 
     en el fons ets bo.
 - id: 3219
@@ -672,11 +672,11 @@
   text: Bella!
 - id: 3222
   text: >-
-    L'he tratada malament.
+    L'he tractada malament.
 
     Molt malament. I he sigut un egoista.
 - id: 3223
-  text: No ha dit res del tema.
+  text: No n'ha dit res, d'això.
 - id: 3224
   text: >-
     Ella mai en parlaria malament
@@ -692,7 +692,7 @@
 - id: 3227
   text: Però...
 - id: 3228
-  text: Res de peròs! Anirem tots amb tu.
+  text: Res de peròs! Vindrem tots amb tu.
 - id: 3229
   text: '{:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}Amo!'
 - id: 3230
@@ -718,7 +718,7 @@
     em fa cas!?
 - id: 3235
   text: >-
-    {:unk13 40 01 46 00}{:unk08 01 00 05}És tota un caràcter!{:clear }És el seu esperit el
+    {:unk13 40 01 46 00}{:unk08 01 00 05}És tot un caràcter!{:clear }És el seu esperit el
 
     que la fa tan especial.
 - id: 3236
@@ -731,7 +731,7 @@
   text: >-
     Bèstia! Socors!
 
-    Estic en el saló de ball!
+    Soc al saló de ball!
 - id: 3240
   text: Bella!
 - id: 3241
@@ -745,7 +745,7 @@
 - id: 3245
   text: Ens veiem!
 - id: 3246
-  text: Què busca aquell aquí?
+  text: Què busca aquest aquí?
 - id: 3247
   text: Deu ser de l'Organització {XIII}.
 - id: 3248
@@ -757,14 +757,14 @@
     es converteix en un sensecor,{:delay 83 00}{:clear }també es crea un incorpori.
 - id: 3250
   text: >-
-    A veure, l'Organització té el
+    T'explico, l'Organització té el
 
     control de tots els incorporis.
 - id: 3251
   text: >-
     Exacte.
 
-    Anaven a convertir-te en un sensecor.{:delay D8 00}{:clear }El seu objectiu era conseguir
+    Anaven a convertir-te en un sensecor.{:delay D8 00}{:clear }El seu objectiu era aconseguir
 
     un nou incorpori i controlar-lo.
 - id: 3252
@@ -777,16 +777,16 @@
   text: Perdona'm.
 - id: 3256
   text: >-
-    Sé que no erets tu mateix.
+    Sé que no eres tu mateix.
 
-    No has de disculpar-te.
+    No has de disculpar-te'n.
 - id: 3257
   text: >-
-    Però sí esperava...
+    Però sí que esperava...
 
     que haguéssis canviat una miqueta.
 - id: 3258
-  text: Tant de bo aprenguessis a confiar en mi.
+  text: Tant de bo comencessis a confiar en mi.
 - id: 3259
   text: >-
     Oh, em temo que
@@ -804,7 +804,7 @@
 
     Si l'amo aprèn a estimar i{:delay DC 00}{:clear }a guanyar-se l'amor d'algú abans
 
-    que caigui l'último pètal...
+    que caigui l'últim pètal...
 - id: 3264
   text: "... es desfarà l'encanteri."
 - id: 3265
@@ -815,7 +815,7 @@
 - id: 3266
   text: Si, hi confiem.
 - id: 3267
-  text: Ajiah. Em sembla que teniu raó.
+  text: Sip. Em sembla que teniu raó.
 - id: 3268
   text: Espero que així sigui.
 - id: 3269
@@ -1244,7 +1244,7 @@
 - id: 3403
   text: Endavant!
 - id: 3404
-  text: Vinga!
+  text: Va!
 - id: 3405
   text: Ànims, senyor!
 - id: 3406
@@ -1302,14 +1302,14 @@
   text: '{:unk13 C8 00 A0 00}{:unk08 01 01 06}Entesos.'
 - id: 7534
   text: >-
-    {:unk13 E6 00 5A 00}{:unk08 01 01 05}A veure...{:clear }Si la Bèstia és aquí en
+    {:unk13 E6 00 5A 00}{:unk08 01 01 05}A veure...{:clear }Si la Bèstia és aquí
 
-    el castell, aquella dona
+    al castell, aquella dona
 
     ha de ser la Bella, oi?
 - id: 7535
   text: >-
-    {:unk13 72 01 50 00}{:unk08 01 00 06}Sí, n'hauria.{:clear }I segur que ella sap què
+    {:unk13 72 01 50 00}{:unk08 01 00 06}Sí, hauria de ser-la.{:clear }I segur que ella sap què
 
     li passa a la Bèstia.
 - id: 7536
@@ -1325,7 +1325,7 @@
 
     tan fàcil.{:clear }Fixin-se, la porta que du
 
-    a l'altre costa està oculta
+    a l'altre costat és oculta
 
     per un dispositiu.
 - id: 7578
@@ -1355,7 +1355,7 @@
   text: >-
     {:unk13 B3 00 74 00}{:unk08 01 01 05}Han d'apagar la flama encantada
 
-    per a que jo pugui encendre
+    perquè jo pugui encendre
 
     els llums com Déu mana.
 - id: 7584
@@ -1381,7 +1381,7 @@
   text: >-
     Apropa't als fanals i utilitza l'ordre
 
-    de reacció Ruixar per apagar-los.
+    de reacció Ruixa per apagar-los.
 - id: 7589
   text: >-
     {:unk13 4A 01 B4 00}{:unk08 01 00 06}Només queden tres fanals!{:clear }Si treballem en equip,
@@ -1412,7 +1412,7 @@
   text: >-
     Ajuda el Din Don a recobrar forces
 
-    amb l'ordre de reacció Restablir.
+    amb l'ordre de reacció Restableix.
 - id: 7596
   text: "{:unk13 B4 00 78 00}{:unk08 01 01 06}D'acord! Intentem-ho!"
 - id: 7597
@@ -1553,7 +1553,7 @@
   text: >-
     Eh! Passa alguna cosa
 
-    especial en el castell avui?{:clear }La Bella està feliç i tots van
+    especial al castell avui?{:clear }La Bella està feliç i tots van
 
     ocupats preparant alguna cosa.
 - id: 15733
@@ -1705,14 +1705,14 @@
 
     L'amo torna a ser el mateix!{:clear }Ara hauríem de parlar {:theme 0A}amb la Bella{:reset}.
 
-    Vinga, anem a veure-la!
+    Au va, anem a veure-la!
 - id: 16865
   text: >-
     O sigui que això es el que ha passat. La cara
 
     de la Bella em deia que alguna cosa no anava bé.{:clear }Odio haver d'involucrar-los en això,
 
-    però, em fairen el favor {:theme 0A}de parlar amb l'amo{:reset}?
+    però, em farien el favor {:theme 0A}de parlar amb l'amo{:reset}?
 - id: 16960
   text: >-
     És difícil saber qui és la persona
@@ -1731,14 +1731,14 @@
   text: >-
     No hi ha qui passi per davant
 
-    d'aquelles armadures.
+    d'aquestes armadures.
 - id: 16965
   text: Les armadures ni s'immuten.
 - id: 16966
   text: >-
     No hi ha qui passi per davant
 
-    d'aquelles armadures.
+    d'aquestes armadures.
 - id: 16967
   text: Les armadures ni s'immuten.
 - id: 16968
@@ -1814,7 +1814,7 @@
     {:chardelay 09 00}A empènyer!
 - id: 19077
   text: >-
-    La ximeneia és impressionant.
+    La xemeneia és impressionant.
 
     Haurà costat una fortuna.
 - id: 19078
@@ -1856,11 +1856,11 @@
 - id: 20602
   text: Prem {:icon dynamic-triangle} per començar el duel! Fes-te amb els premis que deixa caure!
 - id: 21494
-  text: "{:delayandfade 07 F0} \nLa Bella confessa que la Bèstia es porta\nde forma estranya últimament i que ha tancat\nels seus servents en la masmorra del castell.\n \nEl grup s'afanya a alliberar-los, però es \ntopa amb una sorpresa en el seu camí... \nun armario parlant que resulta ser una\nsenyora sota l'efecte de un vil encís!\n"
+  text: "{:delayandfade 07 F0} \nLa Bella confessa que la Bèstia es porta\nde forma estranya últimament i que ha tancat\nels seus servents a la masmorra del castell.\n \nEl grup s'afanya a alliberar-los, però es \ntopa amb una sorpresa en el seu camí... \nun armari parlant que resulta ser una\nsenyora sota l'efecte de un vil encís!\n"
 - id: 21495
   text: "{:delayandfade 07 B4} \nLa senyora explica que també la Bèstia fou\nen el seu dia un humà, el príncep del castell.\n \nObtenir més respostes passa per alliberar\nels pobres servents encara reclusos en\nla masmorra, així que en Sora i els seus\namics segueixen endinsant-se en el castell.\n \n \n \n"
 - id: 21496
-  text: "{:delayandfade 07 C8} \nEl príncep, un noble consentit\ni gens amigable, va negar a una\npobre anciana refugi en el seu\ncastell en una nit de tempesta.\n \nPer desgràcia per a ell, l'anciana\nva resultar ser una bruixa, que\nper motiu de la seva fredor i egoisme,\nel va convertir en una horrible bèstia\ni també va encisar tots els seus servents.\n \n"
+  text: "{:delayandfade 07 C8} \nEl príncep, un noble consentit\ni gens amigable, va negar a una\npobre anciana refugi al seu\ncastell en una nit de tempesta.\n \nPer desgràcia per a ell, l'anciana\nva resultar ser una bruixa, que\nper motiu de la seva fredor i egoisme,\nel va convertir en una horrible bèstia\ni també va encisar tots els seus servents.\n \n"
 - id: 21497
   text: "{:delayandfade 07 B4} \nEn Sora i els altres aconsegueixen derrotar\nels seus enemics i protegir la Bella,\nallò tan preuat del que parlava\nel membre de l'Organització {XIII}...\nO això creuen ells.\n \nNo obstant, la Bèstia no reacciona\namb alegria, sinó que se'n va amb gran\ninquietud... Hi ha alguna cosa encara\nmés preuada per a ell, per ventura?\n"
 - id: 21498

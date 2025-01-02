@@ -30,9 +30,9 @@
   text: >-
     Estic segura que el Merlí
 
-    ens donarà un cop de mà.{:clear }Si us plau, aneu al Baluard Balmat
+    ens donarà un cop de mà.{:clear }Si us plau, aneu a Baluard Balmat
 
-    i explique-li el que passa aquí.
+    i expliqueu-li el que passa aquí.
 - id: 5353
   text: >-
     En aquell món, hi haurà
@@ -70,9 +70,9 @@
     el Saló de la Pedra Angular!
 - id: 5372
   text: >-
-    Estan creixent espines
+    Hi estan creixent
 
-    per tot arreu!
+    espines per tot arreu!
 - id: 5373
   text: >-
     Ai, rei Mickey, si poguessis sentir-me.{:delay BA 00}{:clear }El castell és en perill!
@@ -98,17 +98,17 @@
 - id: 5381
   text: Heu tornat!
 - id: 5382
-  text: Moveu-vos! Som-hi!
+  text: Moveu-vos! Va!
 - id: 5383
   text: La reina Minnie vol veure-us!
 - id: 5384
   text: >-
-    El castillo corre perill!
+    El castell corre perill!
 
     A la biblioteca! Ràpid!
 - id: 5385
   text: >-
-    Majestat! Reina Minnie!
+    Sa majestat! Reina Minnie!
 
     Hem tornat!
 - id: 5386
@@ -128,14 +128,14 @@
   text: Sora!
 - id: 5392
   text: >-
-    El rei m'ha parlat molt
+    El rei me n'ha parlat
 
-    de tu en les seves cartes.{:delay A8 00} {:clear }Diu que ets un jove molt valent.
+    molt a les seves cartes.{:delay A8 00} {:clear }Diu que ets un jove molt valent.
 - id: 5393
-  text: Sabeu on és?
+  text: I doncs, sabeu on és?
 - id: 5394
   text: >-
-    Majesta, què fan els
+    Sa majestat, què fan els
 
     sensecor en el vostre castell?
 - id: 5395
@@ -144,10 +144,13 @@
 
     aquells són els sensecor.
 - id: 5396
-  text: Ens n'encarregarem.
+  text: >-
+    No s'hi preocupi,
+
+    ens n'encarregarem.
 - id: 5397
   text: >-
-    Sé que puc comptar amb tu, Sora.{:delay B4 00}{:clear }Bé, hi ha una cosa que vull que veieu.{:delay DE 00}{:clear }Podeus escortar-me fins a
+    Sé que puc comptar amb tu, Sora.{:delay B4 00}{:clear }Bé, hi ha una cosa que vull que veieu.{:delay DE 00}{:clear }Podeu escortar-me fins a
 
     la sala d'audiències?
 - id: 5398
@@ -169,9 +172,9 @@
   text: Haurem de separar-nos, Donald.
 - id: 5404
   text: >-
-    Jo m'encarrego
+    Jo m'encarrego que
 
-    que tots se n'adonin.
+    tots se n'assabentin.
 - id: 5405
   text: No, Sora, et pots perdre!
 - id: 5406
@@ -187,7 +190,7 @@
   text: >-
     Mmm... a la sala
 
-    d'audiencias, oi?
+    d'audiències, oi?
 - id: 5410
   text: >-
     Sí, Sora.
@@ -226,7 +229,7 @@
   text: >-
     gràcies a la Pedra Angular de
 
-    Llum que guardem allà abaix.
+    Llum que guardem allà baix.
 - id: 5426
   text: La Pedra Angular... de Llum?
 - id: 5427
@@ -235,7 +238,7 @@
 
     Pedra Angular.{:delay FC 00}{:clear }Malgrat això...
 - id: 5428
-  text: Aquelles espines...
+  text: Aquestes espines...
 - id: 5429
   text: Em pregunto què vol dir això...
 - id: 5430
@@ -357,7 +360,7 @@
 
     comptar amb tu, Merlí!
 - id: 5467
-  text: Doncs anem a per ell!
+  text: Doncs hem de trobar-lo!
 - id: 5468
   text: Un moment!
 - id: 5469
@@ -374,11 +377,11 @@
     d'haver un altre portal idèntic a aquest.
 - id: 5471
   text: >-
-    Crec que els nostres enemics
+    Em sembla que els nostres enemics
 
     estan utilitzant aquell portal.{:delay FC 00}{:clear }Mentre segueixi obert,
 
-    el castell serà en perill.
+    el castell estarà en perill.
 - id: 5472
   text: >-
     Així que escolta'm bé, Sora.{:delay 72 00}{:clear }Has de trobar aquell portal i
@@ -418,14 +421,14 @@
   text: >-
     Fem un banquet
 
-    d'avellanas per celebrar-ho!
+    d'avellanes per celebrar-ho!
 - id: 5483
   text: Benvinguts a casa!
 - id: 5484
   text: >-
-    Gràcies al vostre valor, el castell està
+    Gràcies al vostre valor, el castell és
 
-    fora de perill i tornar a estar protegit.{:delay 0E 01}{:clear }Moltes gràcies per tot!
+    fora de perill i torna a estar protegit.{:delay 0E 01}{:clear }Moltes gràcies per tot!
 - id: 5485
   text: Bona feina, nois!
 - id: 5486
@@ -495,7 +498,7 @@
     Tornarem.
 - id: 5510
   text: >-
-    Si us plau, digueu-li al rei
+    Si us plau, digueu al rei
 
     que el seguim buscant.
 - id: 5511
@@ -619,19 +622,19 @@
   text: Veus una carta per a algú.
 - id: 16974
   text: >-
-    "El Castell Disney és protegit
+    «El Castell Disney està
 
-    per poders màgics."
+    protegit per poders màgics.»
 - id: 16975
   text: >-
-    "Des del seu tron, el rei
+    «Des del seu tron, el rei
 
-    vigila el saló tancat."
+    vigila el saló tancat.»
 - id: 16976
   text: >-
-    "Si la llum sagrada es perd, el
+    «Si la llum sagrada es perd, el
 
-    castell serà engolit per la foscor."
+    castell serà engolit per la foscor.»
 - id: 16977
   text: Serà aquest el rei?
 - id: 16978
@@ -646,7 +649,7 @@
 
     {:chardelay 09 00}¡Sí, mostra'm el camí!
 - id: 16981
-  text: És tancada amb un encanteri.
+  text: Està tancada amb un encanteri.
 - id: 16982
   text: Emet una estranya llum.
 - id: 16983

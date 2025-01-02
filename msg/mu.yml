@@ -9,9 +9,9 @@
     {:chardelay 0A 00}Necessito descansar més.
 - id: 4107
   text: >-
-    La missió és vigilar el sender al cime
+    La missió és vigilar la sendera al cim
 
-    per a que la nostra companyia pugui avançar.{:clear }He donat ordres que us permetin
+    perquè la nostra companyia pugui avançar.{:clear }He donat ordres que us permetin
 
     arribar fins allà. No em falleu!
 - id: 4108
@@ -27,7 +27,7 @@
 
     i vaig aparèixer sobre la torreta.{:clear }Si això va fer amb mi, imagineu
 
-    el que podria fer-los als altres.
+    el que podria fer als altres.
 - id: 4110
   text: >-
     Hi ha explosius dins les tendes,
@@ -44,9 +44,9 @@
     capità Shang us pelarà.
 - id: 4113
   text: >-
-    No sabem on és l'enemic ni
+    No sabem on és l'enemic ni quines
 
-    quines trampes pot haver col・locat.{:clear }Estigueu preparats per a qualsevol cosa.
+    trampes pot haver col・locat.{:clear }Estigueu preparats per a qualsevol cosa.
 - id: 4114
   text: >-
     Podeu arribar al cim
@@ -66,7 +66,7 @@
     cosa anés a sortir d'allà de sobte!
 - id: 4117
   text: >-
-    El païs sencer està aterrat
+    El país sencer està aterrat
 
     per la brutalitat del Shan Yu.{:clear }Tinc ordres, però no
 
@@ -108,7 +108,7 @@
   text: >-
     Cada cop que visito aquest poblet, recordo
 
-    aquella invasió com si fos ahir.{:clear }M'alegro que salvéssim el païs. I això
+    aquella invasió com si fos ahir.{:clear }M'alegro que salvéssim el país. I això
 
     que érem uns soldats esparracats!
 - id: 4126
@@ -193,7 +193,7 @@
 - id: 4169
   text: Nosaltres ens n'ocupem!
 - id: 4170
-  text: Ho sento!{:delay 3C 00}
+  text: Perdó!{:delay 3C 00}
 - id: 4171
   text: Bé!{:delay 3C 00}
 - id: 4172
@@ -215,11 +215,11 @@
   text: Mmm! Primer m'utilitza d'encenedor{:delay 84 00}{:clear }i després de bala de canó. {:delay 5A 00}{:clear }Penso xerrar-ne a l'ancestre major.{:delay 42 00}
 - id: 4181
   text: >-
-    S'ha acabat! Em rendeixo!
+    Saps què? S'ha acabat! Em rendeixo!
 
-    Ja no ho aguanto més.{:delay 90 00}{:clear }Vinga, Mulan, prou de pallassades,
+    Ja no ho aguanto més.{:delay 90 00}{:clear }Au va, Mulan, prou de pallassades
 
-    aquest no és lloc per a una noia.
+    i anem ja cap a casa, noia.
 - id: 4183
   text: Mushu!
 - id: 4184
@@ -255,9 +255,9 @@
 - id: 4199
   text: Gràcies a tots.{:delay 76 00}{:clear }Sento haver-vos ficat en un embolic.
 - id: 4201
-  text: No pasa res.
+  text: No passa res.
 - id: 4202
-  text: Llavors, Ping...{:delay 4E 00}{:clear }vull dir... je... Mulan...{:delay AE 00}{:clear }què faràs ara?
+  text: Llavors, Ping...{:delay 4E 00}{:clear }vull dir... he... Mulan...{:delay AE 00}{:clear }què faràs ara?
 - id: 4203
   text: Tornar a casa.
 - id: 4204
@@ -277,7 +277,7 @@
 - id: 4208
   text: ''
 - id: 4209
-  text: Per allà no éeeeees!
+  text: Per allà no és!!!!!!
 - id: 4210
   text: ''
 - id: 4211
@@ -291,7 +291,7 @@
     Shan Yu, cap de l'exèrcit hun.
 - id: 4214
   text: >-
-    Vinga, xata!
+    Au va, xata!
 
     És la teva gran oportunitat!
 - id: 4215
@@ -444,7 +444,7 @@
 - id: 4259
   text: Ei, que soc aquí, eh!
 - id: 4260
-  text: I recorda-te'n! Ets un home!
+  text: "I recorda-te'n, noia: viril!"
 - id: 4261
   text: Ja era hora de calar alguna cosa.
 - id: 4262
@@ -464,9 +464,9 @@
 - id: 4269
   text: S'ha acabat!
 - id: 4270
-  text: Sisplau!
+  text: Si us plau!
 - id: 4271
-  text: Sisplau?
+  text: Si us plau?
 - id: 4272
   text: Quina nena!
 - id: 4273
@@ -557,9 +557,9 @@
   text: >-
     {:unk13 3F 01 32 00}{:unk08 01 00 05}L'exèrcit d'en Shan Yu es
 
-    dirigeix cap aquí. Tenim...{:clear }ordres de emboscar-los.{:clear }Vindran pel sender de
+    dirigeix cap aquí. Tenim...{:clear }ordres de emboscar-los.{:clear }Vindran per la
 
-    la muntanya.
+    sendera de muntanya.
 - id: 4305
   text: '{:unk13 01 01 6E 00}{:unk06 02}{:unk08 03 01 06}Els farem miques!'
 - id: 4306
@@ -610,7 +610,7 @@
     Serà un munt!
 - id: 4320
   text: >-
-    {:unk13 0E 01 36 01}{:unk08 01 01 02}No. Té raó, Capità.{:clear }Si us plau, asigni'm
+    {:unk13 0E 01 36 01}{:unk08 01 01 02}No. Té raó, Capità.{:clear }Si us plau, assigni'm
 
     una altra missió.{:clear }Aquest cop li demostraré
 
@@ -652,13 +652,13 @@
 
     t'uneixis a les meves tropes...{:clear }Però segueixo sense estar convençut
 
-    que tinguis aptituds per...{:clear }ser un bon soldado.
+    que tinguis aptituds per...{:clear }ser un bon soldat.
 - id: 4334
   text: '{:unk06 02}{:unk13 FA 00 46 00}{:unk08 03 01 06}Però per què!?'
 - id: 4335
-  text: "{:unk13 01 01 3C 00}{:unk08 01 01 06}Deixa-ho estar, Sora.{:clear }Ja veuré com demostrar-l'hi.{:clear }Només necessito una oportunitat."
+  text: "{:unk13 01 01 3C 00}{:unk08 01 01 06}Deixa-ho estar, Sora.{:clear }Ja veuré com demostrar-li-ho.{:clear }Només necessito una oportunitat."
 - id: 4336
-  text: "{:unk13 09 01 54 01}{:unk08 01 00 01}Aquell és l'esperit, Ping."
+  text: "{:unk13 09 01 54 01}{:unk08 01 00 01}Aquest és l'esperit, Ping."
 - id: 4337
   text: '{:unk06 02}{:unk13 22 01 3C 00}{:unk08 03 01 06}Sí, Senyor!'
 - id: 4338
@@ -684,9 +684,9 @@
     vull dir, del Ping, i així...{:clear }restaurar l'honor de la seva família.
 - id: 4347
   text: >-
-    {:unk13 B4 00 C6 00}{:unk08 01 00 05}Osigui que, anem a pel
+    {:unk13 B4 00 C6 00}{:unk08 01 00 05}O sigui que, anem pel Shan
 
-    Shan Yu nosaltres mateixos.{:clear }Amb una mica de sort,
+    Yu nosaltres mateixos.{:clear }Amb una mica de sort,
 
     podrem liquidar-lo!{:clear }Tot i que només de trobar-lo,
 
@@ -703,7 +703,7 @@
   text: >-
     {:unk13 AA 00 6E 00}{:unk08 01 01 05}El Shan Yu és a una
 
-    cova fora del poblet!
+    cova fora el poblet!
 - id: 4352
   text: '{:unk13 2C 01 78 00}No hi ha sortida.'
 - id: 4353
@@ -736,7 +736,7 @@
 - id: 4365
   text: '{:unk13 18 01 18 01}{:unk08 01 01 02}Sí, gràcies al Ping.'
 - id: 4366
-  text: "{:unk13 DB 00 33 00}{:unk08 01 01 06}Vinga! Hem d'informar el Capità!"
+  text: "{:unk13 DB 00 33 00}{:unk08 01 01 06}Va! Hem d'informar el Capità!"
 - id: 4367
   text: >-
     {:unk13 09 01 DC 00}{:unk08 01 01 02}Però el Shan Yu
@@ -744,11 +744,11 @@
     no era aquí.
 - id: 4368
   text: >-
-    {:unk13 BE 00 34 00}{:unk08 01 01 06}Bah! Aquell hun ja és història!{:clear }Anem a explicar-li al Capità
+    {:unk13 BE 00 34 00}{:unk08 01 01 06}Bah! Aquell hun ja és història!{:clear }Anem a explicar al Capità
 
-    que milers de sensecor...{:clear }han irromput en la cova. I que el
+    que milers de sensecor...{:clear }han irromput a la cova. I que el
 
-    Ping s'ha encarregat de tots ells!
+    Ping se n'ha encarregat de tots!
 - id: 4369
   text: Capità!
 - id: 4370
@@ -828,7 +828,7 @@
   text: Ben dit!
 - id: 4401
   text: >-
-    A allò li dic jo donar canya! Sí senyor!{:delay DE 00}{:clear }La Mulan és la millor!
+    A això li'n dic jo donar canya! Sí senyor!{:delay DE 00}{:clear }La Mulan és la millor!
 
     La Mulan és la millor!{:delay 96 00}{:clear }Espera un moment...
 
@@ -864,7 +864,7 @@
 
     I malgrat tot...
 - id: 4409
-  text: '... et debem la vida.'
+  text: '... et devem la vida.'
 - id: 4410
   text: Excel・lència!
 - id: 4411
@@ -905,9 +905,9 @@
     a ser un guardià! Segur!
 - id: 4423
   text: >-
-    Però Mushu, creia que ja erets
+    Però Mushu, em pensava que ja
 
-    el guardià de la família.
+    eres el guardià de la família.
 - id: 4424
   text: >-
     Què? Ah. Eh... No, no. No us
@@ -996,7 +996,7 @@
 - id: 4459
   text: Un altre cop?
 - id: 4461
-  text: Vinga! Anem a per ells!
+  text: Va! Anem per ells!
 - id: 4462
   text: Ei! Tu! Deixa ja els truquets!
 - id: 4464
@@ -1364,14 +1364,14 @@
   text: >-
     Han vist una estranya
 
-    figura en el post de control!
+    figura al post de control!
 
     Ves-hi ràpid i venç l'enemic!
 - id: 4596
   text: >-
     Derrota els sensecor
 
-    en el post de control!
+    al post de control!
 - id: 4597
   text: 〜 Post de control 〜
 - id: 4598
@@ -1387,7 +1387,7 @@
   text: >-
     Derrota els sensecor
 
-    en el post de control!
+    al post de control!
 - id: 4600
   text: 〜 Campament 〜
 - id: 4601
@@ -1415,9 +1415,9 @@
 - id: 4607
   text: No
 - id: 4608
-  text: Escull una missió.
+  text: Tria una missió.
 - id: 4609
-  text: Començar aquesta missió?
+  text: Comences aquesta missió?
 - id: 7657
   text: >-
     Està barrada des de dins.
@@ -1743,9 +1743,9 @@
     tantes com puguis, en especial les rares.
 - id: 19338
   text: >-
-    {:unk13 51 01 39 00}{:unk08 01 00 05}No ho heu
+    {:unk13 51 01 39 00}{:unk08 01 00 05}No ho heu fet
 
-    fet malament.{:clear }Però estigueu alerta!{:clear }Això és només
+    pas malament.{:clear }Però estigueu alerta!{:clear }Això és només
 
     el començament.
 - id: 19339
@@ -1757,7 +1757,7 @@
     les missions.
 - id: 19340
   text: >-
-    {:unk13 68 01 32 00}{:unk08 01 00 05}Bé, allò és exactament el
+    {:unk13 68 01 32 00}{:unk08 01 00 05}Bé, això és exactament el
 
     que necessito de vosaltres.{:clear }Però encara teniu tasques
 

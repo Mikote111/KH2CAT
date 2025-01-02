@@ -1500,6 +1500,7 @@ assets:
     - name: remastered/msn/sp/HB17_MS405.bar/SP_HB17_MS405_bar0.png
     - name: remastered/msn/sp/MU01_MS103C.bar/SP_MU01_MS103C_bar0.png
     - name: remastered/msn/sp/MU02_MS103A.bar/SP_MU02_MS103A_bar0.png
+    - name: remastered/msn/sp/MU07_MS106.bar/SP_MU07_MS106_bar1.png
     - name: remastered/msn/sp/TR02_MS102A.bar/SP_TR02_MS102A_bar1.png
     - name: remastered/msn/sp/HB17_MS405.bar/SP_HB17_MS405_bar0.png
     - name: remastered/msn/sp/HB17_MS405.bar/SP_HB17_MS405_bar0.png
@@ -1540,6 +1541,12 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_AL14_MS202_bar0.png
+  - name: remastered/msn/sp/BB12_GIMMICK.bar/SP_BB12_GIMMICK_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_BB12_GIMMICK_bar0.png
   - name: remastered/msn/sp/BB13_KINOKO_XAL.bar/SP_BB13_KINOKO_XAL_bar1.png
     multi:
     - name: remastered/msn/sp/EH03_KINOKO_XEM.bar/SP_EH03_KINOKO_XEM_bar1.png
@@ -1777,6 +1784,27 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_TR01_MS101_bar1.png
+  - name: remastered/msn/sp/A_SCT_GIMMICK.bar/SP_A_SCT_GIMMICK_bar1.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR01_MS101_bar2.dds
+  - name: remastered/msn/sp/A_SCT_GIMMICK.bar/SP_A_SCT_GIMMICK_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR01_MS101_bar1.dds
+  - name: remastered/msn/sp/TR02_MS102_FREE.bar/SP_TR02_MS102_FREE_bar0.png
+    multi:
+    - name: remastered/msn/sp/TR02_MS102A.bar/SP_TR02_MS102A_bar0.png
+    - name: remastered/msn/sp/TR02_MS102B.bar/SP_TR02_MS102B_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_TR02_MS102_FREE_bar0.png
   - name: remastered/msn/sp/TT04_MS00.bar/SP_TT04_MS00_bar0.png
     multi:
     - name: remastered/msn/sp/TT04_MS01.bar/SP_TT04_MS01_bar0.png

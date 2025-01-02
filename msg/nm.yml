@@ -265,7 +265,7 @@
 
     creure el que veia!{:delay 84 00}{:clear }Tot era tan nou i emocionant!
 - id: 5854
-  text: Vinga! Obre-la ja!
+  text: Va! Obre-la ja!
 - id: 5855
   text: Guauuuu!
 - id: 5856
@@ -360,7 +360,7 @@
 
     les coses en el meu taller.
 - id: 5888
-  text: Vinga, Jack.{:delay 23 00}{:clear }Anem a per aquells gamberros.
+  text: Va, Jack.{:delay 23 00}{:clear }Anem per aquells gamberros.
 - id: 5889
   text: Aahh... Molt bé, doncs.
 - id: 5890
@@ -1495,7 +1495,7 @@
   text: >-
     Observeu aquella porta misteriosa!
 
-    Mirar-la fa calfreds!{:clear }Vinga, apropeu-vos-hi i us
+    Mirar-la fa calfreds!{:clear }Va, apropeu-vos-hi i us
 
     explicaré el que va passar.
 - id: 16714
@@ -1516,7 +1516,7 @@
 
     A Vila Halloween no hi ha res així.{:clear }Bé, {:theme 0A}la casa del Pare Cruel {:reset}és allà
 
-    davant. Vinga, som-hi.
+    davant. Va, som-hi.
 - id: 16717
   text: >-
     Vaja! Mireu aquest lloc!
@@ -1670,7 +1670,7 @@
   text: >-
     De pressa! Acabem amb aquells
 
-    sensecor i recuperem els regals!{:clear }Vinga, som-hi!
+    sensecor i recuperem els regals!{:clear }Va, som-hi!
 - id: 16745
   text: >-
     En què consisteix aquell experiment

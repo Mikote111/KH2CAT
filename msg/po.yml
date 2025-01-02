@@ -4,16 +4,16 @@
   text: Ah!
 - id: 4663
   text: >-
-    Hola, os Pooh! Com estàs?
+    Hola, os Pooh! Com va?
 
     Trobes molta mel últimament?
 - id: 4664
   text: >-
-    Oh, sí.{:delay 4E 00}{:clear }De fet, era a punt de fer la
+    Oh, sí.{:delay 4E 00}{:clear }De fet, estava a punt de fer la
 
     meva gimnàstica per a la panxeta.{:delay 1A 01}{:clear }Vols acompanyar-m'hi, Sora?
 - id: 4665
-  text: És clar! M'hi apunto!
+  text: I tant! M'hi apunto!
 - id: 4666
   text: Eh?
 - id: 4667
@@ -25,20 +25,20 @@
     Pooh!
 - id: 4669
   text: >-
-    I jo m'alegro de la teva visita.{:delay 90 00}{:clear }Però ara anava a fer la meva
+    I jo m'alegro de la teva visita.{:delay 90 00}{:clear }Però ara volia fer la meva
 
     gimnàstica per a la panxeta.{:delay EA 00}{:clear }Si vols ens veiem després,
 
-    qualcú que no conec.
+    algú que no conec.
 - id: 4670
   text: Ah... és clar.
 - id: 4671
   text: Bé, com li va al Piglet?
 - id: 4672
   text: >-
-    No conec a ningú
+    No conec ningú
 
-    amb aquell nom.{:delay 9C 00}{:clear }A veure, per on anava jo?
+    amb aquell nom.{:delay 9C 00}{:clear }A veure, per on era jo?
 
     Ai, sí. La meva gimnàstica.
 - id: 4673
@@ -49,7 +49,7 @@
   text: >-
     Aquí passa alguna cosa molt rara.{:delay 8A 00}{:clear }{:delay 56 00}Serà millor que torni
 
-    per preguntar-hi al Merlí.
+    per preguntar-ne al Merlí.
 - id: 4676
   text: Digue'm... què passa, fill?
 - id: 4677
@@ -185,7 +185,7 @@
   text: >-
     Ah, i gràcies per rescatar
 
-    el meu amic Piglet...{:delay A8 00}{:clear }qualcú que no conec.
+    el meu amic Piglet...{:delay A8 00}{:clear }algú que no conec.
 - id: 4714
   text: Ah, eh... és clar. De res.
 - id: 4715
@@ -217,7 +217,7 @@
 - id: 4722
   text: Hola, Piglet.
 - id: 4723
-  text: I hola, qualcú que no conec.
+  text: I hola, algú que no conec.
 - id: 4724
   text: >-
     Pooh, aquest és l'Igor.
@@ -308,7 +308,7 @@
     gana res l'atura.
 - id: 4748
   text: >-
-    {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 01 06}Disculpa, qualcú que no
+    {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 01 06}Disculpa, algú que no
 
     conec. En queda una mica més?
 - id: 4749
@@ -362,9 +362,9 @@
   text: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Carai, quina situació...'
 - id: 4759
   text: >-
-    Vinga, Pooh.
+    Va, Pooh. Menja-te'n
 
-    menja't tota la que vulguis.
+    tota la que vulguis.
 - id: 4760
   text: Vaja, gràcies!
 - id: 4761
@@ -428,7 +428,7 @@
   text: >-
     Hola a tu també, 
 
-    qualcú que no conec.
+    algú que no conec.
 - id: 4778
   text: >-
     Bé, almenys ja et recordes
@@ -442,7 +442,7 @@
   text: >-
     Sí, com va,
 
-    qualcú que no conec?
+    algú que no conec?
 - id: 4782
   text: >-
     L'Igor m'ha dit que el Pooh
@@ -469,7 +469,7 @@
 - id: 4787
   text: Ai, mare!
 - id: 4788
-  text: Vinga! Anem a per ell!
+  text: Va! Anem per ell!
 - id: 4789
   text: >-
     {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 05}¿¡Quieres decir que Pooh
@@ -497,7 +497,7 @@
   text: >-
     {:unk13 AA 00 64 00}{:unk06 00}{:unk08 01 00 05}Allò sona divertit,
 
-    qualcú que no conec.
+    algú que no conec.
 - id: 4795
   text: >-
     {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}Res, eh? Mmm...{:clear }Ah! Ja! Hem de fer bots tots
@@ -850,7 +850,7 @@
     {:chardelay 09 00}Ajudem-lo!
 - id: 7899
   text: >-
-    Hola, qualcú que no conec.
+    Hola, algú que no conec.
 
     Avui és un dia formós, no et sembla?
 - id: 7900
@@ -885,7 +885,7 @@
 
     et seguiré on sigui.{:clear }Però promet-me que m'ajudaràs si em
 
-    fico en embolics, qualcú que no conec.
+    fico en embolics, algú que no conec.
 - id: 7905
   text: >-
     Al Pooh li fan por les abelles. Intenta
@@ -895,7 +895,7 @@
     deixis que se n'allunyi massa.
 - id: 7906
   text: >-
-    Vinga, segueix-me.{:clear }Passa a davant, si vols.
+    Va, segueix-me.{:clear }Passa a davant, si vols.
 
     Jo vaig molt a poc a poc.
 - id: 7907
@@ -1072,7 +1072,7 @@
   text: >-
     A on em dus, amable
 
-    qualcú que no conec?{:clear }Sigui on sigui, espero
+    algú que no conec?{:clear }Sigui on sigui, espero
 
     que hi hagi mel a dolls.
 - id: 13955
@@ -1091,7 +1091,7 @@
     Qui sap què trobaràs allà dalt?
 - id: 13972
   text: >-
-    Vols que faci bots amb aquell qualcú
+    Vols que faci bots amb aquell algú
 
     que no conec? Trobaré res de mel?{:clear }Em sembla olorar una cosa
 
@@ -1136,14 +1136,14 @@
   text: >-
     Hu, hu, hu, hu! Fer bots t'animarà!
 
-    Vinga, Sora, intenta-ho!
+    Va, Sora, intenta-ho!
 - id: 16091
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Fer bots amb el Tigger?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Fas bots amb el Tigger?
 
     {:chardelay 33 00}Ho sento, estic ocupat.
 
-    {:chardelay 09 00}Sí, vinga!
+    {:chardelay 09 00}Sí, som-hi!
 - id: 16092
   text: >-
     Vull anar amb tots a fer-hi un cop d'ull.
@@ -1160,7 +1160,7 @@
   text: >-
     M'ho he passat molt bé flotant
 
-    per allà, qualcú que no conec.{:clear }Recordo haver flotat abans
+    per allà, algú que no conec.{:clear }Recordo haver flotat abans
 
     en un globus...
 - id: 18088
@@ -1169,14 +1169,14 @@
 
     de tenir tota aquella mel.{:clear }Podríem anar-ne a buscar en una altra
 
-    ocasió, qualcú que no conec.
+    ocasió, algú que no conec.
 - id: 18089
   text: >-
     Un cop, tots ens vam vestir com
 
     el Tigger i ens vam posar a fer bots.{:clear }Si vols, un dia podem repetir-ho,
 
-    qualcú que no conec.
+    algú que no conec.
 - id: 18090
   text: >-
     És divertit fer bots
@@ -1291,7 +1291,7 @@
 - id: 18327
   text: Veus una bonica cortina.
 - id: 18328
-  text: Perceps el dolç aroma de la mel.
+  text: Perceps la dolça aroma de la mel.
 - id: 18329
   text: 'Hi hauria de dir: «Pastanaga».'
 - id: 18330

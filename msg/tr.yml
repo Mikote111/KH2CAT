@@ -15,7 +15,7 @@
 - id: 855
   text: Sora!
 - id: 856
-  text: Vinga, ensenya'ls qui mana!
+  text: Au va, ensenya'ls qui mana!
 - id: 857
   text: Qui ets?
 - id: 858
@@ -30,7 +30,7 @@
   text: Vaja! Quina classe de món és aquest?
 - id: 863
   text: >-
-    Sou dins d'un sistema
+    Sou dins un sistema
 
     informàtic central.
 - id: 864
@@ -39,7 +39,7 @@
   text: >-
     Un sistema informàtic...
 
-    per processar dades.{:delay A2 00}{:clear }{:delay 3C 00}{:clear }Aquest sistema és la còpia d'un
+    per processar dades.{:delay A2 00}{:clear }{:delay 3C 00}{:clear }Aquest sistema n'és la còpia d'un
 
     creat per la corporació ENCOM. {:delay E6 00}{:clear }{:delay 2A 00}{:clear }El programa original fou destruït.
 - id: 866
@@ -94,9 +94,9 @@
   text: >-
     Controla tot el sistema.
 
-    Si us quedeu aquí, intentarà borrar-vos.
+    Si us quedeu aquí, intentarà esborrar-vos.
 - id: 881
-  text: Borrar-nos?
+  text: Esborrar-nos?
 - id: 882
   text: I com sortim d'aquí?
 - id: 883
@@ -126,9 +126,9 @@
     inutilitzem aquests camps d'energia.
 - id: 888
   text: >-
-    Control Mestre,
+    Control Mestre, per què
 
-    per què no borrem el Tron?
+    no esborrem el Tron?
 - id: 889
   text: >-
     Encara no he localitzat la contrasenya
@@ -202,7 +202,7 @@
   text: >-
     {:unk13 5E 01 64 00}{:unk08 01 00 05}És el sector on
 
-    ens trobem.
+    ens hem trobat.
 - id: 908
   text: '{:unk13 E6 00 28 00}{:unk08 01 01 06}Entesos!'
 - id: 909
@@ -220,7 +220,7 @@
   text: >-
     DTD és el nom que li va posar el
 
-    meu usuari a l'entorn de dades.{:delay D2 00}{:clear }Allà s'hi guarden còpies de tots els
+    meu usuari a l'entorn de dades.{:delay D2 00}{:clear }Allà es guarden còpies de tots els
 
     programes del sistema original{:delay CD 00}{:clear }i dades secretes o restringides.
 - id: 914
@@ -237,9 +237,9 @@
     l'última vegada que em vaig enfrontar al PCM.{:delay FA 00}{:clear }Per això necessito la contrasenya.
 - id: 917
   text: >-
-    Si aconsegueixo entrar en el DTD, podré
+    Si aconsegueixo entrar al DTD,
 
-    accedei al meu backup original{:delay D2 00}{:clear }i restaurar totes les meves funcions.
+    podré accedir al meu backup original{:delay D2 00}{:clear }i restablir totes les meves funcions.
 - id: 918
   text: >-
     Aleshores tornaré a deixar el
@@ -251,11 +251,11 @@
     per a vosaltres, els usuaris.
 - id: 919
   text: >-
-    Ei, Tron, el PCM no és
+    Ei, Tron, el PCM no és un
 
-    un d'aquells programes també?
+    d'aquells programes també?
 - id: 920
-  text: Saps qui en va ser el seu creador?
+  text: Saps qui en va ser el creador?
 - id: 921
   text: En realitat...
 - id: 922
@@ -275,7 +275,7 @@
 - id: 925
   text: Ànsem?
 - id: 926
-  text: Crec que el PCM ens ha descobert.
+  text: Em sembla que el PCM ens ha descobert.
 - id: 927
   text: >-
     Jo mantindré aquest terminal activat.
@@ -286,7 +286,7 @@
 - id: 929
   text: Et durem la contrasenya!
 - id: 930
-  text: Molt bé.{:delay 3C 00}{:clear }Ja podeu anar-vos-en.{:delay 58 00}{:clear }Ràpid!
+  text: Molt bé.{:delay 3C 00}{:clear }Ja us en podeu anar.{:delay 58 00}{:clear }Ràpid!
 - id: 931
   text: >-
     {:unk13 AA 00 64 00}{:unk08 01 01 06}Òndia, em pregunto
@@ -345,7 +345,7 @@
   text: '{:unk13 80 01 4B 00}{:unk08 01 00 06}Aviam...{:clear }Bella, Blancaneus...'
 - id: 953
   text: >-
-    {:unk13 54 01 3C 00}{:unk08 01 01 06}Aurora, Alícia, Jasmín,
+    {:unk13 54 01 3C 00}{:unk08 01 01 06}Aurora, Alícia, Jasmin,
 
     Ventafocs...
 - id: 954
@@ -374,10 +374,10 @@
   text: >-
     Estic com nou! Totes les meves
 
-    funcions han estat restaurades!
+    funcions han estat restablertes!
 - id: 963
   text: >-
-    Per fi. {:delay 72 00}{:clear }Tinc accèss total al DTD. {:delay C0 00}{:clear }{:delay 2A 00}{:clear }El meu control sobre
+    Per fi. {:delay 72 00}{:clear }Tinc accés total al DTD. {:delay C0 00}{:clear }{:delay 2A 00}{:clear }El meu control sobre
 
     el sistema és absolut.{:delay DE 00}{:clear }Mai m'hagués imaginat una
 
@@ -416,7 +416,7 @@
   text: '{:unk13 3B 01 30 00}{:unk08 01 00 05}Fora hi deu haver un caos total.'
 - id: 974
   text: >-
-    {:unk13 BE 00 AC 00}{:unk08 01 01 04}Crec que també tindrem
+    {:unk13 BE 00 AC 00}{:unk08 01 01 04}Em sembla que també tindrem
 
     problemes aquí dins...
 - id: 975
@@ -439,7 +439,7 @@
   text: >-
     Estic en deute amb vosaltres.{:delay 4A 00}{:clear }{:delay 2A 00}{:clear }Amb totes les meves funcions operatives,
 
-    crec que tinc possibilitats de{:delay C8 00}{:clear }treure-li el control al PCM.
+    em sembla que tinc possibilitats{:delay C8 00}{:clear }de treure el control al PCM.
 - id: 981
   text: Serà millor que em posi a treballar.{:delay 7A 00}{:clear }{:delay 5D 00}{:clear }És el que voldria el meu usuari.
 - id: 982
@@ -477,9 +477,9 @@
     però ara sí que no entenc res.
 - id: 992
   text: >-
-    Jo tampoc l'entenc.{:delay 96 00}{:clear }{:delay 66 00}{:clear }Crec que sou vosaltres els usuaris
+    Jo tampoc ho entenc.{:delay 96 00}{:clear }{:delay 66 00}{:clear }Em penso que sou vosaltres; els usuaris,
 
-    els qui acabareu per esbrinar-lo.
+    els qui acabareu per esbrinar-ho.
 - id: 993
   text: >-
     Teniu la capacitat de
@@ -784,7 +784,7 @@
 - id: 1089
   text: Selecciona.
 - id: 1090
-  text: Executar aquesta selecció?
+  text: Executes aquesta selecció?
 - id: 8053
   text: Moto de llum
 - id: 8054
@@ -841,9 +841,9 @@
   text: Sí senyor!
 - id: 15145
   text: >-
-    Mireu! Crec que podem
+    Mireu! Em sembla que
 
-    escapar per allà.
+    podem escapar per allà.
 - id: 16135
   text: Sacseja bé les peces!
 - id: 16136
@@ -866,7 +866,7 @@
 
     utilitzar-se des d'aquí.
 - id: 17324
-  text: L'habilitat Esborrar requereix l'ajuda del Tron!
+  text: L'habilitat Esborra requereix l'ajuda del Tron!
 - id: 17873
   text: >-
     El PCM era un programa
@@ -887,7 +887,7 @@
 
     erem tancats en arribar?{:clear }I després vam haver de reunir
 
-    dades per poder sortir, oi?
+    dades per poder-ne sortir, oi?
 - id: 17876
   text: >-
     Des del terminal, arribarem a la
@@ -902,9 +902,9 @@
     amb la clau espasa, Sora?
 - id: 17878
   text: >-
-    Sembla que es pot arribar
+    Sembla que es pot arribar a
 
-    l'entorn de dades des del {:theme 0A}canó{:reset}.{:clear }La paret vermella ens guiarà.
+    l'entorn de dades des del {:theme 0A}canó{:reset}.{:clear }La paret vermella ens hi guiarà.
 - id: 17879
   text: >-
     Fins ara, el Tron ha tingut
@@ -921,9 +921,9 @@
     reinciar entre tota la brossa.
 - id: 17881
   text: >-
-    Segons el Tron, aquesta és una
+    Segons el Tron, això és una
 
-    espècie de dipòsit de deixalles.{:clear }Què seria abans tota aquesta
+    mena de dipòsit de deixalles.{:clear }Què devia ser abans tota aquesta
 
     brossa que ha vingut a parar aquí?
 - id: 17882
@@ -932,7 +932,7 @@
 
     aquest món, no?{:clear }Serà millor que trobem el
 
-    {:theme 0A}nucli d'energia{:reset} com més aviat.
+    {:theme 0A}nucli d'energia{:reset} el més aviat possible.
 - id: 17883
   text: >-
     He anulat la seguretat. L'ascensor
@@ -944,7 +944,7 @@
   text: >-
     Amb els sensecor i els incorporis
 
-    ja hi ha bastants problemes!{:clear }Un sol problema més, i
+    ja hi ha prou problemes!{:clear }Un sol problema més, i
 
     la ciutat es farà miques!
 - id: 17885
@@ -956,7 +956,7 @@
   text: >-
     Vindran altres programes perillosos.
 
-    Per conseguir eliminar-los...{:clear }s'han d'esborrar les dades enemigues
+    Per aconseguir eliminar-los...{:clear }s'han d'esborrar les dades enemigues
 
     i així limitar-ne els seus moviments.
 - id: 17887
@@ -980,9 +980,9 @@
     Quines ganes tinc de veure'l!
 - id: 17890
   text: >-
-    Podem tonrar a Baluard Balmat
+    Podem tornar a Baluard Balmat
 
-    per aquell terminal!{:clear }Però abans s'ha d'ajudar el Tron.
+    per aquell terminal!{:clear }Però abans hem d'ajudar el Tron.
 - id: 17891
   text: >-
     Si sortim i seguim tot dret,
@@ -1070,9 +1070,9 @@
 
     protecció i esborra el PCM!
 - id: 18729
-  text: Atacar
+  text: Ataca
 - id: 18730
-  text: Carregar
+  text: Carrega
 - id: 18731
   text: Bloqueig
 - id: 18732

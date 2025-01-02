@@ -5,7 +5,7 @@
     després l'altre Pete perseguint-lo!{:clear }Què passa aquí!?
 - id: 5518
   text: >-
-    Trobaràs el Pete en el {:theme 0A}moll{:reset}.{:clear }Si no és allà, segur que ha sortit amb
+    Trobaràs el Pete al {:theme 0A}moll{:reset}.{:clear }Si no és allà, segur que ha sortit amb
 
     el seu vaixell. És el seu gran orgull!
 - id: 5519
@@ -67,7 +67,7 @@
 
     Teniu res en contra meu?
 - id: 5533
-  text: És clar que sí!
+  text: I tant que sí!
 - id: 5534
   text: Veig que busqueu brega!
 - id: 5535
@@ -131,7 +131,7 @@
     massa simple.
 - id: 5554
   text: >-
-    {:unk13 D8 00 69 00}{:unk06 00}{:unk08 01 00 05}Vinga, nois. Busquem
+    {:unk13 D8 00 69 00}{:unk06 00}{:unk08 01 00 05}Va, nois. Busquem
 
     aquell vaixell de vapor.
 - id: 5555
@@ -194,7 +194,7 @@
 - id: 5576
   text: Vaja! Sembla una mica canviat, no?...
 - id: 5577
-  text: Vinga! Hem d'ajudar-lo!
+  text: Va! Hem d'ajudar-lo!
 - id: 5578
   text: Necessita la nostra ajuda!
 - id: 5579
@@ -208,7 +208,7 @@
 - id: 5583
   text: Vaja! Sembla una mica canviat, no?...
 - id: 5584
-  text: Vinga! Hem d'ajudar-lo!
+  text: Va! Hem d'ajudar-lo!
 - id: 5585
   text: Foc!
 - id: 5586
@@ -239,7 +239,7 @@
 - id: 5597
   text: Què creieu que intenta dir-nos?
 - id: 5598
-  text: Oh! Són els sensecor!
+  text: Ei! Són els sensecor!
 - id: 5599
   text: ''
 - id: 5600
@@ -256,7 +256,7 @@
 - id: 5604
   text: Què diu?
 - id: 5605
-  text: Oh! Són els sensecor!
+  text: Ei! Són els sensecor!
 - id: 5606
   text: Nano, quina cosa més rara!
 - id: 5607
@@ -276,7 +276,7 @@
 - id: 5614
   text: Ens heu salvat!
 - id: 5615
-  text: I ara, a pels sensecor!
+  text: I ara, pels sensecor!
 - id: 5616
   text: Què estan construint?
 - id: 5617
@@ -288,7 +288,7 @@
 - id: 5620
   text: Gràcies, Majestat!
 - id: 5621
-  text: I ara, a pels sensecor!
+  text: I ara, pels sensecor!
 - id: 5622
   text: Què us ha semblat això!?
 - id: 5623
@@ -374,7 +374,7 @@
     d'aquell miserable castell.
 - id: 5647
   text: >-
-    Mentre, la seva preada Pedra
+    Mentrestant, la seva preada Pedra
 
     Angular de Llum es troba desprotegida,{:delay 66 01}{:clear }albergant encara tot el seu poder.
 - id: 5648
@@ -398,7 +398,7 @@
 - id: 5654
   text: Que no torni a fallar, diu...
 - id: 5655
-  text: Ja sé!{:delay 3C 00}{:clear }Faré miques aquella Pedra Angular!
+  text: Ja ho sé!{:delay 3C 00}{:clear }Faré miques aquella Pedra Angular!
 - id: 5656
   text: >-
     Però abans...
@@ -560,7 +560,7 @@
 - id: 5706
   text: La Pedra Angular!
 - id: 5707
-  text: A per ell!
+  text: Perseguim-lo!
 - id: 5708
   text: Bé!
 - id: 5709
@@ -571,7 +571,7 @@
   text: >-
     Donald, ja tornarem
 
-    a per ella després!
+    per ella més tard!
 - id: 5712
   text: El Pete es dirigeix cap al portal!
 - id: 5713
@@ -614,7 +614,7 @@
     És la millor nau del riu!
 - id: 5729
   text: >-
-    Vinga, el meu contramestre
+    Va, el meu contramestre
 
     Mickey arriba tard.
 - id: 5730
@@ -778,7 +778,7 @@
 
     d'aquella finestra! Hem d'apagar-lo!{:clear }Però com ho farem? N'hi haurà prou
 
-    amb llençar-ne aigua a la finestra?
+    amb llençar aigua a la finestra?
 - id: 16842
   text: >-
     Des d'aquest turó pots arribar al

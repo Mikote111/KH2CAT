@@ -793,7 +793,7 @@
   text: >-
     No es poden canviar els membres del grup 
 
-    ni utilitzar Invocar fins que s'acabi la lluita.
+    ni utilitzar Invoca fins que s'acabi la lluita.
 - id: 1143
   text: No pots canviar la Bestia ara.
 - id: 1144
@@ -1782,7 +1782,7 @@
   text: >-
     Amb l'ajuda de dos amics, 
 
-    utilitza l'ordre Invocar i 
+    utilitza l'ordre Invoca i 
 
     l'Stitch et donarà un cop de mà.
 - id: 1602
@@ -2529,11 +2529,11 @@
 - id: 2788
   text: Indicador de Fusió augmentat!
 - id: 2789
-  text: Espai per objectes +1!
+  text: Espai per a objectes +1!
 - id: 2790
-  text: Espai per accesoris +1!
+  text: Espai per a accesoris +1!
 - id: 2791
-  text: Espai per armadura +1!
+  text: Espai per a armadura +1!
 - id: 2792
   text: '{:unk0d }!'
 - id: 2793
@@ -2599,15 +2599,15 @@
 - id: 7505
   text: Observa
 - id: 7506
-  text: Traduïr
+  text: Tradueix
 - id: 7507
-  text: Traduïr
+  text: Tradueix
 - id: 7508
   text: '{:width 90}Observa la paret'
 - id: 7517
   text: "{:width 90}Accedeix a l'ordinador"
 - id: 7533
-  text: Aprendre
+  text: Aprèn
 - id: 7650
   text: Trampa veloç
 - id: 7658
@@ -2994,14 +2994,14 @@
   text: >-
     Escut d'enorme força,
 
-    utilitzat només per a atacar.
+    utilitzat només per atacar.
 - id: 8317
   text: Custodi
 - id: 8318
   text: >-
     Un escut de extraordinària força,
 
-    utilitzat només per a atacar.
+    utilitzat només per atacar.
 - id: 8319
   text: Escut de Genji
 - id: 8320
@@ -3142,18 +3142,18 @@
   text: Amulet Llàntia
 - id: 10332
   text: >-
-    Amb la ajuda de dos amics, 
+    Amb l'ajuda de dos amics, 
 
-    utilitza l'ordre Invocar i el
+    utilitza l'ordre Invoca i el
 
     Geni et donarà un cop de mà.
 - id: 10333
   text: Amulet de Plumes
 - id: 10334
   text: >-
-    Amb la ajuda de dos amics, 
+    Amb l'ajuda de dos amics, 
 
-    utilitza l'ordre Invocar i el
+    utilitza l'ordre Invoca i el
 
     Peter Pan et donarà un cop de mà.
 - id: 10335
@@ -4233,7 +4233,7 @@
   text: Contrabloqueig
 - id: 14744
   text: >-
-    Si prems Atacar mentre bloqueges,
+    Si prems Ataca mentre bloqueges,
 
     retornaràs l'atac a l'enemic.
 - id: 14745
@@ -4398,11 +4398,11 @@
 - id: 14831
   text: Tret de canó
 - id: 14841
-  text: Venç a 50 formes en 40 segons!
+  text: Venç 50 formes en 40 segons!
 - id: 14842
-  text: Venç a 10 formas en 15 segons!
+  text: Venç 10 formes en 15 segons!
 - id: 14843
-  text: Venç a 100 formas en 80 segons!
+  text: Venç 100 formes en 80 segons!
 - id: 14844
   text: Niv.
 - id: 14845
@@ -5326,7 +5326,7 @@
   text: Pedra del Olimp
 - id: 15130
   text: >-
-    Pedra dels deus de l'Olimp.
+    Pedra dels déus de l'Olimp.
 
     Serveix com a protecció contra
 
@@ -5482,7 +5482,7 @@
   text: >-
     Amb l'ajuda de dos amics, utilitza
 
-    l'ordre Invocar i Chicken Little 
+    l'ordre Invoca i Chicken Little 
 
     et donarà un cop de mà.
 - id: 15228
@@ -5712,7 +5712,7 @@
   text: >-
     Extèn la permanència de l'aliat
 
-    quan utilitzes Invocar.
+    quan utilitzes Invoca.
 - id: 15336
   text: Extralímit
 - id: 15337
@@ -6473,7 +6473,7 @@
   text: Monocrom
 - id: 15921
   text: >-
-    {:color #F0F00080}Augmenta un 50%{:reset} el efecte dels objectes
+    {:color #F0F00080}Augmenta un 50%{:reset} l'efecte dels objectes
 
     de cura a la batalla.
 - id: 15922
@@ -6567,7 +6567,7 @@
   text: >-
     {:color #F0F00080}Augmenta en 2{:reset} la força durant la Càrrega PM
 
-    y permet llençar combos il.limitats,
+    y permet llençar combos il・limitats,
 
     però el combo final es desactiva.
 - id: 15946
@@ -7125,7 +7125,7 @@
 
     a botigues ja que has completat
 
-    la col.lecció.
+    la col・lecció.
 - id: 16788
   text: No hi ha recompenses.
 - id: 16826
@@ -7133,11 +7133,11 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
-    Has après a fabricar nous
+    Has après a fabricar nous objectes
 
-    objectes amb el {:color #FFFF0080}Lliure desenvolupament{:reset}, 
+    amb el {:color #FFFF0080}Lliure desenvolupament{:reset}
 
-    ja que has completat la col.lecció.
+    per haver-ne completat la col・lecció.
 - id: 16827
   text: >-
     Sora:
@@ -7624,7 +7624,7 @@
 - id: 17767
   text: Niv. de Bonus
 - id: 17768
-  text: Niv. d'Invocar
+  text: Niv. d'Invoca
 - id: 17769
   text: Niv. de Forma
 - id: 17774
@@ -7659,7 +7659,7 @@
     utilitzant certs accessoris.
 - id: 17780
   text: >-
-    Aquest indicador s'utilitza per Fusió i Invocar.
+    Aquest indicador s'utilitza per Fusió i Invoca.
 
     Consegueix esferes per omplir-lo.
 - id: 17781
@@ -7720,11 +7720,11 @@
     VT i els PM, i guanyes poders especials.
 - id: 17789
   text: >-
-    Nivell d'Invocar. L'indicador d'Invocar
+    Nivell d'Invoca. L'indicador d'Invoca
 
     augmenta, i les destreses màgiques 
 
-    d'invocar augmentan en pujar de nivell.
+    d'Invoca augmentan en pujar de nivell.
 - id: 17790
   text: >-
     Nivell de la Forma Valenta. Augmenta el
@@ -7851,7 +7851,7 @@
 
     d'experiència per cada punt que consumeix
 
-    l'indicador d'Invocar.
+    l'indicador d'Invoca.
 - id: 17814
   text: >-
     Experiència necessària per pujar de nivell.
@@ -7861,7 +7861,7 @@
     d'invocacions obtingudes.
 - id: 17815
   text: >-
-    El teu indicador d'Invocar actual.
+    El teu indicador d'Invoca actual.
 
     Quant més llarg sigui l'indicador, major
 
@@ -7931,7 +7931,7 @@
 - id: 17852
   text: ''
 - id: 17853
-  text: Augmenta l'indicador d'Invocar!
+  text: Augmenta l'indicador d'Invoca!
 - id: 17854
   text: Sessió
 - id: 17855
@@ -8108,7 +8108,7 @@
   text: >-
     Sora:
 
-    De pressa, trobem el Tron!
+    De pressa, anem amb el Tron!
 - id: 18051
   text: ''
 - id: 18052
@@ -8698,9 +8698,9 @@
 
     Has après a fabricar més objectes
 
-    nous amb el {:color #FFFF0080}Lliure desenvolupament{:reset}, 
+    nous amb el {:color #FFFF0080}Lliure desenvolupament{:reset}
 
-    ja que has completat la col.lecció.
+    per haver-ne completat la col・lecció.
 - id: 19600
   text: '{:unk 72}Cops'
 - id: 19615
@@ -9337,9 +9337,9 @@
   text: Contra Zantetsuken
 - id: 20326
   text: >-
-    Si prems Atacar mentre bloqueges,
+    Si prems Ataca mentre bloqueges,
 
-    contraatacas amb el Zantetsuken.
+    contraataques amb el Zantetsuken.
 - id: 20327
   text: Combo ferm
 - id: 20328
@@ -9924,7 +9924,7 @@
 - id: 22008
   text: >-
     ⤷ Prem {:icon dynamic-cross} quan l'indicador estigui a {:color #FFEC1980}punt 
-        d'exhaurir-se{:reset} i obtindràs {:color #FFEC1980}millor puntuació (Excel.lent){:reset}.
+        d'exhaurir-se{:reset} i obtindràs {:color #FFEC1980}millor puntuació (Excel・lent){:reset}.
 - id: 22009
   text: >-
     ⤷ Si prems {:icon dynamic-cross} {:color #FFEC1980}molt ràpid o no el prems{:reset} en absolut,
@@ -9932,7 +9932,7 @@
 - id: 22010
   text: >-
     ⤷ Prem {:icon dynamic-cross} quan l'indicador estigui a {:color #FFEC1980}punt 
-        d'exhaurir-se{:reset} i obtindràs {:color #FFEC1980}millor puntuació (Excel.lent){:reset}.
+        d'exhaurir-se{:reset} i obtindràs {:color #FFEC1980}millor puntuació (Excel・lent){:reset}.
 - id: 22011
   text: '⤷ Si obtens {:color #FFEC1980}Bé{:reset} o {:color #FFEC1980}Malament{:reset}, no guanyes notes.'
 - id: 22012
@@ -9972,18 +9972,18 @@
 
     per les fletxes.
 - id: 22020
-  text: '{:icon dynamic-cross} {:color #FFEC1980}Atacar{:reset}'
+  text: '{:icon dynamic-cross} {:color #FFEC1980}Ataca{:reset}'
 - id: 22021
-  text: '{:icon dynamic-square} {:color #FFEC1980}Carregar{:reset}'
+  text: '{:icon dynamic-square} {:color #FFEC1980}Carrega{:reset}'
 - id: 22022
-  text: '{:icon dynamic-circle} {:color #FFEC1980}Bloquejar{:reset}'
+  text: '{:icon dynamic-circle} {:color #FFEC1980}Bloqueig{:reset}'
 - id: 22023
   text: >-
-    {:icon dynamic-l2} {:color #FFEC1980}Fixar ordres{:reset}
+    {:icon dynamic-l2} {:color #FFEC1980}Fixa ordres{:reset}
 
     Utilitza {:icon dynamic-right-analog} i manten-lo premut 
 
-    per controlar ordres.
+    per controlar les ordres.
 
 
     {:icon dynamic-left-analog}

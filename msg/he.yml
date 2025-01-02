@@ -12,9 +12,9 @@
   text: >-
     Hem entrenat molt, però no sé
 
-    si serà suficient per lluitar contra l'Hades.{:clear }Serà millor que li demanem
+    si serà suficient per lluitar contra l'Hades.{:clear }Serà millor que demanem a
 
-    a l'Hèrcules aquella Pedra de l'Olimp.
+    l'Hèrcules aquella Pedra de l'Olimp.
 - id: 3461
   text: >-
     L'Hèrcules ha tornat.{:clear }Sembla que està buscant
@@ -22,7 +22,7 @@
     algú. Què deu passar?
 - id: 3462
   text: >-
-    La maledicció de l'Inframón, no?
+    La maledicció de l'Inframon, no?
 
     Sí, és una llauna.{:clear }Però si aconsegueixes superar aquella
 
@@ -79,9 +79,9 @@
     regulars, no per a la Copa Hades.
 - id: 3476
   text: >-
-    L'Hèrcules ha anat en busca
+    L'Hèrcules ha anat a buscar
 
-    de la Pedra de l'Olimp.{:clear }Mentrestant, no hauríeu d'estar
+    la Pedra de l'Olimp.{:clear }Mentrestant, no hauríeu d'estar
 
     entrenant, aprenents d'heroi?
 - id: 3477
@@ -99,7 +99,7 @@
 - id: 3481
   text: Protegeix la Megara i acaba amb els enemics!
 - id: 3482
-  text: Derrota el Pete abans que la cova s'enfonsi!
+  text: Derrota el Pete abans que la cova s'esfondri!
 - id: 3498
   text: Se n'ha anat?
 - id: 3499
@@ -110,7 +110,7 @@
   text: >-
     No està gens malament.
 
-    Ets un heroe o algo así?
+    Ets un heroi o una cosa així?
 - id: 3502
   text: No... Res d'això. Només soc un...
 - id: 3503
@@ -127,9 +127,9 @@
   text: >-
     Pot ser que ens hagi reunit el destí.
 
-    Potser necessiteu un escolta.
+    Potser necessiteu un escorta.
 - id: 3509
-  text: Escolta? Gràcies, però no.
+  text: Escorta? Gràcies, però no.
 - id: 3511
   text: Què? Està tancat!
 - id: 3512
@@ -139,7 +139,7 @@
 - id: 3514
   text: ''
 - id: 3515
-  text: "{:delay 0F 00}S'obrirà amb allò? {:delay 2C 01}"
+  text: "{:delay 0F 00}S'obrirà amb això? {:delay 2C 01}"
 - id: 3516
   text: '{:delay 0A 00}Sí, em sembla que sí.'
 - id: 3517
@@ -173,15 +173,15 @@
   text: "{:unk13 4E 01 87 00}{:unk06 00}{:unk08 01 00 05}I com va l'Hèrcules?"
 - id: 3530
   text: >-
-    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 00 06}L'home meravella? Bé,
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 00 06}L'home meravella?
 
-    lluita en el Coliseu
+    Bé, lluita al Coliseu
 
-    tots els dies.{:clear }Com es sol dir,
+    tots els dies.{:clear }Com se sol dir,
 
     «la feina d'un heroi
 
-    mai s'acaba».{:clear }Si volgués, podria deixar-lo,
+    mai s'acaba».{:clear }Si volgués, podria deixar-ho,
 
     però continua lluitant.{:clear }Tot i que fins i tot l'home
 
@@ -194,11 +194,11 @@
   text: "{:unk13 5E 01 DC 00}{:unk06 02}{:unk08 03 00 05}L'Hades!?"
 - id: 3532
   text: >-
-    {:unk13 18 01 50 00}{:unk06 00}{:unk08 01 00 05}Exacte. El Senyor de l'Inframón.
+    {:unk13 18 01 50 00}{:unk06 00}{:unk08 01 00 05}Exacte. El Senyor de l'Inframon.
 
     Ara em dirigia a veure'l.{:clear }Potser puc aconseguir que li
 
-    doni un respir a l'Hèrcules.{:clear }Si li passés alguna cosa
+    doni un respir a l'Hèrcules.{:clear }Si li passés res
 
     a aquell noi, jo...
 - id: 3533
@@ -214,18 +214,16 @@
   text: >-
     {:unk13 61 01 76 00}{:unk06 00}{:unk08 01 00 06}Nosaltres anirem a
 
-    parlar amb l'Hades.{:clear }No m'ho perdonaria,
+    parlar amb l'Hades.{:clear }No m'ho perdonaria, si
 
-    si et passés alguna
-
-    cosa pel camí.
+    et passés res pel camí.
 - id: 3537
   text: >-
     {:unk13 BE 00 5A 00}{:unk06 00}{:unk08 01 00 06}Ho dius de debò?
 
     Bé, sembla que
 
-    saps el que fas.{:clear }Crec que acceptaré
+    saps el que fas.{:clear }Em sembla que acceptaré
 
     la teva oferta.
 - id: 3538
@@ -259,11 +257,11 @@
     què faràs amb l'Hèrcules?
 - id: 3546
   text: >-
-    Ha fet miques a tots els
+    Ha fet miques tots els
 
     lluitadors que li has enviat.{:delay F6 00}{:clear }Aviat no hi cabrà ni una
 
-    agulla a l'Inframón.
+    agulla, a l'Inframon.
 - id: 3548
   text: >-
     Ei, per què no envies a
@@ -273,7 +271,7 @@
   text: >-
     Mort? Bona idea!
 
-    I coneixo el guerrer perfecte.
+    I hi coneixo el guerrer perfecte.
 - id: 3550
   text: ''
 - id: 3551
@@ -306,7 +304,7 @@
   text: I tot per una simple feina.
 - id: 3561
   text: >-
-    Lluitar contra l'Hèrcules en el Coliseu...
+    Lluitar contra l'Hèrcules al Coliseu...
 
     a mort.
 - id: 3562
@@ -317,9 +315,9 @@
 - id: 3563
   text: Has oblidat amb qui parles? {:delay B4 00}{:clear }Soc el Senyor dels Morts!
 - id: 3564
-  text: Jun! No m'estranya que ningú vulgui morir.
+  text: Hun! No m'estranya que ningú vulgui morir.
 - id: 3565
-  text: T'enteraràs!
+  text: Ara veuràs!
 - id: 3566
   text: ''
 - id: 3567
@@ -368,7 +366,7 @@
   text: Cèrber, endavant!
 - id: 3585
   text: >-
-    Som-hi, ganàpia,
+    Au va, ganàpia,
 
     pren-te un descans avui.{:delay AA 00}{:clear }{:delay 08 00}{:clear }Pels vells temps...
 - id: 3587
@@ -431,7 +429,7 @@
   text: >-
     Sento dir-ho, però aquella
 
-    clau és molt particular.{:delay AE 00}{:clear }Ella escull el seu portador.
+    clau és molt particular.{:delay AE 00}{:clear }Ella tria el seu portador.
 
     I aquell xaval no és un estaquirot.
 - id: 3606
@@ -473,7 +471,7 @@
 
     Quan hem arribat aquí,
 
-    ens hem trobar amb la Meg...
+    ens hem trobat amb la Meg...
 - id: 3619
   text: >-
     {:unk13 5E 01 69 00}{:unk06 00}{:unk08 01 00 06}Meg...mega...problemes!
@@ -482,26 +480,26 @@
 
     algú en problemes.{:clear }Hem decidit donar a
 
-    l'Hades una bona lliçó...{:clear }... però en l'Inframon
+    l'Hades una bona lliçó...{:clear }... però a l'Inframon
 
     les nostres forces
 
-    no serveixen de res.{:clear }Se t'acudeix alguna cosa?
+    no serveixen de res.{:clear }Se t'acudeix res?
 - id: 3620
   text: >-
     {:unk13 54 01 57 00}{:unk06 00}{:unk08 01 00 05}Bé, existeix una pedra
 
     que protegeix contra la
 
-    maledicció de l'Inframon.{:clear }Els deus del Mont
+    maledicció de l'Inframon.{:clear }Els deus del
 
-    Olimp l'utilizen quan
+    Mont Olimp l'utilitzen
 
-    han d'anar allà.
+    quan hi han d'anar.
 - id: 3621
   text: '{:unk13 68 01 86 00}{:unk06 00}{:unk08 01 00 07}Creieu que podríem utilitzar-la?'
 - id: 3622
-  text: '{:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}És clar, per què no!{:clear }Us la conseguiré.'
+  text: '{:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}I tant, per què no?{:clear }Us la aconseguiré.'
 - id: 3623
   text: '{:unk13 95 01 E8 00}{:unk06 00}{:unk08 01 01 05}Gràcies!'
 - id: 3624
@@ -512,7 +510,7 @@
 
     l'Olimp, l'Hades no és pas poca cosa.{:clear }I jo tinc un combat avui, o sigui
 
-    que no puc acompanyar-vos...
+    que no us hi puc acompanyar...
 - id: 3626
   text: >-
     {:unk13 40 01 35 00}{:unk06 00}{:unk08 01 00 04}Sabeu què necessiteu?
@@ -538,19 +536,19 @@
   text: Què bé que et veig!
 - id: 3631
   text: >-
-    Millor que mai!{:delay 60 00}{:clear }Com esteu?{:delay 48 00}{:clear }Us heu convertit ja
+    Millor que mai!{:delay 60 00}{:clear }Com us va?{:delay 48 00}{:clear }Us heu convertit ja
 
     en autèntics herois?
 - id: 3632
   text: >-
-    Com esteu?{:delay 48 00}{:clear }Us heu convertit ja
+    Com us va?{:delay 48 00}{:clear }Us heu convertit ja
 
     en autèntics herois?
 - id: 3633
   text: Tranquils que tot arribarà.{:delay 84 00}{:clear }Bé... Com va?
 - id: 3634
   text: >-
-    {:unk13 7C 01 50 00}{:unk06 00}{:unk08 01 00 06}Ja, ja, ja!
+    {:unk13 7C 01 50 00}{:unk06 00}{:unk08 01 00 06}Ha, ha, ha!
 
     Vosaltres tres us
 
@@ -559,7 +557,7 @@
   text: '{:unk13 A3 00 96 00}{:unk06 00}{:unk08 01 01 05}Què té de graciós!?'
 - id: 3636
   text: >-
-    {:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 01 05}Teniu agalles. Això m'agrada.{:clear }Eh, mai se sap... coses
+    {:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 01 05}Teniu pit. Això m'agrada.{:clear }Eh, mai se sap... coses
 
     més rares s'han vist, no?
 
@@ -603,7 +601,7 @@
 
     quedar-nos-la una estona?
 - id: 3646
-  text: '{:unk13 C8 00 46 00}{:unk06 00}{:unk08 01 00 05}És clar.'
+  text: '{:unk13 C8 00 46 00}{:unk06 00}{:unk08 01 00 05}I tant.'
 - id: 3647
   text: >-
     {:unk13 13 01 34 00}{:unk06 00}{:unk08 01 00 05}Per cert, heu vist
@@ -649,7 +647,7 @@
 
     A qui li importen els detalls?
 - id: 3658
-  text: Ets un cobard!
+  text: Ets un covard!
 - id: 3659
   text: Bé, no tots podem ser herois.
 - id: 3660
@@ -679,9 +677,9 @@
 
     vestit de negre.{:clear }He intentat seguir-lo, però m'ha
 
-    descobert. Després d'això, només
+    descobert. Després d'això, només sé
 
-    sé que he començat a veure estrelles.
+    que he començat a veure estrelles.
 - id: 3670
   text: '{:unk13 54 01 67 00}{:unk06 02}{:unk08 03 00 07}Vestit de negre!?'
 - id: 3671
@@ -772,11 +770,11 @@
   text: >-
     {:delay 84 00}{:clear }Què passa? No sabeu
 
-    lluitar en el Inframon?
+    lluitar a l'Inframon?
 - id: 3702
   text: Això s'haurà de veure!
 - id: 3703
-  text: Són masses!
+  text: En són massa!
 - id: 3704
   text: Marxem!
 - id: 3705
@@ -785,7 +783,7 @@
   text: >-
     Emporteu-vos la Meg d'aquí.
 
-    Ens veiem en el Coliseu.
+    Ens veiem al Coliseu.
 - id: 3707
   text: I tu què?
 - id: 3708
@@ -829,7 +827,7 @@
     sí que l'has feta bona.
 - id: 3718
   text: >-
-    {:unk13 4A 01 78 00}{:unk06 01}{:unk08 01 01 04}A ningú li agraden els que
+    {:unk13 4A 01 78 00}{:unk06 01}{:unk08 01 01 04}A ningú li agrada els que
 
     no saben perdre, Hades.
 - id: 3719
@@ -838,7 +836,7 @@
   text: "{:unk13 4A 01 5A 00}{:unk06 00}{:unk08 01 01 06}Aleshores deixa-m'ho a mi."
 - id: 3721
   text: >-
-    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 07}A ningú li agraden els que
+    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 07}A ningú li agrada els que
 
     no saben perdre, Hades.
 - id: 3722
@@ -850,7 +848,7 @@
     Uff, a saber què deu fer...
 - id: 3723
   text: >-
-    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 04}He escoltat que les
+    {:unk13 4A 01 50 00}{:unk06 00}{:unk08 01 00 04}He sentit que les
 
     coses estan complicades
 
@@ -881,7 +879,7 @@
     Estic acabat.
 - id: 3732
   text: >-
-    Bah, vinga ja, campió.
+    Bah, au va ja, campió.
 
     Jo no et vaig entrenar per pensar així!
 - id: 3733
@@ -931,7 +929,7 @@
 
     sensecor donen taba,{:delay AE 00}{:clear }i ens n'encarregarem.
 - id: 3748
-  text: Sí! Per a això estan els herois!
+  text: Sí! Per a això hi són els herois!
 - id: 3749
   text: Des de quan sou herois?
 - id: 3750
@@ -1335,7 +1333,7 @@
   text: Oh, ho faràs?
 - id: 3859
   text: >-
-    Intentaré conseguir-vos
+    Intentaré aconseguir-vos
 
     una mica de temps.
 - id: 3860
@@ -1697,7 +1695,7 @@
 - id: 3971
   text: '{:icon dynamic-triangle}Diari'
 - id: 3972
-  text: Practicar
+  text: Practica
 - id: 3973
   text: Maníac
 - id: 3974
@@ -1723,7 +1721,7 @@
 - id: 3981
   text: No
 - id: 3982
-  text: Escull un curs d'entrenament.
+  text: Tria un curs d'entrenament.
 - id: 3983
   text: Llavors, t'agradaria fer aquest curs?
 - id: 3984
@@ -2003,7 +2001,7 @@
   text: >-
     A través d'aquesta cova, arribareu
 
-    a la sala on és l'Hades.{:clear }En el Inframon perdre força.
+    a la sala on és l'Hades.{:clear }A l'Inframon perds força.
 
     Compte amb les pedres que cauen.
 - id: 16143
@@ -2036,7 +2034,7 @@
   text: >-
     Ha arribat l'hora de la veritat.
 
-    Si apareix un gran, que no escapi.
+    Si n'apareix un de gran, que no escapi.
 - id: 16148
   text: Derrota tots els sensecor!
 - id: 16149
@@ -2152,7 +2150,7 @@
 
     feina serà molt més fàcil.{:clear }Però si guanya...
 
-    No, allò no passarà...
+    No, això no passarà...
 - id: 16442
   text: >-
     L'Hèrcules no està molt bé.
@@ -2171,7 +2169,7 @@
   text: >-
     La Copa Hades es juga per equips,
 
-    així que unim-nos a l'Hèrcules.{:clear }En el Inframon, es disputen,
+    així que unim-nos a l'Hèrcules.{:clear }A l'Inframon, es disputen,
 
     a més a més, altres tornejos.{:clear }Si tenim temps, hauríem
 
@@ -2220,10 +2218,10 @@
 
     busqueu el seu punt dèbil.{:clear }Dos consells: manteniu la calma,
 
-    manteneiu-vos alerta i moveu-vos!
+    manteniu-vos alerta i moveu-vos!
 - id: 16581
   text: >-
-    Sora, hi ha problemes en el Coliseu!{:clear }Ves cap allà! Nosaltres
+    Sora, hi ha problemes al Coliseu!{:clear }Ves-hi! Nosaltres
 
     farem el que poguem.
 - id: 16984
@@ -2269,7 +2267,7 @@
 
     aquell covard «campió»?
 - id: 17842
-  text: "{:unk13 BE 00 4C 00}{:unk06 00}{:unk08 01 01 05}Què t'ha semblat allò?"
+  text: "{:unk13 BE 00 4C 00}{:unk06 00}{:unk08 01 01 05}Què t'ha semblat això?"
 - id: 17843
   text: >-
     {:unk13 49 01 48 00}{:unk06 00}{:unk08 01 00 06}Això no s'ha acabat, xicot!
@@ -2477,7 +2475,7 @@
 - id: 19872
   text: Sora, espera!
 - id: 19874
-  text: Ataqueu!
+  text: A l'atac!
 - id: 19884
   text: Hèrcules! Hèrcules!
 - id: 19885
@@ -2547,9 +2545,9 @@
   text: >-
     {:unk13 8C 00 8C 00}{:unk06 00}{:unk08 01 01 05}Enfrontar-t'hi potser
 
-    t'ajudi a veure més enllà...{:clear }Potser així el teu vertader
+    t'ajuda a veure més enllà...{:clear }Potser així el teu veritable
 
-    tu obri finalment els ulls.
+    tu obre finalment els ulls.
 - id: 21404
   text: >-
     {:unk13 A0 00 32 00}{:unk06 00}{:unk08 01 01 06}Per què em deixes
@@ -2569,11 +2567,11 @@
   text: >-
     {:unk13 7C 01 C3 00}{:unk06 02}{:unk08 03 01 05}No hi ha temps per a allò!
 
-    S'ha de rescatar la Megara!
+    Hem de rescatar la Megara!
 - id: 21408
   text: '{:unk13 AA 00 41 00}{:unk06 02}{:unk08 03 01 06}És veritat!'
 - id: 21499
-  text: "{:delayandfade 07 78} \nLa Megara estava molt preocupada per\nl'Hèrcules, perquè semblava fatigat\namb tanta lluita, i per això va decidir\nvisitar l'Hades i demanar-li que li\ndonés un respir a l'heroi.\n \nLa Megara sola en el Inframon?\nAixò sí que és preocupant!,\npensa en Sora, raz per la qual\ns'ofreix a anar-hi en el seu lloc.\n \n"
+  text: "{:delayandfade 07 78} \nLa Megara estava molt preocupada per\nl'Hèrcules, perquè semblava fatigat\namb tanta lluita, i per això va decidir\nvisitar l'Hades i demanar-li que li\ndonés un respir a l'heroi.\n \nLa Megara sola a l'Inframon?\nAixò sí que és preocupant!,\npensa en Sora, raz per la qual\ns'ofreix a anar-hi en el seu lloc.\n \n"
 - id: 21500
   text: "{:delayandfade 0A 78} \nDesprés d'acomiadar-se de l'Auron,\nen Sora i els seus decideixen tornar\namb la Meg per recomposar files.\n \nNo obstant, els sinistres\nplans de l'Hades ja estan en\nmarxa.\n \n \n \n"
 - id: 21501
@@ -2581,7 +2579,7 @@
 - id: 21502
   text: "{:delayandfade 0A 78} \nEn Fil acull amb una gran riallada\nla petició d'en Sora i decideix sense\ndubtar-ne entrenar el grup.\n \n \n \n \n \n"
 - id: 21503
-  text: "{:delayandfade 07 78} \nUna vegada acabat l'entrenament,\nl'Hèrcules sobreprèn a tots amb\nuna terrible notícia: un encaputxat\nha robat la Pedra de l'Olimp.\n \nEn Sora i els seus amics no poden\nquedar-se amb els braços creuats\ni surten rabents en busca del\nmalefactor.\n \n"
+  text: "{:delayandfade 07 78} \nUna vegada acabat l'entrenament,\nl'Hèrcules sobreprèn a tots amb\nuna terrible notícia: un encaputxat\nha robat la Pedra de l'Olimp.\n \nEn Sora i els seus amics no poden\nquedar-se amb els braços creuats\ni surten rabents a buscar del\nmalefactor.\n \n"
 - id: 21504
   text: "{:delayandfade 08 78} \nDe camí a l'Inframon, els amics\nes troben el Fil, que jeia a\nterra després d'haver-hi cagut\nderrotat de mans d'un encaputxat.\n \nLes coses han empitjorat\ni ara tot depèn de l'escollit\nde la clau espasa.\n \n"
 - id: 21505

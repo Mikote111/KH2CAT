@@ -37,7 +37,7 @@
   text: >-
     Doncs a practicar s'ha dit!{:delay 6C 00}{:clear }Seguiu el Flounder.
 
-    Ell us ensenyarà tot el q necessiteu.
+    Ell us ensenyarà tot el que necessiteu.
 - id: 5009
   text: Som-hi, Sora, tu pots!
 - id: 5010
@@ -46,7 +46,7 @@
   text: >-
     {:unk13 18 01 4A 01}{:unk08 01 01 01}I bé...{:clear }Què us porta
 
-    per aquests mars?{:clear }Passa alguna cosa?
+    per aquests mars?{:clear }Passa res?
 - id: 5012
   text: '{:unk13 5E 01 50 00}{:unk08 01 00 05}Més o menys.'
 - id: 5013
@@ -61,25 +61,25 @@
     papa estigui de bon humor.
 - id: 5015
   text: >-
-    {:unk13 04 01 2C 01}{:unk08 01 01 01}Eh, celebrarem un
+    {:unk13 04 01 2C 01}{:unk08 01 01 01}Ei, celebrarem un
 
     concert molt aviat.{:clear }Per què no canteu en el
 
     meu espectacle musical?
 - id: 5016
   text: >-
-    {:unk13 2C 01 64 00}{:unk08 01 01 05}Sisplau, digueu que sí!
+    {:unk13 2C 01 64 00}{:unk08 01 01 05}Si us plau, digueu que sí!
 
-    L'Ariel està molt rara últimament.{:clear }Però pot ser es tranquilitzi i
+    L'Ariel està molt rara últimament.{:clear }Però potser es tranquilitza i
 
-    practiqui si vosaltres hi participeu.
+    practica si vosaltres hi participeu.
 - id: 5017
   text: >-
     {:unk13 64 00 18 01}{:unk08 01 01 00}Pot ser
 
     divertit!
 - id: 5018
-  text: '{:unk13 AA 00 46 00}{:unk08 01 01 06}Compta amb nosaltres!'
+  text: '{:unk13 AA 00 46 00}{:unk08 01 01 06}Pots comptar-hi!'
 - id: 5019
   text: >-
     {:unk13 72 01 18 01}{:unk08 01 01 01}Excel・lent!{:clear }Ara, us mostraré el
@@ -98,7 +98,7 @@
   text: '{:unk13 72 01 2C 01}{:unk08 01 00 00}Òndia, no ho sé...'
 - id: 5024
   text: >-
-    {:unk13 40 01 2C 01}{:unk08 01 01 00}Quan volgueu cantar en una
+    {:unk13 40 01 2C 01}{:unk08 01 01 00}Quan vulgueu cantar en una
 
     obra mestra de la música...{:clear }només heu de venir a veure'm.
 - id: 5027
@@ -108,9 +108,9 @@
 - id: 5029
   text: Sora, has estat impressionant!
 - id: 5030
-  text: Eh! Jo vull cantar més frases!
+  text: Ei! Jo vull cantar més frases!
 - id: 5031
-  text: Majestat! Tenim visita!
+  text: Sa Majestat! Tenim visita!
 - id: 5032
   text: Rei Tritó!
 - id: 5033
@@ -125,7 +125,7 @@
     Ni un sol sensecor.
 - id: 5035
   text: >-
-    Majestat, els nostres convidats
+    Sa Majestat, els nostres convidats
 
     volen cantar en el musical.
 - id: 5036
@@ -163,7 +163,7 @@
 
     m'arrencarà les pinces per això!
 - id: 5044
-  text: Vinga! Hem de seguir ensajant!
+  text: Va! Hem de seguir ensajant!
 - id: 5045
   text: Ho sento, però no em ve de gust.
 - id: 5046
@@ -173,7 +173,7 @@
 - id: 5048
   text: Ah, sí?
 - id: 5049
-  text: Sé com animar l'Ariel!{:delay 60 00}{:clear }Vinga! Seguiu-me!
+  text: Sé com animar l'Ariel!{:delay 60 00}{:clear }Va! Seguiu-me!
 - id: 5050
   text: '{:unk13 5A 00 C8 00}{:unk08 01 01 05}Per aquí!'
 - id: 5051
@@ -185,11 +185,11 @@
     del món humà!
 - id: 5053
   text: >-
-    {:unk13 B4 00 E9 00}{:unk08 01 01 00}El vaig trobar després de la tempesta.
+    {:unk13 B4 00 E9 00}{:unk08 01 01 00}La vaig trobar després de la tempesta.
 
     Segur que és d'un naufragi.{:clear }No creieu que a l'Ariel
 
-    li encantaria?
+    la hi encantaria?
 - id: 5054
   text: >-
     {:unk13 2C 01 2C 01}{:unk08 01 01 01}Però si el Rei del Mar
@@ -198,7 +198,7 @@
 - id: 5055
   text: '{:unk13 B0 00 54 01}{:unk08 01 01 00}És millor que anar a la superfície!'
 - id: 5056
-  text: "{:unk13 C8 00 18 01}{:unk08 01 01 01}Vinga, ajudeu-me a moure'l."
+  text: "{:unk13 C8 00 18 01}{:unk08 01 01 01}Va, ajudeu-me a moure-la."
 - id: 5057
   text: '{:unk13 F0 00 6E 00}{:unk08 01 01 05}És impossible.'
 - id: 5058
@@ -235,9 +235,9 @@
   text: >-
     {:unk13 72 01 5A 00}{:unk08 01 00 05}Arribes tard, Sebastià.
 
-    Passa alguna cosa?
+    Passa res?
 - id: 5071
-  text: '{:unk13 0E 01 96 00}{:unk08 01 01 06}No res, Majestat.'
+  text: '{:unk13 0E 01 96 00}{:unk08 01 01 06}No res, sa Majestat.'
 - id: 5072
   text: "{:unk13 64 00 64 00}{:unk08 01 00 05}Me n'alegro."
 - id: 5073
@@ -249,7 +249,7 @@
   text: >-
     {:unk13 7C 01 50 00}{:unk08 01 00 05}Està acabada,
 
-    Majestat!
+    sa Majestat!
 - id: 5075
   text: >-
     {:unk13 37 01 E5 00}I exalça totes les meravelles
@@ -271,7 +271,7 @@
   text: '{:unk13 40 01 2C 01}{:unk08 01 01 01}Vu... vull dir... segur!'
 - id: 5079
   text: >-
-    {:unk13 2C 01 2C 01}{:unk08 01 01 01}Disculpi'm, Majestat, però
+    {:unk13 2C 01 2C 01}{:unk08 01 01 01}Disculpi'm, sa Majestat, però
 
     haig d'ensajar... Ja m'entén.
 - id: 5080
@@ -283,7 +283,7 @@
   text: >-
     {:unk13 72 01 2C 01}{:unk08 01 01 01}Ella no pot participar
 
-    en el musical així.
+    al musical així.
 - id: 5082
   text: '{:unk13 B4 00 04 01}{:unk08 01 01 01}Jo cantaré la seva part!'
 - id: 5083
@@ -294,7 +294,7 @@
 - id: 5084
   text: '{:unk13 5E 01 3C 00}{:unk08 01 00 05}Què? Per què no!?'
 - id: 5085
-  text: '{:unk13 2C 01 2C 01}{:unk08 01 01 01}Eh, és el Sebastià.'
+  text: '{:unk13 2C 01 2C 01}{:unk08 01 01 01}Ei, és el Sebastià.'
 - id: 5086
   text: '{:unk13 C1 00 DA 00}{:unk08 01 00 01}Això no funcionarà...'
 - id: 5087
@@ -307,7 +307,7 @@
 
     complicat per a vosaltres.
 - id: 5089
-  text: '{:unk13 4C 01 29 00}{:unk08 01 01 04}Vinga ja! No serà tan difícil.'
+  text: '{:unk13 4C 01 29 00}{:unk08 01 01 04}Au va! No serà tan difícil.'
 - id: 5090
   text: '{:unk13 72 01 2C 01}{:unk08 01 01 01}Eh...'
 - id: 5091
@@ -498,7 +498,7 @@
 
     obeir ton paretó?{:clear }Només et costaria perdre
 
-    el teu vertader amor.{:clear }Vinga, estimada.
+    el teu vertader amor.{:clear }Au va, estimada.
 
     És la teva última oportunitat.{:clear }Però tranquil・la, no et
 
@@ -626,7 +626,7 @@
 
     Només té fins demà al capvespre.
 - id: 5179
-  text: Eh, mireu!
+  text: Ei, mireu!
 - id: 5180
   text: ''
 - id: 5181
@@ -717,7 +717,7 @@
   text: >-
     Vaja, vaja...{:delay 78 00}{:clear }ni tan sols el Rei Tritó
 
-    pot permetre's el luxe{:delay BA 00}{:clear }d'invalidar un contracte.{:delay 7E 00}{:clear }No pot, no senyor.
+    pot permetre's el luxe{:delay BA 00}{:clear }d'inval・lidar un contracte.{:delay 7E 00}{:clear }No pot, no senyor.
 - id: 5215
   text: >-
     I ara, si em disculpeu,
@@ -739,7 +739,7 @@
 
     que no hi tinc alternativa.
 - id: 5219
-  text: Majestat!
+  text: Sa Majestat!
 - id: 5220
   text: Per fi!
 - id: 5221
@@ -1010,7 +1010,7 @@
 - id: 5332
   text: No
 - id: 5333
-  text: Escull una cançó.
+  text: Tria una cançó.
 - id: 5334
   text: Interpretes aquesta cançó?
 - id: 6432
@@ -1065,7 +1065,7 @@
     Recorda, no perdis el ritme!
 - id: 7941
   text: >-
-    {:unk13 04 01 6E 00}{:unk08 01 01 05}Ara anema improvitzar
+    {:unk13 04 01 6E 00}{:unk08 01 01 05}Ara improvitzem
 
     amb les bombolles!{:clear }La norma és la mateixa:
 
@@ -1077,7 +1077,7 @@
     Ja ho tens!
 - id: 8044
   text: >-
-    Vinga, Ariel...
+    Au, Ariel...
 
     ja pots sortir. Ja és segur ara.
 - id: 8045
@@ -1118,7 +1118,7 @@
 - id: 8807
   text: "{:unk13 FA 00 90 01}Compte amb l'escenari. Quina emoció!"
 - id: 8808
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Arriba a  l senyal just a temps.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Arriba al senyal just a temps.{:unk0e 00}'
 - id: 8809
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Toc, toc, toc!{:unk0e 00}'
 - id: 8810
@@ -1133,7 +1133,7 @@
 
     Entra i toca aquesta aleta!{:unk0e 00}
 - id: 8814
-  text: '{:unk13 FA 00 90 01}Arribes fins el blanc, utilitza la màgia.'
+  text: '{:unk13 FA 00 90 01}Arribes fins al blanc, utilitza la màgia.'
 - id: 8815
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Apunta bé i atent tan sols.{:unk0e 00}'
 - id: 8816
@@ -1143,7 +1143,7 @@
 - id: 8818
   text: '{:unk13 FA 00 90 01}Ui! Pels pèls!'
 - id: 8819
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Tu vine nedat, gaudeix ballant.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Tu vine nedant, gaudeix ballant.{:unk0e 00}'
 - id: 8820
   text: >-
     {:unk13 FA 00 90 01}{:unk0e 0A}És molt fácil si ho intentes.
@@ -1168,9 +1168,9 @@
 - id: 8826
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}un pop, pop, pop.{:unk0e 00}'
 - id: 8827
-  text: '{:unk13 FA 00 90 01}Ja, ja! Anem amb la següent!'
+  text: '{:unk13 FA 00 90 01}Ha, ha! Anem amb la següent!'
 - id: 8828
-  text: '{:unk13 FA 00 90 01}Mmm... Potser sigui una mica difícil.'
+  text: '{:unk13 FA 00 90 01}Mmm... Potser és una mica difícil.'
 - id: 8829
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Tu vine nedant, gaudeix ballant.{:unk0e 00}'
 - id: 8830
@@ -1184,7 +1184,7 @@
 
     amb un solo de tambor!
 - id: 8832
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Compta per a que comenci el ritme{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Compta perquè comenci el ritme{:unk0e 00}'
 - id: 8833
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}a sonar!{:unk0e 00}'
 - id: 8834
@@ -1398,7 +1398,7 @@
 - id: 8971
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}la cort i el rei.{:unk0e 00}'
 - id: 8972
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Saludeu sisplau: pare{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Saludeu si us plau: pare{:unk0e 00}'
 - id: 8973
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sebastià, Flounder.{:unk0e 00}'
 - id: 8974
@@ -1483,7 +1483,7 @@
 
     Per moure't verticalment, utilitza {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}.{:clear }Si prems {:icon dynamic-cross}, nedaràs més ràpidament.
 
-    Per fijar un blanc, utilitza {:icon dynamic-r1}, i
+    Per fixar un blanc, utilitza {:icon dynamic-r1}, i
 
     apropa-t'hi amb {:icon dynamic-circle} utilitzant Puntada Dofí.
 
@@ -1492,9 +1492,9 @@
   text: >-
     Utilitza {:icon dynamic-left-analog} i {:icon dynamic-right-analog} per moure't. 
 
-    Per fixar un objectiu, utilitza {:icon dynamic-r1},
+    Per fixar un objectiu, prem {:icon dynamic-r1}, i apropa-t'hi
 
-    i apropa-t'hi amb {:icon dynamic-circle} utilitzant Puntada Dofí.
+    amb {:icon dynamic-circle} utilitzant Puntada Dofí.
 
     {:color #00F0F080}Parla amb el Flounder.{:reset}
 - id: 17822
@@ -1513,12 +1513,12 @@
 
     Què heu fet tot aquest temps?{:clear }Com? Estàveu dormits?
 
-    Quina becaina!
+    Quina migdiada!
 - id: 18125
   text: >-
     La clau dels musicals és
 
-    moure's al ritme de la música.{:clear }Que la música invaeixi el teu cos...
+    moure's al ritme de la música.{:clear }Que la música envaeixi el teu cos...
 
     Ho veieu? Podeu sentir el ritme?
 - id: 18126
@@ -1535,12 +1535,12 @@
   text: >-
     No us n'oblideu: heu de
 
-    sentir el ritme en el cos.
+    sentir el ritme al cos.
 - id: 18129
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Participar en el musical?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Participes al musical?
 
-    {:chardelay 33 00}No estic preparat.
+    {:chardelay 33 00}No hi estic preparat.
 
     {:chardelay 09 00}Ho intentaré!
 - id: 18130
@@ -1565,14 +1565,14 @@
     duem aquella estàtua a la gruta de l'Ariel.{:clear }De pressa! Anem a moure-la!
 - id: 18134
   text: >-
-    En el mar també podem moure'ns
+    Al mar també podem moure'ns en
 
-    en vertical! Hauràs d'acostumar-te!
+    vertical! Hauràs d'acostumar-t'hi!
 - id: 18135
   text: >-
     Què podem fer per a que l'Ariel
 
-    deixi de pensar en la superfície?{:clear }No és fàcil conseguir que a algú
+    deixi de pensar en la superfície?{:clear }No és fàcil aconseguir que a algú
 
     li deixi d'agradar alguna cosa.
 - id: 18136
@@ -1584,12 +1584,12 @@
     tant de bo no es fiqui en embolics.
 - id: 18137
   text: >-
-    Si vols parlar amb algú, escull
+    Si vols parlar amb algú, tria
 
-    una criatura i neda cap a ella.
+    una criatura i neda-hi.
 - id: 18138
   text: >-
-    No hi ha ni rastro dels sensecor.
+    No hi ha ni rastre dels sensecor.
 
     És genial que tot estigui en calma.{:clear }Mai hagués imaginat que participaria
 
@@ -1667,7 +1667,7 @@
   text: >-
     En lloc d'utilitzar màgia, faré
 
-    ressonar la meva veu en el mar!{:clear }Algun dia m'agradaria cantar
+    ressonar la meva veu al mar!{:clear }Algun dia m'agradaria cantar
 
     per a la Daisy.
 - id: 18151
@@ -1676,7 +1676,7 @@
 
     està sota molta pressió.{:clear }Algun cop hauríem de dur-lo a la
 
-    superfície per a que es diverteixi.
+    superfície perquè es diverteixi.
 - id: 18152
   text: >-
     Potser és l'estàtua d'un
@@ -1952,7 +1952,7 @@
     {:chardelay 09 00}Sí, som-hi.
 - id: 18473
   text: >-
-    {:unk13 D0 00 68 00}{:unk08 01 00 05}Vinga, què faràs ara?{:clear }No sé res dels altres
+    {:unk13 D0 00 68 00}{:unk08 01 00 05}Va, què faràs ara?{:clear }No sé res dels altres
 
     mons, però...{:clear }... aquell ball no
 
@@ -2011,7 +2011,7 @@
 - id: 19870
   text: Quina tela!
 - id: 21529
-  text: "{:delayandfade 08 78} \nDesprés de la breu lecció de\nnatació submarina, el Sebastià\ninvita el Sora, el Donald i el\nGoofy a participar en el musical.\n \nNo tots els dies l'un rep\nuna invitació de l'estil, així\nque tots comencen a assajar\namb entusiasme.\n \n"
+  text: "{:delayandfade 08 78} \nDesprés de la breu lecció de\nnatació submarina, el Sebastià\ninvita el Sora, el Donald i el\nGoofy a participar al musical.\n \nNo tots els dies l'un rep\nuna invitació de l'estil, així\nque tots comencen a assajar\namb entusiasme.\n \n"
 - id: 21530
   text: "{:delayandfade 0A 78} \nEl Rei Tritó, coneixent l'Ariel\ncom la coneix, sap que la seva\nfilla tramava alguna cosa...\n \n \n \n \n \n"
 - id: 21531
@@ -2023,4 +2023,4 @@
 - id: 21534
   text: "{:delayandfade 0A 78} \nEl Sora i els seus amics han d'arribar\nfins a la malvada Úrsula mentre\nprotegeixen la pobra Ariel.\n \n \n \n \n \n"
 - id: 21535
-  text: "{:delayandfade 0A 78} \nEl pas del Sora i els seus amics\nper Atlàntica deixa, un cop més,\nun regne en el que hi impera la pau.\n \nI per celebrar-ho, què millor\nque un bon musical marí com\na colofó final de la aventura!?\n \n \n \n"
+  text: "{:delayandfade 0A 78} \nEl pas del Sora i els seus amics\nper Atlàntica deixa, un cop més,\nun regne en què hi impera la pau.\n \nI per celebrar-ho, què millor\nque un bon musical marí com\na colofó final de la aventura!?\n \n \n \n"

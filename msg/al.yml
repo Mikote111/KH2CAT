@@ -4,7 +4,7 @@
   text: >-
     Aahh! Em pregunto com deuen
 
-    estar l'Aladdín i la Jasmín.
+    estar l'Aladdin i la Jasmin.
 - id: 41
   text: >-
     Potser el Riku
@@ -16,7 +16,7 @@
   text: Seguiu somiant, nanos.
 - id: 44
   text: >-
-    Vinga, Donald,
+    Va, Donald,
 
     tu estaves pensant el mateix.
 - id: 45
@@ -46,7 +46,7 @@
   text: >-
     Em vaig quedar tancat a la llàntia
 
-    amb en Yafar. Us en recordeu?{:delay D2 00}{:clear }Doncs al final me'n vaig escapar,
+    amb en Jafar. Us en recordeu?{:delay D2 00}{:clear }Doncs al final me'n vaig escapar,
 
     però van passar coses i...
 - id: 57
@@ -59,10 +59,10 @@
 
     no us fa una mica de pena?
 - id: 60
-  text: Vull demanar perdó a l'Aladdín i la Jasmín.{:delay B4 00}{:clear }Podríeu potser vosaltres ajudar-m'hi?
+  text: Vull demanar perdó a l'Aladdin i la Jasmin.{:delay B4 00}{:clear }Podríeu potser vosaltres ajudar-m'hi?
 - id: 62
   text: >-
-    És clar!
+    I tant!
 
     Podem fer-ho, no?
 - id: 63
@@ -87,9 +87,9 @@
   text: >-
     {:unk13 1F 01 18 01}{:unk08 01 00 03}Però serà cosa teva
 
-    guanyar-te l'Aladdín i
+    guanyar-te l'Aladdin i
 
-    la Jasmín.{:clear }Hauràs de comportar-te,
+    la Jasmin.{:clear }Hauràs de comportar-te,
 
     entesos?
 - id: 71
@@ -101,28 +101,28 @@
   text: >-
     {:unk13 96 00 64 00}{:unk08 01 01 06}D'això,
 
-    on és l'Aladdín?
+    on és l'Aladdin?
 - id: 73
   text: >-
-    {:unk13 5E 01 2C 01}{:unk08 01 01 00}Apostaria que és
+    {:unk13 5E 01 2C 01}{:unk08 01 01 00}Apostaria que
 
-    en el palau.
+    és al palau.
 - id: 74
   text: '{:unk13 68 01 C8 00}{:unk08 01 00 01}Doncs som-hi!'
 - id: 75
-  text: Jasmín!
+  text: Jasmin!
 - id: 76
   text: Sora! Donald! Goofy!
 - id: 77
   text: Altesa!
 - id: 78
   text: >-
-    Mai vagi tenir l'oportunitat
+    Mai vaig tenir l'oportunitat
 
-    de donar-vos les gràcies.
+    de donar-vos-hi les gràcies.
 - id: 79
   text: >-
-    Vau ajudar l'Aladdín a derrotar aquell
+    Vau ajudar l'Aladdin a derrotar aquell
 
     horrible Jafar i vau salvar Agrabah.
 - id: 80
@@ -143,7 +143,7 @@
   text: >-
     I sempre compteu
 
-    amb l'Aladdín.
+    amb l'Aladdin.
 - id: 85
   text: >-
     Doncs... últimament
@@ -157,12 +157,12 @@
 - id: 87
   text: No n'estic segura.
 - id: 88
-  text: De vegades, és l'Aladdín alegre de sempre,{:delay D2 00}{:clear }però d'altres... sembla molt afligit.
+  text: De vegades, és l'Aladdin alegre de sempre,{:delay D2 00}{:clear }però d'altres... sembla molt afligit.
 - id: 91
   text: >-
-    Surt del palau i
+    Surt del palau i es passa
 
-    es passa el dia per allà sol.{:delay F6 00}{:clear }He parlat amb ell,
+    el dia per allà sol.{:delay F6 00}{:clear }He parlat amb ell,
 
     però diu que no li passa res.
 - id: 97
@@ -172,7 +172,7 @@
 - id: 103
   text: Hola, Sora!
 - id: 104
-  text: Torna a aquí!
+  text: Torna aquí!
 - id: 105
   text: Si no controles aquella bola de pèls...
 - id: 106
@@ -180,9 +180,9 @@
 - id: 107
   text: Miri, ho sento...
 - id: 108
-  text: Hauria de fer-te vergonya, Abú!
+  text: T'hauria de caure la cara de vergonya, Abú!
 - id: 109
-  text: Estem en paus?
+  text: Estem en pau?
 - id: 110
   text: ''
 - id: 111
@@ -209,10 +209,10 @@
   text: >-
     {:unk13 E5 00 35 00}{:unk08 01 01 07}Qui ha dit
 
-    que n'estigui?
+    que ho estigui?
 - id: 120
   text: >-
-    {:unk13 A0 00 46 00}{:unk08 01 01 04}La princesa Jasmín.{:clear }Està preocupada per les
+    {:unk13 A0 00 46 00}{:unk08 01 01 04}La princesa Jasmin.{:clear }Està preocupada per les
 
     teves continues escapades
 
@@ -225,16 +225,16 @@
   text: >-
     {:unk13 A9 00 45 00}{:unk08 01 01 07}Però...
 
-    Ja veig que a la Jasmín
+    Ja veig que a la Jasmin
 
     no se li escapa cap.
 - id: 124
   text: >-
     {:unk13 BA 00 39 00}{:unk08 01 01 07}Mireu, el Geni i la catifa
 
-    va sortir a veure el món.{:clear }És el que el Geni
+    van sortir a veure el món.{:clear }És el que el Geni
 
-    sempre va voler.{:clear }I me n'alegro mucho per
+    sempre havia volgut.{:clear }I me n'alegro molt per
 
     ell i tot això, però...
 - id: 126
@@ -311,7 +311,7 @@
     aquella preciosa llàntia.
 - id: 148
   text: >-
-    {:unk13 75 00 F5 00}{:unk08 01 01 00}És clar.
+    {:unk13 75 00 F5 00}{:unk08 01 01 00}I tant.
 
     Sempre que...{:clear }pogueu pagar-la.
 - id: 149
@@ -339,7 +339,7 @@
 
     potser pogueu
 
-    persuadir-me...
+    persuadir-m'hi...
 - id: 155
   text: >-
     {:unk13 F0 00 04 01}{:unk08 01 00 05}si em porteu
@@ -356,9 +356,9 @@
     Podria ser complicat...
 - id: 158
   text: >-
-    {:unk13 40 01 B4 00}{:unk08 01 01 04}N'hi ha a dolls
+    {:unk13 40 01 B4 00}{:unk08 01 01 04}N'hi ha a
 
-    en el palau.
+    dolls al palau.
 - id: 159
   text: >-
     {:unk13 40 01 64 00}{:unk08 01 00 04}Sí, però no em
@@ -367,7 +367,7 @@
 
     puc demanar-les.{:clear }No vull preocupar
 
-    la Jasmín ni
+    la Jasmin ni
 
     el Sultà.
 - id: 161
@@ -385,7 +385,7 @@
 
     les teves disculpes.
 - id: 164
-  text: '{:unk13 8C 00 50 00}{:unk08 01 00 06}Podeu comptar amb mi!'
+  text: '{:unk13 8C 00 50 00}{:unk08 01 00 06}Podeu comptar-hi!'
 - id: 165
   text: És aquí!
 - id: 166
@@ -452,7 +452,7 @@
   text: Bon intent, cervell de pardal!
 - id: 191
   text: >-
-    Ja veureu quan el Yafar quedi lliure!
+    Ja veureu quan el Jafar quedi lliure!
 
     Serà una meravella de sensecor!
 - id: 192
@@ -481,7 +481,7 @@
 
     La feliç vida dels enamorats.
 - id: 202
-  text: Alaaaddín!{:delay 32 00}{:clear }Jasmín!
+  text: Alaaaddin!{:delay 32 00}{:clear }Jasmin!
 - id: 204
   text: M'ho estic imaginant...
 - id: 205
@@ -493,13 +493,13 @@
   text: >-
     Bah, tant és!
 
-    Me n'alegro tant de veure't!
+    M'alegro tant de veure't!
 - id: 209
   text: Geni!
 - id: 210
   text: ''
 - id: 211
-  text: '{:delay 6C 00}{:clear }No tornaràs a deixarme en ridícul!'
+  text: '{:delay 6C 00}{:clear }No tornaràs a deixar-me en ridícul!'
 - id: 212
   text: >-
     {:delay 48 00}{:clear }Passaré al pla B!{:delay 5A 00}{:clear }Em desfaré de vosaltres
@@ -523,11 +523,9 @@
   text: >-
     {:unk13 6F 01 AC 00}{:unk08 01 00 01}Eehh...
 
-    Princesa Jasmín,{:clear }segur que vols
+    Princesa Jasmin,{:clear }segur que vols aquest
 
-    aquell ocell en
-
-    el galliner?
+    ocell al galliner?
 - id: 221
   text: >-
     {:unk13 CA 00 9B 00}{:unk08 01 01 05}Oh, em sembla que en Iago ha
@@ -575,7 +573,7 @@
   text: >-
     {:unk13 15 01 5E 01}{:unk08 01 00 00}Ei, on és
 
-    l'Aladdín?
+    l'Aladdin?
 - id: 230
   text: >-
     {:unk13 1C 01 7D 00}{:unk08 01 00 05}L'he vist corrent rere
@@ -587,7 +585,7 @@
   text: >-
     {:unk13 55 01 7C 00}{:unk08 01 00 01}L'Al no es pot perdre la gran
 
-    festa de comiat d'en Sora!{:clear }Vaig a per ell i el porto
+    festa de comiat d'en Sora!{:clear }Vaig per ell i el porto
 
     en un tres i no res!
 - id: 232
@@ -682,7 +680,7 @@
 - id: 262
   text: Jafar!?
 - id: 263
-  text: Aladdín, entrega'm la llàntia màgica.
+  text: Aladdin, entrega'm la llàntia màgica.
 - id: 264
   text: I ara, rates de carreu, acomiadeu-vos.
 - id: 265
@@ -716,7 +714,7 @@
 
     Jafar va ser alliberat.
 
-    Vinga, Iago. Xerra-ho.
+    Va, Iago. Xerra-ho.
 - id: 272
   text: >-
     {:unk13 A0 00 50 00}{:unk08 01 00 05}¡Eh! ¡Ya os he dicho
@@ -753,7 +751,7 @@
   text: '{:unk13 EA 00 61 00}{:unk08 01 00 05}És a les Ruïnes Enterrades.'
 - id: 282
   text: >-
-    {:unk13 54 01 04 01}{:unk08 01 00 00}Anem a per ell.
+    {:unk13 54 01 04 01}{:unk08 01 00 00}Anem a buscar-lo.
 
     Ves tu davant!
 - id: 283
@@ -822,7 +820,7 @@
     No ha estat idea meva!
 - id: 304
   text: >-
-    Ha estat en Yafar.
+    Ha estat en Jafar.
 
     M'ha obligat a dur-vos aquí.{:delay B4 00}{:clear }Vosaltres no el coneixeu com jo!
 
@@ -892,7 +890,7 @@
   text: >-
     {:delay 36 00}{:clear }En aquests moments, el teu estimat
 
-    Aladdín està xiuxiuejant el teu nom...{:delay 18 01}{:clear }amb el seu últim sospir!
+    Aladdin està xiuxiuejant el teu nom...{:delay 18 01}{:clear }amb el seu últim sospir!
 - id: 328
   text: ''
 - id: 329
@@ -960,7 +958,7 @@
   text: I tu porta't bé, entesos?
 - id: 354
   text: >-
-    És clar que sí!
+    I tant que sí!
 
     S'han acabat les males partides! He canviat!{:delay 38 01}{:clear }Tant de bo fos tan bon amic com el Geni.
 
@@ -999,7 +997,7 @@
   text: ''
 - id: 368
   text: >-
-    Eh? Aquell era el meu senyal? Em toca?{:delay 9C 00}{:clear }Vinga, Al, no puc construir
+    Eh? Aquell era el meu senyal? Em toca?{:delay 9C 00}{:clear }Au va, Al, no puc construir
 
     una autopista o així?
 - id: 370
@@ -1137,7 +1135,7 @@
 
     tret que me ofereixis una fortuna!{:clear }Ja saps, com les dels palaus o
 
-    les enterrades en els deserts...
+    les enterrades als deserts...
 - id: 4066
   text: >-
     Els mercaders hem de
@@ -1179,16 +1177,16 @@
 
     i a tot el palau!
 - id: 4093
-  text: La cosa és que... en Iago no és...
+  text: La cosa és que... en Iago volia...
 - id: 4094
   text: Mira que dir-li allò...
 - id: 4095
   text: ''
 - id: 4096
   text: >-
-    Ei, hauríem de parlar amb l'Aladdín.
+    Ei, hauríem de parlar amb l'Aladdin.
 
-    Ha d'estar per la ciutat, no?
+    Ha de ser per la ciutat, no?
 - id: 4098
   text: >-
     Bona idea.
@@ -1306,7 +1304,7 @@
     en el temps assignat.
 - id: 17025
   text: >-
-    {:unk08 02 00 06}Activar?
+    {:unk08 02 00 06}L'actives?
 
     {:chardelay 33 00}Ara no.
 
@@ -1318,7 +1316,7 @@
     en el temps assignat.
 - id: 17027
   text: >-
-    {:unk08 02 00 06}Activar?
+    {:unk08 02 00 06}L'actives?
 
     {:chardelay 33 00}Millor no.
 
@@ -1334,9 +1332,9 @@
 
     Poseeixes una gran força!
 - id: 17030
-  text: 'Pròxima parada: abaix!'
+  text: 'Propera parada: baix!'
 - id: 17031
-  text: 'Pròxima parada: dalt!'
+  text: 'Propera parada: dalt!'
 - id: 17032
   text: La porta està segellada màgicament.
 - id: 17055
@@ -1362,9 +1360,9 @@
     més que desgràcies. De pressa, Sora!
 - id: 17064
   text: >-
-    Recordes quan l'Aladdín es va
+    Recordes quan l'Aladdin es va
 
-    enamorar de la princesa Jasmín?{:clear }Quant ens va costar impedir que
+    enamorar de la princesa Jasmin?{:clear }Com ens va costar impedir que
 
     en Jafar s'apoderés del palau!
 - id: 17065
@@ -1425,7 +1423,7 @@
   text: >-
     Veus aquells núvols sinistres?
 
-    Allà és la {:theme 0A}Cova de las Meravelles{:reset}.{:clear }És un lloc perillós, però anant-hi
+    Allà és la {:theme 0A}Cova de les Meravelles{:reset}.{:clear }És un lloc perillós, però anant-hi
 
     junts, no tindrem problemes.
 - id: 17075
@@ -1439,7 +1437,7 @@
     per acontentar-me a mi...
 - id: 17076
   text: >-
-    Hi ha alguna cosa en la mirada
+    Hi ha alguna cosa a la mirada
 
     d'en Donald que no m'agrada.
 - id: 17077
@@ -1484,16 +1482,16 @@
     d'atrapar-lo tan aviat com pugueu.
 - id: 17693
   text: >-
-    Qui hagués dit que l'Aladdín
+    Qui hagués dit que l'Aladdin
 
-    acabaria conquerint la Jasmín!?{:clear }Allò demostra que pots aconseguir
+    acabaria conquerint la Jasmin!?{:clear }Allò demostra que pots aconseguir
 
     qualsevol cosa si t'ho proposes!
 - id: 17694
   text: >-
     Jo diria que gairebé
 
-    hem arribat.{:clear }TAnt de bo aconseguim el que
+    hem arribat.{:clear }Tant de bo aconseguim el que
 
     volem sense ficar-nos en embolics.
 - id: 17695
@@ -1542,7 +1540,7 @@
 
     {:chardelay 33 00}No m'interessa.
 
-    {:chardelay 52 00}És clar. Si és de franc...
+    {:chardelay 52 00}I tant. Si és de franc...
 - id: 18741
   text: >-
     Venç els sensecor!
@@ -1570,7 +1568,7 @@
   text: >-
     Si no fos pel que va
 
-    passar l'últim cop...{:clear }L'Aladdín i la Jasmín
+    passar l'últim cop...{:clear }L'Aladdin i la Jasmin
 
     no serien junts.{:clear }Així que de certa manera,
 
@@ -1584,7 +1582,7 @@
     Però qui hi voldria comprar?
 - id: 18816
   text: >-
-    Sembla que l'Aladdín és en el {:theme 0A}palau{:reset}.
+    Sembla que l'Aladdin és en el {:theme 0A}palau{:reset}.
 
     Espero que tots estiguin bé.{:clear }M'agradaria tornar a veure
 
@@ -1600,7 +1598,7 @@
 
     {:chardelay 33 00}No m'interessa.
 
-    {:chardelay 52 00}És clar!
+    {:chardelay 52 00}I tant!
 - id: 19080
   text: Una vella catifa usada.
 - id: 19081
@@ -1619,7 +1617,7 @@
     lloa els qui superen la prova.
 - id: 19199
   text: >-
-    Preteneu anar a per riqueses
+    Preteneu anar per riqueses
 
     a la {:theme 0A}Cova de les Meravelles{:reset}?{:clear }Vas de cap al desert.{:clear }Aquell lloc no m'agrada; és perillós, però
 
@@ -1656,7 +1654,7 @@
     {:chardelay 09 00}Aviam què passa!
 - id: 19351
   text: >-
-    O sigui que l'Aladdín només trobava
+    O sigui que l'Aladdin només trobava
 
     a faltar el Geni! Quin descans!{:clear }Què difícil és ser lluny dels
 
@@ -1686,7 +1684,7 @@
 - id: 20606
   text: Prem {:icon dynamic-triangle} per començar el duel! Ataca sense parar i no deixis que es curi.
 - id: 21509
-  text: "{:delayandfade 0A 78} \nEn Iago salva d'una bona\na tots, el que dona més\ncredibilitat a les seves disculpes.\n \nDesprés de l'escaramussa,\nel grup es dirigeix cap al\npalau per veure l'Aladdín.\n \n \n"
+  text: "{:delayandfade 0A 78} \nEn Iago salva d'una bona\na tots, el que dona més\ncredibilitat a les seves disculpes.\n \nDesprés de l'escaramussa,\nel grup es dirigeix cap al\npalau per veure l'Aladdin.\n \n \n"
 - id: 21510
   text: "{:delayandfade 0A 78} \nEl feliç retrobament queda\ninterromput pel Iago, que\nalterat assegura que en\nla llàntia s'hi troba\nconfinat el vil Jafar.\n \n \n \n \n"
 - id: 21511
@@ -1708,7 +1706,7 @@
 
     i el rei, però  és aleshores quan
 
-    s'adonen de l'absència de l'Aladdín...
+    s'adonen de l'absència de l'Aladdin...
 - id: 21513
   text: "{:delayandfade 07 B4}\nDe tornada a Agrabah, en Sora pregunta\nal mercader sobre l'Organització {XIII}.\nTot i que resulta evident que no és\nla primera vegada que escolta aquell\nnom, no xerra res.\n\nNo queda més remei que buscar\npistes en un altre lloc.\n \n \n"
 - id: 21514
