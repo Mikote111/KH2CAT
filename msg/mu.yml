@@ -138,7 +138,7 @@
 
     pot ocórrer en una batalla.{:clear }Estigueu atents al que trobeu i intenteu
 
-    utilitzar-lo per treure'n avantatge.
+    utilitzar-ho per treure'n avantatge.
 - id: 4132
   text: >-
     Mmm... Per combatre un adversari
@@ -283,7 +283,7 @@
 - id: 4211
   text: Mulan!
 - id: 4212
-  text: Així és com es fa!
+  text: Ben fet!
 - id: 4213
   text: >-
     Veus allò, Mulan? És el
@@ -945,7 +945,7 @@
 - id: 4438
   text: Com estaran tots?
 - id: 4439
-  text: Allà!
+  text: Mira!
 - id: 4440
   text: Alto!
 - id: 4441
@@ -996,7 +996,7 @@
 - id: 4459
   text: Un altre cop?
 - id: 4461
-  text: Va! Anem per ells!
+  text: Bé, primer el que toca!
 - id: 4462
   text: Ei! Tu! Deixa ja els truquets!
 - id: 4464
@@ -1039,14 +1039,14 @@
 - id: 4480
   text: '{:unk13 5A 00 B4 00}{:unk08 01 00 05}Vaja, vaja...'
 - id: 4481
-  text: '{:unk13 97 00 ED 00}{:unk06 01}{:unk08 01 01 06}Què? Passa alguna cosa?'
+  text: '{:unk13 97 00 ED 00}{:unk06 01}{:unk08 01 01 06}Què? Passa res?'
 - id: 4482
   text: '{:unk13 74 00 73 00}{:unk08 01 00 05}No!'
 - id: 4483
   text: >-
     {:unk13 40 01 32 00}{:unk08 01 00 05}Ens alegra que no
 
-    estigueu vestits de negre.
+    esteu vestits de negre.
 - id: 4484
   text: "{:unk13 5E 01 5A 00}{:unk06 02}{:unk08 03 01 06}L'heu vist?"
 - id: 4485
@@ -1062,7 +1062,7 @@
 - id: 4491
   text: Riku?
 - id: 4492
-  text: No. Qui és aquell?
+  text: No. Mai n'he sentit a parlar.
 - id: 4493
   text: '{:unk13 AD 00 3C 00}{:unk08 01 01 05}Suposo que no era el Riku.'
 - id: 4494
@@ -1133,7 +1133,7 @@
 
     amb ells!
 - id: 4514
-  text: '{:unk13 09 01 64 00}{:unk08 01 01 06}Sí... és clar!'
+  text: '{:unk13 09 01 64 00}{:unk08 01 01 06}Sí... i tant!'
 - id: 4515
   text: >-
     {:unk13 22 01 3C 00}{:unk06 01}{:unk08 01 01 05}No n'hi ha dubte.{:clear }És cert:
@@ -1562,7 +1562,7 @@
   text: >-
     Els altres deuen estar rebent
 
-    una càlida benvinguda en el palau.{:clear }Estar de guàrdia és aburrit. Hi faré
+    una càlida benvinguda en el palau.{:clear }Estar de guàrdia és avorrit. Hi faré
 
     un cop d'ull des del post de control.
 - id: 15224

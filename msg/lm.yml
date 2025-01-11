@@ -24,7 +24,7 @@
 - id: 5002
   text: Carai! Un altre cop sota el mar!
 - id: 5003
-  text: Ajà!
+  text: Ahà!
 - id: 5004
   text: Sora! Donald! Goofy!
 - id: 5005
@@ -221,12 +221,12 @@
   text: >-
     Oh, no!
 
-    Vosaltres tres quedeu-vos al marge!
+    Vosaltres tres quedeu-vos-en al marge!
 - id: 5067
   text: Mira qui parla!
 - id: 5068
   text: >-
-    Sí! Anaves a xerrar de
+    Sí! Volies xerrar de
 
     tot això al seu pare!
 - id: 5069
@@ -278,7 +278,7 @@
   text: >-
     {:unk13 8C 00 04 01}{:unk08 01 01 01}És terrible!
 
-    Hem de fer alguna cosa.
+    Hem de fer-hi alguna cosa.
 - id: 5081
   text: >-
     {:unk13 72 01 2C 01}{:unk08 01 01 01}Ella no pot participar
@@ -354,7 +354,7 @@
 - id: 5104
   text: '{:unk13 78 00 2C 01}Sí.'
 - id: 5105
-  text: '{:unk13 0E 01 5F 00}{:unk08 01 00 05}Anem a cridar-lo!'
+  text: '{:unk13 0E 01 5F 00}{:unk08 01 00 05}Cridem-lo!'
 - id: 5106
   text: '{:unk13 78 00 64 00}{:unk08 01 01 05}No! Si us plau!'
 - id: 5107
@@ -369,7 +369,7 @@
 - id: 5110
   text: '{:unk13 B4 00 78 00}{:unk08 01 01 04}Però no hi arribem...'
 - id: 5111
-  text: '{:unk13 20 01 AA 00}{:unk08 01 00 05}Jo!'
+  text: '{:unk13 20 01 AA 00}{:unk08 01 00 05}Casum!'
 - id: 5112
   text: >-
     Què bé, Sora. Segur que
@@ -882,19 +882,19 @@
 - id: 5275
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Mira tot això, oi que és genial.{:unk0e 00}'
 - id: 5276
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Tu penses que en altres llacs,{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Tu penses que a altres llacs,{:unk0e 00}'
 - id: 5277
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}I somies amb anar a dalt,{:unk0e 00}'
 - id: 5278
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Només mira el món del teu voltant,{:unk0e 00}'
 - id: 5279
-  text: "{:unk13 FA 00 90 01}{:unk0e 0A}just aquí al terra de l'oceà.{:unk0e 00}"
+  text: "{:unk13 FA 00 90 01}{:unk0e 0A}just aquí al fons de l'oceà.{:unk0e 00}"
 - id: 5280
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Què pot haver-hi allà a fora,{:unk0e 00}'
 - id: 5281
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}que causi tanta emoció?{:unk0e 00}'
 - id: 5282
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota del mar.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota el mar.{:unk0e 00}'
 - id: 5283
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Vius serena sent una sirena,{:unk0e 00}'
 - id: 5284
@@ -904,7 +904,7 @@
 - id: 5286
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}mentre nosaltres sempre flotem...{:unk0e 00}'
 - id: 5287
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota del mar.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota el mar.{:unk0e 00}'
 - id: 5288
   text: ''
 - id: 5289
@@ -924,7 +924,7 @@
 - id: 5296
   text: ''
 - id: 5297
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Quin mon vols explorar{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Quin món vols explorar{:unk0e 00}'
 - id: 5298
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}si la nostra banda comença a tocar?{:unk0e 00}'
 - id: 5299
@@ -932,7 +932,7 @@
 - id: 5300
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}són castanyoles.{:unk0e 00}'
 - id: 5301
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota del mar.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota el mar.{:unk0e 00}'
 - id: 5302
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}I els llimacs{:unk0e 00}'
 - id: 5303
@@ -944,11 +944,11 @@
 - id: 5306
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}per a que ballin{:unk0e 00}'
 - id: 5307
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota del mar!{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota el mar!{:unk0e 00}'
 - id: 5308
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Avui he tornar per rebelar-me{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Avui he tornat per rebelar-me{:unk0e 00}'
 - id: 5309
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sigueu benvinguts al començament{:unk0e 00}'
+  text: "{:unk13 FA 00 90 01}{:unk0e 0A}Sigueu benvinguts a l'inici{:unk0e 00}"
 - id: 5310
   text: ' '
 - id: 5311
@@ -1457,7 +1457,7 @@
 - id: 10420
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}les algues més verdes són.{:unk0e 00}'
 - id: 10421
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota del mar.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota el mar.{:unk0e 00}'
 - id: 10422
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}ets feliç.{:unk0e 00}'
 - id: 10423
@@ -1523,7 +1523,7 @@
     Ho veieu? Podeu sentir el ritme?
 - id: 18126
   text: >-
-    La vida sota del mar és lenta.{:clear }Si us aburriu, potser vulgueu
+    La vida sota el mar és lenta.{:clear }Si us avorriu, potser vulgueu
 
     tornar al vostre món...
 - id: 18127
@@ -1646,7 +1646,7 @@
     l'estàtua?
 - id: 18147
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Moure l'estàtua?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Movem l'estàtua?
 
     {:chardelay 33 00}Espera.
 
@@ -1662,7 +1662,7 @@
 
     li regalem l'estàtua a l'Ariel?{:clear }Li encanten les coses de la superfície.
 
-    Estic segur que li encantarà.
+    Estic segur que la hi encantarà.
 - id: 18150
   text: >-
     En lloc d'utilitzar màgia, faré
@@ -1702,7 +1702,7 @@
 
     i a la vegada tan lluny...{:clear }Ah, si pogués convèncer el meu pare de
 
-    quant meravellosos són els humans...
+    com de meravellosos són els humans...
 - id: 18156
   text: >-
     La cosa que li va caure a aquell home
@@ -1717,7 +1717,7 @@
     muntar el musical en pau!
 - id: 18158
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Començar l'assaig?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Comencem l'assaig?
 
     {:chardelay 33 00}Espera.
 
@@ -1861,7 +1861,7 @@
   text: >-
     L'Ariel va jurar que em demostraria
 
-    quant meravellosos són els humans.{:clear }Però mai hagués imaginat que
+    com de meravellosos són els humans.{:clear }Però mai hagués imaginat que
 
     arribaria tan lluny per fer-ho!
 - id: 18185

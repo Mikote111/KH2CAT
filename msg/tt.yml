@@ -201,7 +201,7 @@
   text: Ah, a veure, ja saps,{:delay 64 00}{:clear }estava pensant en veu alta.
 - id: 12146
   text: >-
-    Doncs jo dubto que poguem
+    Doncs jo dubto que puguem
 
     estar sempre junts.{:delay 96 00}{:clear }{:delay 37 00}{:clear } Però no és això el que vol dir madurar?{:delay AC 00}{:clear }El que importa no és quantes
 
@@ -3202,7 +3202,7 @@
   text: >-
     Jo volia buscar el meu amic Riku,
 
-    perquè poguem tornar a les illes.
+    perquè puguem tornar a les illes.
 - id: 14491
   text: >-
     Sí, ho sé.{:delay 7E 00}{:clear }Tanmateix, tot el que hi ha en el
@@ -4670,7 +4670,7 @@
 
     Esteu preparats?
 - id: 17563
-  text: "{:unk13 00 01 40 01}{:unk08 02 00 06}Preparat per lluitar contra el Setzer?\n{:chardelay 33 00}Encara no.\n{:chardelay 09 00}Estic preparat! ¡Comencem! "
+  text: "{:unk13 00 01 40 01}{:unk08 02 00 06}Preparat per lluitar contra el Setzer?\n{:chardelay 33 00}Encara no.\n{:chardelay 09 00}Estic preparat! Comencem! "
 - id: 17587
   text: >-
     {:color #00F0F080}Prem {:icon dynamic-start} per accedir al menú principal.{:clear }{:reset}Hi pots consultar la condició i els calés i canviar la

@@ -9,7 +9,7 @@
 
     canalla per fer les coses bé.{:clear }En comptes d'ells, voldríeu
 
-    ajudar-me vosaltres?
+    ajudar-m'hi vosaltres?
 - id: 5773
   text: >-
     Mai podrem organitzar Halloween
@@ -28,7 +28,7 @@
   text: >-
     Mmm... Aquí no veig res que
 
-    poguem utilitzar per a Halloween.
+    puguem utilitzar per a Halloween.
 - id: 5779
   text: >-
     Qui sigui que s'hagi colat en el
@@ -49,7 +49,7 @@
 
     que el Jack m'eclipsi.{:clear }Espero que aquest any tots
 
-    gaudiu del Halloween i del Nadal.
+    gaudiu de Halloween i de Nadal.
 - id: 5784
   text: >-
     Els sensecor estan causant problemes
@@ -72,36 +72,36 @@
 
     Vila Hallo... Eh?
 - id: 5792
-  text: Eh! És el Zero!{:delay 6C 00}{:clear }Com estàs, nano?
+  text: Ei! És el Zero!{:delay 6C 00}{:clear }Com va, nano?
 - id: 5793
-  text: Què serà això?
+  text: Què deu ser això?
 - id: 5794
   text: És el Jack!
 - id: 5795
   text: Sora, Donald i Goofy! {:delay 9B 00}{:clear }Benvinguts i bon Nadal!
 - id: 5796
-  text: Bon Nadal? {:delay 85 00}{:clear }Voldràs dir feliç Halloween!
+  text: Bon Nadal? {:delay 85 00}{:clear }Voldràs dir bon Halloween!
 - id: 5797
   text: >-
-    I tant! Feliç Halloween
+    I tant! Bon Halloween
 
     de part de Jack Skelleton...{:delay D2 00}{:clear }el Rei Carbassa!
 - id: 5798
   text: >-
     Perdoneu-me! És que aquest any
 
-    celebraré el Nadal sense estar-se de res,{:delay 0E 01}{:clear }així que me'n vaig a Vila
+    celebraré Nadal sense estar-me de res,{:delay 0E 01}{:clear }així que me'n vaig a Vila
 
     Nadal a veure el Pare Cruel.
 - id: 5799
   text: Pare Cruel?
 - id: 5800
-  text: Crec que es refereix al Pare Noel.
+  text: Em penso que es refereix al Pare Noel.
 - id: 5801
   text: No són preciosos aquests adorns?
 - id: 5802
   text: >-
-    Aquest any el Nadal també inundarà
+    Aquest any, Nadal també inundarà
 
     Vila Halloween!
 - id: 5803
@@ -114,7 +114,7 @@
 - id: 5805
   text: Un Nadal a Vila Halloween...
 - id: 5806
-  text: Li fem un cop d'ull?
+  text: Hi fem un cop d'ull?
 - id: 5807
   text: Som-hi, ràpid!
 - id: 5808
@@ -127,9 +127,9 @@
 - id: 5810
   text: Eh! Això pesa massa!
 - id: 5811
-  text: Deixe-m'ho anar!
+  text: Deixem-ho anar!
 - id: 5812
-  text: Ni s'us acudeixi fer-ho!{:delay 7D 00}{:clear }I ara, porteu-lo aquí.
+  text: Ni s'us acudeixi fer-ho!{:delay 7D 00}{:clear }I ara, porteu-ho aquí.
 - id: 5813
   text: Compte!
 - id: 5814
@@ -138,13 +138,13 @@
 
     M'heu arruinat l'experiment!
 - id: 5815
-  text: Sally! L'has acabat?{:delay 6C 00}{:clear }Vull ensenyar-li-ho als meus amics.
+  text: Sally! L'has acabat?{:delay 6C 00}{:clear }Vull ensenyar-ho als meus amics.
 - id: 5816
-  text: Ho sento, Jack.{:delay 5A 00}{:clear }Necesito una mica més de temps.
+  text: Em sap greu, Jack.{:delay 5A 00}{:clear }Necesito una mica més de temps.
 - id: 5817
   text: Ohh...
 - id: 5818
-  text: Bé, no passa res.{:delay 66 00}{:clear }Mentre estigui a punt per al Nadal!
+  text: Bé, no passa res.{:delay 66 00}{:clear }Mentre estigui a punt per Nadal!
 - id: 5819
   text: Però... Jack...
 - id: 5820
@@ -178,7 +178,7 @@
   text: >-
     Ja saps, aquells que volen
 
-    fotre el Halloween i el Nadal.{:delay C6 00}{:clear }Com es deien?{:delay 73 00}{:clear }Sensecor?
+    sabotejar Halloween i Nadal.{:delay C6 00}{:clear }Com es deien?{:delay 73 00}{:clear }Sensecor?
 - id: 5830
   text: >-
     És clar que no van amb nosaltres!{:delay 5A 00}{:clear }  {:delay 14 00}{:clear }Tranquil. El Donald, el 
@@ -195,7 +195,7 @@
     mateix, per ordre de l'Alcalde!
 - id: 5834
   text: >-
-    Socors! Ajuda!{:delay 8A 00}{:clear }Jo soc un simple funcionari,
+    Jack! On ets?{:delay 8A 00}{:clear }Jo només soc un simple funcionari,
 
     no puc ocupar-me'n sol.
 - id: 5835
@@ -219,7 +219,7 @@
 - id: 5840
   text: '{:unk13 E6 00 78 00}{:unk06 00}{:unk08 01 01 06}Sí!'
 - id: 5841
-  text: Què ens enduem la pròxima vegada?
+  text: Què ens enduem la propera vegada?
 - id: 5842
   text: Un cub ple d'orugues!
 - id: 5843
@@ -239,12 +239,12 @@
     significat de la paraula «maldat».
 - id: 5849
   text: >-
-    Bé, guardaespatlles!{:delay 66 00}{:clear }Vila Nadal és per aquí!{:delay 90 00}{:clear }La porta està en el bosc,
+    Bé, guardaespatlles!{:delay 66 00}{:clear }Vila Nadal és per aquí!{:delay 90 00}{:clear }La porta és al bosc,
 
     just després del cementiri!
 - id: 5850
   text: >-
-    Aquí està!
+    Aquí és!
 
     La porta de Vila Nadal.
 - id: 5851
@@ -289,7 +289,7 @@
   text: Allà és on viu el Pare Cruel.
 - id: 5864
   text: >-
-    Vaja! Hola a tots.{:delay 66 00}{:clear }Veniu a veure si sou a la
+    Vaja! Hola a tothom.{:delay 66 00}{:clear }Veniu a veure si sou a la
 
     meva llista de nens bons?
 - id: 5865
@@ -302,9 +302,9 @@
   text: Aquí ets.
 - id: 5869
   text: >-
-    Doncs segons la meva llista, Sora...{:delay B4 00}{:clear }fa set anys li vas dir a tot el
+    Doncs segons la meva llista, Sora...{:delay B4 00}{:clear }fa set anys vas dir a tot el món
 
-    món que no creies en el Pare Noel.{:delay 4A 01}{:clear }Això no està gens bé.
+    que no creies en el Pare Noel.{:delay 4A 01}{:clear }Això no està gens bé.
 - id: 5870
   text: Què diu del Donald i el Goofy?
 - id: 5871
@@ -348,19 +348,19 @@
   text: >-
     Doncs sigui com sigui,
 
-    han sigut molt trapelles.{:delay B7 00}{:clear }Aneu a per ells i porteu-los aquí.{:delay 84 00}{:clear }S'han guanyat una bona reprimenda.
+    han sigut molt trapelles.{:delay B7 00}{:clear }Aneu a buscar-los i porteu-los aquí.{:delay 84 00}{:clear }S'han guanyat una bona reprimenda.
 - id: 5886
   text: >-
     Eh... Sr. Cruel...{:delay 54 00}{:clear }Volia parlar amb vosté
 
-    sobre el Nadal...
+    sobre Nadal...
 - id: 5887
   text: >-
     Això haurà d'esperar.{:delay 78 00}{:clear }Haig de veure com van
 
     les coses en el meu taller.
 - id: 5888
-  text: Va, Jack.{:delay 23 00}{:clear }Anem per aquells gamberros.
+  text: Va, Jack.{:delay 23 00}{:clear }Atrapem aquells gamberros.
 - id: 5889
   text: Aahh... Molt bé, doncs.
 - id: 5890
@@ -376,7 +376,7 @@
   text: Quina classe de venjança?
 - id: 5892
   text: >-
-    La més malèvola i ruï que existeixi,
+    La més malèvola i roí que existeixi,
 
     és clar.
 - id: 5893
@@ -400,7 +400,7 @@
   text: Oi tant, Home del Sac.{:delay 96 00}{:clear }Et recordes del Sora, el Donald i el Goofy?
 - id: 5901
   text: >-
-    És clar que me'n record!
+    I tant que me'n recordo!
 
     Ets increïble! {:delay FA 00}{:clear }  {:delay 0F 00}{:clear }Mai podria oblidar el que em...{:delay C8 00}{:clear }  {:delay 14 00}{:clear }Què era el que em van fer?
 - id: 5902
@@ -417,9 +417,9 @@
   text: >-
     És veritat, és veritat! {:delay 78 00}{:clear }  {:delay 14 00}{:clear }Allò és una cosa que no oblidaré fàcilment!
 
-    És l'últim que recordo. {:delay 1D 01}{:clear }  {:delay 0F 00}{:clear }I serà l'únic que recordo fins que{:delay 91 00}{:clear }els ensenyi a aquells pallassos
+    És l'últim que recordo. {:delay 1D 01}{:clear }  {:delay 0F 00}{:clear }I serà l'únic que recordo fins que{:delay 91 00}{:clear }ensenyi a aquells pallassos a no
 
-    a no ficar-se amb l'Home del Sac.
+    ficar-se amb l'Home del Sac.
 - id: 5908
   text: Sí... Exacte. Així es parla.{:delay FC 00}{:clear }I ja tinc el pla perfecte en ment.
 - id: 5909
@@ -432,7 +432,7 @@
 - id: 5911
   text: Desperta! Desperta!
 - id: 5912
-  text: Volem veure què tant dolent ets!
+  text: Volem veure com de dolent ets!
 - id: 5913
   text: >-
     {:delay 4E 00}{:clear }Sembla que encara no
@@ -450,13 +450,13 @@
 - id: 5916
   text: Atureu-los!
 - id: 5917
-  text: Fote'ls canya!
+  text: Fot-los canya!
 - id: 5918
-  text: A per ells!
+  text: A ells!
 - id: 5919
-  text: '{:unk13 6E 00 96 00}{:unk06 00}{:unk08 01 00 06}Ja, ja, ja!'
+  text: '{:unk13 6E 00 96 00}{:unk06 00}{:unk08 01 00 06}Ha, ha, ha!'
 - id: 5920
-  text: '{:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 00 06}Què divertit!'
+  text: '{:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 00 06}Que divertit!'
 - id: 5921
   text: '{:unk13 04 01 78 00}{:unk06 00}{:unk08 01 01 06}Aneu a veure si el Sr. Sac és a punt!'
 - id: 5922
@@ -477,14 +477,14 @@
   text: >-
     {:unk13 2C 01 82 00}{:unk06 00}{:unk08 01 01 06}Òndia, com si no en
 
-    tinguéssim bastants ja.
+    tinguéssim prou ja.
 - id: 5926
   text: Ostres, jo ara m'he perdut.
 - id: 5927
   text: >-
     Ah! Això és absolutament ridícul.{:delay A8 00}{:clear }Tot ha de ser a punt
 
-    abans del Nadal!
+    abans de Nadal!
 - id: 5928
   text: És vostè el Sr. Pare Cruel?
 - id: 5929
@@ -505,7 +505,7 @@
   text: >-
     Bé, els preparatius per al
 
-    gran dia van amb retràs.{:delay F6 00}{:clear }Digues-li al Jack que l'espero a casa.{:delay DE 00}{:clear }Volia dir-me alguna cosa del Nadal.
+    gran dia van amb retràs.{:delay F6 00}{:clear }Digues al Jack que l'espero a casa.{:delay DE 00}{:clear }Volia dir-me alguna cosa de Nadal.
 - id: 5932
   text: >-
     Aquell és el problema!{:delay 66 00}{:clear }Si us plau, vagi a casa i tanqui la
@@ -537,16 +537,16 @@
   text: '{:unk13 FA 00 3C 00}{:unk06 00}{:unk08 01 01 06}Què passa, Sally?'
 - id: 5941
   text: >-
-    {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}Jack! L'Home del Sac ha segrestat
+    {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}Jack! L'Home del Sac ha
 
-    el Pare Noel!
+    segrestat el Pare Noel!
 - id: 5942
-  text: '{:unk13 E6 00 3C 00}{:unk06 02}{:unk08 03 01 07}¡Oh, no!'
+  text: '{:unk13 E6 00 3C 00}{:unk06 02}{:unk08 03 01 07}Oh, no!'
 - id: 5943
   text: >-
-    {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}I es dirigia cap a
+    {:unk13 AA 00 64 00}{:unk06 01}{:unk08 01 00 06}I es dirigia cap
 
-    Vila Nadal!
+    a Vila Nadal!
 - id: 5944
   text: >-
     {:unk13 FA 00 78 00}{:unk06 00}{:unk08 01 01 06}Som-hi, Jack,
@@ -560,7 +560,7 @@
   text: >-
     Espera...
 
-    Crec que li falta alguna cosa...{:delay B4 00}{:clear }  {:delay 28 00}{:clear }Ja ho tinc!{:delay 64 00}{:clear }Un xic més del toc
+    Em sembla que hi falta alguna cosa...{:delay B4 00}{:clear }  {:delay 28 00}{:clear }Ja ho tinc!{:delay 64 00}{:clear }Un xic més del toc
 
     especial de l'Home del Sac!
 - id: 5948
@@ -582,12 +582,12 @@
     tornar, insolent sac de cuques?
 - id: 5952
   text: >-
-    Ho sento!
+    Em sap greu!
 
     No em recordo de res!
 - id: 5953
   text: >-
-    Molt bé, ingrat.{:delay 72 00}{:clear }Et penediràs del dia en que
+    Molt bé, ingrat.{:delay 72 00}{:clear }Et penediràs del dia en què
 
     vas menysprear la meva ajuda.
 - id: 5954
@@ -604,7 +604,7 @@
 
     deute pendent, Jack!{:delay B4 00}{:clear }  {:delay 1E 00}{:clear }I el mateix va pels teus amiguets!
 - id: 5959
-  text: Què penses fer-li al Pare Cruel?
+  text: Què penses fer al Pare Cruel?
 - id: 5960
   text: Qui? {:delay 3C 00}{:clear }  {:delay 2D 00}{:clear }Pare Cruel? {:delay 64 00}{:clear }  {:delay 28 00}{:clear }No sé de què m'estàs parlant.
 - id: 5961
@@ -628,19 +628,19 @@
   text: >-
     Bé.
 
-    El Nadal torna a ser fora de perill!
+    El Nadal està salvat!
 - id: 5970
   text: >-
     Perfecte!
 
     Serà millor que em posi a treballar!
 - id: 5971
-  text: Deixa-li-ho Pare Noel!
+  text: Deixa-ho al Pare Noel!
 - id: 5972
   text: >-
     Sí, tu hauries de limitar-te
 
-    al Halloween i als ensurts!
+    a Halloween i els ensurts!
 - id: 5973
   text: Jack.
 - id: 5974
@@ -655,7 +655,7 @@
   text: >-
     Vejam, Jack Skelleton.{:delay 90 00}{:clear }Has salvat el Nadal i a mi.
 
-    I te n'estic molt agradaït.{:delay 08 01}{:clear }Però promet-me que no
+    I te n'estic molt agraït.{:delay 08 01}{:clear }Però promet-me que no
 
     causaràs més problemes!
 - id: 5979
@@ -675,46 +675,46 @@
   text: >-
     {:delay 3C 00}{:clear }Sí, ser el Pare Noel
 
-    pot ser esgotador,{:delay C6 00}{:clear }però deixa que et diggui una cosa, Jack.{:delay 7E 00}{:clear }Veure les cares felices dels nens
+    pot ser esgotador,{:delay C6 00}{:clear }però deixa que et digui una cosa, Jack.{:delay 7E 00}{:clear }Veure les cares felices dels nens
 
     quan descobreixen els regals{:delay 0E 01}{:clear }fa que tot valgui la pena,
 
     any rere any rere any.
 - id: 5983
   text: >-
-    Però tu, Jack...{:delay 54 00}{:clear }A tu t'encanta fer que cridin i
+    Però tu, Jack...{:delay 54 00}{:clear }A tu t'encanta fer que cridin
 
-    veure com tremolen de por.{:delay E4 00}{:clear }I si algú intentés
+    i veure com tremolen de por.{:delay E4 00}{:clear }I si algú intentés
 
     treure't tot això?
 - id: 5984
   text: >-
     Els dos tenim feines
 
-    molt importants.{:delay D8 00}{:clear }Jo haig de cuidar del Nadal
+    molt importants.{:delay D8 00}{:clear }Jo haig de cuidar-me de Nadal
 
-    i tu del Halloween.{:delay 26 01}{:clear }Així que cadascú ha de fer el que
+    i tu de Halloween.{:delay 26 01}{:clear }Així que cadascú ha de fer el que
 
     li toca de la millor manera possible.
 - id: 5985
   text: >-
-    Al cap i a la fi,{:delay 5A 00}{:clear }tu ets l'estrella del Halloween,
+    Al cap i a la fi,{:delay 5A 00}{:clear }tu ets l'estrella de Halloween,
 
     Jack Skelleton!{:delay D2 00}{:clear }El Rei Carbassa!{:delay 54 00}{:clear }El senyor dels malsons!
 - id: 5986
   text: >-
     Tot i que estiguis fascinat
 
-    amb el Nadal, Jack,{:delay D2 00}{:clear }el Halloween és la teva
+    amb Nadal, Jack,{:delay D2 00}{:clear }Halloween és la teva
 
-    vertdadera especialitat.{:delay AE 00}{:clear }No ho veus?{:delay 5A 00}{:clear }Els nens depenen de la nostra feina.{:delay A8 00}{:clear }El Halloween i el Nadal ens necessiten
+    veritable especialitat.{:delay AE 00}{:clear }No ho veus?{:delay 5A 00}{:clear }Els nens depenen de la nostra feina.{:delay A8 00}{:clear }Halloween i Nadal ens necessiten
 
-    als dos urgentment.
+    els dos urgentment.
 - id: 5987
   text: >-
     Té raó!
 
-    Soc el mestre del terror!{:delay D2 00}{:clear }I si el Halloween ha caigut
+    Soc el mestre del terror!{:delay D2 00}{:clear }I si Halloween ha caigut
 
     en la monotonia,{:delay 8A 00}{:clear }hauré de pensar en noves
 
@@ -727,7 +727,7 @@
 
     per tot arreu!{:delay 9C 00}{:clear }Hem de repassar els plans
 
-    per al pròxim Halloween!{:delay C6 00}{:clear }I necessito la teva aprovació!
+    per al proper Halloween!{:delay C6 00}{:clear }I necessito la teva aprovació!
 - id: 5990
   text: És cert.
 - id: 5991
@@ -743,7 +743,7 @@
   text: Jack! No és moment d'ensurts ara!
 - id: 5995
   text: >-
-    Què és això?{:delay 4E 00}{:clear }Pot ser que sigui massa
+    Què és això?{:delay 4E 00}{:clear }Potser és massa
 
     festiu per al Halloween.
 - id: 5996
@@ -776,7 +776,7 @@
 
     peces que m'han dut aquells babaus.
 - id: 6004
-  text: Haig de buscar-me altres ajudants.
+  text: Haig de buscar-me uns altres ajudants.
 - id: 6005
   text: Eeehh?
 - id: 6006
@@ -810,19 +810,19 @@
   text: On has trobat això?
 - id: 6016
   text: >-
-    En Vila Halloween.{:delay 60 00}{:clear }Els necessitaràs per al Nadal,
+    A Vila Halloween.{:delay 60 00}{:clear }Els necessitaràs per al Nadal,
 
-    oi, Pare?
+    oi, Cruel?
 - id: 6017
   text: >-
-    És clar.{:delay 8A 00}{:clear }Però aquests són només alguns
+    I tant.{:delay 8A 00}{:clear }Però aquests són només alguns
 
     dels regals que em van robar.
 - id: 6018
-  text: Li han robat?
+  text: L'hi han robat?
 - id: 6019
   text: >-
-    Oh, Pare!
+    Oh, Cruel!
 
     No pensaràs que he estat jo.
 - id: 6020
@@ -856,14 +856,14 @@
 - id: 6030
   text: Eh!
 - id: 6031
-  text: Vosaltres sou els lladres!
+  text: Així que vosaltres sou els lladres!
 - id: 6032
   text: Lladres?
 - id: 6033
   text: >-
     Heu robat els regals,
 
-    no és cert?
+    oi que sí?
 - id: 6034
   text: Nosaltres no hem sigut!
 - id: 6035
@@ -888,7 +888,7 @@
   text: >-
     {:unk13 2C 01 32 00}{:unk06 00}{:unk08 01 00 06}Estem buscant peces
 
-    per al experiment.
+    per a l'experiment.
 - id: 6042
   text: '{:unk13 5B 01 6F 00}{:unk06 00}{:unk08 01 00 05}Experiment?'
 - id: 6043
@@ -897,7 +897,7 @@
 
     està fabricant un amic!
 - id: 6044
-  text: '{:unk13 4D 01 51 01}{:unk06 00}{:unk08 01 01 07}Un a qui poguem potinejar!'
+  text: '{:unk13 4D 01 51 01}{:unk06 00}{:unk08 01 01 07}Un a qui puguem potinejar!'
 - id: 6045
   text: >-
     {:unk13 59 01 41 00}{:unk06 00}{:unk08 01 00 05}És cert, últimament
@@ -909,9 +909,9 @@
   text: >-
     {:unk13 5E 01 32 00}{:unk06 00}{:unk08 01 00 05}A més, els regals
 
-    de Nadal són aburrits!{:clear }No espanten ni fan fàstig...
+    de Nadal són avorrits!{:clear }No espanten ni fan fàstic...
 
-    Què poden tenir-ne de bo?
+    Què poden tenir-ne, de bo?
 - id: 6047
   text: '{:unk13 A4 01 78 00}{:unk06 00}{:unk08 01 00 06}Això!'
 - id: 6048
@@ -923,7 +923,7 @@
   text: >-
     {:unk13 4E 01 2D 00}{:unk06 00}{:unk08 01 00 05}Bé, se n'han anat els gamberros
 
-    que s'havíen endut els regals?
+    que s'havien endut els regals?
 - id: 6050
   text: '{:unk13 F9 00 2B 00}{:unk06 00}{:unk08 01 01 06}No ho sembla.'
 - id: 6051
@@ -936,7 +936,7 @@
 
     Sou tots aquí.
 - id: 6054
-  text: '{:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 00 05}Que passa alguna cosa?'
+  text: '{:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 00 05}Que passa res?'
 - id: 6055
   text: >-
     {:unk13 B4 00 50 00}{:unk06 00}{:unk08 01 01 06}Els sensecor han tornat
@@ -955,7 +955,7 @@
     uns regals quan els vaig veure.
 - id: 6060
   text: >-
-    {:unk13 30 01 58 00}{:unk06 02}{:unk08 03 00 05}Ajà!
+    {:unk13 30 01 58 00}{:unk06 02}{:unk08 03 00 05}Ahà!
 
     Ja tenim els culpables!
 - id: 6061
@@ -1226,7 +1226,7 @@
 - id: 6136
   text: Mmm, vist d'aquesta manera...{:delay 6A 00}{:clear } {:delay 0F 00}{:clear }sento una mica de pena per ell.
 - id: 6137
-  text: Feliç Halloween!
+  text: Bon Halloween!
 - id: 6138
   text: Quin regal més bonic!
 - id: 6139
@@ -1242,7 +1242,7 @@
 
     el més especial,{:delay A2 00}{:clear }és donar el regal i desitjar
 
-    profundament en el teu cor{:delay F6 00}{:clear }fer feliç a algú.
+    profundament en el teu cor{:delay F6 00}{:clear }fer feliç algú.
 - id: 6142
   text: >-
     És clar!{:delay 3C 00}{:clear }Oi, i tant!{:delay 4E 00}{:clear }Gràcies, Sally.
@@ -1414,7 +1414,7 @@
     Compte amb el Nyek, la Poll i el Puça!
 - id: 13023
   text: >-
-    Què ha sigut aquest xivarri?
+    Què ha sigut aquest terrabastall?
 
     Sembla que venia del {:theme 0A}taller{:reset}.{:clear }Tinc un mal presentiment.
 
@@ -1474,9 +1474,9 @@
   text: >-
     Aparentement, més enllà del cementiri,
 
-    hi ha una sendera que duu al Pare Cruel.{:clear }Per què estarà el Jack tan obsessionat
+    hi ha una sendera que duu al Pare Cruel.{:clear }Per què estarà el Jack tan
 
-    amb el Pare Cruel i el Nadal?
+    obsessionat amb el Pare Cruel i Nadal?
 - id: 16711
   text: >-
     Esteu buscant aquelles criatures?
@@ -1618,7 +1618,7 @@
   text: >-
     Sembla que el Jack encara
 
-    no s'ha oblidat del Nadal.{:clear }Només cal mirar-lo per adonar-se'n.
+    no s'ha oblidat de Nadal.{:clear }Només cal mirar-lo per adonar-se'n.
 - id: 16736
   text: >-
     M'és igual com, atrapeu la
@@ -1647,7 +1647,7 @@
   text: >-
     Han sigut els mateixos nens
 
-    d'abans, no?{:clear }És que no entenden que les
+    d'abans, no?{:clear }És que no entenen que les
 
     coses dels altres no es toquen?
 - id: 16741
@@ -1705,7 +1705,7 @@
 
     Vila Halloween?{:clear }Aquestes {:theme 0A}petjades{:reset} són molt rares.
 
-    Anirien descalços?
+    Anaven descalços?
 - id: 16784
   text: >-
     Sabeu què? Estic pensant en enviar regals
@@ -1717,23 +1717,23 @@
   text: >-
     De la mateixa manera que jo m'ocupo del
 
-    Nadal, el Jack és a càrrec del Halloween.{:clear }Cadascú té la seva pròpia vocació.
+    Nadal, el Jack és a càrrec de Halloween.{:clear }Cadascú té la seva pròpia vocació.
 
     Tu has d'ajudar els teus amics, Sora.
 - id: 16789
   text: >-
-    "Font de la Plaça de la Guillotina:
+    «Font de la Plaça de la Guillotina:
 
-    colpeja-la per a que s'activi."
+    colpeja-la per a que s'activi.»
 - id: 16790
   text: A la porta gran li han posat cadenes.
 - id: 16791
   text: La porta està tancada amb clau.
 - id: 16792
   text: >-
-    "Els cavallets funcionen malament
+    «Els cavallets funcionen malament a
 
-    a causa d'un raig. Ara és perillós."
+    causa d'un raig. Ara són perillosos.»
 - id: 16858
   text: >-
     El Pare Cruel
@@ -1760,19 +1760,19 @@
     Serà millor preparar-nos abans d'anar-hi.
 - id: 17097
   text: >-
-    "Clavegueres en obres.
+    «Clavegueres en obres.
 
-    Si t'hi poses a sobre..."
+    Si t'hi poses a sobre...»
 - id: 17098
   text: >-
-    "El sistema de seguretat de la casa del Jack
+    «El sistema de seguretat de la casa del Jack
 
-    funciona molt bé, com era de esperar."
+    funciona molt bé, com era de esperar.»
 - id: 17099
   text: >-
-    "Guillotina: instrument per tallar cosas.
+    «Guillotina: instrument per tallar coses.
 
-    No utilitzar per a la preparació d'aliments."
+    No utilitzar per a la preparació d'aliments.»
 - id: 17100
   text: >-
     Aquí hi ha un gargot que diu:
@@ -1794,7 +1794,7 @@
     estan causant problemes!
 - id: 17713
   text: >-
-    Què aburrit és tot
+    Que avorrit és tot
 
     sense l'Home del Sac.
 - id: 17714
@@ -1839,11 +1839,11 @@
     a les Terres Remotes! Atureu-lo!
 - id: 18526
   text: >-
-    Només en tornar, el primer que fa l'Home del Sac
+    Només en tornar, el primer que fa l'Home del
 
-    és intentar desbaratar el meu Nadal!{:clear }Em temo que l'últim cop
+    Sac és intentar desbaratar el meu Nadal!{:clear }Em temo que l'últim cop
 
-    no va aprendre la lecció.
+    no va aprendre'n la lecció.
 - id: 18527
   text: >-
     L'Home del Sac és aquell que l'últim cop va
@@ -1906,7 +1906,7 @@
 
     cap a aquells edificis.{:clear }Li agrada molt estar amb el Jack.
 
-    Potser ell també hi sigui.
+    Potser ell també hi és.
 - id: 19096
   text: Aquestes petjades semblen recents.
 - id: 19097
@@ -1919,7 +1919,7 @@
 - id: 19099
   text: Aquestes petjades són molt recents.
 - id: 19100
-  text: Aquestes petjades ja estan gairebé borrades.
+  text: Aquestes petjades ja estan gairebé esborrades.
 - id: 19101
   text: >-
     La porta gran ha estat tancada
@@ -1932,12 +1932,12 @@
     fins a aquelles tres criatures.
 - id: 19103
   text: >-
-    Aquestes petjades s'han borrat gairebé
+    Aquestes petjades s'han esborrat gairebé
 
     per complet. Semblen molt antigues.
 - id: 19104
   text: >-
-    La ximeneia li dona a l'habitació
+    La xemeneia dona a l'habitació
 
     una calidesa molt acollidora.
 - id: 19105
@@ -1986,7 +1986,7 @@
     on eren les escombraries.
 - id: 19369
   text: >-
-    Observa a tots
+    Observa tothom
 
     amb curiositat.
 - id: 19759

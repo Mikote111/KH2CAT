@@ -1513,7 +1513,7 @@ assets:
     multi:
     - name: remastered/msn/sp/AL13_TRAP_FREE.bar/SP_AL13_TRAP_FREE_bar0.png
     - name: remastered/msn/sp/AL13_TRAP_FREE2.bar/SP_AL13_TRAP_FREE2_bar0.png
-    - name: remastered/msn/sp/AL13_TRAP_MS_P.bar/SP_AL13_MS_P_bar0.png
+    - name: remastered/msn/sp/AL14_TRAP_MS_P.bar/SP_AL14_MS_P_bar0.png
     method: copy
     platform: pc
     package: kh2_fifth
@@ -1634,6 +1634,60 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_MU07_MS106_bar0.png
+  - name: remastered/msn/sp/NM10_MS203.bar/SP_NM10_MS203_bar0.png
+    multi:
+    - name: remastered/msn/sp/NM10_MS203_FREE.bar/SP_NM10_MS203_FREE_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM10_MS203_FREE_bar0.png
+  - name: remastered/msn/sp/NM10_MS203.bar/SP_NM10_MS203_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM10_MS203_bar1.png
+  - name: remastered/msn/sp/NM10_MS203.bar/SP_NM10_MS203_bar2.png
+    multi:
+    - name: remastered/msn/sp/NM10_MS203_FREE.bar/SP_NM10_MS203_FREE_bar2.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM10_MS203_bar2.png
+  - name: remastered/msn/sp/NM10_MS203.bar/SP_NM10_MS203_bar3.png
+    multi:
+    - name: remastered/msn/sp/NM10_MS203_FREE.bar/SP_NM10_MS203_FREE_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM10_MS203_bar3.png
+  - name: remastered/msn/sp/NM10_MS203_FREE.bar/SP_NM10_MS203_FREE_bar1.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM10_MS203_FREE_bar1.png
+  - name: remastered/msn/sp/NM10_MS203_FREE.bar/SP_NM10_MS203_FREE_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM10_MS203_FREE_bar4.png
+  - name: remastered/msn/sp/NM10_MS203_FREE.bar/SP_NM10_MS203_FREE_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM10_MS203_FREE_bar5.png
+  - name: remastered/msn/sp/NM00_MS202.bar/SP_NM00_MS202_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_NM00_MS202_bar0.png
   - name: remastered/msn/sp/NM00_MS202.bar/SP_NM00_MS202_bar1.png
     method: copy
     platform: pc
@@ -2496,6 +2550,218 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/file/wm_ws.2ld/CA_wm_ws_2ld1.png
+
+#Gumibattle
+  - name: remastered/gumibattle/advice/sp/advice_000.imz/SP_advice_000_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_000_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_001.imz/SP_advice_001_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_001_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_002.imz/SP_advice_002_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_002_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_003.imz/SP_advice_003_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_003_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_004.imz/SP_advice_004_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_004_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_005.imz/SP_advice_005_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_005_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_006.imz/SP_advice_006_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_006_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_007.imz/SP_advice_007_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_007_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_008.imz/SP_advice_008_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_008_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_009.imz/SP_advice_009_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_009_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_010.imz/SP_advice_010_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_010_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_011.imz/SP_advice_011_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_011_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_012.imz/SP_advice_012_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_012_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_013.imz/SP_advice_013_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_013_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_014.imz/SP_advice_014_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_014_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_015.imz/SP_advice_015_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_015_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_016.imz/SP_advice_016_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_016_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_017.imz/SP_advice_017_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_017_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_018.imz/SP_advice_018_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_018_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_019.imz/SP_advice_019_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_019_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_020.imz/SP_advice_020_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_020_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_021.imz/SP_advice_021_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_021_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_030.imz/SP_advice_030_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_030_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_031.imz/SP_advice_031_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_031_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_032.imz/SP_advice_032_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_032_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_033.imz/SP_advice_033_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_033_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_034.imz/SP_advice_034_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_034_imz0.png
+  - name: remastered/gumibattle/advice/sp/advice_040.imz/SP_advice_040_imz0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/advice/CA_advice_040_imz0.png
+  - name: remastered/gumibattle/sprite/sp/sprite.bar/SP_sprite_bar3.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/sprite/CA_sprite_bar3.png
+  - name: remastered/gumibattle/sprite/sp/sprite.bar/SP_sprite_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/sprite/CA_sprite_bar4.png
+  - name: remastered/gumibattle/sprite/sp/sprite.bar/SP_sprite_bar5.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/sprite/CA_sprite_bar5.png
+  - name: remastered/gumibattle/sprite/sp/sprite.bar/SP_sprite_bar6.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/sprite/CA_sprite_bar6.png
+  - name: remastered/gumibattle/sprite/sp/sprite.bar/SP_sprite_bar7.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/sprite/CA_sprite_bar7.png
+  - name: remastered/gumibattle/sprite/sp/sprite.bar/SP_sprite_bar8.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/sprite/CA_sprite_bar8.png
+  - name: remastered/gumibattle/sprite/sp/sprite.bar/SP_sprite_bar9.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/gumibattle/sprite/CA_sprite_bar9.png
 
 #Gumimenu
   - name: remastered/gumimenu/sp/gumiedit.bar/SP_gumiedit_bar9.png

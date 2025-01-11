@@ -1005,7 +1005,7 @@
 - id: 12337
   text: Compte!
 - id: 12338
-  text: Hola, nois!
+  text: Ei, nois!
 - id: 12339
   text: Veig que seguiu en plena forma.
 - id: 12340
@@ -1528,12 +1528,12 @@
 - id: 12535
   text: Bé, per on comencem?
 - id: 12536
-  text: Ja ho sé! Anem a accedir al DTD!
+  text: Ja ho sé! Accedim al DTD!
 - id: 12537
   text: >-
     El rei està comprovant
 
-    la situación a la ciutat.{:delay 78 00}{:clear }Tornarà aviat.
+    la situació a la ciutat.{:delay 78 00}{:clear }Tornarà aviat.
 
     No us preocupeu. {:delay 75 00}{:clear }{:delay 39 00}{:clear }Eh, mireu, ens demana una contrasenya.
 - id: 12538
@@ -1573,7 +1573,7 @@
 - id: 12549
   text: Ha funcionat?
 - id: 12550
-  text: Ei, aquestes coses triguen estona, entesos?
+  text: Ei, aquestes coses necessiten temps, d'acord?
 - id: 12551
   text: Oh! {:delay 3C 00}{:clear }Està fent alguna cosa!
 - id: 12552
@@ -1598,9 +1598,9 @@
   text: Què estàs fent?
 - id: 12559
   text: >-
-    Li pregunto a l'ordinador si pot
+    Li pregunto a l'ordinador si
 
-    parlar-nos d'aquells incorporis.
+    pot parlar-nos dels incorporis.
 - id: 12560
   text: '[Estudis sobre els incorporis. Informes Ànsem.]'
 - id: 12561
@@ -1673,13 +1673,13 @@
   text: >-
     L'home de la foto és, sens dubte, {:delay 7C 00}{:clear }el que intentà apoderar-se del regne;{:delay 7C 00}{:clear }a qui vosaltres derrotàreu. {:delay 7F 00}{:clear }Però no lluitàveu contra ell,
 
-    sinó contra el seu sensecor.{:delay 44 01}{:clear }En realitat no era l'Ànsem; {:delay 8F 00}{:clear }anava per allà dient-li a
+    sinó contra el seu sensecor.{:delay 44 01}{:clear }En realitat no era l'Ànsem; {:delay 8F 00}{:clear }anava per allà dient a
 
-    tot el món que ho era.
+    tot el món que l'era.
 - id: 12585
   text: Aleshores...
 - id: 12586
-  text: Quèeee?
+  text: Què?????
 - id: 12587
   text: >-
     Vam lluitar tant sols per
@@ -1691,7 +1691,7 @@
   text: >-
     Eh... M'estic fent un embolic. {:delay 8C 00}{:clear }Si és un farsant,
 
-    què li va passar al vertader Ànsem?
+    què li va passar al veritable Ànsem?
 - id: 12591
   text: >-
     Bé, això és el que
@@ -1699,9 +1699,9 @@
     intento esbrinar.
 - id: 12592
   text: >-
-    Ànsem el Savi deu saber tot sobre
+    L'Ànsem el Savi deu saber tot sobre
 
-    els plans de l'Organizació {XIII}{:delay FC 00}{:clear }i el que le està passant als mons.
+    els plans de l'Organizació {XIII}{:delay FC 00}{:clear }i el que els està passant als mons.
 - id: 12593
   text: Estic segur que ens ajudarà.
 - id: 12594
@@ -1744,11 +1744,11 @@
   text: Vaja! {:delay 32 00}{:clear }{:delay 34 00}{:clear }No me'n recordo.
 - id: 12605
   text: >-
-    Ànsem el Savi...{:delay 64 00}{:clear }El vertader Ànsem... Ell deu saber
+    Ànsem el Savi...{:delay 64 00}{:clear }El veritable Ànsem... Ell deu saber
 
     la vertadera identitat de l'impostor.{:delay 07 01}{:clear }Per això haig de trobar-lo
 
-    i preguntar-l'ho.
+    i preguntar-li-ho.
 - id: 12606
   text: Tu! {:delay 3C 00}{:clear }{:delay 2D 00}{:clear }Tu vas començar tot això! {:delay 54 00}{:clear }{:delay 4E 00}{:clear }Per culpa teva, el Riku i la Kairi...
 - id: 12607
@@ -1764,7 +1764,7 @@
   text: Ho sento, Sora.
 - id: 12611
   text: >-
-    I què passa amb la Kairi? {:delay 3C 00}{:clear }{:delay 2A 00}{:clear }Potser que l'Organització
+    I què passa amb la Kairi? {:delay 3C 00}{:clear }{:delay 2A 00}{:clear }Pot ser que l'Organització
 
     l'hagi segrestada!
 - id: 12612
@@ -1790,7 +1790,7 @@
     i som lliures!
 - id: 12617
   text: >-
-    O sigui que no tenim excusa  per
+    O sigui que no tenim excusa per
 
     no voler ajudar els nostres amics.
 - id: 12618
@@ -1807,16 +1807,16 @@
     que se'ns necessita aquí!
 - id: 12622
   text: >-
-    Escolteu, mos sensecor!{:delay 8A 00}{:clear }Ataqueu a aquelles closques
+    Escolteu, sensecor meus!{:delay 8A 00}{:clear }Ataqueu aquelles closques
 
     blanques! Aniquileu-los!
 - id: 12623
   text: >-
     Què? Estàs boja?
 
-    No guanyarem mai! {:delay B4 00}{:clear }No sé tu, però jo em piro!
+    No guanyarem mai! {:delay B4 00}{:clear }No sé tu, però jo piro!
 - id: 12624
-  text: Ets un cobard patètic!
+  text: Ets un covard patètic!
 - id: 12625
   text: ''
 - id: 12626
@@ -1842,7 +1842,7 @@
     equivocat de bàndol.
 - id: 12632
   text: >-
-    Mmm... Si voleu escollir bàndol,{:delay 90 00}{:clear }per què no us alieu amb el Léon?
+    Mmm... Si voleu triar bàndol,{:delay 90 00}{:clear }per què no us alieu amb el Léon?
 
     Sempre necessita ajuda.
 - id: 12633
@@ -1858,7 +1858,7 @@
 - id: 12638
   text: Ningú que calgui mencionar.
 - id: 12639
-  text: Solo tres fanáticas de los tesoros.
+  text: Només tres fanàtiques dels tresors.
 - id: 12640
   text: Ens veiem, nois!
 - id: 12641
@@ -1872,7 +1872,7 @@
 - id: 12646
   text: No se suposa que el Sephiroth és {:delay 74 00}{:clear }la part fosca del cor del Cloud?
 - id: 12647
-  text: En Cloud us ha dit això?{:delay D2 00}{:clear }{:delay 2D 00}{:clear }Ja deu de ser conscient de tot.
+  text: En Cloud us ha dit això?{:delay D2 00}{:clear }{:delay 2D 00}{:clear }Ja en deu ser conscient.
 - id: 12648
   text: Però, què penses fer-li?
 - id: 12649
@@ -1881,25 +1881,25 @@
 
     anhela la foscor.
 - id: 12650
-  text: Diu que teniu asumptes pendents.
+  text: Diu que teniu assumptes pendents.
 - id: 12651
   text: Ja veig...{:delay 3C 00}{:clear }{:delay 6E 00}{:clear }Vol tornar a veure'm.
 - id: 12652
   text: Doncs li donaré el que vol.
 - id: 12653
   text: >-
-    L'últim raig de llum
+    L'últim raig de llum és el
 
-    és el més difícil... d'apagar.
+    més difícil... d'apagar.
 - id: 12654
   text: Us hi ajudarem!
 - id: 12655
   text: Sora! Darrere teu!
 - id: 12657
   text: >-
-    El rei és en el pati interior.
+    El rei és al pati interior.
 
-    Dirigiu-vos cap allà!
+    Dirigiu-vos-hi!
 - id: 12658
   text: Entesos!
 - id: 12659
@@ -1911,7 +1911,7 @@
 - id: 12662
   text: "{:delay 87 00}{:clear }Llavors jo me n'encarregaré"
 - id: 12663
-  text: Què? Tu també pretens lluitar?
+  text: Ah, que tu també hi lluites?
 - id: 12664
   text: Sephiroth!
 - id: 12665
@@ -1933,7 +1933,7 @@
   text: Calla!
 - id: 12669
   text: >-
-    Reconèix-ho. Has donat l'esquena
+    Reconeix-ho. Has donat l'esquena
 
     al present i vius en el passat, {:delay 33 01}{:clear }{:delay 28 00}{:clear }perquè la llum del
 
@@ -1950,14 +1950,14 @@
   text: Léon! Nois! Aguanteu!
 - id: 12675
   text: >-
-    Bé, nois, heu d'anar
+    Bé, nois, heu d'anar a
 
-    a buscar el Riku i la Kairi.
+    buscar el Riku i la Kairi.
 - id: 12676
   text: >-
-    El Léon i els altres també
+    El Léon i els altres
 
-    són els nostres amics!
+    també són amics nostres!
 - id: 12677
   text: >-
     No et preocupis,
@@ -1966,7 +1966,7 @@
 
     d'aquesta batalla.
 - id: 12678
-  text: Però... li ho vaig prometre al Léon!
+  text: Però... ho vaig prometre al Léon!
 - id: 12679
   text: Donald! Goofy! {:delay 5A 00}{:clear }Agafeu el Sora i aneu-vos-en!
 - id: 12680
@@ -1992,7 +1992,7 @@
 - id: 12687
   text: Vindràs amb nosaltres, t'agradi o no!
 - id: 12688
-  text: Som-hi, Sora! Has de ser bo.
+  text: Va, Sora! Has de ser bo.
 - id: 12689
   text: D'acord.
 - id: 12690
@@ -2000,20 +2000,20 @@
 - id: 12691
   text: Endavant!
 - id: 12692
-  text: Ho sento, sa Majestat!
+  text: Em sap greu, sa Majestat!
 - id: 12693
   text: ''
 - id: 12694
   text: Espero que ens perdoneu!
 - id: 12695
-  text: Ei, nois, s'us veu molt animats!
+  text: Ei, nois, se us veu molt animats!
 - id: 12696
-  text: Fot el camp!
+  text: Fum el camp!
 - id: 12697
   text: >-
-    No estaves tu trastejant
+    A tu no et vam enxampar
 
-    en el Inframón? {:delay CC 00}{:clear }Com ha entrat un estaquirot
+    trastejant a l'Inframon? {:delay CC 00}{:clear }Com ha entrat un estaquirot
 
     com tu a l'Organització {XIII}?
 - id: 12698
@@ -2022,14 +2022,14 @@
   text: Però nosaltres sí!
 - id: 12700
   text: >-
-    No s'ha de jutjar a ningú
+    No s'ha de jutjar ningú
 
     per les aparences.
 - id: 12701
   text: >-
-    Uughh... Mira que els vaig dir que
+    Uughh... Mira que els vaig dir
 
-    no m'emboliquessin en aquest merder...
+    que enviaven el paio equivocat...
 - id: 12702
   text: Qui és aquest sonat?
 - id: 12703
@@ -2041,7 +2041,7 @@
   text: Ja... sense cors!
 - id: 12705
   text: >-
-    Sí que tenim cor!
+    Sí que en tenim!
 
     No sigueu així...
 - id: 12706
@@ -2052,7 +2052,7 @@
   text: >-
     Algú de l'Organització
 
-    vol ser el pròxim?
+    vol ser el proper?
 - id: 12709
   text: Ei! Sora!
 - id: 12710
@@ -2067,7 +2067,7 @@
 - id: 12713
   text: Som-hi doncs!
 - id: 12714
-  text: Ajà! Sou aquí!
+  text: Ahà! Sou aquí!
 - id: 12715
   text: Teniu molts amics als que ajudar.
 - id: 12716
@@ -2107,11 +2107,11 @@
 - id: 12730
   text: Oohh... Goofy!
 - id: 12731
-  text: Hola, nois!
+  text: Ei, nois!
 - id: 12732
   text: Goofy!
 - id: 12733
-  text: Ei, això ha fet molt de mal.
+  text: Ei, allò ha fet molt de mal.
 - id: 12734
   text: Ahhh, Goofy!
 - id: 12735
@@ -2132,7 +2132,7 @@
 - id: 12741
   text: Què els passa?
 - id: 12742
-  text: Eh!
+  text: Ei!
 - id: 12743
   text: És el tipus aquell que no és l'Ànsem!
 - id: 12744
@@ -2145,7 +2145,7 @@
   text: Savi Ànsem,{:delay 54 00}{:clear }vinc a demanar son consell.
 - id: 12748
   text: >-
-    M'alegra tenir la oportunitat
+    M'alegra tenir l'oportunitat
 
     de parlar així, amic meu.{:delay D2 00}{:clear }{:delay 20 00}{:clear }Estic intrigat amb la teva hipòtesi...{:delay 9C 00}{:clear }i em resulta difícil contenir
 
@@ -2166,7 +2166,7 @@
   text: >-
     Ho prohibeixo!{:delay 38 00}{:clear }{:delay 29 00}{:clear }Oblida't de la dita de les portes
 
-    i el cor de tots els mons.{:delay C6 00}{:clear }Aquell lloc no debe ser profanat!
+    i el cor de tots els mons.{:delay C6 00}{:clear }Aquell lloc no ha ser profanat!
 - id: 12753
   text: >-
     Però, mestre Ànsem...
@@ -2186,7 +2186,7 @@
 - id: 12758
   text: Fora!
 - id: 12759
-  text: Hem d'anar a pel Xehanort!
+  text: Hem de perseguir en Xehanort!
 - id: 12760
   text: Sí!
 - id: 12761
@@ -2210,7 +2210,7 @@
 
     On és la Kairi? I el Riku?
 - id: 12768
-  text: No sé res de cap Kairi.{:delay 83 00}{:clear }{:delay 30 00}{:clear }Pel que fa al Riku...{:delay 71 00}{:clear }potser hauries de preguntar-li al teu rei.
+  text: No sé res de cap Kairi.{:delay 83 00}{:clear }{:delay 30 00}{:clear }Pel que fa al Riku...{:delay 71 00}{:clear }potser hauries de preguntar-hi al teu rei.
 - id: 12769
   text: Alto!
 - id: 12770
@@ -2227,7 +2227,7 @@
   text: L'individu que acabeu de veure.{:delay 5A 00}{:clear }{:delay 14 00}{:clear }El seu líder.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }Et queda clar?{:delay 50 00}{:clear }{:delay 2D 00}{:clear }X-E-M, N-A-S.
 - id: 12777
   text: >-
-    L'Organització {XIII} vols
+    L'Organització {XIII} vol
 
     desfer-se dels sensecor?
 - id: 12778
@@ -2238,7 +2238,7 @@
 
     clau espasa allibera un cor captiu.
 - id: 12780
-  text: I això és el que l'Organització busca.
+  text: I això és el que l'Organització cerca.
 - id: 12781
   text: >-
     I què pensen fer aquells
@@ -2267,7 +2267,7 @@
   text: Oh, oh!
 - id: 12791
   text: >-
-    Ens asegurarem que
+    Ens assegurarem que
 
     rebi el màxim càstig.
 - id: 12793
@@ -2282,7 +2282,7 @@
 - id: 12796
   text: Sí. Més que res.
 - id: 12797
-  text: Demostra'm quant t'importa.
+  text: Desmostra'm com d'important.
 - id: 12798
   text: T'ho suplico...
 - id: 12800
@@ -2301,7 +2301,7 @@
   text: >-
     Malgrat això, ni s'imaginen
 
-    el vertader poder que alberguen.
+    el veritable poder que alberguen.
 - id: 12804
   text: >-
     La fúria de la clau espasa
@@ -2309,7 +2309,7 @@
     allibera aquells cors,
 - id: 12805
   text: >-
-    que es concentren en la foscor,
+    que es concentren a la foscor,
 
     sense amo, lliures...
 - id: 12806
@@ -2325,7 +2325,7 @@
 - id: 12808
   text: Però què carai t'empatoies?
 - id: 12809
-  text: El Kingdom Hearts em pertany a mi!
+  text: El Kingdom Hearts em pertany!
 - id: 12810
   text: >-
     El cor de tots els regnes,
@@ -2333,20 +2333,20 @@
     el cor de tot el que és viu.
 - id: 12811
   text: >-
-    Un domini anomenat
+    Un domini anomenat Kingdom
 
-    Kingdom Hearts ha de ser només meu!
+    Hearts ha de ser només meu!
 - id: 12812
   text: Malèfica, no! No més sensecor!
 - id: 12813
-  text: No acepto ordres teves!
+  text: No accepto ordres teves!
 - id: 12814
-  text: Necia...
+  text: Nècia...
 - id: 12815
   text: Oh, no!
 - id: 12816
   text: >-
-    Jo tindré a aquestes criatures a ratlla.{:delay A0 00}{:clear }Tu idea la forma
+    Jo mantindré aquestes criatures a ratlla.{:delay A0 00}{:clear }Tu idea la forma
 
     d'aniquilar-les per a sempre!
 - id: 12817
@@ -2359,15 +2359,15 @@
 - id: 12819
   text: Malèfica!
 - id: 12820
-  text: Ves-te'n!
+  text: Ves-te'n, ara!
 - id: 12821
-  text: No acepto ordres teves!
+  text: No accepto ordres teves!
 - id: 12822
   text: Sora! Som-hi!
 - id: 12823
   text: Però... què passa amb...?
 - id: 12824
-  text: Aviam... on ho vam deixar?
+  text: Bé doncs... on ho hem deixat?
 - id: 12825
   text: ''
 - id: 12826
@@ -2383,9 +2383,9 @@
   text: No! Els cors!
 - id: 12830
   text: >-
-    Potser tot el que hem fet...
+    Potser el que hem fet...
 
-    no hagi servit de res.{:delay FF 00}{:clear }{:delay 32 00}{:clear }Què faré si no puc
+    ha estat tot per no res.{:delay FF 00}{:clear }{:delay 32 00}{:clear }Què faré si no puc
 
     utilitzar la clau espasa!?
 - id: 12831
@@ -2398,9 +2398,9 @@
 - id: 12833
   text: Sora! Donald! Goofy!
 - id: 12834
-  text: Tranquil.{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }Aquells no cauran tan fàcilement.
+  text: Tranquil.{:delay 3C 00}{:clear }{:delay 1E 00}{:clear }Aquells tres no cauran tan fàcilement.
 - id: 12835
-  text: Aquell escollit de la clau espasa...{:delay 71 00}{:clear }{:delay 41 00}{:clear }és un nano amb sort.
+  text: L'escollit de la clau espasa...{:delay 71 00}{:clear }{:delay 41 00}{:clear }és un nano amb sort.
 - id: 12836
   text: Fins aviat.
 - id: 12837
@@ -2433,7 +2433,7 @@
 - id: 12849
   text: ''
 - id: 12850
-  text: Ajà!
+  text: Ahà!
 - id: 12851
   text: Bé! Està decidit!{:delay 6A 00}{:clear }Ens endurem tots els vostres objectes!
 - id: 12852
@@ -2629,7 +2629,7 @@
     Aviat l'enxamparé.
 - id: 13019
   text: >-
-    Riqueses! ¡Riqueses!
+    Riqueses! Riqueses!
             Soc tan feliç! ♪{:clear }... Ah! Tu!?
 - id: 13020
   text: >-
@@ -2679,13 +2679,16 @@
     els marrecs ens encantava.
 - id: 14294
   text: >-
-    Pot ser que tot el que hem fet...
+    Potser el que hem fet...
 
-    no hagi servit de res.{:delay FF 00}{:clear }{:delay 32 00}{:clear }Què faré si no puc
+    ha estat tot per no res.{:delay FF 00}{:clear }{:delay 32 00}{:clear }Què faré si no puc
 
     utilitzar la clau espasa!?
 - id: 14295
-  text: Imbècils!{:delay 54 00}{:clear }No es pot confiar en vosaltres per a res!
+  text: >-
+    Imbècils!{:delay 54 00}{:clear }No es pot confiar en
+
+    vosaltres per a res!
 - id: 14296
   text: Eh?
 - id: 14297
@@ -2894,7 +2897,7 @@
   text: El coneixes?
 - id: 16067
   text: >-
-    No...{:delay 2D 00}{:clear }{:delay 2F 00}{:clear }M'ha vingut aquell nom de cop.
+    No...{:delay 2D 00}{:clear }{:delay 2F 00}{:clear }Només m'ha vingut el nom de cop.
 
     Ell és... el Roxas.
 - id: 16068
@@ -2979,7 +2982,7 @@
   text: >-
     Vaja! No sé què ha passat, però
 
-    em sap greu haver-us preocupat!{:clear }Què passarà ara? Hem d'estar
+    em sap greu haver-vos preocupat!{:clear }Què passarà ara? Hem d'estar
 
     preparats per al que sigui!
 - id: 17865
@@ -3546,7 +3549,7 @@
 
     Haurem de buscar una altre camí.
 - id: 20358
-  text: N'ha passat molt, de temps, «vell amic».
+  text: N'ha passat molt, de temps, «vella amiga».
 - id: 20541
   text: Utilitza atacs potents per obrir les vàlvules. Has d'obrir les tres a la vegada!
 - id: 20543
@@ -3593,17 +3596,17 @@
 - id: 21388
   text: '{:unk13 31 01 5A 00}{:unk08 01 00 05}Eh?'
 - id: 21389
-  text: '{:unk13 82 00 37 00}{:unk08 01 01 06}Em sembla que han sortit d'allà.'
+  text: "{:unk13 82 00 37 00}{:unk08 01 01 06}Em sembla que han sortit d'allà."
 - id: 21390
   text: >-
     {:unk13 54 01 8C 00}{:unk08 01 00 05}Des de quan hi ha allà un forat?
 
-    Hi habrà alguna cosa dins?
+    Hi haurà res dins?
 - id: 21391
   text: >-
     {:unk06 02}{:unk13 A0 00 A0 00}{:unk08 03 01 05}Ja hi haurà temps per a això!
 
-    Hem d'anar a per el rei!
+    Hem d'anar amb el rei!
 - id: 21483
   text: "{:delayandfade 08 78} \nSegons el Merlí, el Pooh no recorda\nres perquè els sensecor han robat\nalgunes pàgines del seu llibre.\n \nEl Sora ha d'afanyar-se en\nrecuperar una a una les pàgines\ni tornar al món del simpàtic os\nabans que la cosa empitjori.\n \n \n"
 - id: 21484

@@ -647,7 +647,7 @@
 
     {:chardelay 33 00}No, gràcies.
 
-    {:chardelay 09 00}¡Sí, mostra'm el camí!
+    {:chardelay 09 00}Sí, mostra'm el camí!
 - id: 16981
   text: Està tancada amb un encanteri.
 - id: 16982
@@ -671,7 +671,7 @@
 
     {:chardelay 33 00}Millor deixar-ho estar.
 
-    {:chardelay A1 00}Fem-li un cop d'ull!
+    {:chardelay A1 00}Fem-hi un cop d'ull!
 - id: 20219
   text: >-
     {:unk08 02 00 06}El tipus de l'armadura

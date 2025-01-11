@@ -522,7 +522,7 @@
 - id: 701
   text: Terres Remotes
 - id: 702
-  text: Turó del Nadal
+  text: Turó de Nadal
 - id: 703
   text: Carrer dels Dolços
 - id: 704
@@ -1577,7 +1577,7 @@
   text: >-
     Una espasa lleugera com una
 
-    pluma per fer atacs veloços!
+    ploma per fer atacs veloços!
 - id: 1500
   text: Camps de batalla
 - id: 1501
@@ -2785,7 +2785,7 @@
   text: >-
     Roxas:
 
-    Ara no hi ha volta enrrere!
+    Ara no hi ha volta enrere!
 - id: 8006
   text: >-
     Roxas:
@@ -3148,7 +3148,7 @@
 
     Geni et donarà un cop de mà.
 - id: 10333
-  text: Amulet de Plumes
+  text: Amulet de Plomes
 - id: 10334
   text: >-
     Amb l'ajuda de dos amics, 
@@ -4064,7 +4064,7 @@
 - id: 14439
   text: Para
 - id: 14440
-  text: Dança salvatge
+  text: Dansa salvatge
 - id: 14442
   text: Normal
 - id: 14603
@@ -4104,7 +4104,7 @@
 - id: 14630
   text: Fulgor++
 - id: 14631
-  text: Ciutat de Halloween
+  text: Vila Halloween
 - id: 14632
   text: Un mapa del lloc.
 - id: 14633
@@ -4462,7 +4462,7 @@
 
     molt els PH màxims.
 - id: 14877
-  text: Anell Granate
+  text: Anell Granat
 - id: 14878
   text: >-
     Augmenta la força i
@@ -5301,7 +5301,7 @@
   text: >-
     Una carta d'un dels treballs a
 
-    temps parcial. Encarrega't de que
+    temps parcial. Encarrega't que
 
     arribi a la seva destinació!
 - id: 15125
@@ -5346,7 +5346,7 @@
   text: >-
     Un peça d'or maleït.
 
-    Té grabada una calavera.
+    Hi té gravada una calavera.
 - id: 15135
   text: Regal
 - id: 15136
@@ -5378,7 +5378,7 @@
 
     S'hi veu el Hayner i la colla davant
 
-    de la mansió de Vila Crepuscle.
+    la mansió de Vila Crepuscle.
 - id: 15143
   text: Oritxalcum
 - id: 15144
@@ -5739,7 +5739,7 @@
 
     quan t'ataquin.
 - id: 15342
-  text: Blanc fixe màgic
+  text: Blanc fix màgic
 - id: 15343
   text: >-
     Fixa un blanc automàticament
@@ -6797,7 +6797,7 @@
 - id: 16096
   text: Salta
 - id: 16097
-  text: Ciutat del Nadal
+  text: Vila Nadal
 - id: 16098
   text: Un mapa del lloc.
 - id: 16099
@@ -6805,7 +6805,7 @@
 - id: 16100
   text: Un mapa del lloc.
 - id: 16101
-  text: Oasis
+  text: Oasi
 - id: 16102
   text: Un mapa del lloc.
 - id: 16103
@@ -8458,7 +8458,7 @@
 
     Hem de capturar-los!
 - id: 19073
-  text: Rosca
+  text: Enrosca
 - id: 19074
   text: Revolució sobtada
 - id: 19113
@@ -8573,7 +8573,7 @@
   text: >-
     Sora:
 
-    Ja no hi ha volta enrrere...
+    Ja no hi ha volta enrere...
 - id: 19381
   text: Toca
 - id: 19388
@@ -8603,7 +8603,7 @@
   text: >-
     Sora:
 
-    Ja no hi ha volta enrrere...
+    Ja no hi ha volta enrere...
 - id: 19466
   text: Millor punt.
 - id: 19467
@@ -9948,7 +9948,7 @@
 - id: 22015
   text: >-
     ⤷ Prem {:icon dynamic-square} quan l'indicador mostri
-        a l'{:color #FFEC1980}Ariel{:reset} per obtenir punts i animar-la.
+        l'{:color #FFEC1980}Ariel{:reset} per obtenir punts i animar-la.
 - id: 22016
   text: >-
     ⤷ Asegura't de no prèmer {:icon dynamic-square} quan l'indicador
@@ -9988,15 +9988,16 @@
 
     {:icon dynamic-left-analog}
 
-    Moure endavant/enrrere/esquerra/dreta
+    Moure endavant/enrere/esquerra/dreta
 - id: 22024
   text: >-
-    {:icon dynamic-r2} {:color #FFEC1980}Fixar càmera{:reset}
+    {:icon dynamic-r2} {:color #FFEC1980}Fixa càmera{:reset}
 
-    Utilitza {:icon dynamic-right-analog} i manten-lo premut 
+    Utilitza {:icon dynamic-right-analog} i manten-lo
 
-    per controlar la càmera.
-
+    premut per controlar la
+    
+    càmera.
 
     {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}
 

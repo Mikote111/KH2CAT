@@ -626,7 +626,7 @@
   text: '{:unk13 F1 00 89 00}{:unk08 01 01 01}Ah! Hola, amics.'
 - id: 249
   text: >-
-    {:unk13 53 01 E6 00}{:unk08 01 01 01}Ostres! T'ho has montat
+    {:unk13 53 01 E6 00}{:unk08 01 01 01}Ostres! T'ho has muntat
 
     sense estar-te de res!
 - id: 250
@@ -682,7 +682,7 @@
 - id: 263
   text: Aladdin, entrega'm la llàntia màgica.
 - id: 264
-  text: I ara, rates de carreu, acomiadeu-vos.
+  text: I ara, rates de carrer, acomiadeu-vos.
 - id: 265
   text: Aixafeu aquells mocosos!
 - id: 266
@@ -717,18 +717,18 @@
     Va, Iago. Xerra-ho.
 - id: 272
   text: >-
-    {:unk13 A0 00 50 00}{:unk08 01 00 05}¡Eh! ¡Ya os he dicho
+    {:unk13 A0 00 50 00}{:unk08 01 00 05}Ei! Ja us he dit
 
-    todo lo que sé!
+    tot el que sé!
 - id: 273
   text: >-
     {:unk13 4C 01 F9 00}{:unk08 01 01 02}Aquesta és la teva única
 
-    oportunitat, Iago.{:clear }Si arribo a descobrir que
+    oportunitat, Iago.{:clear }Si arribo a descobrir
 
-    ens has mentit o amagat
+    que ens has mentit o
 
-    alguna cosa, ho pagaràs.{:clear }No tornaré a parlar-te
+    amagat res, ho pagaràs.{:clear }No tornaré a parlar-te
 
     mai més!
 - id: 277
@@ -826,7 +826,7 @@
 
     Pot arribar a ser molt convincent!{:delay FA 00}{:clear }Em va dir que si no cooperava,
 
-    me anava a...
+    em...
 - id: 307
   text: On és?
 - id: 308
@@ -883,7 +883,7 @@
   text: >-
     {:delay 60 00}{:clear }Tu, com a reina meva, ploraràs
 
-    al meu costat tot l'eternitat!
+    al meu costat tota l'eternitat!
 - id: 326
   text: Bah, si us plau!
 - id: 327
@@ -915,12 +915,12 @@
   text: No et fiquis amb rates de carrer!
 - id: 336
   text: >-
-    Us heu enfrontat cara a cara
+    Us heu enfrontat cara a cara contra
 
-    contra en Jafar i no m'hi has convidat, Al?
+    en Jafar i no m'hi has convidat, Al?
 - id: 337
   text: >-
-    Ho sento, Geni.
+    Em sap greu, Geni.
 
     Tot ha sigut molt ràpid.
 - id: 338
@@ -953,7 +953,7 @@
 - id: 351
   text: Suposo que Agrabah ja és fora de perill.
 - id: 352
-  text: Sí. Gràcias, nois.
+  text: Sí. Gràcies, nois.
 - id: 353
   text: I tu porta't bé, entesos?
 - id: 354
@@ -990,7 +990,7 @@
   text: >-
     Bé...
 
-    almenys puc volar.
+    com a mínim puc volar.
 - id: 366
   text: Compte!
 - id: 367
@@ -1202,7 +1202,7 @@
   text: >-
     En Jafar deu estar planejant
 
-    prendre el {:theme 0A}palau{:reset}.{:clear }Seguro que no pensa compartir
+    prendre el {:theme 0A}palau{:reset}.{:clear }Segur que no pensa compartir
 
     amb mi les riqueses que hi trobi!
 - id: 8059
@@ -1517,7 +1517,7 @@
     resulta completament nou.
 - id: 17698
   text: >-
-    Per què no tornem? No, no podem.
+    Per què no n'hi tornem? No, no podem.
 
     Tot i que ho hauríem de fer...
 - id: 17727
@@ -1680,7 +1680,7 @@
 
     {:chardelay 33 00}Millor no arriscar-s'hi.
 
-    {:chardelay A1 00}Fem-li un cop d'ull!
+    {:chardelay A1 00}Fem-hi un cop d'ull!
 - id: 20606
   text: Prem {:icon dynamic-triangle} per començar el duel! Ataca sense parar i no deixis que es curi.
 - id: 21509

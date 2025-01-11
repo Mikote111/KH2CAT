@@ -165,7 +165,7 @@
     per evitar que pateixi cap mal.
 - id: 7890
   text: >-
-    ¿D'on han sortit aquells monstres?
+    D'on han sortit aquells monstres?
 
     Podria haver-ne {:theme 0A}més per aquí prop{:reset}.{:clear }Disculpeu-me, però necessito un descans.
 
@@ -1075,7 +1075,7 @@
 - id: 10171
   text: Què!?
 - id: 10172
-  text: '{:unk13 86 01 50 01}{:unk08 01 00 00}Ve del port.'
+  text: '{:unk13 86 01 50 01}{:unk08 01 00 00}Ve del moll.'
 - id: 10173
   text: '{:unk13 FD 00 88 00}{:unk08 01 00 05}Anem a veure.'
 - id: 10174
@@ -1083,16 +1083,16 @@
 - id: 10175
   text: Zora! Una ajudeta!
 - id: 10176
-  text: Som en Sora, Donald i Goofy!
+  text: Som en Sora, en Donald i en Goofy!
 - id: 10177
   text: Deixareu morir un company?
 - id: 10178
   text: Molt bé, molt bé...
 - id: 10180
   text: >-
-    {:unk13 0C 01 2F 00}{:unk08 01 00 04}A alguna mala bèstia
+    {:unk13 0C 01 2F 00}{:unk08 01 00 04}A alguna mala bèstia li
 
-    l'haurà guanyat l'avaricia.
+    haurà guanyat l'avaricia.
 - id: 10181
   text: '{:unk13 C8 00 39 00}{:unk08 01 00 05}Oh, ja veig...{:clear }No confieu en mi, oi?'
 - id: 10182
@@ -1129,7 +1129,7 @@
   text: >-
     {:unk13 F7 00 39 00}{:unk08 01 00 05}No, segura, no. Però
 
-    està trigant massa.{:clear }Jo volia anar amb ell.{:clear }Però va insistir en
+    està trigant massa.{:clear }Jo volia anar amb ell.{:clear }Però va insistir
 
     que m'hi quedés.{:clear }No puc asseure'm a esperar!{:clear }Haig de saber si
 
@@ -1148,13 +1148,13 @@
     beneficiar-me'n.
 - id: 10195
   text: >-
-    {:unk13 FA 00 39 00}{:unk08 01 00 05}Jo t'ho recompensaré.{:clear }Tot i que... tu li
+    {:unk13 FA 00 39 00}{:unk08 01 00 05}Jo t'ho recompensaré.{:clear }Tot i que... tu
 
     deus una a en Will.{:clear }Ell et va salvar la
 
     vida, te'n recordes?
 - id: 10196
-  text: '{:unk13 CD 00 27 00}{:unk08 01 01 06}És cert. Anem?'
+  text: '{:unk13 CD 00 27 00}{:unk08 01 01 06}És cert. Som-hi?'
 - id: 10197
   text: L'Interceptor a babord!
 - id: 10198
@@ -1180,9 +1180,9 @@
   text: L'Organització!
 - id: 10206
   text: >-
-    Vam trobar una sortida de la cova...{:delay 5B 00}{:clear }però aquell brivall va enviar una horda de
+    Vam trobar una sortida de la cova...{:delay 5B 00}{:clear }però aquell brivall va enviar-nos una
 
-    terribles criatures a per nosaltres... {:delay 21 01}{:clear } {:delay 2F 00}{:clear }Mai havia vist tals coses. {:delay 73 00}{:clear } {:delay 3D 00}{:clear }Crec que soc l'únic que ha
+    horda de terribles criatures... {:delay 21 01}{:clear } {:delay 2F 00}{:clear }Mai havia vist tals coses. {:delay 73 00}{:clear } {:delay 3D 00}{:clear }Crec que soc l'únic que ha
 
     aconseguit arribar al vaixell.
 - id: 10207
@@ -1301,7 +1301,7 @@
 - id: 10244
   text: Què esteu mirant?
 - id: 10245
-  text: Això no ens en fa treure aigua clara.
+  text: Això no ens en fa treure'n aigua clara.
 - id: 10246
   text: >-
     Òndia!{:delay 4E 00}{:clear }Potser estem bé perquè
@@ -1325,7 +1325,7 @@
 - id: 10253
   text: Mireu!
 - id: 10254
-  text: Una de les peces! A per ell!
+  text: Una de les peces! Que no escapi!
 - id: 10255
   text: Només ens en falten tres!
 - id: 10256
@@ -1338,7 +1338,7 @@
 - id: 10258
   text: Què és allò?
 - id: 10259
-  text: Hola, companys!
+  text: Ei, companys!
 - id: 10260
   text: >-
     Una imitació ridícula,
@@ -1360,12 +1360,12 @@
   text: >-
     {:unk13 68 01 5E 01}{:unk08 01 00 02}És l'Organització {XIII}.{:clear }Ells són els qui
 
-    van darrere de tot això.
+    són rere tot això.
 - id: 10265
   text: '{:unk13 CA 00 0A 01}{:unk08 01 01 01}A on hauran anat?'
 - id: 10266
   text: >-
-    {:unk13 94 00 AD 00}{:unk08 01 01 01}L'home encaputxat s'hi va
+    {:unk13 94 00 AD 00}{:unk08 01 01 01}L'home encaputxat es va
 
     endur les seves criatures
 
@@ -1385,14 +1385,14 @@
 
     rival per a ells.
 - id: 10269
-  text: "{:unk13 27 01 A0 00}{:unk08 01 01 02}Allò sí que m'ho crec."
+  text: "{:unk13 27 01 A0 00}{:unk08 01 01 02}Això sí que m'ho crec."
 - id: 10270
   text: >-
-    {:unk13 01 01 39 00}{:unk08 01 00 04}Sora, crec que
+    {:unk13 01 01 39 00}{:unk08 01 00 04}Sora, em sembla que
 
     necessitarem la teva ajuda.
 - id: 10271
-  text: '{:unk13 86 01 5A 00}{:unk08 01 01 05}Compteu amb mi.'
+  text: '{:unk13 86 01 5A 00}{:unk08 01 01 05}Compteu-hi.'
 - id: 10272
   text: >-
     {:unk13 07 01 2D 00}{:unk08 01 00 04}Primer, trobem
@@ -1490,7 +1490,7 @@
 - id: 10301
   text: Mmm...
 - id: 10302
-  text: Res que poguem fer?
+  text: Res que puguem fer?
 - id: 10303
   text: Sí que n'hi ha.
 - id: 10304
@@ -1512,9 +1512,9 @@
     treure'n nyapa, Srta. Swann.
 - id: 10307
   text: >-
-    Quina pena! Ens tenies enganyats.
+    Quina pena! Ens tenies ben enganyats.
 
-    Creiem que havies passat pàgina.
+    Pensàvem que havies passat pàgina.
 - id: 10308
   text: >-
     La qüestió és...
@@ -1560,7 +1560,7 @@
   text: Això per què?
 - id: 10321
   text: >-
-    Ajiah! El Jack i el Sora
+    Ahiah! El Jack i el Sora
 
     s'assemblen una mica, no creieu?
 - id: 10322
@@ -1569,7 +1569,7 @@
   text: >-
     Hi ha qui diu que en Jack Sparrow és el
 
-    pitjor pirata que mai hagi navegat pel Carib.
+    pitjor pirata que mai ha navegat pel Carib.
 - id: 10324
   text: Ningú pot dir això de debò.
 - id: 10325
@@ -1697,7 +1697,7 @@
   text: >-
     Si algú invoca el «parlament», s'han
 
-    suspendre les hostilitats i negociar.{:clear }Així de simple.
+    de suspendre les hostilitats i negociar.{:clear }Així de simple.
 
     Fins i tot els pirates tenim un codi.
 - id: 15861
@@ -1709,11 +1709,11 @@
     hauríem enfonsat abans d'arribar aquí.
 - id: 15862
   text: >-
-    Aquest sembla ser el lloc on hi
+    Aquest sembla ser el lloc on
 
     arriben els vaixells naufragats.{:clear }Pot ser que hi hagi un bot en bon estat
 
-    que poguem utiltizar. {:theme 0A}Fem-hi un cop d'ull.{:reset}
+    que puguem utilitzar. {:theme 0A}Fem-hi un cop d'ull.{:reset}
 - id: 15863
   text: >-
     Segur que aquells sensecor
@@ -1739,7 +1739,7 @@
 
     monstres ni de malediccions.{:clear }Penso partir de totes maneres, així
 
-    que afanyeu-vos cap els vostres llocs.
+    que afanyeu-vos cap als vostres llocs.
 - id: 15901
   text: >-
     El Jack no vol ajudar-nos.{:clear }Hem d'enfrontar-nos a l'Organització {XIII},
@@ -1775,7 +1775,7 @@
     pensar-hi... Ja saps com és el Donald.
 - id: 15960
   text: >-
-    Anem a pel vaixell del Will,
+    Anem a buscar el vaixell del Will,
 
     si us plau. Temo per ell.
 - id: 15961
@@ -1799,7 +1799,7 @@
     estaven maleïts.
 - id: 17010
   text: >-
-    {:unk13 1B 01 39 00}{:unk08 01 01 06}Creia que havíem vist la fi
+    {:unk13 1B 01 39 00}{:unk08 01 01 06}Em pensava que havíem vist la fi
 
     de la maledicció de l'or asteca...{:clear }Com és llavors...?
 - id: 17011
@@ -1841,12 +1841,12 @@
   text: >-
     Llavors tornem a la ciutat, no?
 
-    Partirem quant estigueu llestos.
+    Partirem quan estigueu a punt.
 - id: 17109
   text: >-
-    No puc creure que el Will hagi tornat a
+    No puc creure que el Will hagi tornat
 
-    {:theme 0A}l'Isla de Muerta{:reset}! Què pretén!?
+    a l'{:theme 0A}Isla de Muerta{:reset}! Què pretén!?
 - id: 17110
   text: >-
     L'Elizabeth està molt preocupada.
@@ -2044,7 +2044,7 @@
 - id: 20614
   text: Prem {:icon dynamic-triangle} per començar el duel! Identifica i ataca l'original!
 - id: 21548
-  text: "{:delayandfade 07 78} \nMentre el Sora i els seus amics es\ndefensen dels pirates, el Pete fuig\nde l'escena, deixant-los enrere.\n \nDecidits en acabar amb els pirates\nmaleïts que quedaven, s'afanyen\ncap el poble.\n \n \n"
+  text: "{:delayandfade 07 78} \nMentre el Sora i els seus amics es\ndefensen dels pirates, el Pete fuig\nde l'escena, deixant-los enrere.\n \nDecidits en acabar amb els pirates\nmaleïts que quedaven, s'afanyen\ncap al poble.\n \n \n"
 - id: 21549
   text: "{:delayandfade 07 78} \nEs troben amb un home anomenat Will\nTurner, que està ocupat en salvar\nl'Elizabeth, la filla del governador.\n \nAixí que tot junts es dirigeixen al port\non la nau pirata es troba. Més els val\nafanyar-s'hi si la volen atrapar!\n \n"
 - id: 21550

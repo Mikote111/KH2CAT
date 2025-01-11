@@ -469,12 +469,12 @@
 - id: 4787
   text: Ai, mare!
 - id: 4788
-  text: Va! Anem per ell!
+  text: Va! Anem a buscar-lo!
 - id: 4789
   text: >-
-    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 05}¿¡Quieres decir que Pooh
+    {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 05}Vols dir que en Pooh
 
-    se ha olvidado incluso de mí!?
+    s'ha oblidat fins i tot de mí!?
 - id: 4790
   text: '{:unk13 7C 01 04 01}{:unk06 00}{:unk08 01 00 05}Sí, Tigger.'
 - id: 4791
@@ -706,9 +706,9 @@
     veure'm sempre que vulguis.
 - id: 4850
   text: >-
-    Aleshores,
+    Aleshores, només haig
 
-    només haig de quedar-me aquí?
+    de quedar-me aquí?
 - id: 4851
   text: Sí, això és tot.
 - id: 4852

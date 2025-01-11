@@ -437,7 +437,7 @@
 - id: 5665
   text: '{:unk13 6A 01 67 00}{:unk06 00}{:unk08 01 01 05}Segur que sí! O això penso...'
 - id: 5666
-  text: "{:unk13 99 00 54 00}{:unk06 00}{:unk08 01 01 05}Fem-li un cop d'ull!"
+  text: "{:unk13 99 00 54 00}{:unk06 00}{:unk08 01 01 05}Fem-hi un cop d'ull!"
 - id: 5667
   text: '{:unk13 E5 00 E5 00}{:unk06 02}{:unk08 03 01 06}Malèfica!'
 - id: 5668
@@ -802,7 +802,7 @@
     segur que serà un edifici enorme!
 - id: 16845
   text: >-
-    Acostumes a venir molt, ¿no? Si penses
+    Acostumes a venir molt, no? Si penses
 
     comprar terrenys, ara és el moment.{:clear }Quan construeixin el castell, el
 

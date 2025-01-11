@@ -21,9 +21,9 @@
     ajudi'l a recuperar la rosa{:reset}.
 - id: 3021
   text: >-
-    L'home de negro ha
+    L'home de negre ha
 
-    fugit {:theme 0A}cap el jardí{:reset}.{:clear }Preparin-se per al que vingui
+    fugit {:theme 0A}cap al jardí{:reset}.{:clear }Preparin-se per al que vingui
 
     i tinguin molt de compte.
 - id: 3022
@@ -100,16 +100,16 @@
     De pressa!
 - id: 3034
   text: >-
-    Què passa?{:clear }Hauríem d'anar a
+    Què passa?{:clear }Hauríem de buscar
 
-    per la Bella també?
+    la Bella també?
 - id: 3035
   text: Oh, això és horrible!{:clear }Em sembla que l'amo se'n va a la {:theme 0A}seva cambra{:reset}.
 - id: 3036
   text: >-
-    Llavors aquelles coses ens van
+    Llavors aquelles coses ens han
 
-    atacar només per distreure'ns!?
+    atacat només per distreure'ns!?
 - id: 3037
   text: >-
     Mai havia vist l'amo
@@ -511,7 +511,7 @@
 
     fer per ajudar?
 - id: 3178
-  text: '{:unk06 02}{:unk13 2C 01 96 00}{:unk08 03 00 05}Anem per la fetillera!'
+  text: '{:unk06 02}{:unk13 2C 01 96 00}{:unk08 03 00 05}Busquem la fetillera!'
 - id: 3179
   text: '{:unk06 02}{:unk13 AA 00 78 00}{:unk08 03 00 05}Oh, no.'
 - id: 3180
@@ -863,7 +863,7 @@
   text: >-
     {:unk13 C8 00 78 00}{:unk08 01 00 06}El món dels incorporis
 
-    ha d'estar en algun lloc.{:clear }Estem buscant una entrada.
+    ha de ser en algun lloc.{:clear }Hi estem buscant una entrada.
 - id: 3289
   text: '{:unk13 7C 01 32 00}{:unk08 01 00 05}Mmm.'
 - id: 3290
@@ -1099,7 +1099,7 @@
   text: >-
     No saps el que va significar allò?
 
-    El teu valor ens va inspirar tots.
+    El teu valor ens va inspirar a tots.
 - id: 3360
   text: >-
     Hauries d'haver-te'n guardat
@@ -1107,9 +1107,9 @@
     alguna cosa per a tu mateix.
 - id: 3361
   text: >-
-    De debò penses llençar per
+    De debò penses engegar a
 
-    la borda la teva felicitat?
+    rodar la teva felicitat?
 - id: 3362
   text: >-
     La rosa és la teva única esperança,
@@ -1210,7 +1210,7 @@
 - id: 3392
   text: ''
 - id: 3393
-  text: Bé, Bella!
+  text: Bona, Bella!
 - id: 3394
   text: Té. Aquí la tens.
 - id: 3395
@@ -1222,9 +1222,9 @@
     Vols que em vagi del castell.
 - id: 3397
   text: >-
-    El que és important és... que el Xaldin
+    El que importa és... que el Xaldin
 
-    no t'ha fet mal. Estàs fora de perill.
+    no t'ha fet mal. Estàs bé.
 - id: 3398
   text: >-
     A més...{:delay 78 00}{:clear }t'estic molt agraït...
@@ -1250,7 +1250,7 @@
 - id: 3406
   text: Confiem en vostè.
 - id: 3407
-  text: No et fagis el tímid ara.
+  text: No et facis el tímid ara.
 - id: 3408
   text: Bella, vull que et quedis...
 - id: 3409
@@ -1457,7 +1457,7 @@
 - id: 7746
   text: Intenta moure l'Armari!
 - id: 7747
-  text: Intenta-ho mentre dorm. No fagis soroll.
+  text: Intenta-ho mentre dorm. No facis soroll.
 - id: 7748
   text: Encèn tots els fanals!
 - id: 7749
@@ -1506,7 +1506,7 @@
   text: >-
     Sense aquella rosa, ni l'amo ni cap
 
-    de nosaltres tornarà a ser humà.{:clear }Si us plau, fagi que aquell home ens
+    de nosaltres tornarà a ser humà.{:clear }Si us plau, faci que aquell home ens
 
     retorni la nostra única esperança!
 - id: 15723
@@ -1522,7 +1522,7 @@
     Ens aixecaria l'ànim.
 - id: 15724
   text: >-
-    Com ha canviat tot de cop!{:clear }Tant entusiasmada que estava
+    Com ha canviat tot de cop!{:clear }Tan entusiasmada que estava
 
     la Bella amb el ball d'avui!
 - id: 15725
@@ -1666,7 +1666,7 @@
     abans de partir.
 - id: 15766
   text: >-
-    No ho hauria d'haver fet, però vaig entrar
+    No ho hauria d'haver fet, però hi he entrat
 
     d'amagat. M'alegro que l'amo estigui millor.{:clear }Si poguessis {:theme 0A}parlar amb la
 
@@ -1852,7 +1852,7 @@
 
     {:chardelay 33 00}Millor no arriscar-s'hi.
 
-    {:chardelay A1 00}Fem-li un cop d'ull!
+    {:chardelay A1 00}Fem-hi un cop d'ull!
 - id: 20602
   text: Prem {:icon dynamic-triangle} per començar el duel! Fes-te amb els premis que deixa caure!
 - id: 21494

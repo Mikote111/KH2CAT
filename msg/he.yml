@@ -636,7 +636,7 @@
   text: >-
     {:delay 49 00}{:clear }Ara no pots anar-te'n. {:delay 6E 00}{:clear }A veure, avui tens un combat
 
-    molt important contra...{:delay 4F 01}{:clear }la sanguinària... ¡Hidra! {:delay 8D 00}{:clear }{:delay 13 00}{:clear }Si no et quedes, qui sap quants
+    molt important contra...{:delay 4F 01}{:clear }la sanguinària... Hidra! {:delay 8D 00}{:clear }{:delay 13 00}{:clear }Si no et quedes, qui sap quants
 
     accidents li podrien passar?
 - id: 3656
@@ -1228,7 +1228,7 @@
 
     i és inexcusable.
 - id: 3829
-  text: Ajà... Bé, magnífic.
+  text: Ahà... Bé, magnífic.
 - id: 3830
   text: >-
     Què li passa a l'Auron?
@@ -1632,7 +1632,7 @@
   text: Sí, hem d'anar-nos-en.
 - id: 3949
   text: >-
-    Ajà. Abans que ens
+    Ahà. Abans que ens
 
     entremetem en res.
 - id: 3950
@@ -2223,7 +2223,7 @@
   text: >-
     Sora, hi ha problemes al Coliseu!{:clear }Ves-hi! Nosaltres
 
-    farem el que poguem.
+    farem el que puguem.
 - id: 16984
   text: El trofeu de la Copa Tità.
 - id: 16985
@@ -2493,7 +2493,7 @@
 
     {:chardelay 33 00}Millor no arriscar-s'hi.
 
-    {:chardelay A1 00}Fem-li un cop d'ull!
+    {:chardelay A1 00}Fem-hi un cop d'ull!
 - id: 20604
   text: Prem {:icon dynamic-triangle} per començar el duel! Desfes-te ràpidament dels enemics que apareguin!
 - id: 21392

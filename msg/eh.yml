@@ -1694,16 +1694,14 @@
     la nostra compassió.
 - id: 19957
   text: >-
-    En Sora ja sap la veritat. {:delay 93 00}{:clear } {:delay 62 00}{:clear }Amb cada sensecor que abat, {:delay 78 00}{:clear }s'apropa més a convertir-se en
+    En Sora ja sap la veritat. {:delay 93 00}{:clear } {:delay 62 00}{:clear }Amb cada sensecor que abat, {:delay 78 00}{:clear }s'apropa més a esdevenir
 
     la nostra perfecta marioneta.
 - id: 19958
   text: >-
-    No ve d'aquí, no?{:delay 92 00}{:clear }Sigui com sigui,{:delay 8B 00}{:clear }en Sora no pot evitar salvar 
+    No ve d'aquí, no?{:delay 92 00}{:clear }Sigui com sigui,{:delay 8B 00}{:clear }en Sora mai ha pogut evitar 
 
-    la gent dels sensecor.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }Sempre ha estat així. 
-
-    Això és el que el seu pur i petit cor desitja.
+    salvar la gent dels sensecor.{:delay 18 01}{:clear } {:delay 2D 00}{:clear }És el que el seu pur i petit cor desitja.
 - id: 19959
   text: >-
     Ja s'han llençat els daus.{:delay C8 00}{:clear } {:delay 14 00}{:clear }Tot està en marxa. 
@@ -1852,7 +1850,7 @@
   text: >-
     Si home! Faig el que haig de fer. {:delay 96 00}{:clear }Per a que ho sàpigues, ahir vaig
 
-    trobar-ne un. Un tal 'Mar' no sé què.{:delay 4A 01}{:clear }Amb ell ja som onze a l'Organització.{:delay C3 00}{:clear }I com m'he deixat la pell en això, li he dit al
+    trobar-ne un. Un tal «Mar» no sé què.{:delay 4A 01}{:clear }Amb ell ja en som onze a l'Organització.{:delay C3 00}{:clear }I com m'hi he deixat la pell, li he dit al
 
     Lexaeus que em substitueixi la resta del dia. {:delay 4A 01}{:clear }Vull descansar. Per a allò de demà,
 
@@ -1877,19 +1875,19 @@
   text: La Cambra del Repòs.
 - id: 21458
   text: >-
-    Allà és on passem tant de temps 
+    Si te'n recordes, hi passavem
 
-    investigant la foscor inherent en els cors.{:delay A0 00}{:clear }És un cementiri que va ser
+    el temps investigant la foscor{:delay F0 00}{:clear }inherent als cors.{:delay A0 00}{:clear }És un cementiri que va ser segellat
+    
+    per ordre de l'Ànsem el Savi. {:delay 18 01}{:clear }El primer que va fer el
 
-    segellat per l'Ànsem el Savi.{:delay 18 01}{:clear }El primer que va fer el Xemnas
+    Xemnas en desfer-se'n{:delay C8 00}{:clear }va ser tornar a obrir-la i construir-ne
 
-    només en desfer-se d'ell {:delay C8 00}{:clear }va ser tornar a obrir-lo i construir-hi 
+    una sala a la part més profunda. {:delay 50 00}{:clear }D'aleshores ençà que hi passa llargs períodes
 
-    una sala a la part més profunda.{:delay E6 00}{:clear } {:delay 50 00}{:clear }D'ençà que hi passa llargs períodes tancat... 
+    tancat... parlant amb algú.{:delay 4F 01}{:clear } {:delay 14 00}{:clear }Però amb qui? Pel que sé, 
 
-    parlant amb algú.{:delay 4F 01}{:clear } {:delay 14 00}{:clear }I dubto que jo sigui l'únic que ho veu estrany... 
-
-    sobretot perquè el Xemnas és sol a l'habitació!
+    ell és l'únic a l'habitació!
 - id: 21459
   text: >-
     Quina part del que he dit 
@@ -1897,9 +1895,9 @@
     dels tafaners no has entès?
 - id: 21460
   text: >-
-    Jo no ho diria tafanejar, 
+    Jo no en diria tafanejar, 
 
-    perquè no he sentit res del que deien. {:delay AF 00}{:clear }Tot i que em moro per saber-ho, això sí. {:delay 87 00}{:clear } {:delay 28 00}{:clear }No en sabràs res, per casualitat?
+    perquè no he sentit res del que deien. {:delay AF 00}{:clear }Tot i que me'n moro de ganes, això sí. {:delay 87 00}{:clear } {:delay 28 00}{:clear }No en sabràs res, per casualitat?
 - id: 21461
   text: >-
     L'únic que sé és que prefereixo
@@ -1944,9 +1942,9 @@
   text: Sí!
 - id: 21624
   text: >-
-    Hem de tenir molt present que sent conscients 
+    Hem de tenir molt present que sabent això
 
-    d'una cosa així ens serà més difícil de controlar.
+    ens serà molt més difícil controlar-lo.
 - id: 21632
   text: Bé, a mi tampoc m'agrada aquell lloc.
 - id: 21633
@@ -1960,10 +1958,10 @@
   text: >-
     Te n'has oblidat o simplement
 
-    busques escapolir-te?
+    busques escapolir-te'n?
 - id: 21636
   text: >-
-    Quant ha passat ja?
+    Quant en fa ja?
 
     Parlo de quan uns quants guerrers {:delay 3B 01}{:clear }portant espases amb forma de clau
 
