@@ -1,8 +1,8 @@
 ﻿- id: 4906
   text: >-
-    L'Scar és malvat i cruel.{:clear }Faries bé si et mantens
+    L'Scar és malvat i cruel.{:clear }Faries bé de
 
-    allunyat d'ell.
+    mantenir-te'n allunyat.
 - id: 4907
   text: >-
     La Nala em va ensenyar a córrer més ràpid.
@@ -54,7 +54,7 @@
   text: >-
     Per què no li agrada a la
 
-    Nala el Hakuna Matata?{:clear }És una famosa dita: «Oblida els
+    Nala l'Hakuna Matata?{:clear }És una famosa dita: «Oblida els
 
     problemes i viu sense preocupacions».
 - id: 4915
@@ -68,7 +68,7 @@
   text: >-
     La Nala vol estar sola.
 
-    Apa, aneu a animar el Simba.{:clear }Hakuna Matata...
+    Au, aneu a animar el Simba.{:clear }Hakuna Matata...
 
     Ja sabeu a què em refereixo...
 - id: 4917
@@ -101,7 +101,7 @@
 - id: 4924
   text: Sensecor, sens dubte.
 - id: 4925
-  text: És aquell.
+  text: És ell.
 - id: 4926
   text: Ei! Un aperitiu!
 - id: 4927
@@ -112,7 +112,7 @@
 
     cara tan llarga, Simba?{:delay 94 00}{:clear }Has de relaxar-te i
 
-    gaudir una mica!
+    xalar una mica!
 - id: 4929
   text: ''
 - id: 4930
@@ -154,7 +154,7 @@
 - id: 4943
   text: ''
 - id: 4944
-  text: Scar!?
+  text: L'Scar!?
 - id: 4945
   text: '{:unk13 B5 00 4E 00}{:unk08 01 01 04}Heu vingut a veure el Simba?'
 - id: 4946
@@ -224,7 +224,7 @@
   text: >-
     No sigueu burros. Ens encantaria
 
-    que us quedéssiu a esmorçar.
+    que us quedéssiu a dinar.
 - id: 8490
   text: Mmm... No hem dut res de menjar.
 - id: 8491
@@ -239,16 +239,16 @@
 - id: 8494
   text: Vas a algun lloc?
 - id: 8495
-  text: Nano, què inoporté és aquell Scar!
+  text: Nano, que inoportú és aquell Scar!
 - id: 8496
   text: Deixa'l que rugeixi.
 - id: 8497
-  text: "Naaa... Serà millor\nanar a veure què vol.{:delay 78 00}{:clear }Sembla que ja està\nbastant enfadat.{:delay B4 00}{:clear }{:delay 46 00}{:clear }Molt bé... "
+  text: "Naaa... Serà millor\nanar a veure què vol.{:delay 78 00}{:clear }Em sembla que ja està\nprou enfadat.{:delay B4 00}{:clear }{:delay 46 00}{:clear }Molt bé... "
 - id: 8498
   text: >-
     No sé de què anava tot allò,
 
-    però menys mal que se n'han anat.
+    però sort que se n'han anat.
 - id: 8499
   text: Tot és més dur a quatre potes.
 - id: 8500
@@ -293,7 +293,7 @@
 - id: 8512
   text: I uns tipus amb caputxa negra?
 - id: 8513
-  text: I un tipus grandot anomenat Pete?
+  text: I un tipus grossot anomenat Pete?
 - id: 8514
   text: >-
     Bé... Hauríem de fer-hi un
@@ -308,7 +308,7 @@
   text: >-
     L'Scar i les hienes estan fent
 
-    la vida impossible a tot el món.
+    la vida impossible a tothom.
 - id: 8517
   text: >-
     No queda menjar.
@@ -328,12 +328,12 @@
   text: >-
     Ocupant-nos d'aquell tal
 
-    l'Scar i de les hienes?
+    Scar i de les hienes?
 - id: 8521
   text: Scar?
 - id: 8522
   text: >-
-    Ell se va fer amb el poder
+    Ell es va fer el poder
 
     quan el rei Mufasa va morir.
 - id: 8523
@@ -399,9 +399,9 @@
   text: Tranquila. No importa.
 - id: 8542
   text: >-
-    Hauríeu d'anar-vos-en abans
+    Hauríeu d'anar-vos-en abans que
 
-    que l'Scar esbrini que sou aquí.
+    l'Scar d'assabenti que sou aquí.
 - id: 8543
   text: Ho sento molt.
 - id: 8544
@@ -442,7 +442,7 @@
   text: >-
     Que no hi ha preses?
 
-    I com anomenes això?
+    I què en dius, d'això?
 - id: 8555
   text: No som preses!
 - id: 8556
@@ -493,7 +493,7 @@
 - id: 8574
   text: Qui us ha dit això?
 - id: 8575
-  text: Scar.
+  text: L'Scar.
 - id: 8576
   text: Ha arribat l'hora.
 - id: 8577
@@ -544,7 +544,7 @@
   text: >-
     Llavors... ningú es menjarà
 
-    a ningú per berenar, oi?
+    ningú per berenar, oi?
 - id: 8597
   text: >-
     Segur que no em menjaran
@@ -599,9 +599,9 @@
   text: Quan et sentis sol...
 - id: 8614
   text: >-
-    recorda que sempre
+    recorda que sempre hi
 
-    estaran allà per guiar-te.{:delay 15 01}{:clear }I jo també.
+    seran per guiar-te.{:delay 15 01}{:clear }I jo també.
 - id: 8615
   text: Pare... ets aquí?
 - id: 8616
@@ -672,14 +672,14 @@
   text: >-
     Tornes a estar en perill,
 
-    però aquest cop,{:delay 78 00}{:clear }el teu papi no és aquí per salvar-te.
+    però aquest cop,{:delay 78 00}{:clear }el teu papa no és aquí per salvar-te.
 - id: 8637
   text: I ara tots saben per què!
 - id: 8638
   text: Vaja, això em sona.
 - id: 8639
   text: >-
-    Ah, sí! Ja me'n recordo. {:delay A2 00}{:clear }Aquell era just l'aspecte que
+    Ah, sí! Ja me'n recordo. {:delay A2 00}{:clear }Aquest era just l'aspecte que
 
     tenia ton pare abans de morir.
 - id: 8640
@@ -694,7 +694,7 @@
   text: Jo vaig matar el Mufasa!
 - id: 8645
   text: >-
-    Simba! Tu ves a per l'Scar!
+    Simba! Tu persegueix l'Scar!
 
     Aquests són nostres!
 - id: 8646
@@ -702,7 +702,7 @@
 - id: 8647
   text: Al cim!
 - id: 8648
-  text: Aquella és la seva lluita, Donald.
+  text: Això és la seva lluita, Donald.
 - id: 8649
   text: Ho has aconseguit!
 - id: 8650
@@ -732,7 +732,7 @@
 - id: 8655
   text: Mai ho permetré!
 - id: 8656
-  text: Hem d'acomiadar-nos per ara.
+  text: Hem de dir-vos adeu per ara.
 - id: 8657
   text: Ho diré al Simba.
 - id: 8658
@@ -800,7 +800,7 @@
   text: Ei, i el Simba?
 - id: 8674
   text: >-
-    Ens riem cada cop que
+    Ens en riem, cada cop que
 
     sentim el nom d'aquell xato.
 - id: 8675
@@ -825,11 +825,11 @@
     lleones tan nobles i poderoses desitjarien{:delay FC 00}{:clear }haver trobat un altre rei.
 - id: 8682
   text: >-
-    Òndia! Què creieu
+    Òndia! Què penseu
 
     que ha pogut passar?
 - id: 8683
-  text: Ni idea. Haure de parlar amb el Simba.
+  text: Ni idea. Haurem de parlar amb el Simba.
 - id: 8684
   text: Eh?
 - id: 8685
@@ -856,7 +856,7 @@
 - id: 8694
   text: Perdó...
 - id: 8695
-  text: No importa.
+  text: No passa res.
 - id: 8696
   text: Tant de bo sabés com actuaria mon pare.
 - id: 8697
@@ -992,7 +992,7 @@
     és un insegur?
 - id: 8739
   text: >-
-    Això sembla. Creieu que podem
+    Això sembla. Penseu que podem
 
     fer alguna cosa per ajudar-lo?
 - id: 8740
@@ -1004,7 +1004,7 @@
   text: >-
     Mmm... Sembla que fins i tot el
 
-    teu papi t'ha abandonat. Què trist!
+    teu papa t'ha abandonat. Què trist!
 - id: 8742
   text: >-
     És inútil. Mai seré
@@ -1019,7 +1019,7 @@
     Només pots ser tu.
 - id: 8744
   text: >-
-    Tot el món creu en el teu regnat.
+    Tothom creu en el teu regnat.
 
     Només volen saber què faràs.
 - id: 8745
@@ -1121,7 +1121,7 @@
     Ella necessita la teva ajuda ara.
 - id: 8776
   text: >-
-    El nostre petit el Simba...
+    El nostre petit Simba...
 
     s'ha fet gran i allà que s'hi va.
 - id: 8777
@@ -1141,24 +1141,24 @@
 - id: 8784
   text: Ara i sempre, Majestat!
 - id: 8785
-  text: El rei ha regressat.
+  text: El rei ha tornat.
 - id: 8786
   text: >-
     Las Terres del Regne no
 
-    oblidaran el valor del Simba. {:delay F0 00}{:clear }Ni el valor d'aquellos que
+    oblidaran el valor del Simba. {:delay F0 00}{:clear }Ni el valor d'aquells que
 
     van lluitar al seu costat.
 - id: 8787
   text: >-
-    Creus que la teva cerca
+    Penses que la teva cerca
 
     acabarà algun dia?
 - id: 8788
   text: No ho sé.
 - id: 8789
   text: >-
-    Però crec que mentre tingui
+    Però penso que mentre tingui
 
     la clau espasa amb mi...{:delay F6 00}{:clear }hauré de seguir lluitant.
 - id: 8790
@@ -1216,7 +1216,7 @@
     que pugui ocupar aquell lloc?
 - id: 12892
   text: >-
-    {:unk13 D0 00 51 00}{:unk08 01 01 05}En va haver... però va morir
+    {:unk13 D0 00 51 00}{:unk08 01 01 05}N'hi va haver... però va morir
 
     quan era només un cadell.{:clear }Era el fill de Mufasa
 
@@ -1243,9 +1243,9 @@
 
     No m'ho puc creure.{:clear }Si us plau, explica'm
 
-    coses sobre ell.
+    coses d'ell.
 - id: 12898
-  text: '{:unk13 FB 00 2F 01}{:unk08 01 01 00}És clar!'
+  text: '{:unk13 FB 00 2F 01}{:unk08 01 01 00}I tant!'
 - id: 12899
   text: >-
     {:unk13 63 01 65 00}{:unk08 01 01 05}Primer hauríem
@@ -1254,7 +1254,7 @@
 
     Anirem per la Vall del Nyu.{:clear }No ens seguirà fins allà.
 - id: 12900
-  text: "{:unk13 32 01 29 01}{:unk08 01 01 01}Hem vist al fantasma de l'Scar!"
+  text: "{:unk13 32 01 29 01}{:unk08 01 01 01}Hem vist el fantasma de l'Scar!"
 - id: 12901
   text: >-
     {:unk13 42 01 CD 00}{:unk08 01 00 01}Un auguri com aquell només pot
@@ -1315,7 +1315,7 @@
   text: '{:unk13 73 01 3E 01}{:unk08 01 01 00}Titubant?'
 - id: 12913
   text: >-
-    {:unk13 1C 01 49 00}{:unk08 01 00 06}Ohhh... Creies
+    {:unk13 1C 01 49 00}{:unk08 01 00 06}Ohhh... Et pensaves
 
     que no ho eres?
 - id: 12914
@@ -1333,9 +1333,9 @@
 
     és pertorbador.{:clear }I que està afectant
 
-    els cors de tots a les
+    els cors de tothom a
 
-    Terres del Regne.{:clear }Pot ser que no sàpigues
+    les Terres del Regne.{:clear }Pot ser que no sàpigues
 
     què és, però això no vol
 
@@ -1518,7 +1518,7 @@
 
     Mai l'havia vist tan animat!
 - id: 14428
-  text: Crec que ja l'he vist abans.
+  text: Em sembla que ja ho he vist abans.
 - id: 14654
   text: >-
     Sembla que en Simba ha anat a l'oasi.
@@ -1580,7 +1580,7 @@
   text: >-
     La Nala, en Timon i els altres
 
-    han anat al cau del rei!{:clear }I les hienes han anat a per ells.
+    han anat al cau del rei!{:clear }I les hienes han anat rere seu.
 
     Hem d'ajudar-los!
 - id: 17180
@@ -1602,7 +1602,7 @@
     que no li passi res al Simba.
 - id: 17183
   text: >-
-    En Simba ha anat a per l'Scar,
+    En Simba ha anat rere l'Scar,
 
     cap al {:theme 0A}cingle{:reset}.{:clear }És l'hora de la veritat.
 
@@ -1651,7 +1651,7 @@
 
     i respecte pel seu pare.{:clear }I s'hi compara.
 
-    Per això es sent tan insegur.
+    Per això se sent tan insegur.
 - id: 17192
   text: >-
     Quan vivíem a l'oasi, en Simba
@@ -1663,7 +1663,7 @@
   text: >-
     En {:theme 0A}Rafiki{:reset} és molt savi.
 
-    Ell sabrà el que hem de fer.{:clear }Si algun cop teniu problemes,
+    Ell sabrà el que hem de fer.{:clear }Si mai teniu problemes,
 
     escolteu el que hagi de dir.
 - id: 17252
@@ -1675,7 +1675,7 @@
     He, he, he.
 - id: 17253
   text: >-
-    He evacuat als altres!{:clear }Si us plau, heu d'ajudar-nos.
+    He evacuat els altres!{:clear }Si us plau, heu d'ajudar-nos.
 
     Pel Simba i pel nostre fill!
 - id: 17254
@@ -1689,7 +1689,7 @@
   text: >-
     Què farem si aquella
 
-    bèstia ve fins aquí?{:clear }Heu d'aturar-lo a la {:theme 0A}sabana{:reset},
+    bèstia ve fins aquí?{:clear }Heu d'aturar-la a la {:theme 0A}sabana{:reset},
 
     o destruirà aquest lloc!
 - id: 17256
@@ -1758,14 +1758,14 @@
   text: >-
     Si la Kairi et veiés així, segur
 
-    que diría que estàs molt guapo!{:clear }Crec que les teves robes
+    que diría que estàs molt guapo!{:clear }Em sembla que les teves robes
 
     màgiques t'han transformat.
 - id: 18073
   text: >-
-    Haurà d'aprendre a
+    Haurem d'aprendre a
 
-    defendre's a quatre potes.{:clear }Segur que podem fer un
+    defendre'ns a quatre potes.{:clear }Segur que podem fer un
 
     munt de moviments nous!
 - id: 18746
@@ -1789,9 +1789,9 @@
 
     En Sora aprén l'habilitat «Placatge brutal».
 - id: 18956
-  text: El punt dèbil és en la cap del sensecor gegant! Ataca el seu cap!
+  text: El punt dèbil és al cap del sensecor gegant! Ataca el seu cap!
 - id: 18957
-  text: El punt dèbil és en la cap del sensecor! Salta sobre el seu llom i ataca'l!
+  text: El punt dèbil és al cap del sensecor! Salta sobre el seu llom i ataca'l!
 - id: 19210
   text: Utilitza ordres de reacció per evitar que el sensecor gegant escapi!
 - id: 19254

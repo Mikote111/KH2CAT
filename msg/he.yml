@@ -67,7 +67,7 @@
     no podrà derrotar l'Auron!{:clear }Per fi, el poderós heroi cau!
 - id: 3473
   text: >-
-    La cambra de l'Hades està
+    La cambra de l'Hades és
 
     al fons d'aquesta cova.{:clear }Cada vegada que em demana que hi vagi,
 
@@ -1003,15 +1003,15 @@
 - id: 3769
   text: '{:unk13 5E 01 96 00}{:unk06 00}{:unk08 01 01 05}Quin idiota.'
 - id: 3770
-  text: '{:unk13 96 00 96 00}{:unk06 00}{:unk08 01 00 05}Ejem.'
+  text: '{:unk13 96 00 96 00}{:unk06 00}{:unk08 01 00 05}Ehem.'
 - id: 3771
   text: >-
-    {:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 01 05}A on vas ara, Auron?
+    {:unk13 C8 00 64 00}{:unk06 00}{:unk08 01 01 05}On vas ara, Auron?
 
     Tenim molt a parlar!
 - id: 3772
   text: >-
-    {:unk13 A2 00 64 00}{:unk06 00}{:unk08 01 01 05}Si voleu fer alguna cosa,
+    {:unk13 A2 00 64 00}{:unk06 00}{:unk08 01 01 05}Si voleu fer res,
 
     ajudeu els vostres amics.
 - id: 3773
@@ -1029,7 +1029,7 @@
 
     Sabem que ets un heroi!
 - id: 3777
-  text: Sí, és clar, burro.
+  text: I tant, home cagarel・la.
 - id: 3778
   text: >-
     Com pots estar trist
@@ -1094,7 +1094,7 @@
 
     hi serà... {:delay AE 00}{:clear }Perquè si no...
 - id: 3792
-  text: '... no tornarà a veure la seva novia.'
+  text: '... no tornarà a veure la seva xicota.'
 - id: 3793
   text: Miserable!
 - id: 3794
@@ -1107,14 +1107,14 @@
   text: '{:unk13 68 01 78 00}{:unk06 00}{:unk08 01 00 06}Contra «Cop giratori».'
 - id: 3798
   text: >-
-    {:unk13 73 01 7B 00}{:unk06 00}{:unk08 01 00 06}Mireu! L'Auron també
+    {:unk13 73 01 7B 00}{:unk06 00}{:unk08 01 00 06}Mireu! L'Auron
 
-    és en el torneig!
+    també és al torneig!
 - id: 3799
   text: >-
-    {:unk13 57 01 6B 00}{:unk06 00}{:unk08 01 00 06}Oh, oh! Potser haguem
+    {:unk13 57 01 6B 00}{:unk06 00}{:unk08 01 00 06}Oh, oh! Potser ens hi hem
 
-    d'enfrontar-nos-hi a la final!
+    d'enfrontar a la final!
 - id: 3800
   text: '{:unk13 C8 00 5A 00}{:unk06 00}{:unk08 01 00 05}És digne de ser un heroi?'
 - id: 3801
@@ -1157,9 +1157,9 @@
     a les semifinals!
 - id: 3808
   text: >-
-    {:unk13 7D 01 A0 00}{:unk06 00}{:unk08 01 00 06}Ja estem a
+    {:unk13 7D 01 A0 00}{:unk06 00}{:unk08 01 00 06}Ja som a les
 
-    les semifinals...
+    semifinals...
 - id: 3809
   text: >-
     {:unk13 27 01 9A 00}{:unk06 02}{:unk08 03 00 06}Ostres!
@@ -1178,7 +1178,7 @@
   text: >-
     {:unk13 F7 00 97 00}{:unk06 00}{:unk08 01 01 05}Si guanyem, serem
 
-    uns vertaders herois!
+    uns veritables herois!
 - id: 3814
   text: >-
     {:unk13 2A 01 5B 00}{:unk06 00}{:unk08 01 01 05}Ah, per això estàs
@@ -1290,7 +1290,7 @@
   text: >-
     {:unk13 78 00 4B 00}{:unk06 02}{:unk08 03 01 06}Som-hi, anem
 
-    a per ell!
+    a buscar-lo!
 - id: 3848
   text: Què passa, Sora?
 - id: 3849
@@ -1314,16 +1314,16 @@
   text: Què fem?
 - id: 3854
   text: >-
-    Intenteu trobar aquell ninot.{:delay 66 00}{:clear }{:delay 1E 00}{:clear }Ha d'estar en alguna
+    Intenteu trobar aquell ninot.{:delay 66 00}{:clear }{:delay 1E 00}{:clear }Ha de ser en alguna
 
     part de l'Inframon.
 - id: 3855
   text: D'acord! Jo me n'encarrego!
 - id: 3856
   text: >-
-    Digues-me que no estàs
+    Digue'm que no estàs
 
-    pensant en anar-te'n.{:delay 6C 00}{:clear }{:delay 1C 00}{:clear }Tens un combat.
+    pensant a anar-te'n.{:delay 6C 00}{:clear }{:delay 1C 00}{:clear }Tens un combat.
 - id: 3857
   text: >-
     Lluitaré contra l'Auron en la final.
@@ -1372,7 +1372,7 @@
 - id: 3868
   text: Això sí que és un espectacle!
 - id: 3869
-  text: El tinc!
+  text: El tenim!
 - id: 3870
   text: ''
 - id: 3871
@@ -1431,7 +1431,7 @@
 - id: 3887
   text: Ara! Acaba amb ell!
 - id: 3888
-  text: Auron! No ho fagis!
+  text: Auron! No ho facis!
 - id: 3889
   text: >-
     Ei, Auron!
@@ -1474,12 +1474,12 @@
 - id: 3899
   text: De debò? Un combat just?
 - id: 3900
-  text: '{:delay 53 00}Riu tot el que vulguis!{:delay 53 00}{:clear }{:delay 49 00}{:clear }Riu bé qui riu darrer!'
+  text: '{:delay 53 00}Riu tot el que vulguis!{:delay 53 00}{:clear }{:delay 49 00}{:clear }Perquè riu bé qui riu darrer!'
 - id: 3901
   text: Vols saber per què?
 - id: 3902
   text: >-
-    Perquè ara anem a jugar
+    Perquè ara jugarem
 
     amb les meves normes.
 - id: 3903
@@ -1494,7 +1494,7 @@
 
     advertir des del principi.{:delay 85 00}{:clear }Si no hi ha combat,
 
-    et quedes sense novia.
+    et quedes sense xicota.
 - id: 3907
   text: No!
 - id: 3908
@@ -1506,7 +1506,7 @@
     ha caigut de les eliminatòries.
 - id: 3910
   text: >-
-    Bé, encara te n'has
+    Bé, encara t'has
 
     d'encarregar de nosaltres!
 - id: 3911
@@ -1523,7 +1523,7 @@
   text: Òndia! I com el guanyarem?
 - id: 3917
   text: >-
-    Crec que un autèntic
+    Em sembla que un autèntic
 
     heroi us vindria bé.
 - id: 3918
@@ -1532,7 +1532,7 @@
   text: Te'n dec una, Hades.
 - id: 3920
   text: >-
-    No he dubtat en donar la meva vida
+    No he dubtat a donar la meva vida
 
     per la Meg. I això m'ha fet recordar...
 - id: 3921
@@ -1572,7 +1572,7 @@
     no em queda ningú qui protegir.
 - id: 3931
   text: >-
-    Potser sigui l'hora d'escriure
+    Potser és l'hora d'escriure
 
     la meva pròpia història.
 - id: 3932
@@ -1608,7 +1608,7 @@
 
     Sou els millors.
 - id: 3942
-  text: Disculpa'ns per haver-nos entremetut.
+  text: Disculpa'ns per haver-nos entremès.
 - id: 3943
   text: >-
     Ohh... Per què ho dius?
@@ -1733,9 +1733,9 @@
 - id: 3995
   text: Copa Tità
 - id: 3996
-  text: Copa Deesa del Destí
+  text: Copa Deessa del Destí
 - id: 3999
-  text: '{:width 81}Copa Paradoxa de Dolor i Pànico'
+  text: '{:width 81}Copa Paradoxa de Dolor i Pànic'
 - id: 4000
   text: Copa Paradoxa de Cèrber
 - id: 4001
@@ -1793,7 +1793,7 @@
 
     {:color #F0F00080}Nivell del torneig: 45{:reset}
 - id: 4014
-  text: Copa Deesa del Destí
+  text: Copa Deessa del Destí
 - id: 4015
   text: >
     Lluita al costat dels
@@ -1969,14 +1969,14 @@
   text: ※ₓₓₓₓₓₓₓₓₓₓₓₓₓ
 - id: 12078
   text: >-
-    Ja! L'Hèrcules ja deu estar
+    Ha! L'Hèrcules ja deu estar
 
     demanant compassió!{:clear }Què? També has
 
     vingut a veure'l perdre?
 - id: 12079
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Ajudar l'Hèrcules?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Ajudes l'Hèrcules?
 
     {:chardelay 33 00}Encara no.
 
@@ -2079,9 +2079,9 @@
   text: >-
     Mai he vist l'Hèrcules
 
-    tan decaigut.{:clear }Es sent responsable pel
+    tan decaigut.{:clear }Se sent responsable pel
 
-    que va passar en el Olimp.
+    que va passar a l'Olimp.
 - id: 16167
   text: >-
     A on aneu tan de pressa?
@@ -2096,7 +2096,7 @@
   text: >-
     Aquell tipus tenia els ulls vidriosos,
 
-    com si només pensés en lluitar.{:clear }L'Hèrcules haura d'enfrontar-s'hi
+    com si només pensés a lluitar.{:clear }L'Hèrcules haura d'enfrontar-s'hi
 
     en el combat final?
 - id: 16170
@@ -2127,7 +2127,7 @@
     Hades. Si us agrada el dolor, endavant!
 - id: 16176
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Participar en la Copa Hades?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Participes a la Copa Hades?
 
     {:chardelay 33 00}Eh, no gràcies.
 
@@ -2139,9 +2139,9 @@
     Procura no perdre massa ràpid.
 - id: 16178
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Continuar a les semifinals?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Continues a les semifinals?
 
-    {:chardelay 33 00}Encara no estic llest.
+    {:chardelay 33 00}Encara no estic a punt.
 
     {:chardelay 09 00}Som-hi!
 - id: 16179
@@ -2160,9 +2160,9 @@
     calor en els tornejos de l'Infernòdrom.
 - id: 16475
   text: >-
-    Qui de haver trencat el
+    Qui deu haver trencat el
 
-    segell de l'Inframon?{:clear }L'únic que s'hi beneficia
+    segell de l'Inframon?{:clear }L'únic que se'n beneficia
 
     és l'Hades.
 - id: 16476
@@ -2176,9 +2176,9 @@
     de provar-los també.
 - id: 16477
   text: >-
-    Encara que esigui deprimit, és bo
+    Encara que estigui deprimit, és bo
 
-    tenir l'Hèrcules al nostre costat.{:clear }Confio en que reaccionarà
+    tenir l'Hèrcules al nostre costat.{:clear }Confio que reaccionarà
 
     quan el necessitem.
 - id: 16575
@@ -2231,14 +2231,14 @@
 - id: 16986
   text: El trofeu de la Copa Dolor i Pànic.
 - id: 16987
-  text: El trofeu de la Copa Deesa del Destí.
+  text: El trofeu de la Copa Deessa del Destí.
 - id: 16988
   text: El trofeu de la Copa Paradoxa d'Hades.
 - id: 16989
   text: >-
-    La Copa Hades mostrarà qui és
+    La Copa Hades mostrarà qui és un
 
-    un heroi vertader! Qui guanyarà?
+    veritable heroi! Qui guanyarà?
 - id: 16990
   text: Les flames impedeixen el pas.
 - id: 16991
@@ -2307,9 +2307,9 @@
     només us cal dir-m'ho.
 - id: 18772
   text: >-
-    {:unk13 C7 00 7C 00}{:unk06 00}{:unk08 01 01 05}Sa Majestat Perniciosa avui està
+    {:unk13 C7 00 7C 00}{:unk06 00}{:unk08 01 01 05}Sa Majestat Perniciosa avui
 
-    bondadosa, així que no us
+    està bondadosa, així que no us
 
     preocupeu per morir i això.{:clear }És el vostre dia de sort!
 - id: 18773
@@ -2328,7 +2328,7 @@
   text: >-
     {:unk13 A3 00 8C 00}{:unk06 00}{:unk08 01 01 05}Hi ha un munt de tornejos,
 
-    així que estigueu-ne pendents.
+    així que estigueu-hi pendents.
 - id: 19010
   text: >-
     {:unk13 5E 01 7C 00}{:unk06 00}{:unk08 01 00 05}Sí, és una bona manera
@@ -2575,7 +2575,7 @@
 - id: 21500
   text: "{:delayandfade 0A 78} \nDesprés d'acomiadar-se de l'Auron,\nen Sora i els seus decideixen tornar\namb la Meg per recomposar files.\n \nNo obstant, els sinistres\nplans de l'Hades ja estan en\nmarxa.\n \n \n \n"
 - id: 21501
-  text: "{:delayandfade 07 78} \nEn Sora vol esbrinar més de\nla maledicció de l'Inframon i\nl'Hèrcules sembla saber d'una cosa\nque podria anular-ne els seus efectes:\nla Pedra de l'Olimp.\n \nPerò no és la maledicció l'únic\nque preocupa, puix l'Hades és un\ndur rival contra qui només en Fil\npodria preparar el grup.\n"
+  text: "{:delayandfade 07 78} \nEn Sora vol esbrinar més de\nla maledicció de l'Inframon i\nl'Hèrcules sembla saber d'una cosa\nque podria anul・lar-ne els seus efectes:\nla Pedra de l'Olimp.\n \nPerò no és la maledicció l'únic\nque preocupa, puix l'Hades és un\ndur rival contra qui només en Fil\npodria preparar el grup.\n"
 - id: 21502
   text: "{:delayandfade 0A 78} \nEn Fil acull amb una gran riallada\nla petició d'en Sora i decideix sense\ndubtar-ne entrenar el grup.\n \n \n \n \n \n"
 - id: 21503

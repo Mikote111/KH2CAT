@@ -302,7 +302,7 @@
   text: Aquí ets.
 - id: 5869
   text: >-
-    Doncs segons la meva llista, Sora...{:delay B4 00}{:clear }fa set anys vas dir a tot el món
+    Doncs segons la meva llista, Sora...{:delay B4 00}{:clear }fa set anys vas dir a tothom
 
     que no creies en el Pare Noel.{:delay 4A 01}{:clear }Això no està gens bé.
 - id: 5870
@@ -1106,7 +1106,7 @@
   text: >-
     I bé,
 
-    On d'han de dur?
+    on s'han de dur?
 - id: 6098
   text: >-
     Mmm.{:delay 6C 00}{:clear }Conec un bon lloc.{:delay 78 00}{:clear }Quan estigueu a punt,
@@ -1118,7 +1118,7 @@
 
     només m'ho heu de dir.
 - id: 6100
-  text: Soc aquí!
+  text: Ja soc aquí!
 - id: 6101
   text: Aquesta plaça és perfecta per al teu pla.
 - id: 6102
@@ -1195,10 +1195,10 @@
 
     pobre ninot era un cor.
 - id: 6130
-  text: Jo! Jo! Jo!
+  text: Ho! Ho! Ho!
 - id: 6131
   text: >-
-    Interessant!{:delay 7A 00}{:clear }O sigui que el ninot no hauria estat
+    Interessant!{:delay 7A 00}{:clear }O sigui que, malgrat tot, el ninot no va ser
 
     robat, sinó que va fugir pel seu compte!{:delay 56 01}{:clear }O sigui que...
 
@@ -1245,7 +1245,7 @@
     profundament en el teu cor{:delay F6 00}{:clear }fer feliç algú.
 - id: 6142
   text: >-
-    És clar!{:delay 3C 00}{:clear }Oi, i tant!{:delay 4E 00}{:clear }Gràcies, Sally.
+    És clar!{:delay 3C 00}{:clear }Oh, i tant!{:delay 4E 00}{:clear }Gràcies, Sally.
 
     Tens tota la raó.
 - id: 6143
@@ -1293,7 +1293,7 @@
   text: >-
     No és el regal!
 
-    És el que tens en el cor!
+    És el que tens al cor!
 - id: 6154
   text: El meu cor...
 - id: 6155
@@ -1316,7 +1316,7 @@
   text: Be, hi esteu tots a punt?
 - id: 7979
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Ajudar amb els regals?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Ajudem amb els regals?
 
     {:chardelay 33 00}Espera.
 

@@ -540,7 +540,7 @@
 - id: 710
   text: Portes del Coliseu
 - id: 711
-  text: Entrada a l'Inframón
+  text: Entrada a l'Inframon
 - id: 712
   text: Avantsala del Coliseu
 - id: 713
@@ -556,7 +556,7 @@
 - id: 718
   text: Cova dels Morts - Cambra interior
 - id: 719
-  text: Cavernes de l'Inframón - Entrada
+  text: Cavernes de l'Inframon - Entrada
 - id: 720
   text: Sala del Segell
 - id: 721
@@ -566,9 +566,9 @@
 - id: 723
   text: Cova dels Morts - Túnels
 - id: 724
-  text: Cavernes del Inframón - Senda de la Perdició
+  text: Cavernes del Inframon - Senda de la Perdició
 - id: 725
-  text: Cavernes del Inframón - Atri
+  text: Cavernes del Inframon - Atri
 - id: 726
   text: Vall del Malvat
 - id: 727
@@ -1651,7 +1651,7 @@
 - id: 1541
   text: Un mapa del lloc.
 - id: 1542
-  text: Inframón
+  text: Inframon
 - id: 1543
   text: Un mapa del lloc.
 - id: 1544
@@ -3301,7 +3301,7 @@
 - id: 13034
   text: Trampa final
 - id: 13036
-  text: León
+  text: Lleó
 - id: 13037
   text: Armes
 - id: 13038
@@ -5330,14 +5330,14 @@
 
     Serveix com a protecció contra
 
-    la maledicció de l'Inframón.
+    la maledicció de l'Inframon.
 - id: 15131
-  text: Ninot d'Auron
+  text: Ninot de l'Auron
 - id: 15132
   text: >-
     Un ninot idèntic a l'Auron.
 
-    Diuen que té la seva voluntat cautiva.
+    Diuen que hi té la seva voluntat captiva.
 
     Hauria de ser retornat a l'Auron aviat.
 - id: 15133
@@ -6517,7 +6517,7 @@
 
     {:color #F0F00080}Augmenta un 50%{:reset} el mal causat
 
-    amb comandos de reacció.
+    amb ordres de reacció.
 - id: 15934
   text: Llàntia Màgica
 - id: 15935

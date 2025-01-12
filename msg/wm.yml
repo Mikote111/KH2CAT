@@ -406,11 +406,11 @@
   text: '{:unk08 01 00 05}Comptem amb vosaltres, nois!'
 - id: 18898
   text: >-
-    {:unk08 01 00 05}No sé molt bé què passa, nois, però
+    {:unk08 01 00 05}No sé molt bé què passa, nois,
 
-    em temo que s'està muntant un bon
+    però em temo que s'està muntant un
 
-    embolic en Vila Crepuscle!
+    bon embolic a Vila Crepuscle!
 - id: 19021
   text: Entra a Pluja d'asteroides
 - id: 19022

@@ -1586,6 +1586,287 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_CA09_MEDAL_bar1.png
+  - name: remastered/msn/sp/HE_COL_4_7.bar/SP_HE_COL_4_7_bar0.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_1_8.bar/SP_HE_COL_1_8_bar0.dds
+    - name: remastered/msn/sp/HE_COL_1_10.bar/SP_HE_COL_1_10_bar0.dds
+    - name: remastered/msn/sp/HE_COL_2_10.bar/SP_HE_COL_2_10_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_1.bar/SP_HE_COL_4_1_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_2.bar/SP_HE_COL_4_2_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_3.bar/SP_HE_COL_4_3_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_4.bar/SP_HE_COL_4_4_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_5.bar/SP_HE_COL_4_5_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_6.bar/SP_HE_COL_4_6_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_8.bar/SP_HE_COL_4_8_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_9.bar/SP_HE_COL_4_9_bar0.dds
+    - name: remastered/msn/sp/HE_COL_4_10.bar/SP_HE_COL_4_10_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM.bar/SP_HE_COLOSSEUM_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2.bar/SP_HE_COLOSSEUM_2_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2_FOG.bar/SP_HE_COLOSSEUM_2_FOG_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_3.bar/SP_HE_COLOSSEUM_3_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_4_7_bar0.dds
+  - name: remastered/msn/sp/HE_COL_4_7.bar/SP_HE_COL_4_7_bar1.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_1_8.bar/SP_HE_COL_1_8_bar1.dds
+    - name: remastered/msn/sp/HE_COL_1_10.bar/SP_HE_COL_1_10_bar1.dds
+    - name: remastered/msn/sp/HE_COL_2_10.bar/SP_HE_COL_2_10_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_1.bar/SP_HE_COL_4_1_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_2.bar/SP_HE_COL_4_2_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_3.bar/SP_HE_COL_4_3_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_4.bar/SP_HE_COL_4_4_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_5.bar/SP_HE_COL_4_5_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_6.bar/SP_HE_COL_4_6_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_8.bar/SP_HE_COL_4_8_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_9.bar/SP_HE_COL_4_9_bar1.dds
+    - name: remastered/msn/sp/HE_COL_4_10.bar/SP_HE_COL_4_10_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM.bar/SP_HE_COLOSSEUM_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2.bar/SP_HE_COLOSSEUM_2_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2_FOG.bar/SP_HE_COLOSSEUM_2_FOG_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_3.bar/SP_HE_COLOSSEUM_3_bar1.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_4_7_bar1.dds
+  - name: remastered/msn/sp/HE_COL_6_10.bar/SP_HE_COL_6_10_bar0.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_5.bar/SP_HE_COL_5_bar0.dds
+    - name: remastered/msn/sp/HE_COL_5_8.bar/SP_HE_COL_5_8_bar0.dds
+    - name: remastered/msn/sp/HE_COL_5_10.bar/SP_HE_COL_5_10_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_5.bar/SP_HE_COL_8_5_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_6.bar/SP_HE_COL_8_6_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_10.bar/SP_HE_COL_8_10_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_25.bar/SP_HE_COL_8_25_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_30.bar/SP_HE_COL_8_30_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_31.bar/SP_HE_COL_8_31_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_35.bar/SP_HE_COL_8_35_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_40.bar/SP_HE_COL_8_40_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_45.bar/SP_HE_COL_8_45_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_49.bar/SP_HE_COL_8_49_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8_50.bar/SP_HE_COL_8_50_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8PP_BOSS.bar/SP_HE_COL_8PP_BOSS_bar0.dds
+    - name: remastered/msn/sp/HE_COL_8TI_BOSS.bar/SP_HE_COL_8TI_BOSS_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6.bar/SP_HE_COLOSSEUM_6_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6_FOG.bar/SP_HE_COLOSSEUM_6_FOG_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_7.bar/SP_HE_COLOSSEUM_7_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8.bar/SP_HE_COLOSSEUM_8_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_CEL.bar/SP_HE_COLOSSEUM_8_CEL_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_ONLY.bar/SP_HE_COLOSSEUM_8_ONLY_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_PP.bar/SP_HE_COLOSSEUM_8_PP_bar0.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_TIT.bar/SP_HE_COLOSSEUM_8_TIT_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_6_10_bar0.dds
+  - name: remastered/msn/sp/HE_COL_6_10.bar/SP_HE_COL_6_10_bar2.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_5.bar/SP_HE_COL_5_bar2.dds
+    - name: remastered/msn/sp/HE_COL_5_8.bar/SP_HE_COL_5_8_bar2.dds
+    - name: remastered/msn/sp/HE_COL_5_10.bar/SP_HE_COL_5_10_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_5.bar/SP_HE_COL_8_5_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_6.bar/SP_HE_COL_8_6_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_10.bar/SP_HE_COL_8_10_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_25.bar/SP_HE_COL_8_25_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_30.bar/SP_HE_COL_8_30_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_31.bar/SP_HE_COL_8_31_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_35.bar/SP_HE_COL_8_35_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_40.bar/SP_HE_COL_8_40_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_45.bar/SP_HE_COL_8_45_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_49.bar/SP_HE_COL_8_49_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8_50.bar/SP_HE_COL_8_50_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8PP_BOSS.bar/SP_HE_COL_8PP_BOSS_bar2.dds
+    - name: remastered/msn/sp/HE_COL_8TI_BOSS.bar/SP_HE_COL_8TI_BOSS_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6.bar/SP_HE_COLOSSEUM_6_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6_FOG.bar/SP_HE_COLOSSEUM_6_FOG_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_7.bar/SP_HE_COLOSSEUM_7_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8.bar/SP_HE_COLOSSEUM_8_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_CEL.bar/SP_HE_COLOSSEUM_8_CEL_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_ONLY.bar/SP_HE_COLOSSEUM_8_ONLY_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_PP.bar/SP_HE_COLOSSEUM_8_PP_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_TIT.bar/SP_HE_COLOSSEUM_8_TIT_bar2.dds
+    - name: remastered/msn/sp/HE_COL_1_8.bar/SP_HE_COL_1_8_bar2.dds
+    - name: remastered/msn/sp/HE_COL_1_10.bar/SP_HE_COL_1_10_bar2.dds
+    - name: remastered/msn/sp/HE_COL_2_10.bar/SP_HE_COL_2_10_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_1.bar/SP_HE_COL_4_1_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_2.bar/SP_HE_COL_4_2_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_3.bar/SP_HE_COL_4_3_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_4.bar/SP_HE_COL_4_4_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_5.bar/SP_HE_COL_4_5_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_6.bar/SP_HE_COL_4_6_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_7.bar/SP_HE_COL_4_7_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_8.bar/SP_HE_COL_4_8_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_9.bar/SP_HE_COL_4_9_bar2.dds
+    - name: remastered/msn/sp/HE_COL_4_10.bar/SP_HE_COL_4_10_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM.bar/SP_HE_COLOSSEUM_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2.bar/SP_HE_COLOSSEUM_2_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2_FOG.bar/SP_HE_COLOSSEUM_2_FOG_bar2.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_3.bar/SP_HE_COLOSSEUM_3_bar2.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_4_9_bar2.dds
+  - name: remastered/msn/sp/HE_COL_6_10.bar/SP_HE_COL_6_10_bar3.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_5.bar/SP_HE_COL_5_bar3.dds
+    - name: remastered/msn/sp/HE_COL_5_8.bar/SP_HE_COL_5_8_bar3.dds
+    - name: remastered/msn/sp/HE_COL_5_10.bar/SP_HE_COL_5_10_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_5.bar/SP_HE_COL_8_5_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_6.bar/SP_HE_COL_8_6_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_10.bar/SP_HE_COL_8_10_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_25.bar/SP_HE_COL_8_25_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_30.bar/SP_HE_COL_8_30_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_31.bar/SP_HE_COL_8_31_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_35.bar/SP_HE_COL_8_35_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_40.bar/SP_HE_COL_8_40_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_45.bar/SP_HE_COL_8_45_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_49.bar/SP_HE_COL_8_49_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8_50.bar/SP_HE_COL_8_50_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8PP_BOSS.bar/SP_HE_COL_8PP_BOSS_bar3.dds
+    - name: remastered/msn/sp/HE_COL_8TI_BOSS.bar/SP_HE_COL_8TI_BOSS_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6.bar/SP_HE_COLOSSEUM_6_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6_FOG.bar/SP_HE_COLOSSEUM_6_FOG_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_7.bar/SP_HE_COLOSSEUM_7_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8.bar/SP_HE_COLOSSEUM_8_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_CEL.bar/SP_HE_COLOSSEUM_8_CEL_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_ONLY.bar/SP_HE_COLOSSEUM_8_ONLY_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_PP.bar/SP_HE_COLOSSEUM_8_PP_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_TIT.bar/SP_HE_COLOSSEUM_8_TIT_bar3.dds
+    - name: remastered/msn/sp/HE_COL_1_8.bar/SP_HE_COL_1_8_bar3.dds
+    - name: remastered/msn/sp/HE_COL_1_10.bar/SP_HE_COL_1_10_bar3.dds
+    - name: remastered/msn/sp/HE_COL_2_10.bar/SP_HE_COL_2_10_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_1.bar/SP_HE_COL_4_1_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_2.bar/SP_HE_COL_4_2_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_3.bar/SP_HE_COL_4_3_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_4.bar/SP_HE_COL_4_4_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_5.bar/SP_HE_COL_4_5_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_6.bar/SP_HE_COL_4_6_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_7.bar/SP_HE_COL_4_7_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_8.bar/SP_HE_COL_4_8_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_9.bar/SP_HE_COL_4_9_bar3.dds
+    - name: remastered/msn/sp/HE_COL_4_10.bar/SP_HE_COL_4_10_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM.bar/SP_HE_COLOSSEUM_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2.bar/SP_HE_COLOSSEUM_2_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2_FOG.bar/SP_HE_COLOSSEUM_2_FOG_bar3.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_3.bar/SP_HE_COLOSSEUM_3_bar3.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COLOSSEUM_8_TIT_bar3.dds
+  - name: remastered/msn/sp/HE_COL_6_10.bar/SP_HE_COL_6_10_bar4.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_5.bar/SP_HE_COL_5_bar4.dds
+    - name: remastered/msn/sp/HE_COL_5_10.bar/SP_HE_COL_5_10_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_5.bar/SP_HE_COL_8_5_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_6.bar/SP_HE_COL_8_6_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_10.bar/SP_HE_COL_8_10_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_25.bar/SP_HE_COL_8_25_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_30.bar/SP_HE_COL_8_30_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_40.bar/SP_HE_COL_8_40_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_49.bar/SP_HE_COL_8_49_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_50.bar/SP_HE_COL_8_50_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8PP_BOSS.bar/SP_HE_COL_8PP_BOSS_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8TI_BOSS.bar/SP_HE_COL_8TI_BOSS_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6.bar/SP_HE_COLOSSEUM_6_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6_FOG.bar/SP_HE_COLOSSEUM_6_FOG_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_7.bar/SP_HE_COLOSSEUM_7_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8.bar/SP_HE_COLOSSEUM_8_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_CEL.bar/SP_HE_COLOSSEUM_8_CEL_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_ONLY.bar/SP_HE_COLOSSEUM_8_ONLY_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_PP.bar/SP_HE_COLOSSEUM_8_PP_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_TIT.bar/SP_HE_COLOSSEUM_8_TIT_bar4.dds
+    - name: remastered/msn/sp/HE_COL_1_10.bar/SP_HE_COL_1_10_bar4.dds
+    - name: remastered/msn/sp/HE_COL_2_10.bar/SP_HE_COL_2_10_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_1.bar/SP_HE_COL_4_1_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_2.bar/SP_HE_COL_4_2_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_3.bar/SP_HE_COL_4_3_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_4.bar/SP_HE_COL_4_4_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_5.bar/SP_HE_COL_4_5_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_6.bar/SP_HE_COL_4_6_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_9.bar/SP_HE_COL_4_9_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_10.bar/SP_HE_COL_4_10_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM.bar/SP_HE_COLOSSEUM_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2.bar/SP_HE_COLOSSEUM_2_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2_FOG.bar/SP_HE_COLOSSEUM_2_FOG_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_3.bar/SP_HE_COLOSSEUM_3_bar4.dds
+    - name: remastered/msn/sp/HE_COL_4_7.bar/SP_HE_COL_4_7_bar4.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_4_9_bar4.dds
+  - name: remastered/msn/sp/HE_COL_6_10.bar/SP_HE_COL_6_10_bar5.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_5_8.bar/SP_HE_COL_5_8_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_31.bar/SP_HE_COL_8_31_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_35.bar/SP_HE_COL_8_35_bar4.dds
+    - name: remastered/msn/sp/HE_COL_8_40.bar/SP_HE_COL_8_40_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_45.bar/SP_HE_COL_8_45_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6.bar/SP_HE_COLOSSEUM_6_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6_FOG.bar/SP_HE_COLOSSEUM_6_FOG_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_CEL.bar/SP_HE_COLOSSEUM_8_CEL_bar5.dds
+    - name: remastered/msn/sp/HE_COL_1_8.bar/SP_HE_COL_1_8_bar4.dds
+    - name: remastered/msn/sp/HE_COL_2_10.bar/SP_HE_COL_2_10_bar5.dds
+    - name: remastered/msn/sp/HE_COL_4_2.bar/SP_HE_COL_4_2_bar5.dds
+    - name: remastered/msn/sp/HE_COL_4_6.bar/SP_HE_COL_4_6_bar5.dds
+    - name: remastered/msn/sp/HE_COL_4_8.bar/SP_HE_COL_4_8_bar4.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2.bar/SP_HE_COLOSSEUM_2_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2_FOG.bar/SP_HE_COLOSSEUM_2_FOG_bar5.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COLOSSEUM_6_bar5.dds
+  - name: remastered/msn/sp/HE_COL_4_3.bar/SP_HE_COL_4_3_bar5.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_4_7.bar/SP_HE_COL_4_7_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8PP_BOSS.bar/SP_HE_COL_8PP_BOSS_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8TI_BOSS.bar/SP_HE_COL_8TI_BOSS_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_3.bar/SP_HE_COLOSSEUM_3_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_7.bar/SP_HE_COLOSSEUM_7_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_TIT.bar/SP_HE_COLOSSEUM_8_TIT_bar5.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COLOSSEUM_8_TIT_bar5.dds
+  - name: remastered/msn/sp/HE_COL_6_10.bar/SP_HE_COL_6_10_bar1.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_5.bar/SP_HE_COL_5_bar1.dds
+    - name: remastered/msn/sp/HE_COL_5_8.bar/SP_HE_COL_5_8_bar1.dds
+    - name: remastered/msn/sp/HE_COL_5_10.bar/SP_HE_COL_5_10_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_5.bar/SP_HE_COL_8_5_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_6.bar/SP_HE_COL_8_6_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_10.bar/SP_HE_COL_8_10_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_25.bar/SP_HE_COL_8_25_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_30.bar/SP_HE_COL_8_30_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_31.bar/SP_HE_COL_8_31_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_35.bar/SP_HE_COL_8_35_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_40.bar/SP_HE_COL_8_40_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_45.bar/SP_HE_COL_8_45_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_49.bar/SP_HE_COL_8_49_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8_50.bar/SP_HE_COL_8_50_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8PP_BOSS.bar/SP_HE_COL_8PP_BOSS_bar1.dds
+    - name: remastered/msn/sp/HE_COL_8TI_BOSS.bar/SP_HE_COL_8TI_BOSS_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6.bar/SP_HE_COLOSSEUM_6_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6_FOG.bar/SP_HE_COLOSSEUM_6_FOG_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_7.bar/SP_HE_COLOSSEUM_7_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8.bar/SP_HE_COLOSSEUM_8_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_CEL.bar/SP_HE_COLOSSEUM_8_CEL_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_ONLY.bar/SP_HE_COLOSSEUM_8_ONLY_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_PP.bar/SP_HE_COLOSSEUM_8_PP_bar1.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_TIT.bar/SP_HE_COLOSSEUM_8_TIT_bar1.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_6_10_bar1.dds
   - name: remastered/msn/sp/HE00_MS104A.bar/SP_HE00_MS104A_bar0.png
     multi:
     - name: remastered/msn/sp/HE00_MS104B.bar/SP_HE00_MS104B_bar0.png
@@ -1628,6 +1909,12 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_HE08_MS107_bar0.png
+  - name: remastered/msn/sp/LK02_MS102.bar/SP_LK02_MS102_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_LK02_MS102_bar0.png
   - name: remastered/msn/sp/MU07_MS106.bar/SP_MU07_MS106_bar0.png
     method: copy
     platform: pc
@@ -2265,6 +2552,94 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_HE02_MS104D_bar5.png
+  - name: remastered/msn/sp/HE_COL_1_8.bar/SP_HE_COL_1_8_bar5.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_1_10.bar/SP_HE_COL_1_10_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM.bar/SP_HE_COLOSSEUM_bar5.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_1_10_bar5.dds
+  - name: remastered/msn/sp/HE_COL_2_10.bar/SP_HE_COL_2_10_bar6.dds
+    multi:
+    - name: remastered/msn/sp/HE_COLOSSEUM_2.bar/SP_HE_COLOSSEUM_2_bar6.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_2_FOG.bar/SP_HE_COLOSSEUM_2_FOG_bar6.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_2_10_bar6.dds
+  - name: remastered/msn/sp/HE_COLOSSEUM_3.bar/SP_HE_COLOSSEUM_3_bar6.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COLOSSEUM_3_bar6.dds
+  - name: remastered/msn/sp/HE_COL_4_1.bar/SP_HE_COL_4_1_bar5.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_4_2.bar/SP_HE_COL_4_2_bar6.dds
+    - name: remastered/msn/sp/HE_COL_4_3.bar/SP_HE_COL_4_3_bar6.dds
+    - name: remastered/msn/sp/HE_COL_4_4.bar/SP_HE_COL_4_4_bar5.dds
+    - name: remastered/msn/sp/HE_COL_4_5.bar/SP_HE_COL_4_5_bar5.dds
+    - name: remastered/msn/sp/HE_COL_4_6.bar/SP_HE_COL_4_6_bar6.dds
+    - name: remastered/msn/sp/HE_COL_4_7.bar/SP_HE_COL_4_7_bar6.dds
+    - name: remastered/msn/sp/HE_COL_4_8.bar/SP_HE_COL_4_8_bar5.dds
+    - name: remastered/msn/sp/HE_COL_4_9.bar/SP_HE_COL_4_9_bar5.dds
+    - name: remastered/msn/sp/HE_COL_4_10.bar/SP_HE_COL_4_10_bar5.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_4_1_bar5.dds
+  - name: remastered/msn/sp/HE_COL_5.bar/SP_HE_COL_5_bar5.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_5_8.bar/SP_HE_COL_5_8_bar5.dds
+    - name: remastered/msn/sp/HE_COL_5_10.bar/SP_HE_COL_5_10_bar5.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_5_bar5.dds
+  - name: remastered/msn/sp/COL_6_10.bar/SP_HE_COL_6_10_bar6.dds
+    multi:
+    - name: remastered/msn/sp/HE_COLOSSEUM_6.bar/SP_HE_COLOSSEUM_6_bar6.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_6_FOG.bar/SP_HE_COLOSSEUM_6_FOG_bar6.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_6_10_bar6.dds
+  - name: remastered/msn/sp/HE_COLOSSEUM_7.bar/SP_HE_COLOSSEUM_7_bar6.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COLOSSEUM_7_bar6.dds
+  - name: remastered/msn/sp/HE_COL_8_5.bar/SP_HE_COL_8_5_bar5.dds
+    multi:
+    - name: remastered/msn/sp/HE_COL_8_6.bar/SP_HE_COL_8_6_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_10.bar/SP_HE_COL_8_10_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_25.bar/SP_HE_COL_8_25_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_30.bar/SP_HE_COL_8_30_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_31.bar/SP_HE_COL_8_31_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_35.bar/SP_HE_COL_8_35_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_40.bar/SP_HE_COL_8_40_bar6.dds
+    - name: remastered/msn/sp/HE_COL_8_45.bar/SP_HE_COL_8_45_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_49.bar/SP_HE_COL_8_49_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8_50.bar/SP_HE_COL_8_50_bar5.dds
+    - name: remastered/msn/sp/HE_COL_8PP_BOSS.bar/SP_HE_COL_8PP_BOSS_bar6.dds
+    - name: remastered/msn/sp/HE_COL_8TI_BOSS.bar/SP_HE_COL_8TI_BOSS_bar6.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8.bar/SP_HE_COLOSSEUM_8_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_CEL.bar/SP_HE_COLOSSEUM_8_CEL_bar6.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_ONLY.bar/SP_HE_COLOSSEUM_8_ONLY_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_PP.bar/SP_HE_COLOSSEUM_8_PP_bar5.dds
+    - name: remastered/msn/sp/HE_COLOSSEUM_8_TIT.bar/SP_HE_COLOSSEUM_8_TIT_bar6.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_HE_COL_8_5_bar5.dds
   - name: remastered/msn/sp/LM01_MS201_FREE.bar/SP_LM01_MS201_FREE_bar0.png
     multi:
     - name: remastered/msn/sp/LM01_MS201.bar/SP_LM01_MS201_bar0.png
@@ -2333,17 +2708,25 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_PO01_MS501_bar5.png
+  - name: remastered/msn/sp/PO06_MS101.bar/SP_PO06_MS101_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO06_MS101_bar4.png
   - name: remastered/msn/sp/PO06_MS101_FREE.bar/SP_PO06_MS101_FREE_bar6.png
-    multi:
-    - name: remastered/msn/sp/PO06_MS101.bar/SP_PO06_MS101_bar4.png
     method: copy
     platform: pc
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_PO06_MS101_FREE_bar4.png
+  - name: remastered/msn/sp/PO07_MS201.bar/SP_PO07_MS201_bar4.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/msn/CA_PO07_MS201_bar4.png
   - name: remastered/msn/sp/PO07_MS201_FREE.bar/SP_PO07_MS201_FREE_bar4.png
-    multi:
-    - name: remastered/msn/sp/PO07_MS201.bar/SP_PO07_MS201_bar4.png
     method: copy
     platform: pc
     package: kh2_fifth

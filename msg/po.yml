@@ -51,7 +51,7 @@
 
     per preguntar-ne al Merlí.
 - id: 4676
-  text: Digue'm... què passa, fill?
+  text: Digues-me... què passa, fill?
 - id: 4677
   text: >-
     Oh... només estava pensant...
@@ -65,17 +65,17 @@
   text: >-
     Per què? Perquè és
 
-    el Dia del Vent, és clar.
+    el Diventcres, és clar.
 - id: 4681
   text: >-
     De debò? Oh... Aleshores...
 
-    Bon Dia del Vent!
+    Bon Diventcres!
 - id: 4682
   text: >-
     Vaja, crec que li aniré a desitjar
 
-    a tothom un feliç Dia del Vent.
+    a tothom un bon Diventcres.
 - id: 4683
   text: >-
     Oh, quina llauna!
@@ -100,7 +100,7 @@
   text: '{:unk13 2C 01 50 00}{:unk06 00}{:unk08 01 00 05}Ja no hi ha perill!'
 - id: 4691
   text: >-
-    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Menys mal!
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Sort de tu!
 
     Gràcies, Sora.
 - id: 4692
@@ -114,7 +114,7 @@
   text: >-
     {:unk13 4A 01 3C 00}{:unk06 00}{:unk08 01 01 05}Vaja, hola.
 
-    Encantat de conèixer-te.{:clear }{:delay 1E 00}Feliç Dia del Vent.
+    Encantat de conèixer-te.{:clear }{:delay 1E 00}Bon Diventcres.
 - id: 4695
   text: >-
     {:unk13 B2 00 03 01}{:unk06 02}{:unk08 01 01 06}Encantat de co-conèixer-me?
@@ -164,7 +164,7 @@
   text: Està bé, S-Sora. Ho intentaré...
 - id: 4708
   text: >-
-    Allò fa bastanta por.
+    Allò feia bastanta por.
 
     Espero que estiguis bé, Piglet.
 - id: 4709
@@ -176,7 +176,7 @@
     «el meu amic Piglet el valent».
 - id: 4711
   text: >-
-    Jo? Valent?{:delay 7A 00}{:clear }És fàcil ser-ne quan tens un amic
+    Jo? Valent?{:delay 7A 00}{:clear }És fàcil ser-ho quan tens un amic
 
     tan meravellós com tu, Pooh.
 - id: 4712
@@ -229,9 +229,9 @@
   text: Em pregunto què li haurà passat.
 - id: 4727
   text: >-
-    Ah, tinc una idea!{:delay 7E 00}{:clear }Potser al Pooh li fa tant mal
+    Ah, tinc una idea!{:delay 7E 00}{:clear }Potser al Pooh li fa tant mal a la
 
-    a la panxeta que s'oblida de les coses.{:delay F6 00}{:clear }Si le portem mel,
+    panxeta que s'oblida de les coses.{:delay F6 00}{:clear }Si li portem mel,
 
     segur que se'n recordarà.
 - id: 4728
@@ -243,14 +243,14 @@
   text: Pot ser que funcioni. O potser no.
 - id: 4730
   text: >-
-    Primer s'ha de trobar
+    Primer hem de trobar
 
     una mica de mel.
 - id: 4731
   text: >-
     Si el que busqueu és mel,
 
-    conec el lloc perfecte.{:delay 18 01}{:clear }Seguiu-me.
+    hi conec el lloc perfecte.{:delay 18 01}{:clear }Seguiu-me.
 - id: 4732
   text: Simplement estupend!
 - id: 4733
@@ -281,14 +281,14 @@
   text: '{:unk13 73 01 70 00}{:unk06 00}{:unk08 01 00 06}Allò és per a mi també?'
 - id: 4743
   text: >-
-    {:unk13 9A 00 58 00}{:unk06 00}{:unk08 01 01 05}Vaja, creia haver-li
+    {:unk13 9A 00 58 00}{:unk06 00}{:unk08 01 01 05}Vaja, pensava hi havia
 
     trobat un lloc segur...
 - id: 4744
   text: >-
     {:unk13 4F 01 41 00}{:unk06 00}{:unk08 01 00 06}Ho sento. És culpa nostra.
 
-    Nosaltres va dur el Pooh aquí.
+    Nosaltres hem dut el Pooh aquí.
 - id: 4745
   text: >-
     {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Eh, hola, Sora...
@@ -305,12 +305,12 @@
 
     quan al Pooh li agafa
 
-    gana res l'atura.
+    gana, res l'atura.
 - id: 4748
   text: >-
-    {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 01 06}Disculpa, algú que no
+    {:unk13 FA 00 64 00}{:unk06 00}{:unk08 01 01 06}Disculpa, algú que no conec.
 
-    conec. En queda una mica més?
+    En queda una mica més?
 - id: 4749
   text: >-
     {:unk13 5E 01 50 00}{:unk06 00}{:unk08 01 01 06}Et trobes bé,
@@ -322,7 +322,7 @@
 
     de mi completament?
 
-    Qué diables està passant?
+    Què diables està passant?
 - id: 4751
   text: >-
     {:unk13 FF 00 64 00}{:unk06 00}{:unk08 01 01 06}Hi ha una mica més de mel?
@@ -374,7 +374,7 @@
     un parell de potets més de mel?
 - id: 4762
   text: >-
-    Crec que la meva panxeta em diu que
+    Em sembla que la meva panxeta em diu que
 
     allà dins hi ha una mica més de mel.
 - id: 4763
@@ -383,7 +383,7 @@
   text: >-
     Ahh... Segueix sense recordar-se'n.{:delay 85 00}{:clear }Es pot saber què
 
-    li ha picat a l'os Pooh?
+    ha picat a l'os Pooh?
 - id: 4765
   text: >-
     Sigui el que sigui,
@@ -419,7 +419,7 @@
 - id: 4773
   text: Doncs és clar, Conill!
 - id: 4774
-  text: Què me'n dius de l'Igor?{:delay 58 00}{:clear }També et recordes de l'Igor, Pooh?
+  text: Què me'n dius, de l'Igor?{:delay 58 00}{:clear }També et recordes de l'Igor, Pooh?
 - id: 4775
   text: Ah, com va, Igor?{:delay 8E 00}{:clear }M'alegro molt de veure't.
 - id: 4776
@@ -1295,7 +1295,7 @@
 - id: 18329
   text: 'Hi hauria de dir: «Pastanaga».'
 - id: 18330
-  text: 'Han volgut posar: «Cabdell».'
+  text: 'Han volgut posar: «Enciam».'
 - id: 18331
   text: 'Sembla ser que hi diu: «Carbassa».'
 - id: 18332
