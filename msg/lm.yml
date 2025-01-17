@@ -381,7 +381,7 @@
   text: Papa!
 - id: 5115
   text: >-
-    Ariel, saps quant
+    Ariel, saps com de
 
     perillosos són els humans!
 - id: 5116
@@ -408,7 +408,7 @@
   text: >-
     {:unk13 2C 01 54 01}{:unk08 01 01 01}Exacte, angelet.
 
-    Però anava a mantenir-me lluny...{:clear }sabent que erets tan desgraciada?
+    Però me'n mantindria lluny...{:clear }sabent que eres tan desgraciada?
 
     El que tu necessites és consell femení.
 - id: 5125
@@ -498,14 +498,14 @@
 
     obeir ton paretó?{:clear }Només et costaria perdre
 
-    el teu vertader amor.{:clear }Au va, estimada.
+    el teu veritable amor.{:clear }Au va, estimada.
 
     És la teva última oportunitat.{:clear }Però tranquil・la, no et
 
     convenceré si no vols.
 - id: 5140
   text: >-
-    {:unk13 72 01 50 00}{:unk08 01 00 05}No la escoltis,
+    {:unk13 72 01 50 00}{:unk08 01 00 05}No l'escoltis,
 
     Ariel!
 - id: 5141
@@ -515,13 +515,13 @@
     vols la meva ajuda.
 - id: 5142
   text: >-
-    És una pena això del teu príncepet.
+    És una pena això del teu princepet.
 
     És tot un partit...
 - id: 5143
   text: Espera!
 - id: 5144
-  text: Només haig de firmar?
+  text: Només haig de firmar-hi?
 - id: 5145
   text: Tracte fet!
 - id: 5146
@@ -583,9 +583,9 @@
     arreglés tot això.
 - id: 5168
   text: >-
-    {:unk13 5E 01 3C 00}{:unk08 01 01 05}Ja! No es prendrà
+    {:unk13 5E 01 3C 00}{:unk08 01 01 05}Ha! No es prendrà
 
-    la molèstia.
+    pas la molèstia.
 - id: 5169
   text: >-
     {:unk13 0E 01 2C 01}{:unk08 01 00 01}Ei, mai se sap fins
@@ -595,25 +595,25 @@
   text: >-
     {:unk13 72 01 46 00}{:unk08 01 01 05}Mmm...
 
-    Potser tinguis raó.{:clear }I allò és millor
+    Potser tens raó.{:clear }I allò és millor
 
-    que res.{:clear }Puc confiar en que
+    que res.{:clear }Puc confiar que
 
-    t'encarregarás de l'Úrsula?
+    t'encarregaràs de l'Úrsula?
 - id: 5171
-  text: '{:unk13 0E 01 64 00}{:unk08 01 01 05}És clar!'
+  text: '{:unk13 0E 01 64 00}{:unk08 01 01 05}I tant!'
 - id: 5172
   text: >-
     Ei!
 
     On és el Sebastià?
 - id: 5173
-  text: Uhhh...{:delay 28 00}{:clear }{:delay 20 00}{:clear }El Rei Tritó volia veure'l en palau.
+  text: Uhhh...{:delay 28 00}{:clear }{:delay 20 00}{:clear }El Rei Tritó volia veure'l a palau.
 - id: 5174
   text: Em pregunto si serà per l'Ariel.
 - id: 5175
   text: >-
-    Si el Rei Tritó se n'adona,
+    Si el Rei Tritó se n'assabenta,
 
     l'haurem feta bona,{:delay BE 00}{:clear }per haver-ho mantingut en secret.
 - id: 5176
@@ -622,7 +622,7 @@
   text: S'ha esfumat.
 - id: 5178
   text: >-
-    Com li va a Ariel?
+    Com li va a l'Ariel?
 
     Només té fins demà al capvespre.
 - id: 5179
@@ -632,7 +632,7 @@
 - id: 5181
   text: No veig res!
 - id: 5182
-  text: Uuff, menys mal.
+  text: Uuff, quina sort.
 - id: 5183
   text: Vaja! Han estat molt a prop.
 - id: 5184
@@ -671,7 +671,7 @@
 - id: 5196
   text: Eric!
 - id: 5197
-  text: Pots...{:delay 7B 00}{:clear }pots parlar...{:delay AD 00}{:clear }Erets tu...{:delay 66 00}{:clear }Aquella veu era teva...
+  text: Pots...{:delay 7B 00}{:clear }pots parlar...{:delay AD 00}{:clear }Eres tu...{:delay 66 00}{:clear }Aquella veu era teva...
 - id: 5198
   text: Oh, Eric... Volia dir-t'ho...
 - id: 5199
@@ -746,7 +746,7 @@
   text: Papa!
 - id: 5222
   text: >-
-    Ja! On és ara el «totpoderós»
+    Ha! On és ara el «totpoderós»
 
     Senyor dels Mars?
 - id: 5223
@@ -761,7 +761,7 @@
   text: Ei! Ja n'hi ha prou!
 - id: 5228
   text: >-
-    Ja, ja!
+    Ha, ha!
 
     Ara us postrareu davant meu!
 - id: 5229
@@ -784,12 +784,12 @@
   text: >-
     Si ho arribo a saber, hagués posat
 
-    més obstinació en aprendre a nedar.
+    més obstinació a aprendre a nedar.
 - id: 5242
   text: >-
-    Bé, suposo que mai
+    Bé, suposo que mai és
 
-    és tard per aprendre, no?
+    tard per aprendre-hi, no?
 - id: 5243
   text: Vols ensenyar-m'hi?
 - id: 5245
@@ -837,7 +837,7 @@
   text: '{:unk13 B1 01 3F 00}{:unk08 01 00 05}Impossible!'
 - id: 5258
   text: >-
-    {:unk13 EC 00 36 00}{:unk08 01 01 07}Anava a fer que la
+    {:unk13 EC 00 36 00}{:unk08 01 01 07}Volia fer que la
 
     cançó fos perfecta...
 - id: 5259
@@ -861,13 +861,13 @@
     I una, dues, tres, quatre...
 - id: 5268
   text: >-
-    Encara que ens en anem
+    Encara que ens en anem els nostres
 
-    els nostres món segueixen connectats.
+    mons segueixen connectats.
 - id: 5269
   text: Que vol dir...
 - id: 5270
-  text: Hi som lliures de tornar.
+  text: Som lliures de tornar-hi.
 - id: 5271
   text: I cantar!
 - id: 5272
@@ -1017,7 +1017,7 @@
   text: >-
     {:unk13 A0 00 64 00}{:unk08 01 01 05}Se li trencaria el
 
-    cor si se n'adones!
+    cor si se n'assabentés!
 - id: 6433
   text: '{:unk13 8C 00 A0 00}{:unk08 01 01 01}Llavors què fem?'
 - id: 6434
@@ -1146,7 +1146,7 @@
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Tu vine nedant, gaudeix ballant.{:unk0e 00}'
 - id: 8820
   text: >-
-    {:unk13 FA 00 90 01}{:unk0e 0A}És molt fácil si ho intentes.
+    {:unk13 FA 00 90 01}{:unk0e 0A}És molt fàcil si ho intentes.
 
     Entra i toca aquesta aleta!{:unk0e 00}
 - id: 8821
@@ -1354,13 +1354,13 @@
 - id: 8949
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}que vivia tan amunt.{:unk0e 00}'
 - id: 8950
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}De bo que els desitjos poden complir-se{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Els desitjos poden fer-se realitat{:unk0e 00}'
 - id: 8951
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}si és el que tu vols.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}si és el que cerques.{:unk0e 00}'
 - id: 8952
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}I la meva felicitat{:unk0e 00}'
 - id: 8953
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}us ho dec a{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}la dec a tots{:unk0e 00}'
 - id: 8954
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Què et sembla si ara ens presentes{:unk0e 00}'
 - id: 8955
@@ -1382,17 +1382,17 @@
 - id: 8963
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}és un gran honor.{:unk0e 00}'
 - id: 8964
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Veient com et fem somriure,{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Veure com et fem somriure,{:unk0e 00}'
 - id: 8965
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}ens fa xipollejar sense fi.{:unk0e 00}'
 - id: 8966
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}De bo que els desitjos poden complir-se{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Els desitjos poden fer-se realitat{:unk0e 00}'
 - id: 8967
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}si és el que tu vols.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}si és el que cerques.{:unk0e 00}'
 - id: 8968
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}I la meva felicitat{:unk0e 00}'
 - id: 8969
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}us ho dec a tots i cadascun.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}la dec a tots vosaltres.{:unk0e 00}'
 - id: 8970
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Us roguem, presenteu-nos{:unk0e 00}'
 - id: 8971
@@ -1406,12 +1406,12 @@
 - id: 8975
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sí, finals feliços no se solen veure.{:unk0e 00}'
 - id: 8976
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Alegres de poder ajuda, i{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Alegres de poder ajudar, i{:unk0e 00}'
 - id: 8977
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}orgullosos és clar.{:unk0e 00}'
 - id: 8978
   text: >-
-    {:unk13 FA 00 90 01}{:unk0e 0A}Veient com et fem somriure,
+    {:unk13 FA 00 90 01}{:unk0e 0A}Veure com et fem somriure,
 
     ens fa xipollejar sense fi.{:unk0e 00}
 - id: 8979
@@ -1447,11 +1447,11 @@
 
     us juro que només he començat.{:unk0e 00}
 - id: 10336
-  text: "{:unk13 FA 00 90 01}{:unk0e 0A}No s'acaba fins que l'Úrsuka venci!{:unk0e 00}"
+  text: "{:unk13 FA 00 90 01}{:unk0e 0A}No s'acaba fins que l'Úrsula venci!{:unk0e 00}"
 - id: 10413
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Un final de sort i goig...{:unk0e 00}'
 - id: 10417
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}res més.{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}vosaltres.{:unk0e 00}'
 - id: 10418
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}entre terra i mar.{:unk0e 00}'
 - id: 10420
@@ -1782,12 +1782,12 @@
   text: >-
     Sora, sembla que has guanyat
 
-    una quanta experiència.{:clear }Creus que podries
+    una mica d'experiència.{:clear }Creus que podries
 
     ajudar-me amb el penjoll?
 - id: 18170
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Recollir l'objecte?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Recollim l'objecte?
 
     {:chardelay 33 00}Encara no.
 
@@ -1945,7 +1945,7 @@
     com està l'Ariel.
 - id: 18198
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Anar a veure l'Ariel?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Anem a veure l'Ariel?
 
     {:chardelay 33 00}Descansem primer.
 
@@ -1971,7 +1971,7 @@
     oblidarà la seva bogeria per la terra!
 - id: 18476
   text: >-
-    {:unk13 DE 00 38 01}{:unk08 01 01 01}Això és el millor que pots fer? Ja!
+    {:unk13 DE 00 38 01}{:unk08 01 01 01}Això és el millor que pots fer? Ha!
 
     Mai em superaràs, ni en cent anys!
 - id: 18477
@@ -2019,7 +2019,7 @@
 - id: 21532
   text: "{:delayandfade 07 78} \nLa jove i enamorada Ariel observa\nel seu príncep en la llunyania. Entre les\nroques veu allò que el jove busca,\nperò li és impossible arribar-hi.\n \nPer sort, el Sora és per allà i,\nutilitzant els seus poders, aconsegueix\napartar la gran roca per arribar al\npenjoll.\n \n"
 - id: 21533
-  text: "{:delayandfade 07 78} \nUna ombra amenaçadora s'apropa\na l'Ariel. Es tracta de l'Úrsula, la bruixa\ndesterrada un any enrere, que s'aprofita\nde la jove per oferir-li\nun tracte: la seva bella veu a canvi de\ntransformar-la en humana.\n \nPerò hi ha una cosa més: l'Ariel ha de\nrebre un petó del príncepe abans de tres\ndies o es convertirà en un monstre.\n \n"
+  text: "{:delayandfade 07 78} \nUna ombra amenaçadora s'apropa\na l'Ariel. Es tracta de l'Úrsula, la bruixa\ndesterrada un any enrere, que s'aprofita\nde la jove per oferir-li\nun tracte: la seva bella veu a canvi de\ntransformar-la en humana.\n \nPerò hi ha una cosa més: l'Ariel ha de\nrebre un petó del príncep abans de tres\ndies o es convertirà en un monstre.\n \n"
 - id: 21534
   text: "{:delayandfade 0A 78} \nEl Sora i els seus amics han d'arribar\nfins a la malvada Úrsula mentre\nprotegeixen la pobra Ariel.\n \n \n \n \n \n"
 - id: 21535

@@ -979,6 +979,153 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/map/dc/CA_dc07_bar0.dds
+  #HB
+  - name: remastered/map/sp/hb00.bar/SP_hb00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb00_bar0.dds
+  - name: remastered/map/sp/hb01.bar/SP_hb01_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb01_bar0.dds
+  - name: remastered/map/sp/hb02.bar/SP_hb02_bar0.dds
+    multi:
+    - name: remastered/map/sp/hb17.bar/SP_hb17_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb02_bar0.dds
+  - name: remastered/map/sp/hb03.bar/SP_hb03_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb03_bar0.dds
+  - name: remastered/map/sp/hb04.bar/SP_hb04_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb04_bar0.dds
+  - name: remastered/map/sp/hb05.bar/SP_hb05_bar0.dds
+    multi:
+    - name: remastered/map/sp/hb15.bar/SP_hb15_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb05_bar0.dds
+  - name: remastered/map/sp/hb06.bar/SP_hb06_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb06_bar0.dds
+  - name: remastered/map/sp/hb07.bar/SP_hb07_bar0.dds
+    multi:
+    - name: remastered/map/sp/hb18.bar/SP_hb18_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb07_bar0.dds
+  - name: remastered/map/sp/hb08.bar/SP_hb08_bar0.dds
+    multi:
+    - name: remastered/map/sp/hb19.bar/SP_hb19_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb08_bar0.dds
+  - name: remastered/map/sp/hb09.bar/SP_hb09_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb09_bar0.dds
+  - name: remastered/map/sp/hb10.bar/SP_hb10_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb10_bar0.dds
+  - name: remastered/map/sp/hb11.bar/SP_hb11_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb11_bar0.dds
+  - name: remastered/map/sp/hb12.bar/SP_hb12_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb12_bar0.dds
+  - name: remastered/map/sp/hb13.bar/SP_hb13_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb13_bar0.dds
+  - name: remastered/map/sp/hb16.bar/SP_hb16_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb16_bar0.dds
+  - name: remastered/map/sp/hb22.bar/SP_hb22_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb22_bar0.dds
+  - name: remastered/map/sp/hb21.bar/SP_hb21_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb21_bar0.dds
+  - name: remastered/map/sp/hb23.bar/SP_hb23_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb23_bar0.dds
+  - name: remastered/map/sp/hb24.bar/SP_hb24_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb24_bar0.dds
+  - name: remastered/map/sp/hb25.bar/SP_hb25_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb25_bar0.dds
+  - name: remastered/map/sp/hb26.bar/SP_hb26_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb26_bar0.dds
+  - name: remastered/map/sp/hb33.bar/SP_hb33_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/map/hb/CA_hb33_bar0.dds
+  - name: remastered/map/sp/hb38.bar/SP_hb38_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/hb/CA_hb38_bar0.dds
   #TT
   - name: remastered/map/sp/tt00.bar/SP_tt00_bar0.dds
     method: copy
@@ -2352,6 +2499,7 @@ assets:
   - name: remastered/msn/sp/TT06_PERFORM_01.bar/SP_TT06_PERFORM_01_bar2.png
     multi:
     - name: remastered/msn/sp/TT06_PERFORM_02.bar/SP_TT06_PERFORM_02_bar4.png
+    - name: remastered/msn/sp/HB09_SKATE_01.bar/SP_HB09_SKATE_01_bar3.png
     method: copy
     platform: pc
     package: kh2_fifth
@@ -3282,6 +3430,18 @@ assets:
     - name: remastered/limit/CA_trinity_bar15.dds
 
 #Obj
+  - name: remastered/obj/F_TT010.a.sp/-2.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/obj/F_TT010.a.ca/-2.png
+  - name: remastered/obj/F_TT010_SORA.a.sp/-2.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/obj/F_TT010_SORA.a.ca/-2.png
   - name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.png
     method: copy
     platform: pc

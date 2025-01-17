@@ -1855,7 +1855,7 @@
 - id: 13559
   text: Perquè es va perdre l'excursió a la platja.
 - id: 13560
-  text: "{:delay 48 00}T'estás tornant un bleda."
+  text: "{:delay 48 00}T'estàs tornant un bleda."
 - id: 13561
   text: >-
     A veure...{:delay 50 00}{:clear }{:delay 1E 00}{:clear }i tu què?{:delay 4B 00}{:clear }{:delay 39 00}{:clear }Comencen a omplir-se les 
@@ -2337,9 +2337,9 @@
 - id: 13745
   text: I aquest és el trofeu que et va donar el Seifer.{:delay AA 00}{:clear }Te'l vas deixar, te'n recordes?
 - id: 13746
-  text: És un trofeu únic.{:delay 77 00}{:clear }El mateix passa amb els cristalls:{:delay 75 00}{:clear }vermell, blau, groc, verd... {:delay C6 00}{:clear }Només hi ha un de cada color.{:delay 7A 00}{:clear }Però vosaltres en teniu d'altres!
+  text: És un trofeu únic.{:delay 77 00}{:clear }El mateix passa amb els cristalls:{:delay 75 00}{:clear }vermell, blau, groc, verd... {:delay C6 00}{:clear }Només n'hi ha un de cada color.{:delay 7A 00}{:clear }Però vosaltres en teniu un altre!
 - id: 13747
-  text: Com els heu aconseguit?
+  text: Com l'heu aconseguit?
 - id: 13748
   text: ''
 - id: 13749
@@ -2354,18 +2354,18 @@
     d'on el va treure el rei?
 - id: 13751
   text: >-
-    Veieu? Hi ha d'haver una altra ciutat
+    Ho veieu? Hi ha d'haver una altra
 
-    com aquesta per allà.{:delay F8 00}{:clear }Això explicaria per què el rei
+    ciutat com aquesta per allà.{:delay F8 00}{:clear }Això explicaria per què el rei
 
     tenia el moneder i el cristall.{:delay DD 00}{:clear }Tot té sentit ara.
 - id: 13752
   text: El... té?
 - id: 13753
   text: >-
-    En aquella altra ciutat és on deu
+    En aquella altra ciutat és on
 
-    ser tot el que falta aquí!
+    deu ser tot el que falta aquí!
 - id: 13754
   text: Com la Kairi.
 - id: 13755
@@ -2418,7 +2418,7 @@
 - id: 13770
   text: No vull incomplir la meva promesa.
 - id: 13771
-  text: Li vas fer una promesa al Riku?
+  text: Vas fer una promesa al Riku?
 - id: 13772
   text: >-
     Llavors està bé!
@@ -2432,7 +2432,7 @@
   text: Doncs és clar!
 - id: 13776
   text: >-
-    Majestat? Va ser el Riku qui us 
+    Sa Majestat? Va ser el Riku qui us 
 
     va donar el moneder i el cristall, oi?
 - id: 13777
@@ -2518,20 +2518,20 @@
 - id: 13804
   text: Sí, el que es va menjar el Donald.
 - id: 13805
-  text: Estava en la capsa amb la foto.
+  text: Era dins la capsa amb la foto.
 - id: 13806
   text: Ja està! {:delay 50 00}{:clear }A l'Ànsem el Savi li encanta el gelat!
 - id: 13807
   text: D'acord. Com es diu aquell sabor?
 - id: 13808
   text: >-
-    Crec que no era així.
+    Em sembla que no era així.
 
     Te n'has de recordar, del gust!
 - id: 13809
   text: Ha funcionat!
 - id: 13810
-  text: Visca!
+  text: Som-hi!
 - id: 13811
   text: Ens quedem a defensar el fort.
 - id: 13812
@@ -2583,7 +2583,7 @@
   text: Deixeu-nos en pau!
 - id: 13831
   text: >-
-    Crec que m'agradava més
+    Em sembla que m'agradava més
 
     quan estaven de la meva part.
 - id: 13832
@@ -2602,7 +2602,7 @@
 
     existeixin realment... No és així?
 - id: 13841
-  text: Volia veure al Roxas.
+  text: Volia veure el Roxas.
 - id: 13843
   text: Això ens duu a...
 - id: 13844
@@ -2719,7 +2719,7 @@
 - id: 14311
   text: Sí.
 - id: 14312
-  text: Vam retornar la pau al món.{:delay 8C 00}{:clear }Vam trobar la Kairi...{:delay 70 00}{:clear }Ah, sí, i ens en vam anar a buscar el Riku.{:delay D1 00}{:clear }Crec que fins allà vaig bé.
+  text: Vam retornar la pau al món.{:delay 8C 00}{:clear }Vam trobar la Kairi...{:delay 70 00}{:clear }Ah, sí, i ens en vam anar a buscar el Riku.{:delay D1 00}{:clear }Em sembla que fins allà vaig bé.
 - id: 14313
   text: I ara què?
 - id: 14314
@@ -2739,9 +2739,9 @@
     si esbrinem on som?
 - id: 14320
   text: >-
-    Sabeu? Crec que he estat
+    Sabeu? És com si ja hagués
 
-    a aquesta ciutat abans.
+    estat en aquesta ciutat abans.
 - id: 14321
   text: Com es diu?
 - id: 14322
@@ -3672,7 +3672,7 @@
   text: Algun dia. Aviat.{:delay 6B 00}{:clear }T'ho prometo!
 - id: 15276
   text: >-
-    És que...{:delay 75 00}{:clear }crec que...{:delay 64 00}{:clear }he estat esquivant la pregunta
+    És que...{:delay 75 00}{:clear }em sembla que...{:delay 64 00}{:clear }he estat esquivant la pregunta
 
     que de veritat vull fer.
 - id: 15277
@@ -3772,7 +3772,7 @@
 
     dir-li-ho tu mateix.
 - id: 15909
-  text: Crec que passo.{:delay 3C 00}{:clear }{:delay 34 00}{:clear }No em sortiria del cor, saps? {:delay 80 00} {:clear }{:delay 43 00}{:clear }No en tinc. {:delay 40 00}{:clear }
+  text: Em sembla que passo.{:delay 3C 00}{:clear }{:delay 34 00}{:clear }No em sortiria del cor, saps? {:delay 80 00} {:clear }{:delay 43 00}{:clear }No en tinc. {:delay 40 00}{:clear }
 - id: 15910
   text: Àxel, què és el que pretenies?
 - id: 15911
@@ -4887,7 +4887,7 @@
   text: >-
     L'estació és pujant la costa.
 
-    Anem en tren a l'Estació Central.{:clear }Crec que el tren local segueix
+    Anem en tren a l'Estació Central.{:clear }Em sembla que el tren local segueix
 
     sent gratuït, aprofitem-ho!
 - id: 17656
@@ -5236,14 +5236,14 @@
   text: >-
     No puc creure que en aquesta mansió
 
-    hi hagi un ordinador tan esfereïdor.{:clear }Mira totes aquestes màquines.
+    hi hagi un ordinador tan meravellós.{:clear }Mira totes aquestes màquines.
 
     No entenc res d'això.
 - id: 17973
   text: >-
     Jo m'encarrego d'aquest món!
 
-    Si us trobeu en problemes, torneu.{:clear }Aquell aparell hauria de
+    Si us trobeu en problemes, torneu-ne.{:clear }Aquell aparell hauria de
 
     poder tornar-vos-en.
 - id: 17974
@@ -5274,7 +5274,7 @@
   text: >-
     A l'altre món també hi deu
 
-    haver un aparell como aquest.{:clear }Amb ell s'hi hauria
+    haver un aparell com aquest.{:clear }Amb ell s'hi hauria
 
     de poder tornar!
 - id: 17979
@@ -5286,19 +5286,19 @@
   text: >-
     No crec que aquestes coses blanques
 
-    en ataquin més durant una estona.{:clear }Aprofiteu per registrar la mansió!
+    ens ataquin més durant una estona.{:clear }Aprofiteu per registrar la mansió!
 - id: 17981
   text: >-
     Un sabor de gelat? Serà el d'aquell
 
-    que acostumavem a prendre sempre?{:clear }Dolç i salat... Deliciós!
+    que acostumàvem a prendre sempre?{:clear }Dolç i salat... Deliciós!
 
     Ha de ser aquell!
 - id: 17982
   text: >-
     Em fa la sensació que tornarem a
 
-    veure't. Porta-hi la Kairi, entesos?{:clear }T'estarem esperant!
+    veure't. Porta-t'hi la Kairi, entesos?{:clear }T'estarem esperant!
 - id: 17983
   text: >-
     El Riku s'enfadarà molt amb mi.{:clear }Ara hem d'afanyar-nos
@@ -5325,7 +5325,7 @@
     món, {:theme 0A}toca aquesta llum{:reset}!
 - id: 17987
   text: >-
-    T'hi pot semblar igual, però
+    Et pot semblar igual, però
 
     aquest lloc és diferent al d'abans.{:clear }L'enemic pot atacar en qualsevol
 
@@ -6457,7 +6457,7 @@
 - id: 19863
   text: ''
 - id: 19890
-  text: Busques respostes.
+  text: Cerques respostes.
 - id: 19891
   text: No sents res. Res és real.
 - id: 19892
@@ -6465,7 +6465,7 @@
 - id: 19893
   text: Roxas...
 - id: 19894
-  text: És així, el nou tu.
+  text: Exacte, el nou tu.
 - id: 19895
   text: Doncs res, suposo.
 - id: 19896
@@ -6503,18 +6503,18 @@
 - id: 19912
   text: Àxel...
 - id: 19913
-  text: Potser m'he equivocat.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Potser és hora d'anar a dormir.{:delay 82 00}{:clear }Aviat no podrem tornar a parlar como ara.
+  text: Potser m'he equivocat.{:delay A5 00}{:clear } {:delay 23 00}{:clear }Potser és l'hora d'anar a dormir.{:delay 82 00}{:clear }Aviat no podrem tornar a parlar com ara.
 - id: 19914
   text: Vols dir que... {:delay 7D 00}{:clear }és l'hora de tornar on pertanyo?
 - id: 19915
   text: >-
-    Saps què? He estat pensant sobre 
+    Saps què? He estat pensant en 
 
     una cosa que va dir la Naminé.{:delay 0E 01}{:clear } {:delay 32 00}{:clear }Roxas... estàs segur 
 
     que realment no tens cor?{:delay 68 01}{:clear }I si tots nosaltres en tinguéssim un?
 
-    Ella, tu, jo... Tots. {:delay 40 01}{:clear }Potser no són més que il・lusions meves.
+    Ella, tu, jo... {:delay 40 01}{:clear }O són només il・lusions meves?
 - id: 19916
   text: No ho sé.{:delay A9 00}{:clear }No puc... mirar endins.
 - id: 19919
@@ -6523,28 +6523,28 @@
   text: >-
     El Sora trobarà les respostes que busquem.
 
-    Sé que ho farà... {:delay 1D 01}{:clear }Som la mateixa persona.
+    Sé que ho farà... {:delay 1D 01}{:clear }Perquè som el mateix.
 - id: 19921
   text: Molt cert.
 - id: 19922
   text: >-
     Nano, trobo a faltar els vells temps.
 
-    Et queda clar?{:delay E3 00}{:clear }El dia que ens vam conèixer, vas
+    Encara et queda clar?{:delay E3 00}{:clear }El dia que ens vam conèixer, vas
 
     rebre el teu nom i vam seure aquí,{:delay 2B 01}{:clear }a veure la posta del sol.
 - id: 19923
   text: >-
-    Me'n recordo. Aquest lloc és
+    Sí... Això és casa nostra.{:delay C8 00}{:clear } {:delay 64 00}{:clear }
 
-    i serà sempre la meva llar.{:delay C8 00}{:clear } {:delay 64 00}{:clear }
-
-    Com els deu anar, als nois? El Hayner, el Pence, l'Olette... {:delay 39 01}{:clear }Em recordo molt d'ells.
+    Com els deu anar, als nois?
+    
+    El Hayner, el Pence, l'Olette... {:delay 39 01}{:clear }Hem viscut moltes coses junts.
 - id: 19924
   text: >-
-    Quan tornis a veure'ls, podràs
+    Els tornaràs a veure,
 
-    esbrinar-ho per tu mateix.
+    sé que ho faràs.
 - id: 19925
   text: >-
     Tens raò.{:delay B4 00}{:clear } {:delay 1E 00}{:clear }Bé, me n'haig d'anar.
@@ -6557,7 +6557,7 @@
 - id: 19928
   text: Tu també, col・lega.
 - id: 19987
-  text: Suposo que no.
+  text: Ja... suposo que no.
 - id: 20172
   text: >-
     {:unk08 02 00 06}Una Essència intangible, una
@@ -6569,9 +6569,9 @@
     {:chardelay A1 00}Fem-hi un cop d'ull!
 - id: 20188
   text: >-
-    Però imagino... que si hi ha res
+    Però imagino... que si hi
 
-    allà,  dins nostre, {:delay 13 01}{:clear } {:delay 0F 00}{:clear }ho sentiríem, no?
+    ha res allà, dins nostre, {:delay 13 01}{:clear } {:delay 0F 00}{:clear }aleshores ho sentiríem, oi?
 - id: 20189
   text: I si així fos... Bah, deixa-ho estar.
 - id: 20539

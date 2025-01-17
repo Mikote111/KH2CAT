@@ -928,7 +928,7 @@
 
     {:chardelay 33 00}Sí, quina enveja!
 
-    {:chardelay 09 00}Está ballant-la! L'hem d'ajudar!
+    {:chardelay 09 00}Està ballant-la! L'hem d'ajudar!
 - id: 7912
   text: >-
     M'alegro que el Pooh
@@ -1360,7 +1360,7 @@
 - id: 19888
   text: '{:delay B4 00}És genial!{:delay 4E 00}{:clear }'
 - id: 21520
-  text: "{:delayandfade 07 78} \nEn Sora salva el Piglet, però no sembla\nque el Pooh tingui ni la més remota\nidea de qui és el seu amic!\n \nDesconcertat i afligit per la\nmala memòria del Pooh, poc més\nhi pot dir, puix una forta\nráfega de vent torna a endur-se'l\nenlaire.\n \n"
+  text: "{:delayandfade 07 78} \nEn Sora salva el Piglet, però no sembla\nque el Pooh tingui ni la més remota\nidea de qui és el seu amic!\n \nDesconcertat i afligit per la\nmala memòria del Pooh, poc més\nhi pot dir, puix una forta\nràfega de vent torna a endur-se'l\nenlaire.\n \n"
 - id: 21521
   text: "{:delayandfade 0A 78} \nQuan el Pooh ja comença a acabar-se\nla mel, el Conill apareix clarament\nairejat, puix havia treballat molt\nper reunir tota aquella mel.\n \nTot canvia però, quan veu com\nd'estrany es comporta  el Pooh,\naixí que suggereix donar-li\nencara més mel. Pot ser que el Pooh\nes recuperi si té la panxeta ben plena!\n \n"
 - id: 21522

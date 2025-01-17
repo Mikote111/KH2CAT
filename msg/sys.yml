@@ -2280,7 +2280,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Borrant dades.
+    Esborrant dades.
 
     No apaguis l'ordinador.
 - id: 2704
@@ -2312,7 +2312,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
 
 
-    Borrant dades.
+    Esborrant dades.
 
     No apaguis l'ordinador.
 - id: 2708
@@ -2328,7 +2328,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
 
 
-    S'ha produït un error en borrar
+    S'ha produït un error en esborrar
 
     dades de l'emmagatzematge del sistema.
 - id: 2710
@@ -4509,7 +4509,7 @@
   text: >-
     Augmenta el poder de la màgia
 
-    y de forma notable els PH màxims.
+    i de forma notable els PH màxims.
 - id: 14891
   text: Anell Mestre
 - id: 14892
@@ -4609,7 +4609,7 @@
 
     màxims. Recupera PM segons el mal
 
-    rebut. Major efecto si n'actives més.
+    rebut. Major efecte si n'actives més.
 - id: 14919
   text: Anell Afortunat
 - id: 14920
@@ -4668,7 +4668,7 @@
 
     resistència a atacs de foscor
 
-    y Electro.
+    i Electro.
 - id: 14939
   text: Cinyell Còsmic
 - id: 14940
@@ -5416,7 +5416,7 @@
 - id: 15199
   text: Món del No-Res
 - id: 15204
-  text: Borra
+  text: Esborra
 - id: 15205
   text: Cancel・la
 - id: 15206
@@ -6567,7 +6567,7 @@
   text: >-
     {:color #F0F00080}Augmenta en 2{:reset} la força durant la Càrrega PM
 
-    y permet llençar combos il・limitats,
+    i permet llençar combos il・limitats,
 
     però el combo final es desactiva.
 - id: 15946
@@ -8395,13 +8395,13 @@
 
     Espera el senyal del Will!
 - id: 18950
-  text: Tornar una carta
+  text: Torna una carta
 - id: 18953
   text: Llescador
 - id: 18954
   text: Acer ascendent
 - id: 18955
-  text: Gratacels
+  text: Gratacel
 - id: 18964
   text: Bola premiada
 - id: 18965
@@ -8564,9 +8564,9 @@
 - id: 19363
   text: Rescata
 - id: 19370
-  text: Reflexe
+  text: Reflex
 - id: 19371
-  text: Reflexe
+  text: Reflex
 - id: 19375
   text: Megalàser
 - id: 19376
@@ -8620,7 +8620,7 @@
 - id: 19480
   text: Niv. de joc
 - id: 19481
-  text: '{:width 90}Diari del Pepito complet'
+  text: '{:width 90}Diari del Grill complet'
 - id: 19482
   text: '{:width 90}Rutes gumi completes'
 - id: 19483
@@ -8768,7 +8768,7 @@
 - id: 19995
   text: Contorsió de la Memòria
 - id: 19996
-  text: Mundo del No-Res
+  text: Món del No-Res
 - id: 19997
   text: Saló de les Melodies Buides
 - id: 19998
@@ -8795,9 +8795,9 @@
   text: Mestre de combos
 - id: 20009
   text: >-
-    Les combinaciones continuen
+    Els combos continuen encara
 
-    encara que fallis algun cop.
+    que fallis algun cop.
 - id: 20010
   text: Fusionitzador
 - id: 20011
@@ -9956,7 +9956,7 @@
 - id: 22017
   text: >-
     ⤷ Un {:color #FFEC1980}nou indicador{:reset} ha aparegut!
-        Per vèncer a l'Úrsula, {:color #FFEC1980}prem {:icon dynamic-cross} ràpidament{:reset}!
+        Per vèncer l'Úrsula, {:color #FFEC1980}prem {:icon dynamic-cross} ràpidament{:reset}!
 - id: 22018
   text: >-
     {:icon dynamic-left-analog-left}{:icon dynamic-left-analog-right}

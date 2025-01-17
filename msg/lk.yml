@@ -38,9 +38,9 @@
     Si us veu, s'animarà.
 - id: 4912
   text: >-
-    Las hienes haurien d'estar en
+    Les hienes haurien de ser al
 
-    el {:theme 0A}Cementiri dels Elefants{:reset}.{:clear }Si podeu vèncer-les, tot
+    {:theme 0A}Cementiri dels Elefants{:reset}.{:clear }Si podeu vèncer-les, tot
 
     dependrà del cor del Simba.
 - id: 4913
@@ -1144,7 +1144,7 @@
   text: El rei ha tornat.
 - id: 8786
   text: >-
-    Las Terres del Regne no
+    Les Terres del Regne no
 
     oblidaran el valor del Simba. {:delay F0 00}{:clear }Ni el valor d'aquells que
 

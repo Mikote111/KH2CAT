@@ -247,7 +247,7 @@
 - id: 4195
   text: Pero Capità...
 - id: 4196
-  text: El meu deute está saldada.
+  text: El meu deute està saldat.
 - id: 4197
   text: L'Emperador ens espera!{:delay 78 00}{:clear }En marxa!
 - id: 4198
@@ -1778,7 +1778,7 @@
 - id: 21515
   text: "{:delayandfade 08 78} \nTot i que no accepten en Ping a l'exèrcit,\ncompleix amb afany les tasques\nd'ensinistrament i es va fent\ncada cop més fort.\n \nÉs aleshores quan en Mushu arriba\namb notícies i assegura haver vist\nen Shan Yu pels voltants.\n \n \n"
 - id: 21516
-  text: "{:delayandfade 0A 78} \nDerrotar el temible Shan Yu serviria\nper guanyar-se las simpaties de\ntots, així que en Sora i els altres\ns'endinsen en una cova a per ell,\nperò tot resulta ser una trampa\ndel malvat hun.\n \n \n \n"
+  text: "{:delayandfade 0A 78} \nDerrotar el temible Shan Yu serviria\nper guanyar-se les simpaties de\ntots, així que en Sora i els altres\ns'endinsen en una cova a per ell,\nperò tot resulta ser una trampa\ndel malvat hun.\n \n \n \n"
 - id: 21517
   text: "{:delayandfade 0A 78} \n \n \n \n \n \n \n \n \n \n \n "
 - id: 21518

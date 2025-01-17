@@ -25,7 +25,7 @@
 - id: 16222
   text: No seràs el Riku?
 - id: 16223
-  text: Riku?... {:delay 6C 00}{:clear }Jo he derrotat a un Riku abans.
+  text: Riku?... {:delay 6C 00}{:clear }Jo vaig derrotar un Riku un cop.
 - id: 16224
   text: Que vas fer què...!?
 - id: 16225
@@ -63,14 +63,14 @@
 
     de l'Organització {XIII}. {:delay D0 00}{:clear }Estaria intentant enganyar-te.
 - id: 16239
-  text: És clar, per això no l'hem vist!
+  text: I tant, per això no l'hem vist!
 - id: 16240
   text: ''
 - id: 16241
   text: Deus estar cansat, Sora.
 - id: 16242
   text: >-
-    Au va, anem a buscar la manera
+    Au va, ara busquem la manera
 
     d'entrar en aquell castell!
 - id: 16243
@@ -83,9 +83,9 @@
   text: >-
     El Riku i tú mai vau tornar a casa,
 
-    així que he vingut a per vosaltres.
+    així que he vingut a buscar-vos.
 - id: 16247
-  text: Ho sento.
+  text: Em sap greu.
 - id: 16248
   text: Això és real...
 - id: 16249
@@ -141,7 +141,7 @@
   text: >-
     Em començava a preocupar
 
-    que no us n'adonéssiu mai. {:delay 9C 00}{:clear } {:delay 3C 00}{:clear }El Sora mai ha escollit amics gaire llestos.
+    que no us n'adonéssiu mai. {:delay 9C 00}{:clear } {:delay 3C 00}{:clear }El Sora mai ha triat amics gaire llestos.
 - id: 16270
   text: Què vols dir amb això!?
 - id: 16271
@@ -169,9 +169,9 @@
 - id: 16275
   text: Doncs... posem-hi punt i final.
 - id: 16276
-  text: Tu ets el Riku, passi el que passi!
+  text: Encara ets el Riku, peti qui peti!
 - id: 16277
-  text: Què em dieu? {:delay 3C 00}{:clear }{:delay 3C 00}Preparats per a una última baralla junts? {:delay 9C 00}{:clear }El rei ens espera!
+  text: Què me'n dieu? {:delay 3C 00}{:clear }{:delay 3C 00}Preparats per a una última batalla junts? {:delay 9C 00}{:clear }El rei ens espera!
 - id: 16278
   text: Sí! En marxa!
 - id: 16279
@@ -186,7 +186,7 @@
   text: >-
     Ohh... no la odiem. {:delay 60 00}{:clear } {:delay 23 00}{:clear }És només que fa... {:delay 4E 00}{:clear }{:delay 29 00}por. {:delay 4E 00}{:clear } {:delay 42 00}{:clear }Però el món està fet
 
-    de llum i foscor. {:delay C0 00}{:clear }No es pot tenir una sense l'altra,
+    de llum i foscor. {:delay C0 00}{:clear }No se'n pot tenir una sense l'altra,
 
     perquè la foscor és la meitat de tot.
 - id: 16284
@@ -197,7 +197,7 @@
 
     però viviu en la llum. {:delay E4 00}{:clear } {:delay 30 00}{:clear }Per què ens detesteu als que
 
-    vivim en el límit del no res, {:delay 0B 01}{:clear }{:delay 2F 00}els que hem estat rebutjats
+    vivim en el límit del no-res, {:delay 0B 01}{:clear }{:delay 2F 00}els que hem estat rebutjats
 
     per la llum i per la foscor, {:delay 3E 01}{:clear }sense cap elecció?
 - id: 16286
@@ -211,7 +211,7 @@
     No existiu! {:delay AC 00}{:clear }No sentiu llàstima per res!
 - id: 16289
   text: >-
-    {:delay 6E 00}{:clear }Molt bé.{:delay 77 00}{:clear }No se t'escapa res.{:delay 8F 00}{:clear }{:delay 3F 00}{:clear }No puc sentir... pena... {:delay A0 00}{:clear }{:delay 30 00}{:clear }No importa quina misèria
+    {:delay 6E 00}{:clear }Molt bé.{:delay 77 00}{:clear }No se t'escapa res.{:delay 8F 00}{:clear }{:delay 3F 00}{:clear }No puc sentir... pena... {:delay A0 00}{:clear }{:delay 30 00}{:clear }Tant se val la misèria que
 
     pugui turmentar els mons.{:delay D7 00}{:clear }{:delay 28 00}{:clear }És igual el que penseu,
 
@@ -249,9 +249,7 @@
   text: >-
     El neci de l'Ànsem va dir que la naturalesa
 
-    del cor escapava de la seva comprensió...{:delay 8F 01}{:clear }Però no de la meva! {:delay A4 00}{:clear }Els cors són la
-
-    font de tot poder!
+    del cor escapava de la seva comprensió...{:delay 8F 01}{:clear }Però no de la meva! {:delay A4 00}{:clear }Els cors són la font de tot poder!
 - id: 16304
   text: Xemnas! Et trobarem!
 - id: 16305
@@ -277,25 +275,25 @@
 
     no hi ha marxa enrere. {:delay 78 00}{:clear }{:delay 3D 00}És la victòria...{:delay 43 00}{:clear }{:delay 17 00}o l'oblit. {:delay 32 00}{:clear }{:delay 46 00}Sora...{:delay 26 00}{:clear }{:delay 36 00}estàs a punt?
 - id: 16313
-  text: Prepara't, Xemnas! {:delay 60 00}{:clear }És l'hora!
+  text: Prepara't, Xemnas! {:delay 60 00}{:clear }S'ha acabat el bròquil!
 - id: 16314
   text: >-
-    Bé... sembla que els vostres cors
+    Bé... sembla que els vostres
 
-    us han guiat a la aniquilació. {:delay 2C 01}{:clear } {:delay 42 00}{:clear }Potser que no valgui la 
+    cors us han dut a l'anihilació. {:delay 2C 01}{:clear } {:delay 42 00}{:clear }Potser no val la 
 
-    pena fer-li cas al cor. {:delay F0 00}{:clear } {:delay 87 00}{:clear }Intentaré no oblidar-ho mai.
+    pena fer cas al cor. {:delay F0 00}{:clear } {:delay 87 00}{:clear }M'asseguraré de no oblidar-me'n mai.
 - id: 16317
   text: No!
 - id: 16318
   text: Sols podem amb ell!
 - id: 16319
-  text: Necessito... més ràbia.{:delay E6 00}{:clear }Més... cors.
+  text: Necessito... més ràbia.{:delay E6 00}{:clear }Necessito... més cors.
 - id: 16320
   text: >-
     Xemnas. {:delay 5E 00}{:clear }El cor és més que
 
-    la rabia o el odio. {:delay B0 00}{:clear }Està ple de sentiments. {:delay 5E 00}{:clear } {:delay 60 00}{:clear }No te'n recordes?
+    la ràbia o l'odi. {:delay B0 00}{:clear }És ple de sentiments. {:delay 5E 00}{:clear } {:delay 60 00}{:clear }No te'n recordes?
 - id: 16321
   text: Per desgràcia...{:delay 5A 00}{:clear }{:delay 57 00}No.
 - id: 16322
@@ -307,7 +305,7 @@
 - id: 16325
   text: Riku!
 - id: 16326
-  text: Com miraria als que em coneixien?
+  text: Com miraré els que em coneixien?
 - id: 16327
   text: Així!
 - id: 16328
@@ -316,17 +314,17 @@
   text: Obriré un camí!
 - id: 16330
   text: >-
-    El teu lloc ja no és en el
+    El teu lloc ja no és al
 
     Regne de la Foscor, Riku.
 - id: 16331
-  text: Com sortim d'aquí, Majestat?
+  text: Com sortim d'aquí, sa Majestat?
 - id: 16332
   text: ''
 - id: 16333
   text: Qui ha fet això?
 - id: 16334
-  text: Bé, no n'estic segur. {:delay 69 00}{:clear }Però serà millor que ens afanyem.
+  text: Bé, no n'estic segur. {:delay 69 00}{:clear }Però serà millor que ens hi afanyem.
 - id: 16335
   text: Espereu-me!
 - id: 16336
@@ -349,31 +347,31 @@
 - id: 16343
   text: Però ho he fet.
 - id: 16344
-  text: Mmm... Què rar...
+  text: Mmm... Que estrany...
 - id: 16345
   text: >-
-    Crec que ja ho entenc.{:delay 4C 00}{:clear }{:delay 64 00}Jo em veig a mi mateix
+    Em sembla que ja ho entenc.{:delay 4C 00}{:clear }{:delay 64 00}Jo em veig a mi mateix
 
     com tu em recordes.{:delay 8F 00}{:clear } {:delay 6A 00}{:clear }I tu et veus a tu mateixa
 
     com jo et recordo.
 - id: 16346
   text: >-
-    Creia que el destí dels incorporis
+    Em pensava que el destí dels incorporis
 
     era diluir-se en la foscor.
 - id: 16347
   text: >-
-    Sí...{:delay 24 00}{:clear }{:delay 3C 00}però tu i jo no.{:delay 61 00}{:clear }Hem conegut els nostres
+    Sí...{:delay 24 00}{:clear }{:delay 3C 00}però tu i jo no.{:delay 61 00}{:clear }Hem conegut els
 
-    èssers originals.
+    nostres «jo» originals.
 - id: 16348
-  text: Llavors...{:delay 64 00}{:clear }podem estar junts!
+  text: Llavors...{:delay 64 00}{:clear }podem tornar a estar junts!
 - id: 16349
   text: Sí.{:delay 5C 00}{:clear }Sempre que el Sora i el Kairi ho estiguin.
 - id: 16350
   text: >-
-    Estarem junts tots els dies,
+    Estarem junts cada dia,
 
     oi, Sora?
 - id: 16351
@@ -383,9 +381,9 @@
 - id: 16353
   text: Tranquil, segueixes sent tu.
 - id: 16354
-  text: Eh, marxem cap a casa!
+  text: Ei, anem cap a casa!
 - id: 16355
-  text: Riku... anem.
+  text: Riku... som-hi.
 - id: 16356
   text: Sí.
 - id: 16357
@@ -400,7 +398,7 @@
   text: >-
     Herois del Regne de la Llum...{:delay 00 01}{:clear }No permetré que això acabi així.{:delay CD 00}{:clear }{:delay 1C 00}Encara no.{:delay A0 00}{:clear }Si la llum i la foscor són eternes, {:delay FA 00}{:clear }sens dubte els que no som
 
-    res devem de ser igual...{:delay 63 01}{:clear }d'eternos!
+    res devem ser igual...{:delay 63 01}{:clear }d'eterns!
 - id: 16362
   text: >-
     Tens raó, la llum i la
@@ -426,7 +424,7 @@
 - id: 16369
   text: Com pots dir això? {:delay 6C 00}{:clear }Encara que no poguéssim seguir...{:delay 89 00}{:clear }mira on som.
 - id: 16370
-  text: Ah, som-hi Riku. {:delay 6C 00}{:clear }Portes massa temps a la foscor. {:delay 72 00}{:clear } {:delay 45 00}{:clear }Has de ser més positiu!
+  text: Au va, Riku. {:delay 6C 00}{:clear }Portes massa temps a la foscor. {:delay 72 00}{:clear } {:delay 45 00}{:clear }Has de ser més positiu!
 - id: 16371
   text: Sora...
 - id: 16372
@@ -448,7 +446,7 @@
   text: >-
     No.{:delay 5B 00}{:clear }Jo també he cregut sempre
 
-    que tu erets millor en tot.
+    que tu eres millor en tot.
 - id: 16379
   text: Riku... mira.{:delay 72 00}{:clear }Què és aquella llum?
 - id: 16380
@@ -491,7 +489,7 @@
 - id: 16394
   text: Ja no et necessita.
 - id: 16395
-  text: Se suposa que haig de creure'm això?
+  text: Se suposa que haig de creure-m'ho?
 - id: 16396
   text: >-
     Bé, no fa falta... {:delay B4 00}{:clear }{:delay 3F 00}{:clear }pero creu-te això: {:delay 76 00}{:clear }{:delay 3C 00}{:clear }a l'Organització {XIII} ja
@@ -508,7 +506,7 @@
 
     de l'escollit de la clau espasa.
 - id: 16399
-  text: S'ha de lluitar!
+  text: Hem de lluitar!
 - id: 16400
   text: Però... Kingdom Hearts!
 - id: 16401
@@ -538,9 +536,9 @@
   text: >-
     El lloc no està malament,
 
-    suposo, però... eh...{:delay DD 00}{:clear }què passa amb tots els sensecor? {:delay 83 00}{:clear }Aquest món intermedi està
+    suposo, però... eh...{:delay DD 00}{:clear }què passa amb tots els sensecor? {:delay 83 00}{:clear }Aquest món intermedi és
 
-    molt a prop de la foscor. {:delay E0 00}{:clear }Aquí no ens faran cas!
+    molt a prop de la foscor. {:delay E0 00}{:clear }Aquí no ens faran pas cas!
 - id: 16412
   text: Una vegada més, em subestimes.
 - id: 16413
@@ -563,26 +561,26 @@
   text: >-
     Has posat l'Organització {XIII}
 
-    en un bon embolic. {:delay D2 00}{:clear }{:delay 26 00}{:clear }Suposo que per això
+    en un bon embolic. {:delay D2 00}{:clear }{:delay 26 00}{:clear }Suposo que per això et
 
-    et va escollir la clau espasa. {:delay AA 00}{:clear }{:delay 2E 00}{:clear }Però NANO, quin mocós
+    va escollir la clau espasa. {:delay AA 00}{:clear }{:delay 2E 00}{:clear }Però NANO, quin mocós
 
-    ha escollit aquest cop! {:delay 96 00}{:clear }{:delay 32 00}{:clear }No sembles ni la meitat
+    ha triat aquest cop! {:delay 96 00}{:clear }{:delay 32 00}{:clear }No sembles ni la meitat
 
     d'heroi que els altres.
 - id: 16422
   text: Has acabat de vacil・lar?
 - id: 16423
   text: >-
-    Vacil・lar? Si home! {:delay 7E 00}{:clear }{:delay 38 00}{:clear }En definitiva, traidor,
+    Vacil・lar? Si home! {:delay 7E 00}{:clear }{:delay 38 00}{:clear }Tot el que intento dir-te, traidor,
 
-    t'ha arribat l'hora!
+    és que t'ha arribat l'hora!
 - id: 16424
   text: Que ve!
 - id: 16425
   text: Per què m'has dit Roxas?
 - id: 16426
-  text: "{:delay 78 00}A que t'agradaria saber-ho?"
+  text: "{:delay 78 00}No t'agradaria saber-ho..."
 - id: 16427
   text: Ei! Espera!
 - id: 16428
@@ -614,7 +612,7 @@
 
     il・lumini aquest regne buit.{:delay D6 00}{:clear }{:delay 35 00}{:clear }Comparteix el teu poder amb
 
-    nosaltres els incorporis!
+    nosaltres, els incorporis!
 - id: 16435
   text: >-
     Xemnas. Ja és a punt
@@ -628,9 +626,9 @@
 
     amb aquesta farsa?
 - id: 16438
-  text: És clar.
+  text: I tant.
 - id: 16439
-  text: Quines ganes tenia de sentir-ho!
+  text: He esperat molt per sentir això!
 - id: 16443
   text: Aquest lloc servirà.
 - id: 16444
@@ -639,7 +637,7 @@
   text: >-
     Serveix per convocar el Kingdom
 
-    Hearts i codificar-lo com dades.
+    Hearts i codificar-lo en dades.
 - id: 16446
   text: No sé si ho entenc.
 - id: 16447
@@ -648,7 +646,7 @@
 
     resultat d'aquesta operació. {:delay C8 00}{:clear }{:delay 46 00}{:clear }Després de tot...
 - id: 16448
-  text: Què és això?
+  text: Què és allò?
 - id: 16449
   text: >-
     Són el rei i el DiZ... {:delay 47 00}{:clear }{:delay 13 00}{:clear }vull dir, l'Ànsem el Savi. {:delay 96 00}{:clear }{:delay 20 00}{:clear }Deuen ser més amunt.
@@ -661,7 +659,7 @@
 - id: 16452
   text: Com has pogut... Roxas?
 - id: 16453
-  text: Soc el Sora!
+  text: És Sora!
 - id: 16454
   text: Estàs bé?
 - id: 16455
@@ -681,14 +679,12 @@
   text: Jo no crec que puguem amb tots!
 - id: 16461
   text: >-
-    Els enviaré a pel Xemnas. {:delay AE 00}{:clear }O potser preferiries lluitar
+    Els enviaré al Xemnas. {:delay AE 00}{:clear }O potser preferiries lluitar
 
     contra ells tu mateix?
 - id: 16462
   text: >-
-    Sincerament, 
-
-    preferiria fugir!
+    Sincerament, preferiria fugir!
 - id: 16463
   text: Doncs ves-te'n!
 - id: 16464
@@ -708,7 +704,7 @@
     Ni parlar-ne!
 - id: 16467
   text: >-
-    Sora! Majestat! No ho oblideu: {:delay CC 00}{:clear }quan els hagi destruit a tots,
+    Sora! Sa Majestat! No ho oblideu: {:delay CC 00}{:clear }quan els hagi destruït a tots,
 
     aquest castell serà meu!
 - id: 16468
@@ -717,9 +713,9 @@
 
     no es presenten tots els dies!
 - id: 16469
-  text: A per ells!
+  text: Ataqueu-los!
 - id: 16470
-  text: Hay que darse prisa.
+  text: Ens hem d'afanyar.
 - id: 16472
   text: Fan el que els ordena el seu cor.{:delay 83 00}{:clear }{:delay 1F 00}No podem interferir.
 - id: 16478
@@ -787,7 +783,7 @@
 
     de l'Organització,{:delay A8 00}{:clear }és l'incorpori d'en Xehanort,
 
-    el meu millor aprenent. {:delay DE 00}{:clear }{:delay 39 00}{:clear }Jo havia de carregar amb la culpa.
+    el meu millor aprenent. {:delay DE 00}{:clear }{:delay 39 00}{:clear }Jo n'havia de carregar amb la culpa.
 - id: 16519
   text: Això és tot?
 - id: 16520
@@ -807,14 +803,14 @@
   text: >-
     Ara ja deu ser amb els seus amics.{:delay 96 00}{:clear }{:delay 2A 00}{:clear }El Riku m'ha suposat una gran ajuda. {:delay 8A 00}{:clear }El vaig trobar vagant per la
 
-    foscor, després que us perdèssiu.
+    foscor, després que us perdessiu.
 - id: 16525
   text: >-
     Bé! No ens havíem perdut
 
     exactament. El Riku se'n va anar... {:delay F0 00}{:clear }És que el sensecor d'en Xehanort
 
-    era dins seu, confonent-lo.{:delay 08 01}{:clear }{:delay 1B 00}{:clear }Ha hagut de patir molt... {:delay 90 00}{:clear }Però no entenc per què segueix així;
+    era dins seu, confonent-lo.{:delay 08 01}{:clear }{:delay 1B 00}{:clear }Deu haver patit molt... {:delay 90 00}{:clear }Però no entenc per què segueix així;
 
     en el seu cor sempre serà el Riku.
 - id: 16526
@@ -826,9 +822,9 @@
     tenia un cor molt fort.
 - id: 16527
   text: >-
-    Li vaig demanar que busqués a un jove
+    Li vaig demanar que busqués un jove
 
-    anomenat Roxas, de l'Organització {XIII}, {:delay 0E 01}{:clear }i m'ho dugués. {:delay 48 00}{:clear }{:delay 54 00}{:clear }Quan li vaig dir que allò ajudaria a que
+    anomenat Roxas, de l'Organització {XIII}, {:delay 0E 01}{:clear }i me'l dugués. {:delay 48 00}{:clear }{:delay 54 00}{:clear }Quan li vaig dir que allò ajudaria que
 
     el Sora despertés de la seva letargia,{:delay F0 00}{:clear }El Riku va marxar sense dir paraula.
 - id: 16528
@@ -838,11 +834,9 @@
     que el Riku va perdre aquell combat.
 - id: 16529
   text: >-
-    El Riku devia d'entendre que per
+    El Riku havia d'entendre que per
 
-    lluitar en el Regne de la Foscor {:delay E4 00}{:clear }havia submergir-se en
-
-    aquella mateixa foscor. {:delay D2 00}{:clear }{:delay 12 00}{:clear }I així ho va fer... {:delay 3C 00}{:clear }{:delay 24 00}{:clear }Ja has vist el que ha sigut d'ell.
+    lluitar en el Regne de la Foscor {:delay E4 00}{:clear }havia submergir-s'hi. {:delay D2 00}{:clear }{:delay 12 00}{:clear }I així ho va fer... {:delay 3C 00}{:clear }{:delay 24 00}{:clear }Ja has vist el que ha estat d'ell.
 - id: 16530
   text: >-
     Quan el Riku em va dur el Roxas,
@@ -861,9 +855,9 @@
   text: >-
     Devia ser després d'allò de quan
 
-    vaig tornar a veure el Riku. {:delay DB 00}{:clear }Deia que volia ajudar el Sora... {:delay 83 00}{:clear }però em va fer prometre{:delay 6D 00}{:clear }que mai li diria tot
+    vaig tornar a veure el Riku. {:delay DB 00}{:clear }Deia que volia ajudar el Sora... {:delay 83 00}{:clear }però em va fer prometre{:delay 6D 00}{:clear }que mai li diria tot el
 
-    el que li havia passat a ell {:delay B3 00}{:clear }mentre era a la foscor.
+    que li havia passat a ell {:delay B3 00}{:clear }mentre era a la foscor.
 - id: 16535
   text: >-
     Amic meu, ha arribat l'hora.{:delay 98 00}{:clear }Haig d'arreglar les coses
@@ -883,7 +877,7 @@
 - id: 16540
   text: Per què...? {:delay 46 00}{:clear }{:delay 32 00}Kingdom Hearts... {:delay 5F 00}{:clear }{:delay 50 00}on és el meu cor?
 - id: 16541
-  text: No ho entenc.{:delay 3C 00}{:clear }{:delay 1E 00}Per què em diuen tots Roxas?
+  text: No ho entenc.{:delay 3C 00}{:clear }{:delay 1E 00}Per què tots em diuen Roxas?
 - id: 16542
   text: Perquè, Sora...{:delay 3C 00}{:clear }{:delay 60 00}el Roxas és el teu incorpori.
 - id: 16543
@@ -903,9 +897,9 @@
     perquè era el teu incorpori.
 - id: 16546
   text: >-
-    Per això el Xemnas el va dur
+    Per això el Xemnas el va
 
-    a l'Organització.{:delay 96 00}{:clear }{:delay 30 00}Però el Roxas els va traicionar. {:delay 5A 00}{:clear }{:delay 36 00}Vaig lluitar contra ell perquè pensava
+    dur a l'Organització.{:delay 96 00}{:clear }{:delay 30 00}Però el Roxas els va trair. {:delay 5A 00}{:clear }{:delay 36 00}Vaig lluitar contra ell perquè pensava
 
     que això t'ajudaria a despertar. {:delay AD 00}{:clear }{:delay 22 00}{:clear }Vaig perdre.{:delay 4E 00}{:clear }Però en la nostra següent
 
@@ -932,7 +926,7 @@
   text: Els habitants de la meva Vila Crepuscle{:delay AF 00}{:clear }eren dades de cors reals.
 - id: 16555
   text: >-
-    Creia que pensarien i actuarien
+    Em pensava que pensarien i actuarien
 
     com jo havia previst...{:delay 0D 01}{:clear }però no podia estar més equivocat.
 - id: 16556
@@ -947,13 +941,13 @@
 - id: 16558
   text: Però...
 - id: 16559
-  text: Majestat!
+  text: Sa Majestat!
 - id: 16560
   text: Sora, la resta depèn de tu... {:delay A8 00}{:clear }{:delay 29 00}i del Roxas.{:delay 37 00}{:clear }{:delay 21 00}Dubto que pugui sentir-me, però, de debò...{:delay BF 00}{:clear }{:delay 11 00}ho sento.
 - id: 16561
   text: Ànsem!
 - id: 16562
-  text: El meu cor em diu el que haig de fer.{:delay 94 00}{:clear }{:delay 32 00}Per favor, permet-me que li faci cas.
+  text: El meu cor em diu el que haig de fer.{:delay 94 00}{:clear }{:delay 32 00}Per favor, permet-me fer-li cas.
 - id: 16563
   text: No!
 - id: 16564
@@ -967,7 +961,7 @@
   text: >-
     Em preguntava qui gosa interferir
 
-    en el meu Kingdom Hearts i mira... {:delay DC 01}{:clear }aquí hi sou tots. {:delay 7D 00}{:clear }Què bé que em va!
+    en el meu Kingdom Hearts i mira... {:delay DC 01}{:clear }aquí sou tots. {:delay 7D 00}{:clear }Que bé que em va!
 - id: 16567
   text: >-
     Ànsem el Savi...
@@ -977,7 +971,7 @@
   text: >-
     Riu-te'n si vols. {:delay 5A 00}{:clear }{:delay 29 00}M'ho mereixo per no haver
 
-    vist en tu què tant neci erets.
+    vist en tu que tan neci eres.
 - id: 16569
   text: >-
     Els alumnes són com els seus mestres.{:delay AC 00}{:clear }{:delay 36 00}Només un neci seria el teu aprenent. {:delay A3 00}{:clear }{:delay 1C 00}A més, res d'això
@@ -991,7 +985,7 @@
 
     anar més enllà del que tu mai vas somiar.
 - id: 16573
-  text: Ja n'hem dit prou! {:delay 5A 00}{:clear }{:delay 3A 00}{:clear }Riku, ja saps què fer! {:delay 61 00}{:clear }{:delay 63 00}{:clear }Rei Mickey, amic meu, ho sento.{:delay C8 00}{:clear }{:delay 34 00}{:clear }Adeu!
+  text: Ja n'hem dit prou! {:delay 5A 00}{:clear }{:delay 3A 00}{:clear }Riku, ja saps què fer! {:delay 61 00}{:clear }{:delay 63 00}{:clear }Rei Mickey, amic meu, perdona'm.{:delay C8 00}{:clear }{:delay 34 00}{:clear }Adeu!
 - id: 16671
   text: I ara què?
 - id: 16672
@@ -1024,18 +1018,18 @@
 
     Aquest és el seu quarter general!
 - id: 16682
-  text: Espera, Majestat!
+  text: Espera, sa Majestat!
 - id: 16683
-  text: Compte! Crec que tenim companyia!
+  text: Compte! Em sembla que tenim companyia!
 - id: 16684
   text: Naminé... Ets aquí.
 - id: 16685
   text: Naminé...?
 - id: 16686
   text: >-
-    Kairi. Em temo que no
+    Kairi. Em temo que no puc
 
-    puc deixar-te anar.
+    deixar que te'n vagis.
 - id: 16687
   text: Et duré a veure el Sora.
 - id: 16688
@@ -1046,7 +1040,7 @@
   text: >-
     Si tingués cor, ara
 
-    mateix em moriria de risa.
+    mateix em moriria de riure.
 - id: 16691
   text: Tu... {:delay 41 00}{:clear } {:delay 32 00}{:clear }No s'havia desfet de tu el Roxas?
 - id: 16692
@@ -1059,18 +1053,18 @@
   text: Riku... de debò ets tu?
 - id: 17000
   text: >-
-    Darrere aquesta porta,
+    Rere aquesta porta, s'enceta
 
-    comença el final del teu viatge.
+    el final del teu viatge.
 - id: 17001
   text: >-
-    Preparat per enfrontar el teu destí?
+    A punt per enfrontar el teu destí?
 
-    {:chardelay 33 00}Necessito temps per tranquilitzar-me.
+    {:chardelay 33 00}Necessito temps per calmar-me.
 
     {:chardelay 09 00}Som-hi, posem-hi punt i final!
 - id: 17050
-  text: Compta amb els teus amics!
+  text: Tens amics... com nosaltres!
 - id: 18224
   text: els cors són impredictibles.
 - id: 18357
@@ -1122,9 +1116,9 @@
     fins al {:theme 0A}castell{:reset} on tenen la Kairi.
 - id: 18439
   text: >-
-    Segur que l'Organització {XIII} 
+    Segur que l'Organització {XIII} us
 
-    us estarà esperant en aquel castell.{:clear }No fa falta que us digui quant
+    està esperant en aquell castell.{:clear }No fa falta que us digui quant
 
     poderosos són. No baixeu la guàrdia.
 - id: 18440
@@ -1138,9 +1132,9 @@
   text: >-
     Aquell castell és el quarter de l'enemic.
 
-    Hi haurà un munt d'incorporis.{:clear }Són rivals difícils, però tots
+    Hi haurà un munt d'incorporis.{:clear }Són rivals difícils, però tots tenen
 
-    tenen debilitats. Intenta descobrir-les.
+    debilitats. Intenta descobrir-les.
 - id: 18442
   text: >-
     Vaja! Si des de fora semblava gran,
@@ -1178,21 +1172,21 @@
     Per què serà, Sora?
 - id: 18447
   text: >-
-    Mira!
+    Mira! Ara hi ha una
 
-    Ara hi ha una llum en aquella entrada.{:clear }Tindrà alguna cosa a veure
+    llum en aquella entrada.{:clear }Tindrà alguna cosa a veure
 
-    amn els teus enemics, Sora?
+    amb els teus enemics, Sora?
 - id: 18448
   text: >-
     Voldria lluitar com el Riku i tu...{:clear }Sé el que penseu, però no hauríeu
 
-    de ser els únics que us arriscareu.
+    de ser els únics que us hi arrisqueu.
 - id: 18449
   text: >-
     Alguns membres de l'Organització {XIII}
 
-    és prenen la lluita com un joc.{:clear }No importen las normes, sempre tindràs
+    és prenen la lluita com un joc.{:clear }No importen les normes, sempre tindràs
 
     una oportunitat de guanyar. Aprofita-la.
 - id: 18450
@@ -1227,7 +1221,7 @@
   text: >-
     Estic cansada d'esperar, o sigui que
 
-    no em diguis que em quedi enrere!{:clear }Des d'ara, a on hi vagi un,
+    no em diguis que em quedi enrere!{:clear }Des d'ara, a on vagi un,
 
     hi aniran els altres, d'acord?
 - id: 18455
@@ -1289,7 +1283,7 @@
     S'ha d'estar alerta!
 - id: 18464
   text: >-
-    Em pregunto on haurà anat el rei.{:clear }Sé que és fort i pot cuidar-se'n,
+    Em pregunto on haurà anat el rei.{:clear }Sé que és fort i pot cuidar-se,
 
     però em preocupa.
 - id: 18517
@@ -1357,9 +1351,9 @@
     que el meu cor ja sap... i hi fracaso.
 - id: 18938
   text: >-
-    Mentre intentava portar el Sora de tornada,
+    Mentre intentava portar el Sora de
 
-    tenia molts plans per a ell. {:delay 2C 01}{:clear }{:delay 12 00}{:clear }Però quan va reprendre la consciència,
+    tornada, tenia molts plans per a ell. {:delay 2C 01}{:clear }{:delay 12 00}{:clear }Però quan va reprendre la consciència,
 
     tot es va ensorrar.
 - id: 18939
@@ -1373,11 +1367,11 @@
   text: Però, què és el que buscaves?
 - id: 18942
   text: >-
-    Em vas borrar del món{:delay A2 00}{:clear }per usurpar el meu nom{:delay 6C 00}{:clear }i continuar uns estudis
+    Em vas esborrar del món{:delay A2 00}{:clear }per usurpar el meu nom{:delay 6C 00}{:clear }i continuar uns estudis
 
     que era millor oblidar-los...
 - id: 18943
-  text: És aquesta la resposta que buscaves?
+  text: És aquesta la resposta que cercaves?
 - id: 18944
   text: >-
     Tot això i més. {:delay 74 00}{:clear }{:delay 1A 00}Estic continuant el que tu vas
@@ -1417,7 +1411,7 @@
 
     esteu destinats al fracàs!
 - id: 19117
-  text: Potser no feia falta lluitar contra ell. {:delay 96 00}{:clear }{:delay 1E 00}Crec que va deixar l'Organització perquè
+  text: Potser no feia falta lluitar contra ell. {:delay 96 00}{:clear }{:delay 1E 00}Em sembla que va deixar l'Organització perquè
 - id: 19118
   text: el que desitjava era conèixer-te.
 - id: 19121
@@ -1438,14 +1432,14 @@
   text: >-
     És admirable que la Kairi i
 
-    tu hagueu reconegut el Riku.{:clear }És idèntic a l'Ànsem. La primera vegada
+    tu hagueu reconegut el Riku.{:clear }És idèntic a l'Ànsem. El primer cop
 
-    que el vaig veure, no podia creure-ho.
+    que l'he vist, no m'ho podia creure.
 - id: 19124
   text: >-
     Llavors el que ens ajudava
 
-    tota l'estona era el Riku.{:clear }Deveu ser millors amics per a què 
+    tota l'estona era el Riku.{:clear }Deveu ser millors amics perquè 
 
     canviés el seu aspecte per ajudar-vos!
 - id: 19149
@@ -1468,7 +1462,7 @@
 
     anotacions del Diari del Grill.{:clear }Continua la teva aventura fins aconseguir
 
-    aillar-ne totes las incògnites.
+    aillar-ne totes les incògnites.
 - id: 19152
   text: >-
     Escolta'm, Kingdom Hearts! {:delay A2 00}{:clear }Sembla que haurem
@@ -1476,14 +1470,12 @@
     de començar de nou.
 - id: 19153
   text: >-
-    Ah, però tingues això present: {:delay 96 00}{:clear }{:delay 3C 00}et donaré tants cors
-
-    com faci falta.
+    Ah, però tingues això present: {:delay 96 00}{:clear }{:delay 3C 00}et donaré tants cors com calguin.
 - id: 19154
   text: >-
     No te n'oblidis! {:delay 78 00}{:clear }{:delay 30 00}Mai estaràs complet sense mi,
 
-    a l'igual que jo no ho estaré sense tu.
+    igual que jo no ho estaré sense tu.
 - id: 19349
   text: Busca la carta d'en Luxord!
 - id: 19379
@@ -1502,7 +1494,7 @@
 - id: 19571
   text: De pressa! Sense la teva ajuda, en Sora està perdut!
 - id: 19572
-  text: Utilitza Reflexe, per desviar el atacs làser!
+  text: Utilitza Reflex, per desviar el atacs làser!
 - id: 19586
   text: Estan a punt d'atacar! Utilitza Acrobàcia per evitar-los!
 - id: 19587
@@ -1538,12 +1530,12 @@
     sobre durant la batalla!
 - id: 19607
   text: >-
-    Ves a pel Xemnas!
+    Ves a buscar el Xemnas!
 
     Utilitza ordres de reacció per obrir-t'hi pas!
 - id: 19608
   text: >-
-    Ves a pel Xemnas!
+    Ves a buscar el Xemnas!
 
     Utilitza ordres de reacció per obrir-t'hi pas!
 - id: 19609
@@ -1585,7 +1577,7 @@
 
     Utilitza les tàctiques que has après!
 - id: 19761
-  text: El Món Inexistent
+  text: El Món Que Mai Fou
 - id: 19933
   text: >-
     Són ordres. Per què les qüestiones?{:delay DC 00}{:clear }Sobretot tu, que mai has tingut pietat
@@ -1730,19 +1722,19 @@
   text: >-
     Això cada dia és més buit, eh?{:delay 96 00}{:clear }Pensava que seria divertit veure l'últim 
 
-    espectàcle de l'Axel abans de la fi... {:delay 40 01}{:clear }però la cosa ha estat més
+    espectacle de l'Axel abans de la fi... {:delay 40 01}{:clear }però la cosa ha estat més
 
     tranquil・la del que m'esperava.
 - id: 19966
   text: >-
-    Potser hi estava preparat.{:delay 82 00}{:clear } {:delay 32 00}{:clear }Potser va arriscar la seva pròpia existència,
+    Potser hi estava preparat.{:delay 82 00}{:clear } {:delay 32 00}{:clear }Potser va arriscar la seva pròpia existència
 
-    aconseguint així quelcom que desitjava.
+    per així aconseguir quelcom que desitjava.
 - id: 19967
   text: >-
-    Para, para. Com ha de ser possible
+    Para, para. Com ha de ser possible una
 
-    una cosa així? No existim, te'n recordes?{:delay 86 01}{:clear }El que acabes de dir va contra tota lògica.
+    cosa així? No existim, te'n recordes?{:delay 86 01}{:clear }El que acabes de dir va contra tota lògica.
 - id: 19969
   text: Això és absurd.{:delay 46 00}{:clear } {:delay 0A 00}{:clear }Ni va guanyar res, ni ÉS res.
 - id: 19971
@@ -1758,7 +1750,7 @@
 - id: 19973
   text: Per què no et rendeixes?
 - id: 19974
-  text: Au va, Sora. {:delay 6A 00}{:clear }Pensava que erets més fort.
+  text: Au va, Sora. {:delay 6A 00}{:clear }Pensava que eres més fort.
 - id: 19975
   text: >-
     Obre els ulls.
@@ -1769,7 +1761,7 @@
 - id: 19977
   text: De què parles?
 - id: 19978
-  text: Jo soc jo!{:delay 6E 00}{:clear }No ningú més!
+  text: Jo soc jo!{:delay 6E 00}{:clear }Ningú més!
 - id: 19979
   text: Quantes vegades t'he de derrotar?
 - id: 19980
@@ -1810,7 +1802,7 @@
 - id: 21432
   text: Riku?
 - id: 21433
-  text: Volia agrair a la Naminé, però...
+  text: Volia donar les gràcies a la Naminé, però...
 - id: 21436
   text: Ni de broma!
 - id: 21437
@@ -1927,7 +1919,7 @@
 - id: 21467
   text: Haig d'alliberar el poder del meu cor.{:delay DE 00}{:clear }El poder fosc que he estat contenint.
 - id: 21468
-  text: Tot i que... això em canviï per a sempre.
+  text: Tot i que... això em canviï per sempre.
 - id: 21470
   text: >-
     No podia fer-ho encara. {:delay 8C 00}{:clear }Almenys no fins que tot

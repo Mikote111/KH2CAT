@@ -29,7 +29,7 @@
   text: >-
     Aquest món és perfecte per a mi. {:delay E1 00}{:clear } Si de veritat el món es així... {:delay BB 00}{:clear }només això...{:delay B5 00}{:clear }llavors potser hauria de
 
-    fondre'm amb la foscor.
+    fondre'm en la foscor.
 - id: 16193
   text: Riku...
 - id: 16194
@@ -39,7 +39,7 @@
 - id: 16196
   text: A això em refereixo. {:delay 4C 00}{:clear } {:delay 65 00}{:clear }Ei, Sora... {:delay A3 00}{:clear }pots ajudar-me?{:delay 76 00}{:clear }Vull anar a la riba.
 - id: 16197
-  text: Almenys les onades sonen igual.
+  text: Com a mínim les onades sonen igual.
 - id: 16198
   text: >-
     El que t'he dit abans... {:delay 91 00}{:clear }Allò que em creia millor
@@ -80,13 +80,13 @@
 
     bé com soc.{:delay 91 00}{:clear }Jo també tinc una cosa
 
-    que tu mai podràs imitar.
+    que tu mai podries imitar.
 - id: 16210
   text: Sora?
 - id: 16211
   text: ''
 - id: 16212
-  text: Crec que és per a tu.
+  text: Em sembla que és per a tu.
 - id: 19629
   text: >-
     Penso en tu,
@@ -98,7 +98,7 @@
   text: >-
     Ara em posaré en marxa
 
-    per a assolir aquest desig. {:delay B4 00}{:clear }{:delay 4E 00}{:clear }I qui sap?,
+    per assolir aquest desig. {:delay B4 00}{:clear }{:delay 4E 00}{:clear }I qui sap?,
 - id: 19631
   text: Començar un nou viatge potser no es tan difícil. {:delay B4 00}{:clear }{:delay 30 00}{:clear }O potser ja ha començat... {:delay 66 00}{:clear }{:delay 5F 00}{:clear }Són molts els mons, {:delay 54 00}{:clear }{:delay 36 00}{:clear }però tots comparteixen el mateix cel.{:delay 7E 00}{:clear }{:delay 3C 00}{:clear }Un cel... {:delay 38 00}{:clear }{:delay 36 00}{:clear }Un destí.
 - id: 19632
@@ -122,7 +122,7 @@
 - id: 19641
   text: Quin món més petit!
 - id: 19642
-  text: Però és part d'un molt més gran.
+  text: Però n'és part d'un molt més gran.
 - id: 19643
   text: Sí.
 - id: 19644

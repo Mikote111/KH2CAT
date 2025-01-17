@@ -261,11 +261,11 @@
     amics i derrota els sensecor!
 - id: 8148
   text: >-
-    Un moment... Creia que tot
+    Un moment... Em pensava que tot
 
     estava sota control per aquí!
 - id: 8149
-  text: Eh, mireu!
+  text: Ei, mireu!
 - id: 8150
   text: >-
     Una altra cop l'Organització {XIII}.
@@ -275,9 +275,7 @@
   text: '{:unk13 90 01 18 01}{:unk08 01 00 01}Endavant!'
 - id: 8152
   text: >-
-    {:unk13 A0 00 6E 00}{:unk08 01 01 05}Un moment...{:clear }Què li ha passat
-
-    a aquest lloc?
+    {:unk13 A0 00 6E 00}{:unk08 01 01 05}Un moment...{:clear }Què ha passat aquí?
 - id: 8153
   text: >-
     {:unk13 79 01 E1 00}{:unk08 01 00 04}Aquells sensecor no
@@ -287,9 +285,7 @@
     del món del Tron?
 - id: 8154
   text: >-
-    {:unk13 91 00 3C 00}{:unk08 01 01 06}Som-hi,
-
-    entreu-hi!
+    {:unk13 91 00 3C 00}{:unk08 01 01 06}Va, entreu-hi!
 - id: 8155
   text: "{:unk13 54 01 5A 00}{:unk08 01 01 06}Afanya't, Cid!"
 - id: 8156
@@ -297,7 +293,7 @@
 - id: 8157
   text: '{:unk13 96 00 41 00}{:unk08 01 00 05}Cagondena! Ràpid!'
 - id: 8158
-  text: '{:unk06 02}{:unk13 36 01 50 00}{:unk08 03 00 05}Perquè no...!'
+  text: '{:unk06 02}{:unk13 36 01 50 00}{:unk08 03 00 05}Per què no...!'
 - id: 8159
   text: '{:unk13 A5 00 9B 00}{:unk08 01 01 06}Què passa?'
 - id: 8160
@@ -307,7 +303,7 @@
     el moment exacte!
 - id: 8161
   text: >-
-    {:unk13 2C 01 37 00}{:unk08 01 01 06}El PCM está sembrant el
+    {:unk13 2C 01 37 00}{:unk08 01 01 06}El PCM està sembrant el
 
     caos dins l'ordinador.
 - id: 8162
@@ -321,7 +317,7 @@
   text: >-
     Ha anat a l'estudi de l'Ànsem a
 
-    esbrinar què carai anava tot això.
+    esbrinar de què carai va tot això.
 - id: 8165
   text: >-
     Sembla que el PCM està
@@ -446,7 +442,7 @@
 
     digueu-li que vagi a la
 
-    Torre I/O.{:clear }Allà hi carregarem el programa
+    Torre I/O.{:clear }Allà carregarem el programa
 
     d'Erradicació del PCM.
 - id: 8195
@@ -479,7 +475,7 @@
   text: Estic intentant treballar!
 - id: 8203
   text: >-
-    Jo, jo, jo... Ja t'ensenyaré
+    Ho, ho, ho... Ja t'ensenyaré
 
     jo qui és un vell xaruc!
 - id: 8204
@@ -505,7 +501,7 @@
 - id: 8211
   text: Léon, deixa-m'ho intentar.
 - id: 8212
-  text: Aquest és l'último avís.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }Desistin.
+  text: Aquest és l'últim avís.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }Desisteixin.
 - id: 8213
   text: Bon appetit!
 - id: 8214
@@ -518,7 +514,7 @@
 
     calmant a la ciutat!{:delay 62 00}{:clear }{:delay 27 00}{:clear }Els únics sensecor que queden
 
-    són els habituals de per aquí.{:delay 8A 00}{:clear }{:delay 30 00}{:clear }Fins i tot hi ha menys que abans.
+    són els habituals de per aquí.{:delay 8A 00}{:clear }{:delay 30 00}{:clear }Fins i tot n'hi ha menys que abans.
 - id: 8217
   text: >-
     Ara només cal tornar els
@@ -529,7 +525,7 @@
 - id: 8219
   text: Benvinguts!
 - id: 8220
-  text: Com va la ciutat?
+  text: Com està la ciutat?
 - id: 8221
   text: De primera!
 - id: 8222
@@ -549,7 +545,7 @@
   text: >-
     Salut, amics.{:delay 3C 00}{:clear }El sistema és actiu i
 
-    llest per a l'usuari.
+    a punt per a l'usuari.
 - id: 8228
   text: Tron!
 - id: 8229
@@ -559,9 +555,9 @@
 - id: 8231
   text: Oh, bufa! Oh, bufa!
 - id: 8232
-  text: Prou! Em fas pesigolles!
+  text: Prou! Em fas pessigolles!
 - id: 8233
-  text: El Tron té pesigolles?
+  text: El Tron té pessigolles?
 - id: 8234
   text: Què et sembla això?
 - id: 8235
@@ -575,7 +571,7 @@
   text: >-
     Espereu. Un moment.{:delay B1 00}{:clear }Vull ensenyar-vos una cosa que
 
-    he trobat entre els arxius vells. {:delay B4 00}{:clear }És la ciutat tal i com es va construir.
+    he trobat entre els fitxers antics. {:delay B4 00}{:clear }És la ciutat tal i com es va construir.
 - id: 8238
   text: És clar!{:delay 5A 00}{:clear }{:delay 19 00}{:clear }Ara me'n recordo.
 - id: 8239
@@ -593,7 +589,7 @@
 - id: 8242
   text: ''
 - id: 8243
-  text: Vergel Radiant.{:delay 6E 00}{:clear }{:delay 2D 00}{:clear }
+  text: Verger Radiant.{:delay 6E 00}{:clear }{:delay 2D 00}{:clear }
 - id: 8244
   text: On és la resta?
 - id: 8245
@@ -836,9 +832,9 @@
   text: >-
     És bo el gelat de sal marina, eh?
 
-    Però no és moment de menjar gelats!{:clear }Ajudeu el Léon i  els altres. I no
+    Però no és moment de menjar gelats!{:clear }Ajudeu el Léon i els altres. I no
 
-    espereu una recompensa a canvi.
+    n'espereu una recompensa a canvi.
 - id: 9007
   text: >-
     Si us creueu amb un home de pèl
@@ -2427,7 +2423,7 @@
 - id: 12846
   text: Però si no tenim res!
 - id: 12847
-  text: Seguro?
+  text: N'estàs segur?
 - id: 12848
   text: '{:delay 6A 00}Hmm... anem a veure-ho!'
 - id: 12849
@@ -2970,7 +2966,7 @@
 
     Si utilitzes les ordres de reacció
 
-    amb {:icon dynamic-triangle}, la batalla serà més fácil!
+    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 17863
   text: >-
     Si ens separem, com ja va passar,
@@ -3377,7 +3373,7 @@
   text: >-
     Necessito millorar el meu monopatí.
 
-    Podries ajudar-me?
+    Podries ajudar-m'hi?
 - id: 18913
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Vols provar el monopatí?
@@ -3608,15 +3604,15 @@
 
     Hem d'anar amb el rei!
 - id: 21483
-  text: "{:delayandfade 08 78} \nSegons el Merlí, el Pooh no recorda\nres perquè els sensecor han robat\nalgunes pàgines del seu llibre.\n \nEl Sora ha d'afanyar-se en\nrecuperar una a una les pàgines\ni tornar al món del simpàtic os\nabans que la cosa empitjori.\n \n \n"
+  text: "{:delayandfade 08 78} \nSegons el Merlí, el Pooh no recorda\nres perquè els sensecor han robat\nalgunes pàgines del seu llibre.\n \nEl Sora ha d'afanyar-se a\nrecuperar una a una les pàgines\ni tornar al món del simpàtic os\nabans que la cosa empitjori.\n \n \n"
 - id: 21484
   text: "{:delayandfade 0A 78} \nEl Sora torna a casa el Merlí\ni rep de part del Cid la notícia que\nl'ordinador de l'Ànsem ha aparegut\ni que podria contenir dades sobre el\nRiku, la Kairi, el rei i l'Organització {XIII}.\n \nEntusiasmats per la troballa,\nen Sora, el Donald i el Goofy\ns'afanyen cap a la sala de l'ordinador.\n \n"
 - id: 21485
   text: "{:delayandfade 07 B4} \nGràcies a l'inestimable ajuda del Tron,\nel Sora i els seus aconsegueixen tornar al\nmón real, però encara queda molt per fer.\n \n \n \n \n \n \n"
 - id: 21486
-  text: "{:delayandfade 08 78} \nEs necesaria una contraseña\npara acceder a los datos de\nlas investigaciones de Ànsem,\ny qué mejor lugar para buscarla\nque su propio estudio.\n \nSora y sus amigos saben que\ndar con ella no será una tarea\nfácil, pero tras un registro\nminucioso...\n"
+  text: "{:delayandfade 08 78} \nÉs necessària una contrasenya\nper accedir a les dades de\nles investigacions de l'Ànsem,\ni quin millor lloc per buscar-la\nque el seu propi estudi.\n \nEl Sora i els seus amics saben que\ntrobar-la no serà bufar i fer\nampolles, però després d'un escorcoll\nminuciós...\n"
 - id: 21487
-  text: "{:delayandfade 0A 78} \nUn año atrás, Sora y sus amigos\nse enfrentaron a un vil sincorazón\nque pretendía hacerse con\nKingdom Hearts: Ànsem, el buscador\nde oscuridad.\n \nSin embargo, ahora descubren que\nno es ese su verdadero nombre.\nAquel sincorazón era un impostor\nque simplemente suplantó tal nombre."
+  text: "{:delayandfade 0A 78} \nFa un any, el Sora i els seus amics\nes van enfrontar a un vil sensecor\nque pretenia aconseguir el\nKingdom Hearts: l'Ànsem, el cercador\nde foscor.\n \nNo obstant això, ara descobreixen que\naquell no és el seu veritable nom.\nAquell sensecor era un impostor\nque simplement va suplantar tal nom."
 - id: 21488
   text: "{:delayandfade 0A 78} \nL'infame líder de l'Organització {XIII}.\nL'incorpori del Xehanort, l'aprenent\nde l'Ànsem.\n \n \n \n \n \n \n \n"
 - id: 21489
