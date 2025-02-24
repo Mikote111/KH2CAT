@@ -358,7 +358,7 @@
   text: I jo m'hi negaria, és clar.
 - id: 8530
   text: >-
-    Pero m'agradaria veure
+    Però m'agradaria veure
 
     les Terres del Regne. {:delay B4 00}{:clear }No us importa si els
 
@@ -1227,7 +1227,7 @@
   text: >-
     {:unk13 B8 00 43 01}{:unk08 01 01 02}En Simba!?
 
-    Pero si encara belluga la cua!{:clear }Va estar lluitant al nostre
+    Però si encara belluga la cua!{:clear }Va estar lluitant al nostre
 
     costat no fa molt.
 - id: 12895
@@ -1613,7 +1613,7 @@
 
     bastant seriosa.{:clear }Salvar el regne, vèncer el rei...
 
-    Quina classe de món és aquest?
+    Quina mena de món és aquest?
 - id: 17185
   text: >-
     La Roca del Clan és en
@@ -1720,7 +1720,7 @@
   text: >-
     Un altre cop a
 
-    alimentar-nos amb restes.{:clear }En fi... Donem les
+    alimentar-nos de restes.{:clear }En fi... Donem les
 
     gràcies per estar vius.
 - id: 17261

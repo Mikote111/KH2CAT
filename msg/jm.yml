@@ -456,7 +456,7 @@
   text: >+
     El Sora i els seus amics descobreixen que hi ha un
 
-    ordinador que l'Ansem solia utilitzar. La sala dels
+    ordinador que l'Ànsem solia utilitzar. La sala dels
 
     ordinadors és en algun lloc del porticó.
 
@@ -478,7 +478,7 @@
 
 - id: 10528
   text: >+
-    Arribem a l'estudi de l'Ansem, però
+    Arribem a l'estudi de l'Ànsem, però
 
     no hi és ni el rei, ni cap ordinador.
 
@@ -516,11 +516,11 @@
 
     accedir a les dades de recerca,
 
-    necessitem la contrasenya Ansem.
+    necessitem la contrasenya Ànsem.
 
 - id: 10539
   text: >+
-    Esbrina la contrasenya de l'Ansem!
+    Esbrina la contrasenya de l'Ànsem!
 
 - id: 10540
   text: >+
@@ -648,7 +648,7 @@
 
 - id: 10563
   text: >+
-    Ves a l'estudi de l'Ansem!
+    Ves a l'estudi de l'Ànsem!
 
 - id: 10564
   text: >+
@@ -1063,7 +1063,7 @@
 
     deixa caure amb el seu peculiar estil que potser la
 
-    Hidra va “jugant” pel Coliseu.
+    Hidra va «jugant» pel Coliseu.
 
 - id: 10639
   text: >+
@@ -1215,7 +1215,7 @@
   text: >+
     Per la ciutat, senten un mercader
 
-    cridar: “Atura't, lladre!”, mentre
+    cridar: «Atura't, lladre!», mentre
 
     persegueix a l'Abú i Aladdin. Què passa?
 
@@ -2921,13 +2921,13 @@
   text: >+
     El Tron necessitava la contrasenya d'un
 
-    entorn de dades anomenat DTD. L'Ansem
+    entorn de dades anomenat DTD. L'Ànsem
 
     , el seu usuari, l'hauria de tenir.
 
 - id: 10969
   text: >+
-    Cerca la contrasenya de l'Ansem!
+    Cerca la contrasenya de l'Ànsem!
 
 - id: 10970
   text: >+
@@ -2971,7 +2971,7 @@
 
     Ara han de tornar a l'exterior, perquè
 
-    hi ha moltes preguntes pendents sobre l'Ansem.
+    hi ha moltes preguntes pendents sobre l'Ànsem.
 
 - id: 10977
   text: >+
@@ -3109,9 +3109,9 @@
 
     Sora desperta en una vella mansió.
 
-    Devia haver estat dormint allà
+    Devia haver estat dormint allà molt
 
-    molt de temps, però no aconsegueix
+    de temps, però no aconsegueix
 
     recordar res.
 
@@ -3225,21 +3225,21 @@
   text: >+
     La torre estava infestada de sensecor.
 
-    Quan en Sora i els seus amics van aconseguir
+    Quan en Sora i la colla van aconseguir
 
-    arribar al capdamunt de la torre, el mestre
+    arribar al capdamunt de la torre, el
 
-    Yen Sid els esperava: “L'escollit de la
+    mestre Yen Sid els esperava: «L'escollit
 
-    clau espasa! Tu ets la clau que
+    de la clau espasa! Tu ets la clau que
 
-    obrirà la porta a la llum”.
+    obrirà la porta a la llum».
 
 - id: 11010
   text: >+
-    Segons en Yen Sid, la llum es trobava sota
+    Segons en Yen Sid, la llum es trobava
 
-    una nova amenaça: els “incorporis”.
+    sota una nova amenaça: els «incorporis».
 
     Aquests són la carcassa buida que queda
 
@@ -3251,17 +3251,17 @@
 
     grup anomenat Organització {XIII} controla
 
-    aquests incorporis, tot i que
+    aquests incorporis, tot i que es
 
-    es desconeixen els seus propòsits. El rei
+    desconeixen els seus propòsits. El rei ha
 
-    ha emprès un viatge per esbrinar l'objectiu
+    emprès un viatge per esbrinar l'objectiu
 
-    de l'Organització {XIII}. Si en Sora i els seus
+    de l'Organització {XIII}. Si en Sora i els
 
-    amics aconsegueixen trobar el rei, pot ser
+    seus amics aconsegueixen trobar el rei, pot
 
-    que descobreixin també on és en Riku.
+    ser que descobreixin també on és en Riku.
 
 - id: 11011
   text: >+
@@ -3273,11 +3273,11 @@
 
 - id: 11012
   text: >+
-    Les tres fades protectores van proporcionar
+    Les tres fades protectores van
 
-    al Sora l'armari rober màgic que li serviria en el
+    proporcionar al Sora l'armari rober
 
-    seu viatge.
+    màgic que li serviria en el seu viatge.
 
 - id: 11013
   text: >+
@@ -3329,11 +3329,11 @@
 
     el trofeu del més fort de la ciutat.
 
-    Aleshores en Pence, molt
+    Aleshores en Pence, molt nerviós,
 
-    nerviós, va arribar i li va preguntar:
+    va arribar i li va preguntar:
 
-    “Coneixes una noia anomenada Kairi?”
+    «Coneixes una noia anomenada Kairi?»
 
 - id: 11018
   text: >+
@@ -3345,49 +3345,51 @@
 
 - id: 11019
   text: >+
-    En Sora i els seus companys van anar a la
+    En Sora i companyia van anar a la mansió
 
-    mansió a buscar pistes, però van trobar en
+    a buscar pistes, però van trobar en Hayner
 
-    Hayner i els seus amics, que havien estat
+    i els seus amics, que havien estat atacats
 
-    atacats pels sensecors. Segons l'Olette,
+    pels sensecors. Segons l'Olette, creien
 
-    creien que la mansió era algun tipus de
+    que la mansió era algun tipus de porta
 
-    porta d'entrada a una Vila Crepuscle alternativa.
+    d'entrada a una Vila Crepuscle alternativa.
 
-    “Com que una Vila Crepuscle alternativa?”
+    «Com que una Vila Crepuscle alternativa?»
 
     Noten que ambdós tenen duplicats d'un
 
     moneder i uns cristalls que se suposava
 
-    que havien de ser únics. Aquella era la prova
+    que havien de ser únics. Aquella era la
 
-    que “per allà” hi havia una altra Vila Crepuscle
+    prova que «per allà» hi havia una altra
 
-    similar a la “d'aquí”. “En aquella altra
+    Vila Crepuscle similar a la «d'aquí».
 
-    ciutat és on deu ser tot el que falta aquí!”,
+    «En aquella altra ciutat és on deu ser
 
-    va dir en Pence. Si la Kairi ha desaparegut
+    tot el que falta aquí!», va dir en Pence.
 
-    d'aquesta Vila Crepuscle... pot ser que ens
+    Si la Kairi ha desaparegut d'aquesta Vila
 
-    estigui esperant en l'altra! Fou aleshores quan
+    Crepuscle... pot ser que ens esperi a
 
-    va aparèixer el rei. Seguia la pista de
+    l'altra! Fou aleshores quan va aparèixer
 
-    l'Ansem el Savi, que es dirigia a la fortalesa
+    el rei. Seguia la pista de l'Ànsem el
 
-    de l'Organització {XIII}. Tot i que no va comentar
+    Savi, que es dirigia a la fortalesa de
+
+    l'Organització {XIII}. Tot i que no va comentar
 
     massa detalls, les seves paraules deixaven
 
-    entendre que en Sora podria retrobar-se amb
+    entendre que en Sora podria retrobar-se
 
-    en Riku si seguia el rei.
+    amb en Riku si seguia el rei.
 
 - id: 11020
   text: >+
@@ -3403,13 +3405,15 @@
 
 - id: 11021
   text: >+
-    L'ordinador estava protegit amb una contrasenya, però
+    L'ordinador estava protegit amb una
 
-    en Sora i els seus amics van recordar una
+    contrasenya, però en Sora i els seus
 
-    cosa que podria estar relacionada: el gelat
+    amics van recordar una cosa que podria
 
-    que era a la caixa amb les fotos!
+    estar-hi relacionada: el gelat que era
+
+    a la caixa amb les fotos!
 
 - id: 11022
   text: >+
@@ -3533,7 +3537,7 @@
   text: >+
     Després de tornar a cal Merlí, vam descobrir
 
-    l'existència d'un ordinador que l'Ansem
+    l'existència d'un ordinador que l'Ànsem
 
     utilitzava per a les seves investigacions.
 
@@ -3545,7 +3549,7 @@
 
 - id: 11036
   text: >+
-    Però quan vam arribar a l'estudi de l'Ansem,
+    Però quan vam arribar a l'estudi de l'Ànsem,
 
     no hi havia ni el rei ni l'ordinador.
 
@@ -3557,13 +3561,15 @@
 
 - id: 11038
   text: >+
-    En Sora i en Donald, uns negats de la tecnologia,
+    En Sora i en Donald, uns negats de la
 
-    van començar a colpejar l'ordinador. De
+    tecnologia, van començar a colpejar
 
-    sobte, es va activar un estrany dispositiu
+    l'ordinador. De sobte, es va activar
 
-    que ens va dur a un misteriós món.
+    un estrany dispositiu que ens va dur
+
+    a un misteriós món.
 
 - id: 11041
   text: >+
@@ -3581,7 +3587,7 @@
 
     les
 
-    investigacions de l'Ansem.
+    investigacions de l'Ànsem.
 
 - id: 11042
   text: >+
@@ -3615,27 +3621,29 @@
   text: >+
     Però la majoria de les dades estaven
 
-    corruptes i no semblava que hi hagués res sobre el
+    corruptes i no semblava que hi hagués res
 
-    Riku o la Kairi. Tafanejant, hi vam trobar
+    sobre el Riku o la Kairi. Tafanejant, hi
 
-    el retrat d'algú. El rei va revelar que era
+    vam trobar el retrat d'algú. El rei va
 
-    l'Ansem, però no era aquell qui nosaltres
+    revelar que era l'Ànsem, però no era
 
-    coneixíem! L'Ansem que vam derrotar
+    aquell qui nosaltres coneixíem! L'Ànsem
 
-    era el sensecor d'algú que es feia passar
+    que vam derrotar era el sensecor d'algú
+    
+    que es feia passar per ell i l'incorpori
 
-    per ell i l'incorpori d'aquell tipus
+    d'aquell tipus resulta ser el líder de
 
-    resulta ser el líder de l'Organització {XIII}.
+    l'Organització {XIII}. Quina casualitat!
 
-    Quina casualitat! El rei ens va explicar que buscava
+    El rei ens va explicar que buscava
 
-    l'Ansem real, i que sabria detectar
+    l'Ànsem real, i que sabria detectar
 
-    l'Ansem fals. En acabar la sala es va
+    l'Ànsem fals. En acabar la sala es va
 
     estremir amb un fort terrabastall.
 
@@ -3651,15 +3659,15 @@
 
 - id: 11049
   text: >+
-    En Léon i els nostres altres amics van plantar
+    En Léon i els nostres altres amics van
 
-    cara a l'allau enemiga. Tots van
+    plantar cara a l'allau enemiga. Tots
 
-    llençar-se amb valentia contra la marabunta
+    van llençar-se amb valentia contra la
 
-    d'enemics que abundava des de la vall
+    marabunta d'enemics que abundava des
 
-    del Gran Congost.
+    de la vall del Gran Congost.
 
 - id: 11050
   text: >+
@@ -3667,27 +3675,29 @@
 
     En Xemnas, el líder de l'Organització {XIII}.
 
-    Era en realitat en Xehanort, aprenent de
+    Era en realitat en Xehanort, aprenent
 
-    l'Ansem el Savi. En Sora va intentar preguntar
+    de l'Ànsem el Savi. En Sora va intentar
 
-    sobre el Riku i la Kairi, però en Xemnas li va dir
+    preguntar pel Riku i la Kairi, però
 
-    que allò “hauria de preguntar-ho al seu rei” i,
+    en Xemnas li va dir que allò «hauria de
 
-    en acabat, va desaparèixer en la foscor.
+    preguntar-ho al seu rei» i, en acabat,
 
-    A continuació va aparèixer l'Axel per
+    va desaparèixer en la foscor. A continuació
 
-    advertir al Sora que l'Organització l'estava
+    va aparèixer l'Axel per advertir al Sora
 
-    utilitzant. Perplex, en Sora es va veure
+    que l'Organització l'utilitzava. Perplex,
 
-    rodejat pels sensecor quan, de sobte, un raig de llum
+    en Sora va veure's rodejat pels sensecor
 
-    va aparèixer... Amb gran incertesa, la
+    quan, de sobte, un raig de llum va aparèixer...
 
-    batalla semblava que cessava, almenys de moment.
+    Amb gran incertesa, la batalla semblava
+
+    cessar, com a mínim de moment.
 
 - id: 11051
   text: >+
@@ -3701,9 +3711,11 @@
 
 - id: 11053
   text: >+
-    El PCM ha piratejat el sistema informàtic i ha
+    El PCM ha piratejat el sistema
 
-    enviat una infinitat de sensecor a la ciutat.
+    informàtic i ha enviat una infinitat
+
+    de sensecor a la ciutat.
 
 - id: 11054
   text: >+
@@ -3729,7 +3741,7 @@
 
     dir-se Baluard Balmat... però va resultar
 
-    que el nom original era “Verger Radiant”.
+    que el nom original era «Verger Radiant».
 
 - id: 11058
   text: >+
@@ -3899,9 +3911,9 @@
 
 - id: 11075
   text: >+
-    Més no hi havia temps per a planys: “No
+    Més no hi havia temps per a planys: «No
 
-    desaprofitis la teva última oportunitat”, el
+    desaprofitis la teva última oportunitat», el
 
     va animar en Sora. D'aquesta manera, la Bèstia va trobar
 
@@ -3911,11 +3923,11 @@
   text: >+
     L'agosarat Xaldin va observar amb sorna
 
-    la revitalitzada Bèstia i li va dir: “Quan
+    la revitalitzada Bèstia i li va dir: «Quan
 
     el Kingdom Hearts ens pertanyi...
 
-    la nostra existència serà plena”.
+    la nostra existència serà plena».
 
 - id: 11077
   text: >+
@@ -4087,9 +4099,9 @@
 
     habitual parafernàlia i aquestes esgarrifoses
 
-    paraules: “Hauries d'anar a veure què fa aquella
+    paraules: «Hauries d'anar a veure què fa aquella
 
-    Hidra...”.
+    Hidra...».
 
 - id: 11092
   text: >+
@@ -4199,7 +4211,7 @@
   text: >+
     A la ciutat, vam sentir un mercader que
 
-    cridava: “Atura't, lladre”, mentre perseguia
+    cridava: «Atura't, lladre», mentre perseguia
 
     l'Abú i l'Aladdin.
 
@@ -4213,7 +4225,7 @@
 
     A la ciutat, vam sentir un mercader que
 
-    cridava: “Atura't, lladre!”, mentre perseguia
+    cridava: «Atura't, lladre!», mentre perseguia
 
     l'Abú i l'Aladdin. Semblava que l'Abú,
 
@@ -4537,7 +4549,7 @@
 
 - id: 11139
   text: >+
-    “Riku?” Després de la crida d'en Sora,
+    «Riku?» Després de la crida d'en Sora,
 
     l'home va revelar la seva identitat. Es
 
@@ -5249,11 +5261,11 @@
   text: >+
     Llavors, els sensecor van aparèixer
 
-    a la ciutat. “Com podria relaxar-se el
+    a la ciutat. «Com podria relaxar-se el
 
     Pare Cruel es relaxi amb tot el que està
 
-    passant?”, va dir en Jack, i ens va demanar
+    passant?», va dir en Jack, i ens va demanar
 
     que fóssim els seus guardaespatlles.
 
@@ -5611,7 +5623,7 @@
 
     Organització. Aprofitant que havia
 
-    invocat el “parlament” del codi
+    invocat el «parlament» del codi
 
     dels pirates, va endur-se diverses peces d'
 
@@ -5629,9 +5641,9 @@
 
 - id: 11250
   text: >+
-    “Fan que els pirates semblin bones
+    «Fan que els pirates semblin bones
 
-    persones”, va dir en Jack. Dit això,
+    persones», va dir en Jack. Dit això,
 
     ens vam posar en marxa rere l'Organització i l'or.
 
@@ -5657,7 +5669,7 @@
 
 - id: 11252
   text: >+
-    Tafanejant l'ordinador de l'Ansem,
+    Tafanejant l'ordinador de l'Ànsem,
 
     el PCM va arrossegar-nos dins el
 
@@ -5697,7 +5709,7 @@
 
     de Tron i calia demanar la contrasenya...
 
-    però l'usuari no era altre que n'Ansem!
+    però l'usuari no era altre que n'Ànsem!
 
 - id: 11257
   text: >+
@@ -5739,9 +5751,9 @@
   text: >+
     Després de la lluita, Tron ens va parlar d'
 
-    Ansem. Tant Tron com el PCM
+    Ànsem. Tant Tron com el PCM
 
-    havien estat millorats per Ansem. Tanmateix,
+    havien estat millorats per Ànsem. Tanmateix,
 
     per què actualitzar dos programes
 
@@ -5885,9 +5897,9 @@
   text: El Comitè
 - id: 11287
   text: >-
-    Léon i els seus amics estaven preparant la
+    En Léon i els seus amics estaven preparant
 
-    reconstrucció de Baluard Balmat.
+    la reconstrucció de Baluard Balmat.
 - id: 11288
   text: L'Organització {XIII}
 - id: 11289
@@ -5906,25 +5918,28 @@
   text: Ànsem el Savi
 - id: 11293
   text: >-
-    En Sora i els seus amics no havien derrotat l'
+    En Sora i la colla no van derrotar l'Ànsem
 
-    autèntic Ansem, si no al seu aprenent, Xehanort.
+    autèntic, sinó el seu aprenent, Xehanort.
 - id: 11294
   text: Batalla Reial
 - id: 11295
   text: >-
-    Hordes de descarnats i sincorazón
+    Hordes d'incorporis i sensecor
 
     havien infestat el Baluard Balmat.
 - id: 11296
   text: El rei decideix
 - id: 11297
-  text: El rei va prendre el seu lloc en la ferotge batalla.
+  text: >-
+    El rei va prendre el seu lloc en 
+
+    la ferotge batalla.
 - id: 11298
-  text: Encara els sincorazón
+  text: Encara els sensecor
 - id: 11299
   text: >-
-    Un cop més, els sincorazón van envair
+    Un cop més, els sensecor van envair
 
     la pacífica ciutat.
 - id: 11300
@@ -5961,7 +5976,7 @@
   text: >-
     Al saló de ball, en Sora i els seus amics
 
-    van lluitar contra els sincorazón que van atacar a Bella.
+    van lluitar contra els sensecor que van atacar a Bella.
 - id: 11310
   text: Una parella de gala
 - id: 11311
@@ -6141,7 +6156,7 @@
   text: Terratrèmols
 - id: 11361
   text: >-
-    El sincorazón que va aparèixer a
+    El sensecor que va aparèixer a
 
     Tung Shao va volar cap a la ciutat.
 - id: 11362
@@ -6378,9 +6393,9 @@
   text: Parlament!
 - id: 11433
   text: >-
-    En Luxord, de l'Organització {XIII}, veu
+    En Lúxord, de l'Organització {XIII}, veu
 
-    la seva oportunitat de portar un sincorazón.
+    la seva oportunitat de portar un sensecor.
 - id: 11434
   text: Cap a Port Royal
 - id: 11435
@@ -6420,7 +6435,7 @@
   text: L'usuari de Tron
 - id: 11445
   text: >-
-    Ansem el Savi va ser el creador de
+    Ànsem el Savi va ser el creador de
 
     Tron i el PCM.
 - id: 11446
@@ -6611,7 +6626,7 @@
      podria dominar-la.
 
 
-    En Riku va adoptar el nom d'«Ansem»,
+    En Riku va adoptar el nom d'«Ànsem»,
 
     potser com a signe de les seves
 
@@ -6625,7 +6640,7 @@
 - id: 11467
   text: Un individu envoltat de misteri.
 - id: 11468
-  text: Ansem
+  text: Ànsem
 - id: 11469
   text: ''
 - id: 11472
@@ -6706,11 +6721,11 @@
 
     i no professaven simpatia cap
 
-    als neòfits com en Marluxia. En
+    als neòfits com en Marlúxia. En
 
     Vexen es va oposar als plans d'en
 
-    Marluxia de prendre el control de
+    Marlúxia de prendre el control de
 
     l'Organització, fet que va provocar
 
@@ -6727,7 +6742,7 @@
 
     En Lexaeus va rebutjar els plans
 
-    d'en Marluxia de controlar
+    d'en Marlúxia de controlar
 
     l'Organització i va conspirar
 
@@ -6832,7 +6847,7 @@
 
     saben de què parlen?
 - id: 11492
-  text: Marluxia
+  text: Marlúxia
 - id: 11493
   text: >-
     Antic núm. {XI} de l'Organització {XIII}.
@@ -6840,15 +6855,15 @@
     Ens n'hem desfet.
 
 
-    Va planejar una rebel・lió dins l'
+    Va planejar una rebel・lió dins
 
-    Organització i va intentar aixecar-se
+    l'Organització i va intentar-se
 
-    amb el poder de la clau espasa,
+    aixecar amb el poder de la clau
 
-    però la traïció de l'Axel va provocar
+    espasa, però la traïció de l'Axel
 
-    la seva destrucció.
+    va provocar la seva destrucció.
 - id: 11494
   text: Larxene
 - id: 11495
@@ -6858,9 +6873,9 @@
     Ha estat eliminada.
 
 
-    La Larxene va conspirar amb en Marluxia
+    La Larxene va conspirar amb en
 
-    per apoderar-se de l'Organització.
+    Marlúxia per fer-se amb l'Organització.
 
 
     La Larxene era insensible i li
@@ -7211,9 +7226,9 @@
     sent els records d'en Sora.
 
 
-    Les seves vacances d'estiu ja gairebé han
+    Les seves vacances d'estiu ja gairebé
 
-    acabat i, amb elles, molts dels
+    han acabat i, amb elles, molts dels
 
     seus plans i sentiments.
 - id: 11536
@@ -7913,11 +7928,9 @@
     Reials de Disney.
 
 
-    En Goofy va deixar el castell amb la
+    En Goofy va deixar el castell amb
 
-    nau gumi per buscar el rei
-
-    Mickey.
+    la nau gumi per buscar el rei Mickey.
 
 
     En Goofy i la Bèstia ja es coneixen.
@@ -8226,11 +8239,11 @@
   text: >-
     Un heroi llegendari amb
 
-    una força incomparable. En el moment que l'Hidra
+    una força incomparable. En el moment
 
-    va destruir el Coliseu, l'Hèrcules
+    que l'Hidra va destruir el Coliseu,
 
-    va sentir que havia
+    l'Hèrcules va sentir que havia
 
     decebut a tothom, i ara dubta de
 
@@ -8416,15 +8429,13 @@
   text: L'Hidra
 - id: 11653
   text: >-
-    Un monstre llegendari
+    Un monstre llegendari amb
 
-    amb diversos caps, que
+    diversos caps, que l'Hades
 
-    l'Hades va enviar a
+    va enviar a lluitar contra
 
-    lluitar contra l'Hèrcules. Si li tallen
-
-    un cap,
+    l'Hèrcules. Si li tallen un cap,
 
     en creixen dos més al seu lloc.
 - id: 11656
@@ -8475,7 +8486,7 @@
     amb el Sora i el Goofy.
 
 
-    La darrera vegada que va visitar Agrabah,
+    La darrer cop que va visitar Agrabah,
 
     el Donald va lluitar fent costat a
 
@@ -8486,33 +8497,33 @@
   text: Goofy
 - id: 11663
   text: >-
-    Juntament amb el Sora i el Donald, el capità
+    Juntament amb el Sora i el Donald, el
 
-    dels Cavallers Reials recorre
+    capità dels Cavallers Reials recorre
 
     els mons a la recerca del rei.
 
 
-    La darrera vegada que va visitar Agrabah, el
+    La darrer cop que va visitar Agrabah,
 
-    Goofy va lluitar fent costat
+    el Goofy va lluitar fent costat a
 
-    a l'Aladdin per defensar la ciutat del
+    l'Aladdin per defensar la ciutat
 
-    temible Jafar.
+    del temible Jafar.
 - id: 11664
   text: Aladdin
 - id: 11665
   text: >-
     Aquest jove provè del desert als
 
-    afores d'Agrabah. En el
+    afores d'Agrabah. En el passat, en
 
-    passat, en Sora i els seus amics el
+    Sora i els seus amics el van ajudar
 
-    van ajudar a derrotar en Jafar i alliberar el Geni
+    a derrotar en Jafar i alliberar el
 
-    de la llàntia.
+    Geni de la llàntia.
 
 
     L'Aladdin pensava que algú
@@ -8521,11 +8532,11 @@
 
     podia guanyar-se l'amor d'una
 
-    princesa, però la Jasmin li va ensenyar
+    princesa, però la Jasmin li va
 
-    que el que realment importa
+    ensenyar que el que realment
 
-    és el cor de les persones.
+    importa és el cor de les persones.
 
 
     Sempre va acompanyat del seu
@@ -8544,9 +8555,9 @@
 
     Cova de les Meravelles i des de
 
-    llavors ella sempre
+    llavors ella sempre està disposada
 
-    està disposada a ajudar-lo.
+    a ajudar-lo.
 
     Et pot transportar a través del
 
@@ -8557,64 +8568,64 @@
   text: Iago
 - id: 11669
   text: >-
-    Aquest lloro astut i bulliciós fa d'ulls i oïda
+    Aquest lloro astut i bulliciós
 
-    del Jafar,
+    fa d'ulls i oïda del Jafar,
 
     explicant-li tot el que passa
 
     a Agrabah.
 
 
-    A causa de les seves malifetes, el Iago
+    A causa de les seves malifetes, en
 
-    va acabar tancat a la llàntia
+    Iago va acabar tancat a la llàntia
 
-    juntament amb el seu amo. Ara que torna a ser lliure,
+    juntament amb el seu amo. Ara que
 
-    jura que ha canviat
+    torna a ser lliure, jura que ha
 
-    i que és un “nou lloro”.
+    canviat i que és un «nou lloro».
 
     Tot i que no hi confiaria gaire...
 - id: 11670
   text: Abu
 - id: 11671
   text: >-
-    L'Abu, el company fidel i pelut de l'
+    L'Abu, el company fidel i pelut
 
-    Aladdin, no parla gaire, però
+    de l'Aladdin, no parla gaire,
 
-    sempre sap què
+    però sempre sap què necessita
 
-    necessita el seu amic.
+    el seu amic.
 
 
     Malauradament, l'Abu no pot
 
-    resistir-se en veure un tresor,
+    resistir-se en veure un tresor, i no
 
-    i no li importa qui sigui el propietari.
+    li importa qui en sigui el propietari.
 - id: 11672
   text: Princesa Jasmin
 - id: 11673
   text: >-
     Ella és la princesa d'Agrabah i una
 
-    de les Set Princeses
+    de les Set Princeses necessàries
 
-    necessàries per obrir la porta al
+    per obrir la porta al Regne
 
-    Regne de la Foscor.
+    de la Foscor.
 
 
     La Jasmin va conèixer l'Aladdin quan
 
-    va fugir del palau a la recerca d'
+    va fugir del palau a la recerca
 
-    aventures. Està immensament agraïda
+    d' aventures. Està immensament
 
-    a l'Aladdin, el Sora i
+    agraïda a l'Aladdin, el Sora i
 
     els seus amics, ja que van salvar
 
@@ -8642,11 +8653,11 @@
 
     La llibertat és el seu
 
-    somni fet realitat. Ja no està a
+    somni fet realitat. Ja no
 
-    disposició d'un amo i
+    està a disposició d'un amo
 
-    gaudeix d'una vida
+    i gaudeix d'una vida
 
     sense preocupacions.
 - id: 11676
@@ -8655,9 +8666,9 @@
   text: >-
     Abans de convertir-se en un geni
 
-    del mal, el Jafar era el visir reial del
+    del mal, el Jafar era el visir
 
-    Sultà.
+    reial del Sultà.
 
 
     L'altra vegada que vam ser a
@@ -8666,15 +8677,15 @@
 
     per apoderar-se de la ciutat.
 
-    Va aconseguir controlar el Geni i va demanar
+    Va aconseguir controlar el Geni
 
-    convertir-se
+    va demanar convertir-se ell mateix
 
-    ell mateix en un poderós geni. L'Aladdin, el Sora i
+    en un poderós geni. L'Aladdin, en
 
-    els seus amics es van unir per
+    Sora i els seus amics es van unir
 
-    derrotar-lo i el van tancar
+    per derrotar-lo i el van tancar
 
     en la seva pròpia llàntia.
 - id: 11678
@@ -8683,26 +8694,26 @@
   text: >-
     Quan va aconseguir tenir la llàntia,
 
-    en Jafar va utilitzar el seu últim desig
+    en Jafar va utilitzar el seu últim
 
-    per convertir-se en un geni
+    desig per convertir-se en un geni
 
-    molt poderós. Més tard va
+    molt poderós. Més tard va acabar
 
-    acabar tancat a la llàntia, però
+    tancat a la llàntia, però al final
 
-    al final va aconseguir escapar gràcies
+    va aconseguir escapar gràcies
 
     al mercader.
 
 
-    Després va utilitzar els seus poders màgics
+    Després va utilitzar els seus poders
 
-    per convertir-se en un colós,
+    màgics per convertir-se en un colós,
 
-    i va intentar controlar Agrabah, però
+    i va intentar controlar Agrabah,
 
-    el Sora i els seus amics el
+    però el Sora i els seus amics el
 
     van derrotar de nou.
 - id: 11680
@@ -9016,11 +9027,11 @@
 
     tanmateix, no fa mal a ningú.
 
-    No obstant això, darrere d'aquesta aparença de
+    No obstant això, darrere d'aquesta
 
-    feliç indiferència, hi ha un
+    aparença de feliç indiferència, hi
 
-    cor sensible i generós.
+    ha un cor sensible i generós.
 - id: 11720
   text: Piglet
 - id: 11721
@@ -9056,9 +9067,9 @@
 
     L'Igor passa molt de temps caminant
 
-    pel Bosc dels Cent Acres
+    pel Bosc dels Cent Acres a la
 
-    a la recerca d'una nova llar, perquè
+    recerca d'una nova llar, perquè
 
     la seva casa de troncs s'enfonsa.
 - id: 11724
@@ -9073,11 +9084,13 @@
 
     que no pot respondre,
 
-    li pregunta al Mussol. Sempre està disposat a
+    li pregunta al Mussol. Sempre
 
-    ajudar, tot i que les seves respostes
+    està disposat a ajudar, tot i que
 
-    no sempre són les correctes!
+    les seves respostes no sempre
+
+    són les correctes!
 - id: 11726
   text: Cangu
 - id: 11727
@@ -9111,11 +9124,11 @@
   text: >-
     És expert en excavacions o,
 
-    més aviat, s'especialitza a excavar
+    més aviat, s'especialitza
 
-    túnels. Si vols trobar-lo,
+    a excavar túnels. Si vols
 
-    busca un turó
+    trobar-lo, busca un turó
 
     de terra fresca.
 - id: 11732
@@ -10172,14 +10185,14 @@
 
     La seva banyera errant els ajuda
 
-    a moure's per cometre
+    a moure's per cometre tota
 
-    tota classe d'entremaliadures.
+    classe d'entremaliadures.
 
 
-    A vegades ajuden a l'Home del Sac, tot i que
+    A vegades ajuden a l'Home del Sac,
 
-    no li són del tot fidels.
+    tot i que no li són del tot fidels.
 - id: 11850
   text: Poll
 - id: 11851
@@ -10188,9 +10201,9 @@
 
     La Poll és la més enginyosa dels
 
-    tres i té un munt
+    tres i té un munt d'idees per
 
-    d'idees per-la grossa.
+    fer-la grossa.
 
     Va començar a comportar-se millor
 
@@ -10224,13 +10237,11 @@
 
     estirat per rens voladors. Per
 
-    preparar el Nadal,
+    preparar el Nadal, depèn de la
 
-    depèn de la seva llista de nens i nenes
+    seva llista de nens i nenes que
 
-    que s'han portat bé durant
-
-    l'any.
+    s'han portat bé durant l'any.
 
 
     Sembla que el nostre amic Jack
@@ -10246,32 +10257,32 @@
   text: >-
     Un conjunt de rens a l'
 
-    estil de Halloween per al Jack, especialment
+    estil de Halloween per al Jack,
 
-    dissenyat pel
+    especialment dissenyat pel
 
     Dr. Finkelstein. Són ideals per
 
-    estirar del taüt que el Jack utilitza
+    estirar del taüt que el Jack
 
-    com a trineu per solcar el
+    utilitza com a trineu per solcar
 
-    cel nadalenc.
+    el cel nadalenc.
 - id: 11858
   text: Home del Sac
 - id: 11859
   text: >-
-    Un malvat sac de cuques
+    Un malvat sac de cuques que li
 
-    que li encanta apostar als daus i
+    encanta apostar als daus i desitja
 
-    dessitja malbaratar els plans del Jack
+    malbaratar els plans del Jack per a
 
-    per Halloween. El Sora i els seus amics
+    Halloween. El Sora i els seus amics
 
-    ja el van derrotar una vegada, però la
+    ja el van derrotar una vegada, però
 
-    Malèfica el va fer tornar com a
+    la Malèfica el va fer tornar com a
 
     part del seu macabre pla.
 - id: 11860
@@ -10285,11 +10296,11 @@
 
     A diferència de la Sally, no tenia
 
-    un cor, així que va intentar trobar
+    un cor, així que va intentar
 
-    -ne un en
+    trobar-ne un en l'amor
 
-    l'amor dels regals.
+    dels regals.
 - id: 11864
   text: Sora
 - id: 11865
@@ -10307,13 +10318,13 @@
     a les seves illes.
 
 
-    Quan va arribar a Port Royal, el Sora
+    Quan va arribar a Port Royal, en
 
-    no va poder dissimular el seu
+    Sora no va poder dissimular el seu
 
-    estupor davant d'un món tan
+    estupor davant d'un món tan diferent
 
-    diferent als altres que havia visitat.
+    als altres que havia visitat.
 - id: 11866
   text: Ànec Donald
 - id: 11867
@@ -10360,30 +10371,30 @@
   text: >-
     Un hàbil ferrer, especialista
 
-    en espases. De petit, el
+    en espases. De petit, el vaixell
 
-    vaixell en què viatjava va ser enfonsat
+    en què viatjava va ser enfonsat per
 
-    per pirates i ell va quedar a la deriva.
+    pirates i ell va quedar a la deriva.
 
-    Va ser llavors quan va
+    Va ser llavors quan va desaparèixer
 
-    desaparèixer el medalló pirata
+    el medalló pirata que el seu
 
-    que el seu pare li havia regalat. La
+    pare li havia regalat.
 
 
-    jove Elizabeth Swann anava
+    La jove Elizabeth Swann anava a bord
 
-    a bord del vaixell que va rescatar el Will,
+    del vaixell que va rescatar el Will,
 
-    i es van fer bons
+    i es van fer bons amics des de
 
-    amics des de llavors. Com que el pare de l'Elizabeth
+    llavors. Com que el pare de l'Elizabeth
 
-    és el governador de Port Royal, el Will
+    és el governador de Port Royal, en
 
-    és una mica tímid i molt
+    Will és una mica tímid i molt
 
     formal en el tracte amb ella.
 - id: 11874
@@ -10405,9 +10416,9 @@
     el medalló.
 
 
-    El Will és tímid i de tracte molt formal,
+    El Will és tímid i de tracte molt
 
-    a causa de la posició
+    formal, a causa de la posició
 
     del seu pare, però ella
 
@@ -10416,15 +10427,15 @@
   text: Capità Jack Sparrow
 - id: 11877
   text: >-
-    Un pirata que estima la vida a alta mar.
+    Un pirata que estima la vida a alta
 
-    És un personatge pintoresc, que
+    mar. És un personatge pintoresc, que
 
-    valora la seva llibertat per sobre de tot.
+    valora la seva llibertat per sobre de
 
-    Assegura ser capità, però no sembla
+    tot. Assegura ser capità, però no
 
-    tenir tripulació.
+    sembla tenir tripulació.
 
 
     El Jack va ser arrestat a Port Royal
@@ -10433,38 +10444,36 @@
 
     el va ajudar a escapar durant un atac
 
-    pirata. El Jack sembla que coneix alguna cosa
+    pirata. El Jack sembla que coneix alguna
 
-    important sobre el Will.
+    cosa important sobre el Will.
 
     Em pregunto què serà.
 - id: 11878
   text: Capità Barbossa
 - id: 11879
   text: >-
-    És el capità de la “Perla Negra” i
+    És el capità de la Perla Negra i
 
     el líder dels pirates zombis.
 
 
     La maledicció de l'or asteca
 
-    deixa el Barbossa i els seus homes en una
+    deixa el Barbossa i els seus homes en
 
-    mena de limbe entre la vida i
+    una mena de limbe entre la vida i
 
-    la mort. A la llum de la lluna, es revela la
+    la mort. A la llum de la lluna, es
 
-    seva forma veritable, i
+    revela la seva forma veritable, i
 
     és una visió terrorífica.
 
 
-    Ara, el capità Barbossa
+    Ara, el capità Barbossa s'ha unit
 
-    s'ha unit al Pete per buscar
-
-    no sé què...
+    al Pete per cercar no sé què...
 - id: 11880
   text: Sora
 - id: 11881
@@ -10478,7 +10487,7 @@
 
     Remenant l'ordinador de
 
-    l'Ansem, va activar una mena de
+    l'Ànsem, va activar una mena de
 
     dispositiu que va transportar
 
@@ -10496,7 +10505,7 @@
 
     En Donald va intentar utilitzar
 
-    l'ordinador de l'Ansem per trobar
+    l'ordinador de l'Ànsem per trobar
 
     el rei, però la seva impaciència va
 
@@ -10518,7 +10527,7 @@
 
     En Goofy va intentar utilitzar
 
-    l'ordinador de l'Ansem per trobar
+    l'ordinador de l'Ànsem per trobar
 
     el rei, però la seva impaciència va
 
@@ -10598,11 +10607,11 @@
     L'escollit per la clau espasa.
 
 
-    Juntament amb el Donald i el Goofy, ha
+    Juntament amb en Donald i en Goofy,
 
-    buscat incansablement la
+    ha buscat incansablement la Kairi
 
-    Kairi i el Riku. Al llarg del seu viatge,
+    i en Riku. Al llarg del seu viatge,
 
     ha conegut molta gent i ha
 
@@ -10619,31 +10628,29 @@
 
     Més enllà... trobarà la llum...
 
-    o alguna cosa diferent? El destí està en
+    o alguna cosa diferent? El destí
 
-    mans del Sora.
+    és en mans del Sora.
 - id: 11902
   text: Ànec Donald
 - id: 11903
   text: >-
     És el Mag de la Cort.
 
-    Durant el seu llarg viatge, el Donald,
+    Durant el seu llarg viatge, en
 
-    el Goofy i el Sora han fet
+    Donald, en Goofy i en Sora han
 
-    un munt d'amics.
+    fet un munt d'amics.
 
 
     La lleialtat del Donald vers el rei
 
     i la seva amistat amb el Sora mantenen
 
-    l'optimisme del grup
+    l'optimisme del grup ara que s'acosta
 
-    ara que s'acosta la batalla més gran
-
-    de totes.
+    la batalla més gran de totes.
 - id: 11904
   text: Goofy
 - id: 11905
@@ -10674,12 +10681,12 @@
 
     El Xemnas és l'incorpori del
 
-    Xehanort, un aprenent de l'Ansem.
+    Xehanort, un aprenent de l'Ànsem.
 
 
-    Estava utilitzant el Sora i la seva clau
+    Estava utilitzant el Sora i la seva
 
-    espasa per reunir els cors
+    clau espasa per reunir els cors
 
     alliberats dels sensecor i
 
@@ -10693,14 +10700,14 @@
 
     Una vegada li va dir al Sora que li
 
-    recordava a una altra persona. Les seves
+    recordava a una altra persona. Les
 
-    paraules foren desconcertants.
+    seves paraules foren desconcertants.
 
 
-    Alguna cosa semblava fer-lo gaudir de la
+    Alguna cosa semblava fer-lo gaudir
 
-    reacció del Sora.
+    de la reacció d'en Sora.
 - id: 11912
   text: Vexen
 - id: 11913
@@ -10708,20 +10715,20 @@
     El núm. {VII} de l'Organització {XIII}.
 
 
-    El Saïx perseguia implacablement el rebel Axel,
+    El Saïx perseguia implacablement el
 
-    i va ser ell qui va
+    rebel Axel, i va ser ell qui va
 
-    atrapar la Kairi i la va tancar en una masmorra
+    atrapar la Kairi i la va tancar en
 
-    del castell, quan ella
+    una masmorra del castell, quan ella
 
     aconseguí escapar de l'Axel.
 
 
-    Si el Saïx veu que pot
+    Si el Saïx veu que pot utilitzar
 
-    utilitzar alguna cosa en el seu benefici, ho farà sense
+    re en el seu benefici, ho farà sense
 
     pensar-s'ho dues vegades.
 - id: 11918
@@ -10735,20 +10742,20 @@
 
     rebel Axel. Va ser ell qui va
 
-    atrapar la Kairi i la va tancar en una masmorra
+    atrapar la Kairi i la va tancar en
 
-    del castell, quan ella
+    una masmorra del castell, quan ella
 
     aconseguí escapar de l'Axel.
 
 
-    Si el Saïx veu que pot
+    Si el Saïx veu que pot utilitzar
 
-    utilitzar alguna cosa en el seu benefici, ho farà sense
+    res en el seu benefici, ho farà sense
 
     pensar-s'ho dues vegades.
 - id: 11924
-  text: Luxord
+  text: Lúxord
 - id: 11925
   text: >-
     El núm. {X} de l'Organització {XIII}.
@@ -10758,22 +10765,22 @@
     el temps.
 
 
-    Després de sorprendre a Sora i
+    Després de sorprendre a Sora i als
 
-    als seus amics amb les seves astutes paraules
+    seus amics amb les seves astutes
 
-    , Luxord va tenir el plaer de
+    paraules, en Lúxord va tenir el
 
-    lluitar contra ells en un joc
+    plaer de lluitar contra ells en
 
-    estrany.
+    un joc estrany.
 
 
-    A Port Royal, Luxord va utilitzar els
+    A Port Royal, en Lúxord va
 
-    sensecor i les peces d'or
+    utilitzar els sensecor i les peces
 
-    maleït per experimentar en
+    d'or maleït per experimentar en
 
     benefici de l'Organització
 
@@ -10789,22 +10796,20 @@
     resident de la foscor.
 
 
-    Va esvair-se
+    Va esvair-se apuntant un somriure de
 
-    apuntant un somriure de satisfacció després
+    satisfacció després d'enfrontar-se al
 
-    d'enfrontar-se al Sora. Però sembla
+    Sora. Però sembla que en Sora fou
 
-    que en Sora fou l'únic que el va poder veure.
+    l'únic que va poder veure'l.
 - id: 11932
   text: Soldat
 - id: 11933
   text: >-
-    Llança atacs a tort i
+    Llença atacs a tort i a dret.
 
-    a dret. Cal anar amb compte
-
-    amb ell!
+    Cal anar-hi amb compte
 
 
     Contraataca amb un cop de peu.
@@ -10852,20 +10857,20 @@
   text: Roca platejada
 - id: 11939
   text: >
-    Es converteix ràpidament en
+    Es converteix ràpidament en una
 
-    una bola de llum i explota tan aviat com
+    bola de llum i explota tan aviat
 
-    torna a aparèixer. Utilitza les
+    com torna a aparèixer. Utilitza
 
-    ordres de reacció quan
+    ordres de reacció quan es
 
-    es converteixi en la bola de llum.
+    converteixi en la bola de llum.
 
 
-    Té una gran resistència a la
+    Té una gran resistència a la màgia, de
 
-    màgia, de manera que fes servir la clau espasa!
+    manera que fes servir la clau espasa!
 - id: 11940
   text: Blues esmaragda
 - id: 11941
@@ -12174,27 +12179,27 @@
 
     els sentiments de l'Hèrcules per la Meg
 
-    el van fer recuperar les seves forces. Tots vam
+    el van fer recuperar les seves forces.
 
-    col・laborar per acabar amb l'Hades d'
+    Tots vam col・laborar per acabar amb
 
-    una vegada per totes, i la nostra valentia
+    l'Hades d'una vegada per totes, i la
 
-    va ser recompensada amb una constel・lació
+    nostra valentia va ser recompensada
 
-    que brillarà al cel nocturn
+    amb una constel・lació que brillarà
 
-    per sempre.
+    al cel nocturn per sempre.
 
 - id: 13150
   text: >+
     La porta estava connectada amb el passat.
 
-    La Malèfica i en Pete tenien la intenció de canviar el
+    La Malèfica i en Pete tenien la intenció
 
-    passat i apoderar-se del castell, però
+    de canviar el passat i apoderar-se del
 
-    vam frustrar el seu pla malvat.
+    castell, però vam frustrar el seu pla malvat.
 
     La pau va tornar a regnar al Castell de
 
@@ -12202,15 +12207,15 @@
 
 - id: 13151
   text: >+
-    El pla va ser tot un èxit! Vam enxampar el
+    El pla va ser tot un èxit! Vam
 
-    lladre in fraganti...
+    enxampar el lladre in fraganti...
 
     Resulta que era l'experiment del
 
-    Doctor! Volia un cor per a ell, i
+    Doctor! Volia un cor per a ell,
 
-    per això en cercava entre els
+    i per això en cercava entre els
 
     regals. Amb els primers flocs de neu,
 
@@ -12232,11 +12237,13 @@
 
 - id: 13157
   text: >+
-    En Sora, finalment, va trobar la Kairi. Vam derrotar el membre de
+    En Sora, finalment, va trobar la Kairi.
 
-    l'Organització {XIII} que ens va atacar,
+    Vam derrotar el membre de l'Organització {XIII}
 
-    però els sensecor van envoltar la Kairi.
+    que ens va atacar, però els sensecor
+
+    van envoltar la Kairi.
 
 - id: 13158
   text: >+
@@ -12256,9 +12263,9 @@
 
 - id: 13161
   text: >+
-    La màquina de l'Ansem ha explotat, però no ha fet
+    La màquina de l'Ànsem ha explotat, però no
 
-    esvair per complet el Kingdom Hearts.
+    ha fet esvair per complet el Kingdom Hearts.
 
     Ara, en Xemnas ha de pagar per les seves maldats.
 
@@ -12287,7 +12294,7 @@
 
     derrotat en Riku... però només en Sora podia veure'l!
 
-    ‛Digues-m'ho... «Digues-me per què t'hi ha triat, a tu»,
+    «Digue-m'ho... «Digue'm per què t'hi ha triat, a tu»,
 
     va dir, i va desaparèixer tremendament
 
@@ -12328,9 +12335,9 @@
 
     va rescatar en Sora. Va rebre l'ajuda del
 
-    fals Ansem: en Xehanort, aprenent de
+    fals Ànsem: en Xehanort, aprenent de
 
-    l'Ansem el Savi. En Sora
+    l'Ànsem el Savi. En Sora
 
     no entenia res i, per rematar, en Xigbar, un altre membre
 
@@ -12354,7 +12361,7 @@
 
     baralla, va revelar al rei la seva veritable
 
-    identitat. Era el veritable Ansem
+    identitat. Era el veritable Ànsem
 
     el Savi; i l'incorpori d'en Xehanort, el
 
@@ -12364,7 +12371,7 @@
 
     el sensecor d'en Xehanort,
 
-    que se'n feia dir «Ansem, el
+    que se'n feia dir «Ànsem, el
 
     cercador de la foscor». Malgrat tot,
 
@@ -12394,7 +12401,7 @@
 
 - id: 13168
   text: >+
-    Després de desfer-nos d'en Luxord i en Saïx,
+    Després de desfer-nos d'en Lúxord i en Saïx,
 
     vam descobrir la veritat sobre en Roxas
 
@@ -12416,7 +12423,7 @@
 
     propi cor. Mentrestant, el rei i
 
-    l'Ansem el Savi van intentar utilitzar un
+    l'Ànsem el Savi van intentar utilitzar un
 
     artefacte per aturar el Kingdom Hearts,
 
@@ -12426,7 +12433,7 @@
 
     poder dels cors acumulats...
 
-     Finalment, l'Ansem va entendre la
+     Finalment, l'Ànsem va entendre la
 
     veritable naturalesa del cor
 
@@ -12540,7 +12547,7 @@
   text: >-
     Un programa de seguretat
 
-    millorat i actualitzat per l'Ansem
+    millorat i actualitzat per l'Ànsem
 
     el Savi, que també va reprogramar
 
@@ -12553,7 +12560,7 @@
     control als usuaris.
 
 
-    Només l'Ansem sap per què aquests dos
+    Només l'Ànsem sap per què aquests dos
 
     programes es comporten de manera
 
@@ -12707,11 +12714,11 @@
 
     El meu estudi de la «foscor del cor»
 
-    va començar com una simple prova psicològica
+    va començar com una simple prova
 
-    i ràpidament va esdevenir un problema
+    psicològica i ràpidament va esdevenir
 
-    cada cop més gros.
+    un problema cada cop més gros.
 
 
     Encoratjat pel més jove dels meus alumnes,
@@ -12723,9 +12730,9 @@
 
     Sense adonar-me'n, els meus sis aprenents
 
-    havien començat a reunir un gran nombre de
+    havien començat a reunir un gran nombre
 
-    subjectes per dur a terme experiments
+    de subjectes per dur a terme experiments
 
     perillosos sobre la «foscor del cor».
 
@@ -12825,19 +12832,19 @@
 
     vaig trobar els registres dels seus odiosos
 
-    experiments, juntament amb les seves hipòtesis
+    experiments, juntament amb les seves
 
-    sobre una porta que havia sorgit
+    hipòtesis sobre una porta que havia
 
-    a la foscor del meu soterrani.
+    sorgit a la foscor del meu soterrani.
 
 
     Tot el que viu té un cor, i tots
 
-    els cors en tenen una part fosca al fons. Els
+    els cors en tenen una part fosca al fons.
 
 
-    mons no en són una excepció. Si un
+    Els mons no en són una excepció. Si un
 
     món és un ésser, el cor que conté ha de
 
@@ -12849,9 +12856,11 @@
     interior ha de ser monstruosa.
 
 
-    Haurà en Xehanort traspassat la porta en un intent 
+    Haurà en Xehanort traspassat la porta en
 
-    d'entrar en contacte amb el regne de la foscor?
+    un intent  d'entrar en contacte amb el
+
+    regne de la foscor?
 
 
     Temo que sí. I no només en Xehanort.
@@ -12866,15 +12875,15 @@
     hi van quedar atrapats.
 
 
-    L'Even, l'Ienzo, en Braig, en Dilan, l'Aeleus...
+    L'Even, l'Ienzo, en Braig, en Dilan, l'Aèleus...
 
 
     Tothom ha deixat de ser humà.
 
 
-    A mi també se'm va arrabassar
+    A mi també se'm va arrabassar tot el que
 
-    tot el que posseïa, desterrat a un regne balmat
+    posseïa, desterrat a un regne balmat
 
     del no-res.
 
@@ -12887,14 +12896,16 @@
     S'esvairà també l'alegria del meu poble?
 
 
-    Si la llum de l'esperança s'ha extingit, a
+    Si la llum de l'esperança s'ha extingit,
 
-    partir d'ara caminaré amb
+    a partir d'ara caminaré amb la foscor
 
-    la foscor com a companya.
+    com a companya.
 
 
-    Aquí, en aquest regne balmat al qual he estat relegat.
+    Aquí, en aquest regne balmat al qual he
+
+    estat relegat.
 
 
     Aquí, en aquesta foscor, enmig del no-res.
@@ -12903,15 +12914,15 @@
     «La foscor nul・la».
 
 
-    El nom «Ansem» ja no em pertany.
+    El nom «Ànsem» ja no em pertany.
 
 
     A partir d'ara, se'm coneixerà com a DiZ.
 
 
-    I res no m'aturarà fins que no aconsegueixi la meva
+    I res no m'aturarà fins que no aconsegueixi
 
-    venjança.
+    la meva venjança.
 - id: 14057
   text: Informe Ànsem 4
 - id: 14058
@@ -13035,9 +13046,9 @@
 
     s'ha desintegrat, he aconseguit preservar
 
-    el meu sentit d'identitat a través
+    el meu sentit d'identitat a través del
 
-    del pensament i l'escriptura.
+    pensament i l'escriptura.
 
 
     En aquest lloc, fins i tot el temps ha
@@ -13364,9 +13375,9 @@
 
     Pel que sembla, m'he deixat portar pel
 
-    comportament d'en Xehanort i
+    comportament d'en Xehanort i els seus
 
-    els seus seguidors, i pels esdeveniments que
+    seguidors, i pels esdeveniments que
 
     ocorren al seu voltant.
 
@@ -13382,38 +13393,40 @@
     Cercador de la Foscor, ha estat derrotat.
 
 
-    L'altre portador de la clau espasa, aquell
+    L'altre portador de la clau espasa,
 
-    «heroi», va viatjar de món en món
+    aquell «heroi», va viatjar de món en
 
-    segellant els panys i lluitant contra
+    món segellant els panys i lluitant
 
-    els sensecor.
+    contra els sensecor.
 
 
     Mentrestant, el rei s'havia aventurat 
 
-    al Regne de la Foscor i havia intentat, juntament amb l' 
+    al Regne de la Foscor i havia intentat,
 
-    escollit de la clau espasa, tancar la porta
+    juntament amb l'  escollit de la clau
 
-    del Kingdom Hearts. Així planejava posar fi
+    espasa, tancar la porta del Kingdom Hearts.
 
-    a l'amenaça d'una tremenda foscor.
+    Així planejava posar fi a l'amenaça d'una
+
+    tremenda foscor.
 
 
-    Però encara hi ha un gran nombre de persones
+    Però encara hi ha un gran nombre de
 
-    sensecor, i l'Organització {XIII} i
+    persones sensecor, i l'Organització {XIII}
 
-    els sensecor continuen a l'aguait des
+    i els sensecor continuen a l'aguait des
 
     de les ombres.
 
 
-    La veritat és que el món
+    La veritat és que el món segueix
 
-    segueix sent un lloc molt perillós.
+    sent un lloc molt perillós.
 
 
     Hem de trobar la manera de
@@ -13426,9 +13439,9 @@
     i aconseguir la meva venjança.
 
 
-    Aquests són els motius que em van dur a
+    Aquests són els motius que em van dur
 
-    infiltrar-me al Castell de l'Oblit.
+    a infiltrar-me al Castell de l'Oblit.
 
 
     El castell consta de tretze plantes i dotze
@@ -13439,9 +13452,9 @@
 
     records dels seus visitants.
 
-    Allà, l'Organització {XIII} estava
+    L'Organització {XIII} hi estava duent a
 
-    duent a terme experiments sobre la memòria.
+    terme experiments sobre la memòria.
 
 
     L'objecte d'aquestes investigacions, una
@@ -13460,16 +13473,16 @@
 
     {XIII}, així que vaig tornar a la meva pròpia
 
-    investigació secreta, però avui ha aparegut un nou
+    investigació secreta, però avui ha aparegut
 
-    visitant al castell.
+    un nou visitant al castell.
 
 
     És en Sora, l'escollit de la clau espasa.
 
-    Ha arribat amb els seus companys després d'haver
+    Ha arribat amb els seus companys després
 
-    derrotat l'Ansem.
+    d'haver derrotat l'Ànsem.
 
 
     Des de les profunditats subterrànies,
@@ -13490,19 +13503,19 @@
     de la clau espasa.
 
 
-    El Sora i els seus amics van desafiar l'amenaça
+    El Sora i la colla van desafiar l'amenaça de
 
-    de l'Organització {XIII} i van rescatar la Naminé.
-
-
-    La Naminé era una bruixa que controlava els
-
-    records dels altres.
+    l'Organització {XIII} i van rescatar la Naminé.
 
 
-    És molt probable que hagi obtingut aquests
+    La Naminé era una bruixa que controlava
 
-    poders per algun procés especial
+    els records dels altres.
+
+
+    És molt probable que hagi obtingut
+
+    aquests poders per algun procés especial
 
     que es va produir durant el seu naixement.
 
@@ -13522,9 +13535,9 @@
     «jove» era una princesa.
 
 
-    La Kairi, habitant de Veger Radiant,
+    La Kairi, habitant de Veger Radiant, la
 
-    la ciutat que jo governava, era una de les
+    ciutat que jo governava, era una de les
 
     Set Princeses que conserven el Regne
 
@@ -13535,16 +13548,16 @@
 
     no va produir un sensecor, i en lloc 
 
-    d'esvair-se, el seu cos va romandre en el
+    d'esvair-se, el seu cos va romandre
 
-    Regne de la Llum.
+    en el Regne de la Llum.
 
 
     En altres paraules, l'incorpori anomenat
 
-    Naminé i el sensecor, prova d'un
+    Naminé i el sensecor, prova d'un cor
 
-    cor perdut, són éssers extremadament
+    perdut, són éssers extremadament
 
     inestables que no tenen el cos necessari
 
@@ -13552,33 +13565,33 @@
 
     tampoc posseeixen els records de la Kairi. 
 
-    Una possible explicació és que,
+    Una possible explicació és que, quan
 
-    quan es va separar del seu cos, el cor
+    es va separar del seu cos, el cor de la
 
-    de la Kairi no va tornar a la foscor, sinó que va
+    Kairi no va tornar a la foscor, sinó
 
-    emigrar a un altre receptacle... al fons del
+    que va emigrar a un altre receptacle...
 
-    cor d'en Sora.
+    al fons del cor d'en Sora.
 
 
-    La Naminé és llavors un alter ego de la
+    La Naminé és llavors un alter ego de
 
-    Kairi que va afectar profundament
+    la Kairi que va afectar profundament
 
     el cor de Sora. Podria ser per això que
 
-    els records de Sora es podien controlar
+    els records de Sora es podien controlar,
 
-    , com els d'aquells que tenen el
+    com els d'aquells que tenen el cor
 
-    cor connectat amb el seu?
+    connectat amb el seu?
 
 
-    Ella és un «no ser» en el sentit literal
+    Ella és un «no ser» en el sentit literal de
 
-    de la paraula; sense haver-se convertit en un
+    la paraula; sense haver-se convertit en un
 
     veritable incorpori i no tenir enlloc on anar,
 
@@ -13616,7 +13629,7 @@
     pogués vigilar-lo.
 
 
-    Naminé.
+    La Naminé.
 
 
     Com ja he dit, és un ésser molt insòlit.
@@ -13751,11 +13764,11 @@
     la meva venjança.
 
 
-    M'encantaria xerrar amb ell,
+    M'encantaria xerrar-hi, com als vells
 
-    com als vells temps... Però ara allò només
+    temps... Però ara allò només és un
 
-    és un somni inútil.
+    somni inútil.
 
 
     El meu amic ha estat lluitant al Regne
@@ -13765,57 +13778,57 @@
     arribar a través de Ciutat de Pas.
 
 
-    Igual que el Castell de l'Oblit, aquest lloc
+    Igual que el Castell de l'Oblit, aquest
 
-    es troba a l'abisme entre la
+    lloc es troba a l'abisme entre la llum
 
-    llum i la foscor. Està fet de restes de
+    i la foscor. Està fet de restes de mons
 
-    mons els cors dels quals han caigut en 
+    els cors dels quals han caigut en 
 
     mans dels sensecor.
 
 
-    Eventualment, aquells que van escapar de
+    Eventualment, aquells que van escapar
 
-    la destrucció dels seus mons
+    de la destrucció dels seus mons
 
     s'hi van reunir.
 
 
-    Aquest «interstici» és molt inestable i de
+    Aquest «interstici» és molt inestable
 
-    tant en tant els passatges de
+    i de tant en tant els passatges de
 
     la foscor arriben fins aquí.
 
 
-    Quan un món desapareix, alguns dels seus
+    Quan un món desapareix, alguns dels
 
-    habitants poden arribar fins aquí a través d'
+    seus habitants poden arribar fins aquí
 
-    aquests passadissos.
-
-
-    Segurament en Sora va travessar algun d'aquests
-
-    passatges de la foscor quan va arribar per
-
-    primera vegada a Ciutat de Pas.
+    a través d'aquests passadissos.
 
 
-    Sembla que el meu amic, que lluitava al Regne
+    Segurament en Sora va travessar algun
 
-    de la Foscor, va aparèixer al Castell de
+    d'aquests passatges de la foscor quan
 
-    l'Oblit a través d'un passatge de la foscor
-
-    construït per l'Organització {XIII}.
+    va arribar per primer cop a Ciutat de Pas.
 
 
-    El meu nou aliat, en Riku, també va tornar per
+    Sembla que el meu amic, que lluitava al
 
-    un d'aquests passatges.
+    Regne de la Foscor, va aparèixer al
+
+    Castell de l'Oblit a través d'un passatge
+
+    de la foscor construït per l'Organització {XIII}.
+
+
+    El meu nou aliat, en Riku, també va
+
+    tornar per un d'aquests passatges.
 
 
     Em va jurar que faria qualsevol cosa per
@@ -13828,17 +13841,19 @@
     trigat a tornar.
 
 
-    I vaig haver de demanar a en Riku que em portés
+    I vaig haver de demanar a en Riku que em
 
-    un altre Sora: el seu incorpori.
-
-
-    En Sora és indispensable per a les meves pretensions.
+    portés un altre Sora: el seu incorpori.
 
 
-    Necessito que l'escollit la clau
+    En Sora és indispensable per a les meves
 
-    espasa vagi pel Regne de la Llum i derroti
+    pretensions.
+
+
+    Necessito que l'escollit la clau espasa
+
+    vagi pel Regne de la Llum i derroti
 
     l'Organització {XIII}.
 - id: 14256
@@ -13846,18 +13861,18 @@
 - id: 14257
   text: >2
 
-    Així com fa la Naminé, els incorporis també poden
+    Així com fa la Naminé, els incorporis també
 
-    retenir records de la seva vida com a
+    poden retenir records de la seva vida com
 
-    humans. Però en Roxas, l'incorpori d'en
+    a humans. Però en Roxas, l'incorpori d'en
 
     Sora, ha perdut la memòria.
 
 
-    Això probablement es deu al fet que en Sora fou
+    Això probablement es deu al fet que en
 
-    un sensecor durant molt poc temps.
+    Sora fou un sensecor durant molt poc temps.
 
     En Sora va recuperar el cor i la forma
 
@@ -13866,27 +13881,29 @@
     néixer el seu incorpori.
 
 
-    Sembla que en Roxas és molt semblant a la Naminé. La
+    Sembla que en Roxas és molt semblant a la
 
-    Naminé és l'incorpori de la Kairi, però va cobrar
+    Naminé. Ella és l'incorpori de la Kairi,
 
-    vida a través del cos i l'ànima d'en Sora.
+    però va cobrar vida a través del cos i
 
-
-    De la mateixa manera, en Roxas és l'incorpori d'en
-
-    Sora. Un d'excepcional, ja que per recuperar la
-
-    forma humana, el sensecor d'en Sora
-
-    va utilitzar el cor de la Kairi en lloc del seu. Els records d'en Sora
+    l'ànima d'en Sora.
 
 
-    poden trigar a
+    De la mateixa manera, en Roxas és l'incorpori
 
-    recuperar-se, perquè en manca una meitat
+    d'en Sora. Un d'excepcional, ja que per
 
-    d'ell, és a dir, en Roxas.
+    recuperar la forma humana, el sensecor d'en Sora
+
+    va utilitzar el cor de la Kairi en lloc del seu.
+
+
+    Els records d'en Sora poden trigar a
+
+    recuperar-se, perquè li'n manca una
+
+    meitat és a dir, en Roxas.
 
 
     He de convertir en Roxas en dades i
@@ -13894,46 +13911,46 @@
     tornar-lo a en Sora.
 
 
-    Com que era membre de l'Organització {XIII}, va
+    Com que era membre de l'Organització {XIII},
 
-    ser extremadament difícil aconseguir que en Roxas
+    va ser extremadament difícil aconseguir
 
-    cooperés. En Roxas va derrotar el meu aliat una vegada.
+    que en Roxas cooperés. Ell va derrotar
 
-    Però a la seva segona batalla, en Riku va arriscar
+    el meu aliat una vegada. Però a la seva
 
-    la seva vida, amb l'ús del poder de la foscor i va aconseguir
+    segona batalla, en Riku va arriscar-hi
+    
+    la vida, amb l'ús del poder de la foscor
 
-    tornar-ne amb en Roxas.
+    i va aconseguir tornar-ne amb en Roxas.
 
 
     Però l'Organització {XIII} és una amenaça
 
-    creixent. Aquí, a Vila
+    creixent. Aquí, a Vila Crepuscle, és on
 
-    Crepuscle, és on en Roxas va renéixer com a
-
-    incorpori. 
+    en Roxas va renéixer com a incorpori. 
 
 
-    Aquí és on en Roxas va topar per
+    Aquí és on en Roxas va topar per primer
 
-    primera vegada amb l'Organització {XIII} i on
+    cop amb l'Organització {XIII} i on s'hi 
 
-    s'hi allistà. Sé que registraran aquest lloc.
+    allistà. Sé que registraran aquest lloc.
 
 
     Primer he de convertir tot Vila Crepuscle
 
-    en dades i construir una «rèplica del món»
+    en dades i construir-ne una «rèplica» a
 
-    a la memòria d'en Sora.
+    la memòria d'en Sora.
 
     He de deixar en Roxas en aquell món
 
-    perquè pugui passar la resta dels seus dies allà i
+    perquè pugui hi passar la resta dels
 
-    recuperar aquells records.
+    seus dies i recuperar aquells records.
 
 
     Queda poc temps.
@@ -13950,9 +13967,9 @@
     En Sora es despertarà demà.
 
 
-    La meva llarga i implacable venjança està
+    La meva llarga i implacable venjança
 
-    arribant a la seva fi.
+    està arribant a la seva fi.
 
 
     En Xehanort, qui em desposseí de tot, ja
@@ -13974,9 +13991,9 @@
 
     Però el seu incorpori gairebé ha
 
-    acabat de reunir cors humans perquè el Kingdom Hearts
+    acabat de reunir cors humans perquè
 
-    els assimili.
+    el Kingdom Hearts els assimili.
 
 
     Maleït neci!
@@ -13985,18 +14002,18 @@
     Només queda un misteri per desvelar.
 
 
-    Com va aconseguir en Xehanort obrir
+    Com va aconseguir en Xehanort obrir la
 
-    la porta que va aparèixer al soterrani del meu
+    porta que va aparèixer al soterrani
 
-    castell?
+    del meu castell?
 
 
-    No... Ara que tot acabarà aviat
+    No... Ara que tot acabarà aviat,
 
-    , no tindria sentit
+    no tindria sentit aventurar-se
 
-    aventurar-se en teories.
+    en teories.
 
 
     En Roxas, l'Ànsem, la Naminé...
@@ -14022,46 +14039,46 @@
     Ah, sí. En Riku.
 
 
-    Tot i que el seu cor tenia les seves debilitats,
+    Tot i que el seu cor tenia les seves
 
-    que el feien propens a la foscor,
+    debilitats, que el feien propens a la foscor,
 
     va saber trobar suport en l'esperança que
 
     descobrí més enllà del sofriment.
 
 
-    Aquesta esperança va permetre'l mantenir-se ferm,
+    Aquesta esperança va permetre'l
 
-    i la foscor del seu cor va passar de
+    mantenir-se ferm, i la foscor del
 
-    ser un enemic a convertir-se en la seva millor arma.
+    seu cor va passar de ser un enemic a
+
+    convertir-se en la seva millor arma.
 
 
-    Quan tot això hagi acabat, el meu
+    Quan tot això hagi acabat, el meu desig
 
-    desig més volgut és que ell i en Sora puguin tornar
+    més volgut és que ell i en Sora puguin
 
-    junts a la seva illa.
+    tornar junts a la seva illa.
 
 
     Si pogués, m'agradaria tornar a Verger
 
     Radiant, i tornar a contemplar un cop més
 
-    la puresa de l'aigua, les
+    la puresa de l'aigua, les formoses flors,
 
-    formoses flors, els somriures esperançadors de la gent.
+    els somriures esperançadors de la gent.
 
 
     Estimat rei, amic meu!
 
 
-    Tinc la sensació que, tard
+    Tinc la sensació que, tard o d'hora,
 
-    o d'hora, trobaràs aquests
-
-    veraços informes meus.
+    trobaràs aquests veraços informes meus.
 
 
     Tant de bo pogués haver tornat a
@@ -14069,9 +14086,9 @@
     conversar amb tu!
 
 
-    Quina ximpleria la meva obsessió per
+    Quina ximpleria la meva obsessió per la
 
-    la venjança de la manera que ho vaig fer!
+    venjança de la manera que ho vaig fer!
 
 
     Espero que sàpigues perdonar-me.
@@ -14247,9 +14264,9 @@
   text: Ànsem el Savi
 - id: 14769
   text: >-
-    Qui es feia anomenar
+    Qui es feia anomenar «DiZ»
 
-    «DiZ» i amagava el rostre amb
+    i amagava el rostre amb
 
     benes, va resultar ser
 
@@ -14258,32 +14275,32 @@
 
     El veritable Ànsem va iniciar
 
-    estudis sobre
+    estudis sobre els cors i els
 
-    els cors i els sensecor. Els va deixar per
+    sensecor. Els va deixar per por
 
-    por que poguessin afectar
+    que poguessin afectar l'ordre
 
-    l'ordre dels mons.
+    dels mons.
 
-    En Xehanort, el seu aprenent, el va
+    En Xehanort, el seu aprenent,
 
-    trair, en robar-li els seus
+    el va trair, en robar-li els
 
-    estudis i el seu orgull.
+    seus estudis i el seu orgull.
 
 
     Des de llavors, l'Ànsem fruïa de
 
-    desig de venjança. Quan
+    desig de venjança. Quan va veure que
 
-    va veure que en Riku havia sacrificat el seu
+    en Riku havia sacrificat el seu
 
-    cos per ajudar el seu amic
+    cos per ajudar el seu amic Sora,
 
-    Sora, es va emocionar i el seu
+    es va emocionar i el seu cor
 
-    cor va canviar...
+    va canviar...
 - id: 14773
   text: Riku
 - id: 14774
@@ -14299,20 +14316,20 @@
     la seva aparença.
 
 
-    No obstant això, en el moment en què el codificador del Kingdom Hearts
+    No obstant això, en el moment en què
 
-    de l'Ànsem real va explotar,
+    el codificador del Kingdom Hearts de
 
-    en Riku va recuperar la seva
+    l'Ànsem real va explotar, en Riku va
 
-    forma original.
+    recuperar la seva forma original.
 
 
-    Es podria dir que fou un
+    Es podria dir que fou un miracle
 
-    miracle obrat per un cor indomable
+    obrat per un cor indomable que ni tan
 
-    que ni tan sols la foscor va poder doblegar.
+    sols la foscor va poder doblegar.
 - id: 14775
   text: Xemnas
 - id: 14776
@@ -14409,7 +14426,7 @@
 
     Coliseu de l'Olimp.
 - id: 14783
-  text: Luxord
+  text: Lúxord
 - id: 14784
   text: >-
     El núm. {X} de l'Organització {XIII}.
@@ -14423,14 +14440,14 @@
 
     seus amics amb les seves astutes
 
-    paraules , en Luxord va tenir el
+    paraules , en Lúxord va tenir el
 
     plaer de lluitar contra ells en
 
     un joc estrany.
 
 
-    A Port Royal, en Luxord va utilitzar
+    A Port Royal, en Lúxord va utilitzar
 
     els sensecor i les peces d'or
 
@@ -14467,35 +14484,37 @@
 
     «DiZ» i amagava el rostre amb
 
-    benes, va resultar ser 
+    benes, va resultar ser l'Ànsem
 
-    l'Ànsem el Savi.
-
-
-    L'Ànsem real va iniciar
-
-    estudis sobre els cors i
-
-    els sensecor, però els va deixar per
-
-    por que això pogués afectar
-
-    l'ordre dels mons. 
-
-    No obstant això, en Xehanort, el seu aprenent, el va
-
-    trair, i li va robar els seus estudis i,
-
-    amb ells, el seu orgull.
+    el Savi.
 
 
-    Des de llavors, l'Ànsem fruïa de
+    L'Ànsem real va iniciar estudis
 
-    desig de venjança. L'exemple
+    sobre els cors i els sensecor,
 
-    d'en Riku, que havia sacrificat el seu
+    però els va deixar per por que
 
-    cos per ajudar el seu amic
+    això pogués afectar l'ordre
+
+    dels mons. 
+
+    No obstant això, en Xehanort,
+
+    el seu aprenent, el va trair, i
+
+    li va robar els estudis i, amb
+
+    ells, el seu orgull.
+
+
+    Des de llavors, l'Ànsem fruïa
+
+    de desig de venjança. L'exemple
+
+    d'en Riku, que havia sacrificat
+
+    el seu cos per ajudar el seu amic
 
     Sora, el va emocionar i el seu
 
@@ -14592,7 +14611,7 @@
 
     les seves entremaliadures.
 - id: 17250
-  text: Luxord
+  text: Lúxord
 - id: 17251
   text: >-
     El núm. {X} de l'organització {XIII}
@@ -14604,7 +14623,7 @@
     i els seus amics.
 
 
-    En Luxord utilitzava l'or
+    En Lúxord utilitzava l'or
 
     maleït per dur a terme experiments
 
@@ -14640,19 +14659,19 @@
   text: >+
     La Kairi va arribar a Vila Crepuscle en
 
-    busca d'en Sora, però l'Axel la va segrestar. Mentre en
+    busca d'en Sora, però l'Axel la va segrestar.
 
-    Sora cridava «He d'ajudar la Kairi!», el
+    Mentre en Sora cridava «He d'ajudar la Kairi!»,
 
-    cristall del trofeu d'en Seifer va començar a
+    el cristall del trofeu d'en Seifer va començar
 
-    brillar i es va obrir un nou camí.
+    a brillar i es va obrir un nou camí.
 
-    Sens dubte, el camí
+    Sens dubte, el camí conduïa a la Kairi i
 
-    conduïa a la Kairi i en Riku... i convençuts d'això,
+    en Riku... i convençuts d'això, en Sora
 
-    en Sora i companyia es van posar en marxa.
+    i companyia es van posar en marxa.
 
 - id: 17292
   text: >+
@@ -14662,17 +14681,17 @@
 
 - id: 17293
   text: >+
-    En Sora i els seus amics van entrar a la
+    En Sora i els seus amics van entrar a
 
-    foscor, però van ser atacats per
+    la foscor, però van ser atacats per
 
     innombrables enemics. Va ser l'Axel
 
     qui va treure les castanyes del foc. Es
 
-    va disculpar pel segrest de la Kairi i va lluitar
+    va disculpar pel segrest de la Kairi i va
 
-    fins al seu últim alè per eliminar
+    lluitar fins al seu últim alè per eliminar
 
     els enemics. Quan en Sora li va preguntar
 
@@ -14682,9 +14701,9 @@
 
     feia sentir com si tingués cor».
 
-    Tot i donar-hi la vida, l'Axel va utilitzar les
+    Tot i donar-hi la vida, l'Axel va utilitzar
 
-    seves últimes forces per obrir l'últim
+    les seves últimes forces per obrir l'últim
 
     camí que en Sora havia de seguir: el camí
 
@@ -16071,7 +16090,7 @@
 - id: 20092
   text: Consciència latent
 - id: 20093
-  text: "Home misteriós que era a l'altre\ncostat del portal dimensional\nobert al Castell Disney.\n \nEnfundat en una imponent\narmadura, la seva destresa\namb la clau espasa\nsupera fins i tot la d'en Sora."
+  text: "Home misteriós que era a l'altre\ncostat del portal dimensional\nobert al Castell Disney.\n \nEnfundat en una imponent\narmadura, la seva destresa\namb la clau espasa supera\nfins i tot la d'en Sora."
 - id: 20130
   text: Metall cian
 - id: 20131
@@ -16176,9 +16195,9 @@
 - id: 20287
   text: Enfronta't a en Demyx.
 - id: 20288
-  text: Enfronta't a en Luxord.
+  text: Enfronta't a en Lúxord.
 - id: 20289
-  text: Enfronta't a en Marluxia.
+  text: Enfronta't a en Marlúxia.
 - id: 20290
   text: Enfronta't a la Larxene.
 - id: 20291

@@ -208,7 +208,7 @@
   text: Derrota tots els incorporis i protegeix les portes!
 - id: 8070
   text: >-
-    Lluita junt amb el Léon i venç tots els
+    Lluita al costat del Léon i venç tots els
 
     incorporis mentre protegeixes les portes!
 
@@ -2095,7 +2095,7 @@
 - id: 12726
   text: Això no està passant...{:delay 3C 00}{:clear }{:delay 3C 00}{:clear }No pot ser veritat...{:delay 4B 00}{:clear }{:delay 28 00}{:clear }No pot...
 - id: 12727
-  text: Això ens ho pagaran.
+  text: Aquesta ens la pagaran.
 - id: 12728
   text: Estàs bé?
 - id: 12729

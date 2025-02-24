@@ -243,7 +243,7 @@
 - id: 570
   text: Ermàs inhòspit
 - id: 571
-  text: Aposentament del rei
+  text: Sala del tron
 - id: 572
   text: Gruta de l'Ariel
 - id: 573
@@ -287,7 +287,7 @@
 - id: 592
   text: Cel・la
 - id: 593
-  text: Canó
+  text: Congost
 - id: 594
   text: Xarxa de joc
 - id: 595
@@ -339,17 +339,17 @@
 - id: 618
   text: Turó de les estrelles
 - id: 619
-  text: Casa del Winnie Pooh
+  text: Ca l'os Pooh
 - id: 620
-  text: Casa del Conill
+  text: Cal Conill
 - id: 621
-  text: Casa del Piglet
+  text: Cal Piglet
 - id: 622
-  text: Casa de la Cangu
+  text: Ca la Cangu
 - id: 623
   text: El Dia del Vent
 - id: 624
-  text: A per la mel
+  text: La recerca de la mel
 - id: 625
   text: Vall de les flors
 - id: 626
@@ -5410,7 +5410,7 @@
   text: >-
     Sora:
 
-    Pero i què passa amb els sensecor?
+    Però i què passa amb els sensecor?
 - id: 15195
   text: ''
 - id: 15199
@@ -6801,7 +6801,7 @@
 - id: 16098
   text: Un mapa del lloc.
 - id: 16099
-  text: Turó de la Luna
+  text: Turó de la Lluna
 - id: 16100
   text: Un mapa del lloc.
 - id: 16101

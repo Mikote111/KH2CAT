@@ -187,7 +187,7 @@
 - id: 12140
   text: Oh!
 - id: 12141
-  text: Ho sento molt...
+  text: Perdona...
 - id: 12142
   text: >-
     Ei, nois, creieu que estarem 
@@ -426,7 +426,7 @@
 - id: 12214
   text: Roxas! Tres minuts!
 - id: 12215
-  text: Vaig!
+  text: Ja vinc!
 - id: 12216
   text: Quatre d'estudiants!
 - id: 12217
@@ -442,13 +442,13 @@
 - id: 12222
   text: Quan he caigut fa un moment
 - id: 12223
-  text: Xaval?
+  text: Paio?
 - id: 12224
   text: No ha pogut anar molt... lluny...
 - id: 12225
   text: De què parles?
 - id: 12226
-  text: No hi havia cap xaval.
+  text: No hi havia cap paio.
 - id: 12227
   text: ''
 - id: 12228
@@ -575,7 +575,7 @@
 - id: 12276
   text: Controla la llengua, Naminé.
 - id: 12277
-  text: Pero si ningú li ho diu, el Roxas...
+  text: Però si ningú li ho diu, el Roxas...
 - id: 12278
   text: És millor que no sàpiga la veritat.
 - id: 12279
@@ -695,7 +695,7 @@
   text: >-
     Encara tenia els diners. Segur
 
-    que me l'ha tret aquell xaval!
+    que me'ls ha tret aquell paio!
 - id: 13173
   text: He tornat a somiar amb ell...
 - id: 13174
@@ -708,7 +708,7 @@
   text: >-
     Ja sé que hi ha hagut 
 
-    robatoris a la ciutat.{:delay E1 00}{:clear }I que tenim asumptes 
+    robatoris a la ciutat.{:delay E1 00}{:clear }I que tenim assumptes 
 
     pendents amb el Seifer.{:delay A6 00}{:clear }Si vol pensar que hem estat
 
@@ -717,9 +717,9 @@
     que més em molesta.
 - id: 13178
   text: >-
-    El que de veritat m'emprenya...{:delay 58 00}{:clear }és que va per allà dient a tot
+    El que de veritat m'emprenya...{:delay 58 00}{:clear }és que va per allà dient a
 
-    el món que som els lladres.{:delay C3 00}{:clear }{:delay 14 00}{:clear }I ara tots ens tracten com 
+    tothom que som els lladres.{:delay C3 00}{:clear }{:delay 14 00}{:clear }I ara tots ens tracten com 
 
     si fóssim uns pispes.
 - id: 13179
@@ -761,7 +761,7 @@
 
     Però què?
 - id: 13191
-  text: Pero sí enteneu el que us dic, no?{:delay 98 00}{:clear }Les nostres ----- no hi són!
+  text: Però sí enteneu el que us dic, no?{:delay 98 00}{:clear }Les nostres ----- no hi són!
 - id: 13192
   text: Robades?
 - id: 13193
@@ -960,7 +960,7 @@
 - id: 13253
   text: És el lladre?
 - id: 13254
-  text: A per ell!
+  text: Perseguim-lo!
 - id: 13255
   text: '{:unk13 01 01 CE 00}Hem vingut per vos, nostre senyor.'
 - id: 13256
@@ -975,7 +975,7 @@
   text: Què és això?
 - id: 13261
   text: >-
-    Jo vaig ser el seu primer client 
+    Vaig ser el seu primer client 
 
     quan es va fer càrrec de la botiga,{:delay D6 00}{:clear }així que ens vam fer una foto.
 - id: 13262
@@ -1004,7 +1004,7 @@
 - id: 13269
   text: Sembles content, Roxas.
 - id: 13270
-  text: Au va...
+  text: I ara...
 - id: 13271
   text: O sigui que ningú més s'ha fixat que{:delay 8C 00}{:clear }totes les fotos robades són del Roxas?
 - id: 13272
@@ -1018,7 +1018,7 @@
 
     anat per allà acusant-nos?
 - id: 13274
-  text: De veritat són totes meves?
+  text: De debò que són totes meves?
 - id: 13275
   text: Sí.
 - id: 13276
@@ -1038,7 +1038,7 @@
 
     un gamarús com el Roxas?
 - id: 13281
-  text: Oh, gràcies!
+  text: Oh, merci!
 - id: 13282
   text: ''
 - id: 13283
@@ -1046,7 +1046,7 @@
 - id: 13284
   text: Qui hi ha?
 - id: 13285
-  text: Qui ets tu?
+  text: Qui ets?
 - id: 13286
   text: Restauració al 12%.
 - id: 13287
@@ -2008,7 +2008,7 @@
   text: Àxel.
 - id: 13610
   text: >-
-    De veritat et recordes
+    De debò que et recordes
 
     de mi aquest cop?{:delay D3 00}{:clear }Quina encensada!
 - id: 13611
@@ -2086,14 +2086,14 @@
   text: >-
     Aquell gos i tu heu sortit volant
 
-    d'un forat a la paret!{:delay B4 00}{:clear } {:delay 1E 00}{:clear }Gairebé ens dona un infart a tots.
+    d'un forat a la paret!{:delay B4 00}{:clear } {:delay 1E 00}{:clear }Gairebé ens agafa un infart a tots.
 - id: 13641
   text: >-
     Socors! Al solar esportiu!
 
     És el Seifer!
 - id: 13642
-  text: Per favor! Que algú ens ajudi!
+  text: Si us plau! Que algú ens ajudi!
 - id: 13643
   text: Em sembla que tenim problemes...
 - id: 13644
@@ -2134,9 +2134,9 @@
     sabem cuidar-nos molt bé.
 - id: 13655
   text: >-
-    Me n'alegro.{:delay 8A 00}{:clear }Deixant l'Àxel a part, ens partiria el
+    Me n'alegro.{:delay 8A 00}{:clear }L'Àxel a part, ens partiria el cor
 
-    cor saber que us ha passat alguna cosa.
+    saber que us ha passat res.
 - id: 13656
   text: Cor? No teniu cap cor!
 - id: 13657
@@ -2376,7 +2376,7 @@
   text: >-
     Haig de dir-vos una cosa.
 
-    He descobert on és l'Ànsem,{:delay B5 00}{:clear }L'Ànsem el Savi! El vertader!{:delay 8C 00}{:clear }S'ha infiltrat en el quarter 
+    He descobert on és l'Ànsem,{:delay B5 00}{:clear }L'Ànsem el Savi! El de debò!{:delay 8C 00}{:clear }S'ha infiltrat en el quarter 
 
     general de l'Organització {XIII}.
 - id: 13758
@@ -2853,7 +2853,7 @@
   text: >-
     I si el rei és aquí,
 
-    és que el Riku també hi es!
+    és que el Riku també hi és!
 - id: 14358
   text: Hi ha de ser!
 - id: 14359
@@ -2865,14 +2865,14 @@
   text: >-
     Però Sora!
 
-    Fa falta que ho preguntis?
+    Cal que ho preguntis?
 - id: 14361
   text: Ei! De què rius?
 - id: 14362
   text: De la vostra cara!
 - id: 14363
   text: >-
-    Què em dieu, nois? {:delay 5F 00}{:clear }Us ve de gust viure
+    Què me'n dieu, nois? {:delay 5F 00}{:clear }Us ve de gust viure
 
     una altra aventura junts?
 - id: 14364
@@ -3033,7 +3033,7 @@
 
     demostrar que sou una colla de matats.
 - id: 14441
-  text: Me l'ha tret!
+  text: Me'ls ha tret!
 - id: 14443
   text: '{:delay 4E 00}{:clear }A veure com tornem...'
 - id: 14444
@@ -4927,7 +4927,7 @@
   text: >-
     No tornis a la mansió, podries
 
-    agafar el son un altre cop!{:clear }A més, hem d'esbrinar quina classe
+    agafar el son un altre cop!{:clear }A més, hem d'esbrinar quina mena
 
     de lloc és aquest. Quins nervis!
 - id: 17663
@@ -5882,12 +5882,12 @@
   text: Lògic.
 - id: 19015
   text: >-
-    Ejem. Has tingut sort.
+    Ehem. Has tingut sort.
 
     Per avui et perdono la vida.
 - id: 19016
   text: >-
-    Fa falta dir res? No em
+    Cal dir res? No em
 
     serveixes ni per entrenar!{:clear }Si vols una altra
 
@@ -6395,7 +6395,7 @@
   text: >-
     El món comença i acaba
 
-    a la foscor.{:delay 2C 01}{:clear }El cor també.{:delay 8D 00}{:clear }La foscor és la vertadera 
+    a la foscor.{:delay 2C 01}{:clear }El cor també.{:delay 8D 00}{:clear }La foscor és la veritable
 
     essència del cor.
 - id: 19726
@@ -6653,7 +6653,7 @@
 
     tot al meu diari.
 - id: 21473
-  text: "{:delayandfade 0A 78} \nDos individus es troben a vores\ndel Marge Fosc. Un d'ells\npregunta a l'altre amb un to enigmàtic\nsi recorda el seu nom vertader.\n \nPerò abans que pugui respondre,\nel somni cessa abruptament i dona\npas a un altre nou.\n \n \n"
+  text: "{:delayandfade 0A 78} \nDos individus es troben a vores\ndel Marge Fosc. Un d'ells\npregunta a l'altre amb un to enigmàtic\nsi recorda el seu veritable nom.\n \nPerò abans que pugui respondre,\nel somni cessa abruptament i dona\npas a un altre nou.\n \n \n"
 - id: 21474
   text: "{:delayandfade 0A 78} \nEl mar porta aromes familiars i\nn'evoca les imatges d'una platja on\nun jove anomenat Sora solia jugar\namb els seus amics fins el capvespre.\n \nLlavors, s'obre una porta a un altre\nmón i la seva llar, les illes... tot\nés engolit per la foscor.\n \nTot. La seva millor amiga inclosa..."
 - id: 21475

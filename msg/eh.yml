@@ -29,7 +29,7 @@
 - id: 16224
   text: Que vas fer què...!?
 - id: 16225
-  text: Digues-m'ho... {:delay 8B 00}{:clear }Digues-me per què t'hi ha triat, a tu!
+  text: Digue-m'ho... {:delay 8B 00}{:clear }Digue'm per què t'hi ha triat, a tu!
 - id: 16226
   text: Ara ho entenc. Per això.
 - id: 16227
@@ -492,7 +492,7 @@
   text: Se suposa que haig de creure-m'ho?
 - id: 16396
   text: >-
-    Bé, no fa falta... {:delay B4 00}{:clear }{:delay 3F 00}{:clear }pero creu-te això: {:delay 76 00}{:clear }{:delay 3C 00}{:clear }a l'Organització {XIII} ja
+    Bé, no cal... {:delay B4 00}{:clear }{:delay 3F 00}{:clear }però creu-te això: {:delay 76 00}{:clear }{:delay 3C 00}{:clear }a l'Organització {XIII} ja
 
     no li serveixes de res.
 - id: 16397
@@ -502,9 +502,9 @@
     innombrables cors... {:delay DE 00}{:clear }{:delay 3C 00}{:clear }Pots sentir la seva joia?
 - id: 16398
   text: >-
-    Ara només falta una ajuda més
+    Ara només cal una ajuda més de
 
-    de l'escollit de la clau espasa.
+    l'escollit de la clau espasa.
 - id: 16399
   text: Hem de lluitar!
 - id: 16400
@@ -1118,7 +1118,7 @@
   text: >-
     Segur que l'Organització {XIII} us
 
-    està esperant en aquell castell.{:clear }No fa falta que us digui quant
+    està esperant en aquell castell.{:clear }No cal que us digui quant
 
     poderosos són. No baixeu la guàrdia.
 - id: 18440
@@ -1411,7 +1411,7 @@
 
     esteu destinats al fracàs!
 - id: 19117
-  text: Potser no feia falta lluitar contra ell. {:delay 96 00}{:clear }{:delay 1E 00}Em sembla que va deixar l'Organització perquè
+  text: Potser no calia lluitar contra ell. {:delay 96 00}{:clear }{:delay 1E 00}Em sembla que va deixar l'Organització perquè
 - id: 19118
   text: el que desitjava era conèixer-te.
 - id: 19121

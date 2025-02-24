@@ -9,9 +9,9 @@
 - id: 16184
   text: Em referia al teu nom.
 - id: 16185
-  text: El meu nom manca d'importància. {:delay D8 00}{:clear }Però, i tu? {:delay 9C 00}{:clear }Te'n recordes teu nom vertader?
+  text: El meu nom manca d'importància. {:delay D8 00}{:clear }Però, i tu? {:delay 9C 00}{:clear }Et recordes del teu veritable nom?
 - id: 16186
-  text: El meu nom de veritat... és...
+  text: El meu veritable nom... és...
 - id: 16187
   text: El final del camí.
 - id: 16188
@@ -89,18 +89,18 @@
   text: Em sembla que és per a tu.
 - id: 19629
   text: >-
-    Penso en tu,
+    Pensant en tu,
 
     siguis on siguis.{:delay 78 00}{:clear } {:delay 56 00}{:clear }Preguem perquè els 
 
     nostres pesars cessin{:delay 78 00}{:clear } {:delay 47 00}{:clear }i desitgem que els nostres cors s'enllacin.
 - id: 19630
   text: >-
-    Ara em posaré en marxa
+    Ara faré camí per
 
-    per assolir aquest desig. {:delay B4 00}{:clear }{:delay 4E 00}{:clear }I qui sap?,
+    complir aquest desig. {:delay B4 00}{:clear }{:delay 4E 00}{:clear }I qui sap?,
 - id: 19631
-  text: Començar un nou viatge potser no es tan difícil. {:delay B4 00}{:clear }{:delay 30 00}{:clear }O potser ja ha començat... {:delay 66 00}{:clear }{:delay 5F 00}{:clear }Són molts els mons, {:delay 54 00}{:clear }{:delay 36 00}{:clear }però tots comparteixen el mateix cel.{:delay 7E 00}{:clear }{:delay 3C 00}{:clear }Un cel... {:delay 38 00}{:clear }{:delay 36 00}{:clear }Un destí.
+  text: Començar un nou viatge potser no es tan difícil. {:delay B4 00}{:clear }{:delay 30 00}{:clear }O potser ja ha començat... {:delay 66 00}{:clear }{:delay 5F 00}{:clear }N'hi ha molts, de mons, {:delay 54 00}{:clear }{:delay 36 00}{:clear }però tots un sol cel han de compartir.{:delay 7E 00}{:clear }{:delay 3C 00}{:clear }Un cel... {:delay 38 00}{:clear }{:delay 36 00}{:clear }Un destí.
 - id: 19632
   text: Llum.
 - id: 19633
@@ -148,24 +148,24 @@
 - id: 19743
   text: És del rei?
 - id: 19843
-  text: Penso en tu, siguis on siguis.
+  text: Pensant en tu, siguis on siguis.
 - id: 19844
   text: >-
     Preguem perquè els nostres pesars cessin 
 
-    i desitgem que els nostres cors s'enllacin.{:delay 90 01}{:clear }Ara em posaré en marxa
+    i desitgem que els nostres cors s'enllacin.{:delay 90 01}{:clear }Ara faré camí per
 
-    per a assolir aquest desig.
+    complir aquest desig.
 - id: 19845
   text: >-
     I qui sap?,
 
-    Començar un nou viatge potser no es tan difícil. {:delay 22 01}{:clear }O potser ja ha començat...
+    Començar un nou viatge potser no es tan complicat. {:delay 22 01}{:clear }O potser ja ha començat...
 - id: 19846
   text: >-
-    Són molts els mons,
+    N'hi ha molts, de mons,
 
-    però tots comparteixen el mateix cel.{:delay 68 01}{:clear }Un cel... un destí.
+    però tots un sol cel han de compartir.{:delay 68 01}{:clear }Un cel... un destí.
 - id: 19847
   text: La clau espasa conté un gran poder.
 - id: 19848
@@ -191,7 +191,7 @@
 - id: 19855
   text: Tot va començar...
 - id: 19856
-  text: amb el nascut d'un somni.
+  text: amb el nat d'un somni.
 - id: 19858
   text: ''
 - id: 19859

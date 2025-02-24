@@ -435,7 +435,7 @@
 - id: 3606
   text: ''
 - id: 3607
-  text: Aquí fa falta un toc femení.
+  text: Aquí cal un toc femení.
 - id: 3608
   text: '{:unk13 1D 01 E6 00}{:unk06 00}{:unk08 01 00 04}Òndia, això em porta records!'
 - id: 3609
@@ -1657,7 +1657,7 @@
 - id: 3955
   text: Això! Au va, Fil. Porta't bé.
 - id: 3956
-  text: Anem a veure...{:delay 6C 00}{:clear }Bé, us falta una mica de saviesa.
+  text: Anem a veure...{:delay 6C 00}{:clear }Bé, us cal una mica de saviesa.
 - id: 3957
   text: I esteu una mica... verds encara.
 - id: 3958

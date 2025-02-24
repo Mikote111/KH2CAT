@@ -1,5 +1,5 @@
 ﻿- id: 20233
-  text: 'Primer dia: Villa Crepuscle'
+  text: 'Primer dia: Vila Crepuscle'
 - id: 20234
   text: Somnis entrellaçats
 - id: 20245
@@ -107,7 +107,7 @@
 - id: 20724
   text: Rivals inesperats
 - id: 20725
-  text: L'Axel entra en escena
+  text: L'Àxel entra en escena
 - id: 20726
   text: Un crit sortit del cor
 - id: 20727
@@ -159,7 +159,7 @@
 - id: 20750
   text: Només és una cortina
 - id: 20751
-  text: Dos dies restants pel final de l'estiu
+  text: Dos dies restants per al final de l'estiu
 - id: 20752
   text: Mateixa estació, els amics de sempre
 - id: 20753
@@ -177,11 +177,11 @@
 - id: 20759
   text: El món comença a desaparèixer
 - id: 20760
-  text: L'Axel atén ordres
+  text: L'Àxel atén ordres
 - id: 20761
   text: La crida del DiZ
 - id: 20762
-  text: L'Axel es lamenta
+  text: L'Àxel es lamenta
 - id: 20763
   text: Record oportú
 - id: 20764
@@ -203,13 +203,13 @@
 - id: 20772
   text: Enemics en el camí
 - id: 20773
-  text: L'Axel pren una decisió
+  text: L'Àxel pren una decisió
 - id: 20774
   text: Punt final a la lluita
 - id: 20775
   text: Aflicció secreta
 - id: 20776
-  text: A la pròxima vida
+  text: A la propera vida
 - id: 20777
   text: Amics en letargia
 - id: 20778
@@ -217,7 +217,7 @@
 - id: 20779
   text: Les meves vacances d'estiu...
 - id: 20780
-  text: 'Villa Crepuscle: El despertar del Sora'
+  text: 'Vila Crepuscle: El despertar del Sora'
 - id: 20781
   text: Un passatger inesperat
 - id: 20782
@@ -395,7 +395,7 @@
 - id: 20868
   text: Hèrcules contra l'Hidra
 - id: 20869
-  text: Enfrontament contra el Demyx
+  text: Enfrontament contra el Dèmyx
 - id: 20870
   text: Forces recuperades
 - id: 20871
@@ -799,7 +799,7 @@
 - id: 21070
   text: Sota el mar
 - id: 21071
-  text: El dilema del Sebastian
+  text: El dilema del Sebastià
 - id: 21072
   text: El que el príncep va perdre
 - id: 21073
@@ -833,15 +833,15 @@
 - id: 21087
   text: Els nostres mons segueixen conectats
 - id: 21088
-  text: 'Villa Crepuscle: Buscant amics'
+  text: 'Vila Crepuscle: Buscant amics'
 - id: 21089
   text: A través del portal
 - id: 21090
-  text: L'Axel visita la Kairi
+  text: L'Àxel visita la Kairi
 - id: 21091
   text: Periple per la foscor
 - id: 21092
-  text: Sortida del no res
+  text: Sortida del no-res
 - id: 21093
   text: Problemes a la ciutat
 - id: 21094
@@ -851,11 +851,11 @@
 - id: 21096
   text: La colla reunida
 - id: 21097
-  text: L'Axel s'emporta a la Kairi
+  text: L'Àxel s'endú la Kairi
 - id: 21098
   text: Les esferes de cristall
 - id: 21099
-  text: 'Organización {XIII}: El Saïx informa'
+  text: 'Organització {XIII}: El Saïx informa'
 - id: 21100
   text: 'Baluard Balmat: El món dels programes'
 - id: 21101
@@ -873,7 +873,7 @@
 - id: 21107
   text: El Programa de Control Mestre
 - id: 21108
-  text: Espaci Paranoic
+  text: Espai Paranoic
 - id: 21109
   text: Tron
 - id: 21110
@@ -915,17 +915,17 @@
 - id: 21128
   text: Adeu, món dels programes
 - id: 21129
-  text: Cap el Baluard Balmat
+  text: Cap a Baluard Balmat
 - id: 21130
   text: "Baluard Balmat: L'hora de la veritat"
 - id: 21131
   text: Buscant entre les dades
 - id: 21132
-  text: Ànsem, el buscador de la foscor
+  text: Ànsem, el cercador de la foscor
 - id: 21133
   text: La identitat de l'Ànsem
 - id: 21134
-  text: Invasió de sense-cor
+  text: Invasió de sensecor
 - id: 21135
   text: La Malèfica s'hi afegeix
 - id: 21136
@@ -935,7 +935,7 @@
 - id: 21138
   text: L'Aerith i el Leon
 - id: 21139
-  text: Cap el pati interior!
+  text: Cap al pati interior!
 - id: 21140
   text: Més enllà de la muralla fracturada
 - id: 21141
@@ -945,13 +945,13 @@
 - id: 21143
   text: L'Stitch dona un cop de mà
 - id: 21144
-  text: Gaviotas en rescat
+  text: Gavines al rescat
 - id: 21145
   text: El Leon i el Cloud
 - id: 21146
   text: El Cloud i la seva foscor
 - id: 21147
-  text: El grup acut en rescat
+  text: El grup acut al rescat
 - id: 21148
   text: Ignorant ordres
 - id: 21149
@@ -959,7 +959,7 @@
 - id: 21150
   text: La Cambra del Repòs
 - id: 21151
-  text: Demyx
+  text: Dèmyx
 - id: 21152
   text: Compte!
 - id: 21153
@@ -975,7 +975,7 @@
 - id: 21158
   text: El poder de l'escollit
 - id: 21159
-  text: "Organización {XIII}: Que començi l'acció"
+  text: "Organització {XIII}: Que comenci l'acció"
 - id: 21160
   text: Una capsa plena de records
 - id: 21161
@@ -987,7 +987,7 @@
 - id: 21164
   text: Visitants inesperats
 - id: 21165
-  text: Allò tan preuat
+  text: Allò tan preat
 - id: 21166
   text: La rosa robada
 - id: 21167
@@ -1285,7 +1285,7 @@
 - id: 21313
   text: Entre dos mons
 - id: 21314
-  text: La redempció de l'Axel
+  text: La redempció de l'Àxel
 - id: 21315
   text: Últimes paraules
 - id: 21316
@@ -1293,7 +1293,7 @@
 - id: 21317
   text: 'Organització {XIII}: Absències'
 - id: 21318
-  text: 'El Món Inexistent: El destí dels cors'
+  text: 'El Món Que Mai Fou: El destí dels cors'
 - id: 21319
   text: El món que mai va ser
 - id: 21320
@@ -1373,7 +1373,7 @@
 - id: 21357
   text: La Naminé i el Roxas
 - id: 21358
-  text: El Cor del No Res
+  text: El Cor del No-Res
 - id: 21359
   text: Junts a la lluita
 - id: 21360
