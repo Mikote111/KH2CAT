@@ -30,7 +30,7 @@
   text: Doncs haurem de lluitar!
 - id: 7789
   text: >-
-    Anem a intentar-ho un altre cop!{:delay 90 00}{:clear }Hem retornat fins a l'última
+    Au, intentem-ho un altre cop!{:delay 90 00}{:clear }Hem retornat fins a l'última
 
     peça de l'or asteca.
 - id: 7790
@@ -189,9 +189,9 @@
     {:theme 0A}Isla de Muerta{:reset}!? Espero que estigui bé...
 - id: 7894
   text: >-
-    El Jack està més estrany que mai,
+    El Jack està més estrany que mai, però
 
-    però almenys en Will és fora de perill.{:clear }Hi ha una cosa estranya
+    com a mínim en Will és fora de perill.{:clear }Hi ha una cosa estranya
 
     que em té intranquil・la...
 - id: 7895
@@ -716,7 +716,7 @@
   text: De pressa, ens persegueixen!
 - id: 10062
   text: >-
-    Els entretindrem! Feu-nos un señal
+    Els entretindrem! Feu-nos un senyal
 
     quan la nau estigui preparada.
 - id: 10063
@@ -856,7 +856,7 @@
     que sigui molt convenient.
 - id: 10100
   text: >-
-    Què estrany, {:delay 36 00}{:clear }no estic gaire de preocupat
+    Què estrany, {:delay 36 00}{:clear }no n'estic gaire de preocupat
 
     per la teva CONVENIÈNCIA.{:delay C8 00}{:clear }Torna'm la Perla!
 - id: 10102
@@ -1316,7 +1316,7 @@
 - id: 10250
   text: Sora...
 - id: 10251
-  text: És broma.{:delay 78 00}{:clear }Almenys no ens afecta la maledicció.
+  text: És broma.{:delay 78 00}{:clear }Com a mínim no ens afecta la maledicció.
 - id: 10252
   text: >-
     Prou xerrotejar, xicots!{:delay 46 00}{:clear }Hem d'agenciar-nos
@@ -2060,6 +2060,6 @@
 - id: 21555
   text: "{:delayandfade 0A 78} \nLes coses no semblen estar\ngens tranquil・les a Port Royal\nquan el Sora i els seus\narriben de nou a port.\n \n \n \n"
 - id: 21556
-  text: "{:delayandfade 07 78}La maledicció de l'or asteca\nsegueix afectant els pirates,\nraó per la qual el Will se n'ha\nanat a l'Isla de Muerta\nen busca de respostes.\n \nEl Sora i els seus aborden de\nnou la Perla Negra i segueixen\nels passos del valerós jove.\n \n"
+  text: "{:delayandfade 07 78}La maledicció de l'or asteca\nsegueix afectant els pirates,\nraó per què el Will se n'ha\nanat a l'Isla de Muerta\nen busca de respostes.\n \nEl Sora i els seus aborden de\nnou la Perla Negra i segueixen\nels passos del valerós jove.\n \n"
 - id: 21557
   text: "{:delayandfade 08 78} \nL'Organització {XIII} no pot\nsortir-se'n!\n \nEncara que el Sora i els seus amics\ndesitgen plantar cara al seu enemic,\nsaben que sense les peces d'or que\nfalten no hi tenen cap oportunitat,\naixí que no perden el temps\ni busquen a qui les ha robat.\n"

@@ -2212,7 +2212,7 @@
 - id: 2689
   text: Pantalla del títol
 - id: 2690
-  text: Enlairar-se cap al mapa dels mons?
+  text: Vols enlairar-te cap al mapa dels mons?
 - id: 2691
   text: Nou fitxer
 - id: 2692
@@ -2344,11 +2344,11 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
 
 
-    No hi ha espai lliure suficient
+    No hi ha prou espai lliure
 
     a l'emmagatzematge del sistema.
 
-    Es necesiten almenys 169 KB per 
+    Es necesiten com a mínim 169 KB per 
 
     desar les dades.
 - id: 2712
@@ -2365,7 +2365,7 @@
   text: Desa un nou fitxer.
 - id: 2718
   text: >-
-    {:position 0,16}No hi ha suficient espai lliure
+    {:position 0,16}No hi ha prou espai lliure
 
     a l'emmagatzematge del sistema.
 - id: 2719
@@ -3410,7 +3410,7 @@
   text: Unitat
 - id: 13118
   text: >-
-    Ordre Límit amb el qual el Sora i
+    Ordre Límit amb què el Sora i
 
     el Goofy executen el Cop destructor.
 
@@ -3428,7 +3428,7 @@
   text: A tope
 - id: 13122
   text: >-
-    Ordre Límit amb el qual el Sora i
+    Ordre Límit amb què el Sora i
 
     l'Auron executen l'atac Bushido.
 
@@ -3446,7 +3446,7 @@
   text: Ovació
 - id: 13126
   text: >-
-    Ordre Límit amb el qual el Sora
+    Ordre Límit amb què el Sora
 
     i el Jack executen A ballar!
 
@@ -3455,16 +3455,16 @@
   text: Drac de foc
 - id: 13128
   text: >-
-    Ordre Límit amb el qual el Sora i
+    Ordre Límit amb què el Sora i
 
     la Mulan executen el Coet vermell.
 
     Consumeix tots els PM del Sora.
 - id: 13129
-  text: Sesió eterna
+  text: Sessió eterna
 - id: 13130
   text: >-
-    Ordre Límit amb el qual el Sora i
+    Ordre Límit amb què el Sora i
 
     el Riku executen l'atac Sessió.
 
@@ -3473,7 +3473,7 @@
   text: Orgull del Rei
 - id: 13132
   text: >-
-    Ordre Límit amb el qual el Sora i
+    Ordre Límit amb què el Sora i
 
     el Simba executen Fúria felina.
 
@@ -3482,7 +3482,7 @@
   text: Illa del tresor
 - id: 13134
   text: >-
-    Ordre Límit amb el qual el Sora
+    Ordre Límit amb què el Sora
 
     i el Jack Sparrow executen Bluf.
 
@@ -3491,9 +3491,9 @@
   text: '{:width 90}Compilació completa'
 - id: 13136
   text: >-
-    Ordre Límit amb el qual el Sora
+    Ordre Límit amb què el Sora
 
-    i el Tron executen Configurar.
+    i el Tron executen Configura.
 
     Consumeix tots els PM del Sora.
 - id: 13139
@@ -3520,11 +3520,11 @@
 
     propers. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 13863
-  text: 	Activa-la
+  text:     Activa-la
 - id: 13864
   text: Activa l'habilitat seleccionada.
 - id: 13865
-  text: 	No l'activis
+  text:     No l'activis
 - id: 13866
   text: No activa l'habilitat seleccionada.
 - id: 13868
@@ -4004,13 +4004,13 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    No hi ha suficient espai lliure a
+    No hi ha prou espai lliure a
 
     l'emmagatzematge del sistema.
 
-    Es necessiten almenys 69 KB de espai lliure
+    Es necessiten com a mínim 69 KB de espai lliure
 
-    per desar la partida. Començar igualment?
+    per desar la partida. Vols començar igualment?
 - id: 14286
   text: >-
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
@@ -4034,13 +4034,13 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    No hi ha suficient espai lliure a
+    No hi ha prou espai lliure a
 
     l'emmagatzematge del sistema.
 
-    Es necessiten almenys 169 KB d'espai lliure
+    Es necessiten com a mínim 169 KB d'espai lliure
 
-    per desar la partida. Començar igualment?
+    per desar la partida. Vols començar igualment?
 - id: 14299
   text: Calés
 - id: 14424
@@ -5256,9 +5256,9 @@
   text: >-
     Un moneder fet a mà.
 
-    Contè 5.000 calés
+    Conté 5.000 calés guanyats
 
-    guanyats amb esforç.
+    amb esforç.
 - id: 15115
   text: Esfera de cristall
 - id: 15116
@@ -5283,7 +5283,7 @@
   text: >-
     Anunci del torneig d'Struggle.
 
-    Diu: «Prepara't per
+    Hi diu: «Prepara't per
 
     passar-t'ho en gran!»
 - id: 15121
@@ -7799,7 +7799,7 @@
   text: >-
     {:width 80}Cada esfera de fusió petita dona un punt d'experiència,
 
-    i una de les grans en dona tres per cada
+    i una de les grosses en dona tres per cada
 
     premi de fusió obtingut en la Forma mestra.
 - id: 17803
@@ -8186,11 +8186,11 @@
   text: >-
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
-    No hi ha suficient espai lliure a
+    No hi ha prou espai lliure a
 
     l'emmagatzematge del sistema.
 
-    Es necessiten almenys 69 KB
+    Es necessiten com a mínim 69 KB
 
     d'espai lliure per desar la partida.
 - id: 18122
@@ -8856,9 +8856,9 @@
   text: >-
     Aplega unes increïbles qualitats
 
-    físiques i màgiques, però impedeix
+    físiques i màgiques, però t'impedeix
 
-    que rebis experiència.
+    rebre experiència.
 - id: 20025
   text: Centurió
 - id: 20026

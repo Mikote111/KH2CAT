@@ -313,6 +313,12 @@ assets:
       - name: remastered/msg/wm.bar/CA_wm_bar0.png
 
   #PANTALLA D'INICI
+  - name: remastered/menu/sp/title.2ld/SP_title_2ld1.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/menu/title.2ld/CA_title_2ld1.png
   - name: remastered/menu/sp/title.2ld/SP_title_2ld2.png
     method: copy
     platform: pc
@@ -363,6 +369,14 @@ assets:
     package: kh2_first
     source:
     - name: remastered/menu/eventviewer.2ld/CA_eventviewer_2ld50.png
+
+  # MENÚ PAUSA
+  - name: remastered/menu/sp/pause.2ld/SP_pause_2ld0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/menu/pause.2ld/CA_pause_2ld0.png
 
   #MENÚ PRINCIPAL
   - name: remastered/menu/sp/camp.2ld/SP_camp_2ld0.png
@@ -426,6 +440,7 @@ assets:
     - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd0.png
     - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd0.png
     - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd0.png
+    - name: remastered/field2d/sp/di0field.2dd/SP_di0field_2dd0.png
     - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd0.png
     - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd0.png
     - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd0.png
@@ -448,6 +463,7 @@ assets:
     - name: remastered/field2d/sp/bb0field.2dd/SP_bb0field_2dd1.png
     - name: remastered/field2d/sp/ca0field.2dd/SP_ca0field_2dd1.png
     - name: remastered/field2d/sp/dc0field.2dd/SP_dc0field_2dd1.png
+    - name: remastered/field2d/sp/di0field.2dd/SP_di0field_2dd1.png
     - name: remastered/field2d/sp/eh0field.2dd/SP_eh0field_2dd1.png
     - name: remastered/field2d/sp/hb0field.2dd/SP_hb0field_2dd1.png
     - name: remastered/field2d/sp/he0field.2dd/SP_he0field_2dd1.png
@@ -467,6 +483,12 @@ assets:
     - name: remastered/field2d/es0field.2dd/CA_es0field_2dd1.png
 
   #MENÚ D'ORDRES
+  - name: remastered/field2d/sp/es0command.2dd/SP_es0command_2dd0.dds
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/field2d/al0command.2dd/CA_al0command_2dd0.png
   - name: remastered/field2d/sp/tt0command.2dd/SP_tt0command_2dd0.png
     method: copy
     platform: pc
@@ -628,10 +650,11 @@ assets:
     - name: remastered/field2d/wi0command.2dd/CA_wi0command_2dd0.png
   - name: remastered/field2d/sp/zz0command.2dd/SP_zz0command_2dd0.png
     multi:
-    - name: remastered/field2d/sp/wm0command.2dd/SP_wm0command_2dd0.png
+    - name: remastered/field2d/sp/di0command.2dd/SP_di0command_2dd0.png
+    - name: remastered/field2d/sp/eh1command.2dd/SP_eh1command_2dd0.png
     - name: remastered/field2d/sp/tt1command.2dd/SP_tt1command_2dd0.png
     - name: remastered/field2d/sp/tt6command.2dd/SP_tt6command_2dd0.png
-    - name: remastered/field2d/sp/eh1command.2dd/SP_eh1command_2dd0.png
+    - name: remastered/field2d/sp/wm0command.2dd/SP_wm0command_2dd0.png
     method: copy
     platform: pc
     package: kh2_fifth
@@ -653,6 +676,98 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/menu/jmemo.2ld/CA_jmemo_2ld0.dds
+  
+  #TUTORIALS
+  - name: remastered/menu/sp/ab_010_o.bar/SP_ab_010_o_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_ab_010_o_bar0.png
+  - name: remastered/menu/sp/ab_010_r.bar/SP_ab_010_r_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_ab_010_r_bar0.png
+  - name: remastered/menu/sp/ab_010_s.bar/SP_ab_010_s_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_ab_010_s_bar0.png
+  - name: remastered/menu/sp/ab_020_r.bar/SP_ab_020_r_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_ab_020_r_bar0.png
+  - name: remastered/menu/sp/ab_020_s.bar/SP_ab_020_s_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_ab_020_s_bar0.png
+  - name: remastered/menu/sp/ab_040_s.bar/SP_ab_040_s_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_ab_040_s_bar0.png
+  - name: remastered/menu/sp/at_010_o.bar/SP_at_010_o_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_at_010_o_bar0.png
+  - name: remastered/menu/sp/at_010_r.bar/SP_at_010_r_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_at_010_r_bar0.png
+  - name: remastered/menu/sp/at_010_s.bar/SP_at_010_s_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_at_010_s_bar0.png
+  - name: remastered/menu/sp/at_020_r.bar/SP_at_020_r_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_at_020_r_bar0.png
+  - name: remastered/menu/sp/at_020_s.bar/SP_at_020_s_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_at_020_s_bar0.png
+  - name: remastered/menu/sp/mp_010_s.bar/SP_mp_010_s_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_mp_010_s_bar0.png
+  - name: remastered/menu/sp/mp_020_s.bar/SP_mp_020_s_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_mp_020_s_bar0.png
+  - name: remastered/menu/sp/sw_010_s.bar/SP_sw_010_s_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_sw_010_s_bar0.png
+  - name: remastered/menu/sp/sw_020_s.bar/SP_sw_020_s_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/menu/tutorial/CA_sw_020_s_bar0.png
   
   #NOMS ZONES
   #AL
@@ -1317,6 +1432,20 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/map/lk/CA_lk14_bar0.dds
+  
+  #LM
+  - name: remastered/map/sp/lm00.bar/SP_lm00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/lm/CA_lm00_bar0.dds
+  - name: remastered/map/sp/lm02.bar/SP_lm02_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/lm/CA_lm02_bar0.dds
 
   #MU
   - name: remastered/map/sp/mu00.bar/SP_mu00_bar0.dds
@@ -1961,6 +2090,56 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/map/eh/CA_eh22_bar0.dds
+
+  #WI
+  - name: remastered/map/sp/wi00.bar/SP_wi00_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/wi/CA_wi00_bar0.dds
+  - name: remastered/map/sp/wi01.bar/SP_wi01_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/wi/CA_wi01_bar0.dds
+  - name: remastered/map/sp/wi02.bar/SP_wi02_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/wi/CA_wi02_bar0.dds
+  - name: remastered/map/sp/wi03.bar/SP_wi03_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/wi/CA_wi03_bar0.dds
+  - name: remastered/map/sp/wi04.bar/SP_wi04_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/wi/CA_wi04_bar0.dds
+  - name: remastered/map/sp/wi05.bar/SP_wi05_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/wi/CA_wi05_bar0.dds
+  - name: remastered/map/sp/wi06.bar/SP_wi06_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/wi/CA_wi06_bar0.dds
+  - name: remastered/map/sp/wi07.bar/SP_wi07_bar0.dds
+    method: copy
+    platform: pc
+    package: kh2_fifth
+    source:
+    - name: remastered/map/wi/CA_wi07_bar0.dds
 
   #BATALLES ESPECIALS
   - name: remastered/msn/sp/EH14_MS103.bar/SP_EH14_MS103_bar0.png

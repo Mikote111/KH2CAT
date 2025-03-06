@@ -708,9 +708,9 @@
   text: >-
     {:unk13 4A 01 DC 00}{:unk08 01 00 01}Oh, ha sortit disparada.
 
-    Anava seguint els passos d'un
+    Seguia els passos d'un home
 
-    home de negre o una cosa així...
+    de negre o una cosa així...
 - id: 3234
   text: >-
     {:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}Què!?{:clear }Per què mai
@@ -764,7 +764,7 @@
   text: >-
     Exacte.
 
-    Anaven a convertir-te en un sensecor.{:delay D8 00}{:clear }El seu objectiu era aconseguir
+    Volien convertir-te en un sensecor.{:delay D8 00}{:clear }El seu objectiu era aconseguir
 
     un nou incorpori i controlar-lo.
 - id: 3252
@@ -1153,7 +1153,7 @@
     la nostra existència serà plena.
 - id: 3374
   text: >-
-    Ho entens, Bèstia?{:delay 8C 00}{:clear }Heus aquí la raó per la qual necessitem
+    Ho entens, Bèstia?{:delay 8C 00}{:clear }Heus aquí la raó per què necessitem
 
     el teu sensecor i el teu incorpori!
 - id: 3375
@@ -1365,9 +1365,9 @@
     llençar-los una mica d'aigua?
 - id: 7585
   text: >-
-    {:unk13 18 01 8C 00}{:unk08 01 01 05}Em temo que no
+    {:unk13 18 01 8C 00}{:unk08 01 01 05}Em temo n'hi
 
-    seria suficient.{:clear }Però potser amb
+    hauria prou.{:clear }Però potser amb
 
     el poder de la llum...
 - id: 7586
@@ -1630,7 +1630,7 @@
   text: >-
     Sembla que algú temible
 
-    anava a per l'amo.{:clear }Sé que els espera una tasca difícil,
+    perseguia l'amo.{:clear }Sé que els espera una tasca difícil,
 
     però no s'hi exigeixin massa.
 - id: 15752
@@ -1742,9 +1742,9 @@
 - id: 16967
   text: Les armadures ni s'immuten.
 - id: 16968
-  text: La porta gran està tancada.
+  text: La porta grossa està tancada.
 - id: 17323
-  text: No és suficient! Necessites carregar més ràpid!
+  text: No és prou! Necessites carregar més ràpid!
 - id: 17627
   text: >-
     {:unk0f 03 64 00 6D 01}{:color #00F0F080}S'ha agregat l'ordre Grup.{:reset}

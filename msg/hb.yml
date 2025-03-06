@@ -310,7 +310,7 @@
   text: '{:unk13 87 00 09 01}{:unk08 01 00 06}Un altre cop no!'
 - id: 8163
   text: >-
-    {:unk13 D2 00 37 00}{:unk08 01 01 06}Almenys això és
+    {:unk13 D2 00 37 00}{:unk08 01 01 06}Com a mínim això és
 
     el que creu el Léon...
 - id: 8164
@@ -1708,7 +1708,7 @@
 - id: 12595
   text: ''
 - id: 12596
-  text: No em digueu que hi ha més!{:delay 5A 00}{:clear }{:delay 2E 00}{:clear }Ja vaig suficientment perdut!
+  text: No em digueu que n'hi ha més!{:delay 5A 00}{:clear }{:delay 2E 00}{:clear }Ja vaig prou perdut!
 - id: 12597
   text: >-
     Anem a veure...{:delay 5E 00}{:clear }Un tipus anomenat Ànsem,
@@ -3046,7 +3046,7 @@
   text: >-
     Ja l'has trobat?
 
-    M'alegro que estigui bé.{:clear }Crec que si l'un busca suficientment,
+    M'alegro que estigui bé.{:clear }Em sembla que si un busca prou,
 
     sempre trobarà el que vol.{:clear }Per on hauria de seguir ara?
 - id: 17928
@@ -3102,12 +3102,12 @@
   text: >-
     Protegirem la ciutat.
 
-    Tu ves a per el líder enemic.{:clear }No et preocupis.
+    Tu ves pel líder enemic.{:clear }No et preocupis.
 
     Confia en mi, xicot!
 - id: 17936
   text: >-
-    Hi ha masses enemics fins i tot per al
+    Hi ha massa enemics fins i tot per al
 
     Léon. Heu de donar-li un cop de mà.{:clear }Podeu arribar fins a ell a través de la
 
@@ -3361,7 +3361,7 @@
   text: >-
     No consegueixo el sabor del gelat, però
 
-    almenys els meus monopatins van bé.
+    com a mínim els meus monopatins van bé.
 - id: 18911
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Què oportú. Una altra vegada?

@@ -1213,7 +1213,7 @@
     {:color #8080F080}Còpia en mirall{:reset}
       Fa la volta i copia el disseny del gumi i
       el col・loca.
-    {:color #00F0F080}- Si no en tens suficients...{:reset}
+    {:color #00F0F080}- Si no en tens prou...{:reset}
 
     Per copiar i col・locar gumis, has de
 
@@ -1483,7 +1483,7 @@
     {:icon dynamic-cross} dos cops: Copiar {:icon dynamic-circle}: Enrere
 
 
-    {:color #00F0F080}- Anem a copiar!{:reset}
+    {:color #00F0F080}- I ara, copiem!{:reset}
 
     Mou el cursor a la forma que vulguis
 
@@ -1643,7 +1643,7 @@
 
     amb qualsevol forma, o sigui que a crear!
 
-    Però asegura't de tenir suficient
+    Però asegura't de tenir prou
 
     {:color #8080F080}VT{:reset} o la teva nau durara poc.
 - id: 17321
@@ -2518,9 +2518,9 @@
 - id: 19402
   text: >-
     {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
-    	No tens suficients blocs gumi
-    	o objectes especials per crear una
-    	nau basada en aquest plànol especial.
+    	No tens prou blocs gumi o objectes
+    	especials per crear una nau basada
+    	en aquest plànol especial.
 - id: 19407
   text: >-
     {:icon dynamic-triangle}: Fixa'n l'àrea   {:icon dynamic-circle}: Enrere

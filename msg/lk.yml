@@ -33,7 +33,7 @@
   text: >-
     També heu vist el fantasma?
 
-    En Simba és en el {:theme 0A}cau del rei{:reset}.{:clear }Si us plau, aneu amb ell.
+    En Simba és al {:theme 0A}cau del rei{:reset}.{:clear }Si us plau, aneu amb ell.
 
     Si us veu, s'animarà.
 - id: 4912
@@ -140,7 +140,7 @@
   text: >-
     Un moment,
 
-    anem a lluitar contra el teu tiet per això?
+    lluitarem contra el teu tiet per això?
 - id: 4938
   text: Simba! Ets... viu!
 - id: 4939
@@ -1367,7 +1367,7 @@
     que aquest Simba pugui fer.
 - id: 12920
   text: >-
-    {:unk13 54 01 54 00}{:unk08 01 01 05}No diguis això! Almenys
+    {:unk13 54 01 54 00}{:unk08 01 01 05}No diguis això! Com a mínim
 
     està disposat a intentar-ho!
 - id: 12921

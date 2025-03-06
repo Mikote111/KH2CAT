@@ -1056,7 +1056,7 @@
 
     Seguim el pla del Jack...
 
-    almenys per ara?
+    com a mínim per ara?
 - id: 6085
   text: >-
     {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}Anem a casa del Pare
@@ -1070,7 +1070,7 @@
   text: '{:unk13 BD 00 2F 00}{:unk06 00}{:unk08 01 01 06}Gairebé, Sr. Cruel!'
 - id: 6088
   text: >-
-    {:unk13 FA 00 B4 00}{:unk06 00}{:unk08 01 01 06}Anem a pescar el lladre amb
+    {:unk13 FA 00 B4 00}{:unk06 00}{:unk08 01 01 06}Volem pescar el lladre amb
 
     regals de Nadal d'esquer!
 - id: 6089
@@ -1442,7 +1442,7 @@
   text: >-
     Ha passat una cosa terrible!
 
-    El Pare Noel està emmordassat!{:clear }Va venir aquell nano grandot i em vaig amagar
+    El Pare Noel està emmordassat!{:clear }Va venir aquell nano grossot i em vaig amagar
 
     tan de pressa com vaig poder! Què farem!?
 - id: 14073
@@ -1726,7 +1726,7 @@
 
     colpeja-la per a que s'activi.»
 - id: 16790
-  text: A la porta gran li han posat cadenes.
+  text: A la porta grossa hi han posat cadenes.
 - id: 16791
   text: La porta està tancada amb clau.
 - id: 16792
@@ -1922,7 +1922,7 @@
   text: Aquestes petjades ja estan gairebé esborrades.
 - id: 19101
   text: >-
-    La porta gran ha estat tancada
+    La porta grossa ha estat tancada
 
     per evitar que algú robi el trineu.
 - id: 19102

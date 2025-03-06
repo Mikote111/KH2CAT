@@ -219,7 +219,7 @@
 
     Ja no ho aguanto més.{:delay 90 00}{:clear }Au va, Mulan, prou de pallassades
 
-    i anem ja cap a casa, noia.
+    i pirem ja cap a casa, noia.
 - id: 4183
   text: Mushu!
 - id: 4184
@@ -1203,7 +1203,7 @@
   text: Ho vau fer?
 - id: 4531
   text: >-
-    Anava a fer-ho, però em va dir
+    Volia fer-ho, però em va dir
 
     que la situació havia canviat.
 - id: 4532
@@ -1222,7 +1222,7 @@
     amb l'Organització {XIII}?
 - id: 4536
   text: >-
-    Ni idea. Però almenys
+    Ni idea. Però com a mínim
 
     sé que està bé.
 - id: 4537
@@ -1634,9 +1634,9 @@
   text: >-
     Un soldat astut està preparat
 
-    per a qualsevol imprevist.{:clear }No us oblideu de dur-hi
+    per a qualsevol imprevist.{:clear }No us oblideu de
 
-    suficients objectes.
+    dur-hi prou objectes.
 - id: 17438
   text: >-
     Haureu d'anar per la sendera
@@ -1667,7 +1667,7 @@
     si es descobrís el seu secret.
 - id: 17700
   text: >-
-    Quan anava a liquidar aquelles criatures
+    Quan estava a punt de liquidar aquelles criatures
 
     horribles, s'han espantat i han fugit!{:clear }Són uns rivals molt estranys.
 - id: 17701

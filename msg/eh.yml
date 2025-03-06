@@ -1374,9 +1374,9 @@
   text: És aquesta la resposta que cercaves?
 - id: 18944
   text: >-
-    Tot això i més. {:delay 74 00}{:clear }{:delay 1A 00}Estic continuant el que tu vas
+    Tot això i més. {:delay 74 00}{:clear }{:delay 1A 00}Continuo el que tu vas
 
-    començar i creant un món nou...{:delay 64 01}{:clear }de cor en cor.{:delay 70 00}{:clear }{:delay 4A 00}Vaig creure que m'admiraries,{:delay 7C 00}{:clear }i l'únic que fas és
+    començar i creo un món nou...{:delay 64 01}{:clear }de cor en cor.{:delay 70 00}{:clear }{:delay 4A 00}Pensava que m'admiraries,{:delay 7C 00}{:clear }i l'únic que fas és
 
     posar-me pedres en el camí.
 - id: 18945
@@ -1922,9 +1922,9 @@
   text: Tot i que... això em canviï per sempre.
 - id: 21470
   text: >-
-    No podia fer-ho encara. {:delay 8C 00}{:clear }Almenys no fins que tot
+    No podia fer-ho encara. {:delay 8C 00}{:clear }Com a mínim no fins que
 
-    torni a ser com era.
+    tot torni a ser com era.
 - id: 21471
   text: >-
     Tranquil, ho aconseguirem. {:delay A0 00}{:clear }I quan ho fem, podràs

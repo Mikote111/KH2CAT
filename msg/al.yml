@@ -488,7 +488,7 @@
   text: >-
     Soc un pesat!
 
-    Un plom gran i blau!
+    Un plom gros i blau!
 - id: 207
   text: >-
     Bah, tant és!
@@ -1430,9 +1430,9 @@
   text: >-
     A la {:theme 0A}Cova de les Meravelles{:reset}
 
-    hi trobarem suficients riqueses
+    hi trobarem prou riqueses
 
-    per acontentar el mercader.{:clear }Pero no sé si n'hi haurà suficients
+    per acontentar el mercader.{:clear }Pero no sé si n'hi haurà prou
 
     per acontentar-me a mi...
 - id: 17076

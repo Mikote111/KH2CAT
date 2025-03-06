@@ -114,11 +114,11 @@
   text: >-
     Ah si? Bé, si ho sentiu de debò,
 
-    aneu i porteu-me el meu vaixell.
+    aneu i porteu-me mon vaixell.
 - id: 5550
   text: Sí, senyor!
 - id: 5551
-  text: Uuhh... La meva esquena!
+  text: Uuhh... Ma esquena!
 - id: 5552
   text: >-
     {:unk13 6F 01 72 00}{:unk06 00}{:unk08 01 00 06}Estava segur que
@@ -313,10 +313,10 @@
   text: >-
     Per l'amor de Déu!
 
-    No calia que digués tot allò.
+    No calia dir tot allò.
 - id: 5630
   text: >-
-    Molt bé, l'he feta
+    Que sí, que l'he feta
 
     bona de tant en tant.{:delay B5 00}{:clear }però alguna cosa bé hauré fet.
 - id: 5631
@@ -415,9 +415,9 @@
   text: '{:unk13 7B 00 C1 00}{:unk06 00}{:unk08 01 01 05}No entenc res.'
 - id: 5660
   text: >-
-    {:unk13 49 01 63 00}{:unk06 00}{:unk08 01 00 07}Anem a ocupar-nos
+    {:unk13 49 01 63 00}{:unk06 00}{:unk08 01 00 07}Ocupem-nos primer
 
-    primer dels sensecor.{:clear }Aquest lloc és net, però en
+    dels sensecor.{:clear }Aquest lloc és net, però en
 
     queden tres per revisar.
 - id: 5661
@@ -500,9 +500,9 @@
     Uff! Em fa mal el cap!
 - id: 5684
   text: >-
-    {:unk13 DC 00 1B 01}{:unk06 00}{:unk08 01 01 07}Almenys sabem que
+    {:unk13 DC 00 1B 01}{:unk06 00}{:unk08 01 01 07}Com a mínim sabem
 
-    anem pel bon camí!
+    que anem pel bon camí!
 - id: 5685
   text: O sigui, que sí que era el Pete!
 - id: 5686
@@ -609,12 +609,12 @@
   text: Està bé, però no t'hi acostumis!
 - id: 5728
   text: >-
-    I per demostrar-vos el meu agraïment,{:delay 91 00}{:clear }us deixo pilotar el meu vaixell de vapor.
+    I per demostrar-vos el meu agraïment,{:delay 91 00}{:clear }us deixo pilotar mon vaixell de vapor.
 
     És la millor nau del riu!
 - id: 5729
   text: >-
-    Va, el meu contramestre
+    Va, mon contramestre
 
     Mickey arriba tard.
 - id: 5730
@@ -940,7 +940,7 @@
 - id: 21368
   text: L'edifici no aguantarà molt més!
 - id: 21369
-  text: Estan atacant la ciutat! Para'ls utilitzant Trepitjada!
+  text: Estan atacant la ciutat! Atura'ls utilitzant Trepitjada!
 - id: 21370
   text: La ciutat caurà!
 - id: 21371

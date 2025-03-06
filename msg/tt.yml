@@ -347,7 +347,7 @@
 
     tots a punt?
 - id: 12186
-  text: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}I bé? Quant en tenim?'
+  text: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}I bé? Quants en tenim?'
 - id: 12187
   text: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}A veure...'
 - id: 12188
@@ -360,7 +360,7 @@
 
     tots a punt?
 - id: 12191
-  text: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}I bé? Quant en tenim?'
+  text: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}I bé? Quants en tenim?'
 - id: 12192
   text: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}A veure...'
 - id: 12193
@@ -378,7 +378,7 @@
 
     tots a punt?
 - id: 12197
-  text: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}I bé? Quant en tenim?'
+  text: '{:unk13 C2 00 69 00}{:unk06 00}{:unk08 01 01 07}I bé? Quants en tenim?'
 - id: 12198
   text: '{:unk13 D3 00 4D 00}{:unk06 00}{:unk08 01 00 05}A veure...'
 - id: 12199
@@ -399,7 +399,7 @@
   text: >-
     Ben fet, nois. Sumant-hi el que 
 
-    teniem, això arriba a un total de...
+    teníem, això arriba a un total de...
 - id: 12204
   text: Tatxam! 5.000 calés!
 - id: 12205
@@ -521,7 +521,7 @@
 - id: 12255
   text: I tu ets...?
 - id: 12256
-  text: Volia veure't almenys una vegada.
+  text: Volia veure't com a mínim un cop.
 - id: 12257
   text: A mi?
 - id: 12258
@@ -530,7 +530,7 @@
   text: >-
     L'Olette m'ha embolicat
 
-    per anar-hi de compres.
+    per anar a comprar.
 - id: 12260
   text: Ei! Vols venir?
 - id: 12261
@@ -1429,7 +1429,7 @@
 - id: 13409
   text: Estava somiant...
 - id: 13410
-  text: Però era tot... un somni?
+  text: Però, era tot... un somni?
 - id: 13411
   text: >-
     Només queden tres dies de
@@ -1542,7 +1542,7 @@
 - id: 13438
   text: Res al Carrer del Mercat.
 - id: 13439
-  text: A nosaltres no ens avanceu.{:delay 8C 00}{:clear }{:delay 1E 00}{:clear }Anem a les terraces amb vosaltres.
+  text: A nosaltres no ens avanceu.{:delay 8C 00}{:clear }{:delay 1E 00}{:clear }Venim a les terraces amb vosaltres.
 - id: 13440
   text: Hayner, no és una carrera!
 - id: 13441
@@ -1705,15 +1705,15 @@
 - id: 13500
   text: '{:delay 3C 00}{:clear }És a la mansió encantada.'
 - id: 13501
-  text: Saps una cosa...?
+  text: Saps què...?
 - id: 13502
   text: Uagh!
 - id: 13503
-  text: Demà anàvem a explorar la mansió.
+  text: Demà volíem explorar la mansió.
 - id: 13504
   text: Sí...
 - id: 13505
-  text: Fins i tot la tropa del Seifer ens anava a ajudar.
+  text: Fins i tot la tropa del Seifer ens volia ajudar.
 - id: 13506
   text: El Seifer?
 - id: 13507
@@ -2987,7 +2987,7 @@
   text: Un moment!
 - id: 14412
   text: >-
-    Si us aneu a barallar, per què
+    Si us voleu barallar, per què
 
     no ho feu amb un bon Struggle?
 - id: 14413
@@ -3260,7 +3260,7 @@
 
     foscor feta realitat{:delay F6 00}{:clear }{:delay 15 00}{:clear }i sempre queden vestigis 
 
-    de foscor a tots els cors.
+    de foscor en tots els cors.
 - id: 14504
   text: >-
     És cert, hi ha menys sensecor,{:delay 78 00}{:clear }però mentre quedi foscor en un
@@ -3425,7 +3425,7 @@
 
     has vingut al lloc adequat!
 - id: 14542
-  text: Jo m'ocuparé del diseny.
+  text: Jo m'ocuparé del disseny.
 - id: 14543
   text: Oh, això no li queda bé!
 - id: 14544
@@ -3676,7 +3676,7 @@
 
     que de veritat vull fer.
 - id: 15277
-  text: Què em passarà ara?{:delay 78 00}{:clear }{:delay 47 00}{:clear }Digue'm almenys això.{:delay 50 00}{:clear }{:delay 2E 00}{:clear }Tota la resta ja no m'importa.
+  text: Què em passarà ara?{:delay 78 00}{:clear }{:delay 47 00}{:clear }Digue'm com a mínim això.{:delay 50 00}{:clear }{:delay 2E 00}{:clear }Tota la resta ja no m'importa.
 - id: 15382
   text: '{:unk13 FC 00 52 00}{:unk08 01 00 05}Ben fet.'
 - id: 15383
@@ -3729,9 +3729,9 @@
     Te'n dec una.
 - id: 15398
   text: >-
-    {:unk13 64 01 A0 00}{:unk08 01 00 05}Bé... Això
+    {:unk13 64 01 A0 00}{:unk08 01 00 05}Bé... Amb això
 
-    serà suficient.
+    n'hi haurà prou.
 - id: 15399
   text: >-
     {:unk13 68 01 A0 00}{:unk08 01 00 05}Això és el millor
@@ -3986,7 +3986,7 @@
   text: >-
     En aquest garatge hi
 
-    cabrien objectes grans.
+    cabrien objectes grossos.
 - id: 17304
   text: ⇽ Solar esportiu ⇾ Camí a l'Estació
 - id: 17305
@@ -4194,9 +4194,9 @@
   text: >-
     Compte, allà hi ha abelles!
 
-    D'on hauran sortit?{:clear }He posat un anunci demanant ajuda
+    D'on hauran sortit?{:clear }He penjat un anunci demanant ajuda
 
-    per fer-les fora, però ningú ha respost.
+    per fer-les fora, però ningú hi ha respost.
 - id: 17413
   text: >-
     M'han demanat que presenti el
@@ -4351,9 +4351,9 @@
     dels nostres dies al camp.
 - id: 17454
   text: >-
-    El Hayner va dir que ell se n'encarregaria, però
+    El Hayner va dir que ell se n'encarregaria,
 
-    jo sabia que anava a passar alguna cosa així.{:clear }Tria una feina d'{:theme 0A}aquest taulell{:reset} o
+    però ja sabia jo que passaria alguna cosa així.{:clear }Tria una feina d'{:theme 0A}aquest taulell{:reset} o
 
     del que hi ha a la {:theme 0A}Placeta del Tramvia{:reset}.
 - id: 17455
@@ -4379,7 +4379,7 @@
     Confio en tu!
 - id: 17462
   text: >-
-    Com va la feina?{:clear }Quan hagis reunit suficients
+    Com va la feina?{:clear }Quan hagis reunit prou
 
     diners, torna aquí.
 - id: 17463
@@ -4388,18 +4388,18 @@
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Segueixes treballant?
 
-    {:chardelay 33 00}Sí, els calés mai estan de més!
+    {:chardelay 33 00}Sí, els calés mai fan nosa!
 
-    {:chardelay 09 00}No, ja n'he guanyat suficients.
+    {:chardelay 09 00}No, ja n'he guanyat prou.
 - id: 17465
   text: Ben fet, Roxas!
 - id: 17466
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Segueixes treballant?
 
-    {:chardelay 33 00}Sí, els calés mai estan de més!
+    {:chardelay 33 00}Sí, els calés mai fan nosa!
 
-    {:chardelay 09 00}No, ja n'he guanyat suficients.
+    {:chardelay 09 00}No, ja n'he guanyat prou.
 - id: 17467
   text: >-
     Vaja, Roxas! Ets un crac!
@@ -4409,9 +4409,9 @@
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Tenes molts calés. Segueixes treballant?
 
-    {:chardelay 33 00}Sí, els calés mai estan de més!
+    {:chardelay 33 00}Sí, els calés mai fan nosa!
 
-    {:chardelay 09 00}No, ja n'he guanyat suficients.
+    {:chardelay 09 00}No, ja n'he guanyat prou.
 - id: 17469
   text: >-
     Aquesta és la primera vegada
@@ -4461,7 +4461,7 @@
   text: >-
     Haig de portar aquells
 
-    objectes a aquest garatge.{:clear }He posat un anunci demanant
+    objectes a aquest garatge.{:clear }He penjat un anunci demanant
 
     ajuda, però no ha vingut ningú.
 - id: 17516
@@ -4527,7 +4527,7 @@
   text: >-
     Espero que hagis comprat pocions. Les
 
-    necessitaràs per lluitar amb el Hayner.{:clear }Si no tens suficients diners,
+    necessitaràs per lluitar amb el Hayner.{:clear }Si no tens prou diners,
 
     pots treballar una mica més!
 - id: 17531
@@ -4549,7 +4549,7 @@
     no hi ha res com una baralla del carrer!
 - id: 17534
   text: >-
-    Ahà!{:clear }Anaves a dir res?
+    Ahà!{:clear }Volies dir res?
 
     Pots venir quan vulguis, xaval.
 - id: 17535
@@ -4892,11 +4892,11 @@
     sent gratuït, aprofitem-ho!
 - id: 17656
   text: >-
-    Anem a resoldre el misteri del tren
+    Va, resolem el misteri del tren
 
     fantasma del Turó del Capvespre!{:clear }Això ha de ser cert! Ho pressento!
 
-    Aviam, almenys això crec...
+    Aviam, com a mínim això crec...
 - id: 17657
   text: >-
     El forat de la paret de la Placeta del
@@ -5146,7 +5146,7 @@
 
     M'alegra veure-us de nou!{:clear }El taller d'objectes és obert.
 
-    Us servirà per al vostre viatge. Aneu allà!
+    Us servirà per al vostre viatge. Aneu-hi!
 - id: 17947
   text: >-
     Has tornat! M'alegra
@@ -5362,7 +5362,7 @@
   text: >-
     Hi ha un símbol dins els cercles.
 
-    Si almenys tinguessis una pista,
+    Si com a mínim tinguessis una pista,
 
     podries continuar el dibuix.
 - id: 18207
