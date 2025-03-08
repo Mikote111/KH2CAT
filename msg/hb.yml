@@ -839,7 +839,7 @@
   text: >-
     Si us creueu amb un home de pèl
 
-    platejat i una llarga espasa, aviseu-me.{:clear }El seu nom és Sephiroth.
+    platejat i una llarga espasa, aviseu-me.{:clear }Es diu Sefirot.
 
     És el més infaust dels meus enemics.
 - id: 9008
@@ -1295,7 +1295,7 @@
 - id: 12457
   text: De qui?
 - id: 12458
-  text: Sephiroth.{:delay 41 00}{:clear }{:delay 28 00}{:clear }Aviseu-me si el veieu.
+  text: Sefirot.{:delay 41 00}{:clear }{:delay 28 00}{:clear }Aviseu-me si el veieu.
 - id: 12459
   text: D'acord. Com és ell?
 - id: 12460
@@ -1864,9 +1864,9 @@
 - id: 12644
   text: ''
 - id: 12645
-  text: Sora, és en Sephiroth!
+  text: Sora, és en Sefirot!
 - id: 12646
-  text: No se suposa que el Sephiroth és {:delay 74 00}{:clear }la part fosca del cor del Cloud?
+  text: No se suposa que el Sefirot és {:delay 74 00}{:clear }la part fosca del cor del Cloud?
 - id: 12647
   text: En Cloud us ha dit això?{:delay D2 00}{:clear }{:delay 2D 00}{:clear }Ja en deu ser conscient.
 - id: 12648
@@ -1909,7 +1909,7 @@
 - id: 12663
   text: Ah, que tu també hi lluites?
 - id: 12664
-  text: Sephiroth!
+  text: Sefirot!
 - id: 12665
   text: >-
     Tinc entès que
@@ -2479,7 +2479,7 @@
   text: "Admeto que ets molt hàbil...{:delay 90 00}{:clear }{:delay 2B 00}{:clear }però, aparentment, el Cloud és\nl'únic... que pot eliminar-me. "
 - id: 12872
   text: >-
-    {:delay AF 00}{:clear }Digues al Cloud que vingui aquí.{:delay 85 00}{:clear }{:delay 37 00}{:clear }Digues-li que el Sephiroth vol
+    {:delay AF 00}{:clear }Digues al Cloud que vingui aquí.{:delay 85 00}{:clear }{:delay 37 00}{:clear }Digues-li que el Sefirot vol
 
     resoldre les coses.
 - id: 12937
@@ -2506,7 +2506,7 @@
   text: >-
     Sento haver-te fet esperar,
 
-    Sephiroth!
+    Sefirot!
 - id: 12945
   text: Cloud...{:delay 2D 00}{:clear }{:delay 5E 00}{:clear }Mai deixaràs enrere la foscor...
 - id: 12946
@@ -2538,7 +2538,7 @@
     a algú que el rodegi amb llum.
 - id: 12959
   text: >-
-    La foscor seguirà allà, Sephiroth...{:delay AE 00}{:clear }però en un lloc on tu
+    La foscor seguirà allà, Sefirot...{:delay AE 00}{:clear }però en un lloc on tu
 
     no hi podràs arribar.
 - id: 12960
@@ -2591,10 +2591,10 @@
 - id: 12983
   text: ''
 - id: 12988
-  text: Heu vist el Sephiroth?
+  text: Heu vist el Sefirot?
 - id: 12989
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Parlar-li del Sephiroth?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Parlar-li del Sefirot?
 
     {:chardelay 0A 00}No, potser no n'hauria.
 
@@ -2608,14 +2608,14 @@
     estimades sempre es queden en el cor.
 - id: 12995
   text: >-
-    Puc sentir-ho en el meu cor.{:clear }Sephiroth...
+    Puc sentir-ho en el meu cor.{:clear }Sefirot...
 
     sé que ets a prop.
 - id: 12996
   text: >-
     Digues-li al Cloud que vingui aquí, que
 
-    en Sephiroth vol arreglar unes qüestions.
+    en Sefirot vol arreglar unes qüestions.
 - id: 12997
   text: >-
     Aquí tampoc hi és. Tot i així,
@@ -3257,7 +3257,7 @@
   text: >-
     Utilitza totes les teves estratègies
 
-    i habilitats per vèncer el Sephiroth!
+    i habilitats per vèncer el Sefirot!
 - id: 18836
   text: "{:unk13 FA 00 3C 00}{:unk08 01 01 06}Un moment, Sora.{:clear }Què n'és, de la teva màgia?"
 - id: 18837
@@ -3397,7 +3397,7 @@
     interior. Anem a buscar-los!
 - id: 19324
   text: >-
-    Així que aquell era el Sephiroth.
+    Així que aquell era el Sefirot.
 
     S'assembla una mica al Cloud.{:clear }M'agradaria avisar-lo, però
 
@@ -3624,7 +3624,7 @@
 - id: 21492
   text: "{:delayandfade 08 78} \nAra que ho han resolt,\nnomés queda una cosa a fer.\n \nMentre l'Aerith i la resta\nd'encarreguen de les coses en\nel món dels usuaris, el Sora ha\nd'entrar de nou a l'entorn de dades.\n \n \n"
 - id: 21493
-  text: "{:delayandfade 0A 78} \nEn acabar de compartir amb el Cloud\nles paraules del Sephiroth, el jove\nabaixa el cap i reflexiona...\n \n\"«Doncs és l'hora que acabem\namb això»\", sentencia.\n \n \n \n"
+  text: "{:delayandfade 0A 78} \nEn acabar de compartir amb el Cloud\nles paraules del Sefirot, el jove\nabaixa el cap i reflexiona...\n \n\"«Doncs és l'hora que acabem\namb això»\", sentencia.\n \n \n \n"
 - id: 21565
   text: Les teves ordres són al llibre! Allibera-les!
 - id: 21566

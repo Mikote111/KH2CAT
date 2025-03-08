@@ -7,11 +7,11 @@
 - id: 16183
   text: Soc el que queda. {:delay 96 00}{:clear }{:delay 28 00}{:clear }O... {:delay 54 00}{:clear }potser soc tot el que sempre hi ha hagut.
 - id: 16184
-  text: Em referia al teu nom.
+  text: Em referia a com et dius.
 - id: 16185
-  text: El meu nom manca d'importància. {:delay D8 00}{:clear }Però, i tu? {:delay 9C 00}{:clear }Et recordes del teu veritable nom?
+  text: Com em dic manca d'importància. {:delay D8 00}{:clear }Però, i tu? {:delay 9C 00}{:clear }Et recordes de com et dius en realitat?
 - id: 16186
-  text: El meu veritable nom... és...
+  text: En realitat... em dic...
 - id: 16187
   text: El final del camí.
 - id: 16188

@@ -168,7 +168,7 @@
 
     Espero que estiguis bé, Piglet.
 - id: 4709
-  text: Oh, Pooh,{:delay 60 00}{:clear }t'has recordat del meu nom?{:delay 78 00}{:clear }De veritat que te n'has recordat?
+  text: Oh, Pooh,{:delay 60 00}{:clear }t'has recordat de com em dic?{:delay 78 00}{:clear }De veritat que te n'has recordat?
 - id: 4710
   text: >-
     Doncs és clar, Piglet.{:delay 7D 00}{:clear }Però penso que avui et dire

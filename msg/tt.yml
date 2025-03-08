@@ -1218,7 +1218,7 @@
   text: >-
     No... No sé molt 
 
-    bé què ha pasat...
+    bé què ha passat...
 - id: 13335
   text: '... però... el guanyador és el Vivi! {:delay EB 00}{:clear }Ha estat una remontada tremenda!'
 - id: 13336
@@ -3588,7 +3588,7 @@
   text: Ah! Malèfi...!
 - id: 14595
   text: >-
-    No! No hem de recordar el seu nom!
+    No! No hem de recordar com es diu!
 
     Ai, mare...
 - id: 14596
@@ -6177,11 +6177,11 @@
 - id: 19657
   text: Soc el que queda.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }O...{:delay 58 00}{:clear }potser soc tot el que sempre hi ha hagut.
 - id: 19658
-  text: Em referia al teu nom.
+  text: Em referia a com et dius.
 - id: 19659
-  text: El meu nom manca d'importància.{:delay DC 00}{:clear }Però, i tu?{:delay 9C 00}{:clear }Et recordes del teu veritable nom?
+  text: Com em dic manca d'importància.{:delay DC 00}{:clear }Però, i tu?{:delay 9C 00}{:clear }Et recordes de com et dius en realitat?
 - id: 19660
-  text: El meu veritable nom... és...
+  text: En realitat... em dic...
 - id: 19661
   text: ''
 - id: 19662

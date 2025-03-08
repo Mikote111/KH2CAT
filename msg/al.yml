@@ -4,7 +4,7 @@
   text: >-
     Aahh! Em pregunto com deuen
 
-    estar l'Aladdin i la Jasmin.
+    estar l'Aladí i la Jasmin.
 - id: 41
   text: >-
     Potser el Riku
@@ -59,7 +59,7 @@
 
     no us fa una mica de pena?
 - id: 60
-  text: Vull demanar perdó a l'Aladdin i la Jasmin.{:delay B4 00}{:clear }Podríeu potser vosaltres ajudar-m'hi?
+  text: Vull demanar perdó a l'Aladí i la Jasmin.{:delay B4 00}{:clear }Podríeu potser vosaltres ajudar-m'hi?
 - id: 62
   text: >-
     I tant!
@@ -87,7 +87,7 @@
   text: >-
     {:unk13 1F 01 18 01}{:unk08 01 00 03}Però serà cosa teva
 
-    guanyar-te l'Aladdin i
+    guanyar-te l'Aladí i
 
     la Jasmin.{:clear }Hauràs de comportar-te,
 
@@ -101,7 +101,7 @@
   text: >-
     {:unk13 96 00 64 00}{:unk08 01 01 06}D'això,
 
-    on és l'Aladdin?
+    on és l'Aladí?
 - id: 73
   text: >-
     {:unk13 5E 01 2C 01}{:unk08 01 01 00}Apostaria que
@@ -122,7 +122,7 @@
     de donar-vos-hi les gràcies.
 - id: 79
   text: >-
-    Vau ajudar l'Aladdin a derrotar aquell
+    Vau ajudar l'Aladí a derrotar aquell
 
     horrible Jafar i vau salvar Agrabah.
 - id: 80
@@ -143,7 +143,7 @@
   text: >-
     I sempre compteu
 
-    amb l'Aladdin.
+    amb l'Aladí.
 - id: 85
   text: >-
     Doncs... últimament
@@ -157,7 +157,7 @@
 - id: 87
   text: No n'estic segura.
 - id: 88
-  text: De vegades, és l'Aladdin alegre de sempre,{:delay D2 00}{:clear }però d'altres... sembla molt afligit.
+  text: De vegades, és l'Aladí alegre de sempre,{:delay D2 00}{:clear }però d'altres... sembla molt afligit.
 - id: 91
   text: >-
     Surt del palau i es passa
@@ -573,7 +573,7 @@
   text: >-
     {:unk13 15 01 5E 01}{:unk08 01 00 00}Ei, on és
 
-    l'Aladdin?
+    l'Aladí?
 - id: 230
   text: >-
     {:unk13 1C 01 7D 00}{:unk08 01 00 05}L'he vist corrent rere
@@ -680,7 +680,7 @@
 - id: 262
   text: Jafar!?
 - id: 263
-  text: Aladdin, entrega'm la llàntia màgica.
+  text: Aladí, entrega'm la llàntia màgica.
 - id: 264
   text: I ara, rates de carrer, acomiadeu-vos.
 - id: 265
@@ -890,7 +890,7 @@
   text: >-
     {:delay 36 00}{:clear }En aquests moments, el teu estimat
 
-    Aladdin està xiuxiuejant el teu nom...{:delay 18 01}{:clear }amb el seu últim sospir!
+    Aladí està xiuxiuejant el teu nom...{:delay 18 01}{:clear }amb el seu últim sospir!
 - id: 328
   text: ''
 - id: 329
@@ -1184,7 +1184,7 @@
   text: ''
 - id: 4096
   text: >-
-    Ei, hauríem de parlar amb l'Aladdin.
+    Ei, hauríem de parlar amb l'Aladí.
 
     Ha de ser per la ciutat, no?
 - id: 4098
@@ -1360,7 +1360,7 @@
     més que desgràcies. De pressa, Sora!
 - id: 17064
   text: >-
-    Recordes quan l'Aladdin es va
+    Recordes quan l'Aladí es va
 
     enamorar de la princesa Jasmin?{:clear }Com ens va costar impedir que
 
@@ -1482,7 +1482,7 @@
     d'atrapar-lo tan aviat com pugueu.
 - id: 17693
   text: >-
-    Qui hagués dit que l'Aladdin
+    Qui hagués dit que l'Aladí
 
     acabaria conquerint la Jasmin!?{:clear }Allò demostra que pots aconseguir
 
@@ -1568,7 +1568,7 @@
   text: >-
     Si no fos pel que va
 
-    passar l'últim cop...{:clear }L'Aladdin i la Jasmin
+    passar l'últim cop...{:clear }L'Aladí i la Jasmin
 
     no serien junts.{:clear }Així que de certa manera,
 
@@ -1582,7 +1582,7 @@
     Però qui hi voldria comprar?
 - id: 18816
   text: >-
-    Sembla que l'Aladdin és en el {:theme 0A}palau{:reset}.
+    Sembla que l'Aladí és en el {:theme 0A}palau{:reset}.
 
     Espero que tots estiguin bé.{:clear }M'agradaria tornar a veure
 
@@ -1654,7 +1654,7 @@
     {:chardelay 09 00}Aviam què passa!
 - id: 19351
   text: >-
-    O sigui que l'Aladdin només trobava
+    O sigui que l'Aladí només trobava
 
     a faltar el Geni! Quin descans!{:clear }Què difícil és ser lluny dels
 
@@ -1684,7 +1684,7 @@
 - id: 20606
   text: Prem {:icon dynamic-triangle} per començar el duel! Ataca sense parar i no deixis que es curi.
 - id: 21509
-  text: "{:delayandfade 0A 78} \nEn Iago salva d'una bona\na tots, el que dona més\ncredibilitat a les seves disculpes.\n \nDesprés de l'escaramussa,\nel grup es dirigeix cap al\npalau per veure l'Aladdin.\n \n \n"
+  text: "{:delayandfade 0A 78} \nEn Iago salva d'una bona\na tots, el que dona més\ncredibilitat a les seves disculpes.\n \nDesprés de l'escaramussa,\nel grup es dirigeix cap al\npalau per veure l'Aladí.\n \n \n"
 - id: 21510
   text: "{:delayandfade 0A 78} \nEl feliç retrobament queda\ninterromput pel Iago, que\nalterat assegura que en\nla llàntia s'hi troba\nconfinat el vil Jafar.\n \n \n \n \n"
 - id: 21511
@@ -1706,7 +1706,7 @@
 
     i el rei, però  és aleshores quan
 
-    s'adonen de l'absència de l'Aladdin...
+    s'adonen de l'absència de l'Aladí...
 - id: 21513
   text: "{:delayandfade 07 B4}\nDe tornada a Agrabah, en Sora pregunta\nal mercader sobre l'Organització {XIII}.\nTot i que resulta evident que no és\nla primera vegada que escolta aquell\nnom, no xerra res.\n\nNo queda més remei que buscar\npistes en un altre lloc.\n \n \n"
 - id: 21514

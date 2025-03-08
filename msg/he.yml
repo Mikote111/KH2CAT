@@ -43,7 +43,7 @@
   text: >-
     L'Hèrcules està molt bé.
 
-    Només necessita un descans.{:clear }Oi que sí, noi meravella?
+    Només necessita un descans.{:clear }Oi que sí, home meravella?
 - id: 3467
   text: '[Renilla amb tristesa]'
 - id: 3468
@@ -93,7 +93,7 @@
   text: >-
     T'estaré vigilant,
 
-    escollit de la clau espasa.{:clear }Je, je, je, je...
+    escollit de la clau espasa.{:clear }He, he, he, he...
 - id: 3479
   text: Dirigeix-te a la sortida!
 - id: 3481
@@ -116,7 +116,7 @@
 - id: 3503
   text: '... Auron.'
 - id: 3504
-  text: És el meu nom.
+  text: Em dic així.
 - id: 3505
   text: Soc el Sora.
 - id: 3506
@@ -185,9 +185,9 @@
 
     però continua lluitant.{:clear }Tot i que fins i tot l'home
 
-    meravella té els seus límits.{:clear }I aquests rivals són durs
+    meravella té els seus límits.{:clear }I Zeus n'hi do amb els
 
-    de pelar; enviats especials
+    rivals; enviats especials
 
     de l'Hades mateix...
 - id: 3531
@@ -352,7 +352,7 @@
   text: >-
     No podem lluitar amb ell aquí!
 
-    Hem d'anar-nos-en... ara!
+    Ens n'hem d'anar... ara!
 - id: 3579
   text: >-
     Tinc els sensecor
@@ -442,7 +442,7 @@
   text: >-
     Sora! Donald! Goofy!
 
-    Quan hi heu arribat?
+    Quan heu arribat?
 - id: 3610
   text: Hola, Hèrcules!
 - id: 3611
@@ -471,7 +471,7 @@
 
     Quan hem arribat aquí,
 
-    ens hem trobat amb la Meg...
+    ens hem trobat la Meg...
 - id: 3619
   text: >-
     {:unk13 5E 01 69 00}{:unk06 00}{:unk08 01 00 06}Meg...mega...problemes!
@@ -564,7 +564,7 @@
     Posem fil a l'agulla!
 - id: 3637
   text: >-
-    {:unk13 95 00 02 01}{:unk06 00}{:unk08 01 01 06}Bé, haig d'anar-me'n
+    {:unk13 95 00 02 01}{:unk06 00}{:unk08 01 01 06}Bé, me n'haig d'anar
 
     un moment.
 - id: 3638
@@ -595,7 +595,7 @@
   text: '{:unk13 D6 00 37 00}{:unk06 00}{:unk08 01 00 05}El coneixeu?'
 - id: 3645
   text: >-
-    {:unk13 40 01 64 00}{:unk06 00}{:unk08 01 01 05}Crec que sí.{:clear }Eh, si aconseguim recuperar
+    {:unk13 40 01 64 00}{:unk06 00}{:unk08 01 01 05}Em sembla que sí.{:clear }Eh, si aconseguim recuperar
 
     la Pedra de l'Olimp, podem
 
@@ -631,10 +631,10 @@
   text: >-
     Sí... bé... però
 
-    per a què entrar en detalls?
+    perquè entrar en detalls?
 - id: 3655
   text: >-
-    {:delay 49 00}{:clear }Ara no pots anar-te'n. {:delay 6E 00}{:clear }A veure, avui tens un combat
+    {:delay 49 00}{:clear }Ara no te'n pots anar. {:delay 6E 00}{:clear }A veure, avui tens un combat
 
     molt important contra...{:delay 4F 01}{:clear }la sanguinària... Hidra! {:delay 8D 00}{:clear }{:delay 13 00}{:clear }Si no et quedes, qui sap quants
 
@@ -651,7 +651,7 @@
 - id: 3659
   text: Bé, no tots podem ser herois.
 - id: 3660
-  text: Podeu ocupar-vos-en?
+  text: Us en podeu ocupar?
 - id: 3661
   text: És clar! Som herois!
 - id: 3662
@@ -745,7 +745,7 @@
 - id: 3689
   text: ''
 - id: 3690
-  text: Ell en deu ser el lladre!
+  text: Ell deu ser el lladre!
 - id: 3691
   text: Quina grolleria!
 - id: 3692
@@ -810,7 +810,7 @@
   text: >-
     {:delay 3C 00}{:clear }Aquest lloc em fa calfreds.{:delay 6C 00}{:clear }{:delay 15 00}{:clear }M'encarregaré de vosaltres
 
-    la pròxima vegada!
+    la propera vegada!
 - id: 3716
   text: >-
     Podria anar encara més
@@ -1049,7 +1049,7 @@
   text: >-
     Bé, si no et ve de gust,
 
-    sempre pots...{:delay 78 00}{:clear }no sé, perdre.
+    sempre pots...{:delay 78 00}{:clear }no sé, perdre-hi.
 - id: 3782
   text: Més t'agradaria!
 - id: 3783
@@ -1131,7 +1131,7 @@
     Ja ho saps.
 - id: 3803
   text: >-
-    {:unk13 A2 00 2D 00}{:unk06 00}{:unk08 01 01 04}Potser ho hagi sigut...
+    {:unk13 A2 00 2D 00}{:unk06 00}{:unk08 01 01 04}Potser ho vaig ser...
 
     Ara només soc un fraca...
 - id: 3804
@@ -1231,7 +1231,7 @@
   text: Ahà... Bé, magnífic.
 - id: 3830
   text: >-
-    Què li passa a l'Auron?
+    Què li passa, a l'Auron?
 
     Mai s'havia comportat així.
 - id: 3831
@@ -1245,7 +1245,7 @@
   text: >-
     Però et perdono.{:delay 97 00}{:clear }Si compleixes la teva part
 
-    del nostre petit tracte,{:delay 83 00}{:clear }n'estic disposat a fer
+    del nostre petit tracte,{:delay 83 00}{:clear }estic disposat a fer-ne
 
     la vista grossa.
 - id: 3834
@@ -1381,7 +1381,7 @@
   text: Què passaaaa?
 - id: 3873
   text: >-
-    Encara som a temps!
+    Encara hi som a temps!
 
     Tornem-hi!
 - id: 3874
@@ -1404,7 +1404,7 @@
     al cor de l'Auron.
 - id: 3880
   text: >-
-    Òndia! Ha hagut de tenir
+    Òndia! Deu haver tingut
 
     una vida molt dura.
 - id: 3881
@@ -1453,7 +1453,7 @@
 
     però has d'ajudar-me.
 - id: 3895
-  text: Potser no em vas escoltar.
+  text: Potser no em vas sentir bé.
 - id: 3896
   text: >-
     Aquesta és la meva història,
@@ -1569,7 +1569,7 @@
   text: >-
     Però ja...
 
-    no em queda ningú qui protegir.
+    no em queda ningú a qui protegir.
 - id: 3931
   text: >-
     Potser és l'hora d'escriure
@@ -1601,14 +1601,14 @@
 - id: 3939
   text: Gràcies per entremeter-vos.
 - id: 3940
-  text: Eh! Què vol dir allò?
+  text: Eh! Què vol dir això?
 - id: 3941
   text: >-
     Gràcies un altre cop, nanos!
 
     Sou els millors.
 - id: 3942
-  text: Disculpa'ns per haver-nos entremès.
+  text: Disculpa'ns per haver-nos-hi entremès.
 - id: 3943
   text: >-
     Ohh... Per què ho dius?
@@ -1629,7 +1629,7 @@
 
     colomins, estareu bé{:delay C0 00}{:clear }sense nosaltres rondant per aquí.
 - id: 3948
-  text: Sí, hem d'anar-nos-en.
+  text: Sí, ens n'hem d'anar.
 - id: 3949
   text: >-
     Ahà. Abans que ens
@@ -1727,7 +1727,7 @@
 - id: 3984
   text: '{:icon dynamic-triangle}Diari'
 - id: 3993
-  text: Copa Dolor i Pànic
+  text: Copa Pena i Pànic
 - id: 3994
   text: Copa Cèrber
 - id: 3995
@@ -1735,7 +1735,7 @@
 - id: 3996
   text: Copa Deessa del Destí
 - id: 3999
-  text: '{:width 81}Copa Paradoxa de Dolor i Pànic'
+  text: '{:width 81}Copa Paradoxa de Pena i Pànic'
 - id: 4000
   text: Copa Paradoxa de Cèrber
 - id: 4001
@@ -1743,7 +1743,7 @@
 - id: 4002
   text: Copa Paradoxa d'Hades
 - id: 4005
-  text: Copa Dolor i Pànic
+  text: Copa Pena i Pànic
 - id: 4006
   text: >-
     Lluita la costat dels teus amics.
@@ -1809,7 +1809,7 @@
 
     {:color #F0F00080}Nivell del torneig: 55{:reset}
 - id: 4023
-  text: '{:width 81}Copa Paradoxa de Dolor i Pànic'
+  text: '{:width 81}Copa Paradoxa de Pena i Pànic'
 - id: 4024
   text: >-
     Lluita al costat dels teus amics.
@@ -2229,7 +2229,7 @@
 - id: 16985
   text: El trofeu de la Copa Cèrber.
 - id: 16986
-  text: El trofeu de la Copa Dolor i Pànic.
+  text: El trofeu de la Copa Pena i Pànic.
 - id: 16987
   text: El trofeu de la Copa Deessa del Destí.
 - id: 16988
@@ -2318,7 +2318,7 @@
 
     per a la Copa Hades. El
 
-    Dolor no hi té res a veure!
+    Pena no hi té res a veure!
 - id: 18993
   text: >-
     {:unk13 15 01 8C 00}{:unk06 00}{:unk08 01 01 05}I si triomfeu, obtindreu un
@@ -2364,7 +2364,7 @@
 - id: 19395
   text: S'ha de sobreviure fins que el temps s'acabi!
 - id: 19409
-  text: Arriba a la ronda 30 amb les normes de la Copa Dolor i Pànic!
+  text: Arriba a la ronda 30 amb les normes de la Copa Pena i Pànic!
 - id: 19410
   text: Arriba a la ronda 20 amb les normes de la Copa Tità!
 - id: 19411
