@@ -121,7 +121,7 @@
   text: Hola, Doctor! On és la Sally?
 - id: 5809
   text: >-
-    No veus que estic enmig
+    No veus que soc enmig
 
     d'un experiment?
 - id: 5810
@@ -162,7 +162,7 @@
   text: >-
     Si us plau, Sora.{:delay 3C 00}{:clear }Temo que li passi una cosa horrible si
 
-    el Jack segueix endavant amb això.
+    el Jack continua endavant amb això.
 - id: 5825
   text: Oi tant, Sally!
 - id: 5826
@@ -572,9 +572,9 @@
   text: Seràs carnús!
 - id: 5950
   text: >-
-    Segueixes aquí? {:delay 73 00}{:clear }Per què no dessacpareixes per on
+    Encara ets aquí? {:delay 73 00}{:clear }Per què no dessacpareixes per on
 
-    has vingut? M'estàs fotent!
+    has vingut? Em fots una mica!
 - id: 5951
   text: >-
     És que has oblidat qui t'ha fet
@@ -655,7 +655,7 @@
   text: >-
     Vejam, Jack Skelleton.{:delay 90 00}{:clear }Has salvat el Nadal i a mi.
 
-    I te n'estic molt agraït.{:delay 08 01}{:clear }Però promet-me que no
+    I t'hi estic molt agraït.{:delay 08 01}{:clear }Però promet-me que no
 
     causaràs més problemes!
 - id: 5979
@@ -826,7 +826,7 @@
 
     No pensaràs que he estat jo.
 - id: 6020
-  text: Segueixes duent el vestit, pel que veig.
+  text: Encara dus el vestit, pel que veig.
 - id: 6021
   text: >-
     Només volia estar
@@ -886,7 +886,7 @@
     aquí doncs!?
 - id: 6041
   text: >-
-    {:unk13 2C 01 32 00}{:unk06 00}{:unk08 01 00 06}Estem buscant peces
+    {:unk13 2C 01 32 00}{:unk06 00}{:unk08 01 00 06}Busquem peces
 
     per a l'experiment.
 - id: 6042
@@ -1056,7 +1056,7 @@
 
     Seguim el pla del Jack...
 
-    com a mínim per ara?
+    si més no per ara?
 - id: 6085
   text: >-
     {:unk13 C8 00 50 00}{:unk06 00}{:unk08 01 01 06}Anem a casa del Pare
@@ -1307,7 +1307,7 @@
     què més necessita?
 - id: 7974
   text: >-
-    El meu experiment es seguirà
+    El meu experiment es continuarà
 
     movent encara que el facin miques!{:clear }Però les peces serien difícils de
 
@@ -1351,7 +1351,7 @@
   text: >-
     El Jack està planejant
 
-    un altre Halloween.{:clear }Em pregunto si seguirà amb
+    un altre Halloween.{:clear }Em pregunto si continuarà amb
 
     el vestit vermell posat.
 - id: 7985
@@ -1708,9 +1708,9 @@
     Anaven descalços?
 - id: 16784
   text: >-
-    Sabeu què? Estic pensant en enviar regals
+    Sabeu què? Penso d'enviar regals a
 
-    a aquelles criatures de Vila Halloween.{:clear }Si els envio uns bonics ninots,
+    aquelles criatures de Vila Halloween.{:clear }Si els envio uns bonics ninots,
 
     potser ens duguem millor.
 - id: 16785
@@ -1799,7 +1799,7 @@
     sense l'Home del Sac.
 - id: 17714
   text: >-
-    Mmm... Em pregunto si estarà passant
+    Mmm... Em pregunto si deu passar
 
     alguna cosa aterradora de debò...
 - id: 17715
@@ -1855,7 +1855,7 @@
   text: >-
     D'on haurà sortit l'Home del Sac? L'últim
 
-    cop va intentar controlar els sensecor.{:clear }Què estarà tramant ara?
+    cop va intentar controlar els sensecor.{:clear }Què deu tramar ara?
 - id: 18531
   text: '{:delay 38 00}{:clear }Eh? {:delay 37 00}{:clear }'
 - id: 18532
@@ -2006,4 +2006,4 @@
 - id: 21546
   text: "{:delayandfade 0A 78} \nTot i que el Sora i els seus\namics creien que els sensecor\nestan darrere tot l'embull, el causant\ndels excessos resulta ser un altre.\n \nPer això, ideen un pla amb regals\ntrampa per atrapar el vertader\nculpable.\n \n \n"
 - id: 21547
-  text: "{:delayandfade 0A 78} \nNomés hi ha un lloc en el que\npodrien fabricar els regals trampa:\nel taller del Pare Noel.\n \n \n \n \n \n"
+  text: "{:delayandfade 0A 78} \nNomés hi ha un lloc on\npodrien fabricar els regals trampa:\nel taller del Pare Noel.\n \n \n \n \n \n"

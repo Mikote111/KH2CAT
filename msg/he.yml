@@ -81,9 +81,9 @@
   text: >-
     L'Hèrcules ha anat a buscar
 
-    la Pedra de l'Olimp.{:clear }Mentrestant, no hauríeu d'estar
+    la Pedra de l'Olimp.{:clear }Mentrestant, no hauríeu
 
-    entrenant, aprenents d'heroi?
+    d'entrenar, aprenents d'heroi?
 - id: 3477
   text: >-
     Estic ocupat. Si no tens
@@ -91,7 +91,7 @@
     res a dir, ves-te'n.
 - id: 3478
   text: >-
-    T'estaré vigilant,
+    Et vigilaré,
 
     escollit de la clau espasa.{:clear }He, he, he, he...
 - id: 3479
@@ -357,7 +357,7 @@
   text: >-
     Tinc els sensecor
 
-    per tot l'Inframon,{:delay BA 00}{:clear }així que deixa'm a mi a aquells mocosos.{:delay BA 00}{:clear }Mira, nano, tu segueix intentant
+    per tot l'Inframon,{:delay BA 00}{:clear }així que deixa'm a mi a aquells mocosos.{:delay BA 00}{:clear }Mira, nano, tu continua intentant
 
     convertir l'Hèrcules en un sensecor.{:delay 08 01}{:clear }Llavors sí que serà meu.
 - id: 3582
@@ -499,7 +499,7 @@
 - id: 3621
   text: '{:unk13 68 01 86 00}{:unk06 00}{:unk08 01 00 07}Creieu que podríem utilitzar-la?'
 - id: 3622
-  text: '{:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}I tant, per què no?{:clear }Us la aconseguiré.'
+  text: "{:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}I tant, per què no?{:clear }Us l'aconseguiré."
 - id: 3623
   text: '{:unk13 95 01 E8 00}{:unk06 00}{:unk08 01 01 05}Gràcies!'
 - id: 3624
@@ -938,7 +938,7 @@
 
     Ara ens en anem.
 - id: 3751
-  text: D'acord. Aquí estarem.
+  text: D'acord. Serem aquí.
 - id: 3752
   text: >-
     Òndia! Espero que et
@@ -1307,7 +1307,7 @@
     Allò m'és familiar.
 - id: 3852
   text: >-
-    {:delay 72 00}{:clear }L'Hades deu estar utilitzant aquell ninot
+    {:delay 72 00}{:clear }L'Hades deu fer servir aquell ninot
 
     per dominar la voluntat de l'Auron.
 - id: 3853
@@ -1888,17 +1888,17 @@
   text: >-
     La classificació de la Copa Hades,
 
-    en la que tan bé vas lluitar.
+    en què tan bé vas lluitar.
 - id: 7512
   text: >-
     La classificació de la Copa
 
-    Hèrcules, en la que vas vèncer.
+    Hèrcules, en què vas vèncer.
 - id: 7513
   text: >-
     La classificació de la Copa Pegàs,
 
-    en la que vas combatre amb valentia.
+    en què vas combatre amb valentia.
 - id: 7514
   text: >-
     La classificació d'un torneig
@@ -1969,9 +1969,9 @@
   text: ※ₓₓₓₓₓₓₓₓₓₓₓₓₓ
 - id: 12078
   text: >-
-    Ha! L'Hèrcules ja deu estar
+    Ha! L'Hèrcules ja deu
 
-    demanant compassió!{:clear }Què? També has
+    demanar compassió!{:clear }Què? També has
 
     vingut a veure'l perdre?
 - id: 12079
@@ -1994,7 +1994,7 @@
   text: >-
     Hem de trencar aquelles coses
 
-    ràpidament i recollir-ne les esferes.{:clear }Crec que hauríem d'apuntar
+    ràpidament i recollir-ne les esferes.{:clear }Em sembla que hauríem d'apuntar
 
     a les que estan apilades.
 - id: 16142
@@ -2141,7 +2141,7 @@
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Continues a les semifinals?
 
-    {:chardelay 33 00}Encara no estic a punt.
+    {:chardelay 33 00}Encara no hi estic a punt.
 
     {:chardelay 09 00}Som-hi!
 - id: 16179
@@ -2263,7 +2263,7 @@
   text: >-
     Vaja, vaja, què fa aquí
 
-    l'escollit de la clau espasa?{:clear }No hauries d'estar ajudant
+    l'escollit de la clau espasa?{:clear }No hauries d'ajudar
 
     aquell covard «campió»?
 - id: 17842
@@ -2585,7 +2585,7 @@
 - id: 21505
   text: "{:delayandfade 0A 78} \nL'Hades no deixa escapar l'ocasió\nper anunciar a en Sora i els seus\nel nefast futur que es cerneix\nsobre l'Olimp.\n \nQuè voldrà dir realment\nel díscol déu?\n \n \n"
 - id: 21506
-  text: "{:delayandfade 07 78} \nL'Olimp sembla més animat\nque de costum, tot gràcies\na la reobertura de l'Infernòdrom,\nun born en el que es disputen\ncombats contra bèsties.\n \nAmb monstres de per mig,\nen Sora sap que l'Hèrcules podria\nestar en un embolic, així que\ns'afanya a buscar l'heroi.\n"
+  text: "{:delayandfade 07 78} \nL'Olimp sembla més animat\nque de costum, tot gràcies\na la reobertura de l'Infernòdrom,\nun born on es disputen\ncombats contra bèsties.\n \nAmb monstres de per mig,\nen Sora sap que l'Hèrcules podria\nestar en un embolic, així que\ns'afanya a buscar l'heroi.\n"
 - id: 21507
   text: "{:delayandfade 07 B4} \nEls tres amics al costat de l'Hèrcules\ns'inscriuen a la Copa Hades i batallen amb\ntenacitat fins a fer-se un lloc a les finals.\n \n \n \n \n \n \n \n"
 - id: 21508

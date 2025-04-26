@@ -603,7 +603,7 @@
 - id: 1025
   text: Sortiu del mig!
 - id: 1026
-  text: Segueix sense aparèixer res.
+  text: Continua sense aparèixer res.
 - id: 1027
   text: Léon, afanya't!
 - id: 1028
@@ -669,7 +669,7 @@
     junts controlarem el món sencer!
 - id: 1051
   text: >-
-    PCM... segueixes sense entendre-ho,
+    PCM... encara no ho entens,
 
     oi?
 - id: 1052
@@ -827,7 +827,7 @@
   text: >-
     El navegador solar està al límit!
 
-    Acaba amb els enemics per seguir volant!
+    Acaba amb els enemics per continuar volant!
 - id: 10446
   text: Una recàrrega d'energia per a mi!
 - id: 10447
@@ -983,7 +983,7 @@
     per aquell terminal!{:clear }Però abans hem d'ajudar el Tron.
 - id: 17891
   text: >-
-    Si sortim i seguim tot dret,
+    Si sortim i continuem tot dret,
 
     arribarem a l'{:theme 0A}hangar de simulació{:reset}.
 - id: 17892

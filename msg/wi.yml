@@ -508,7 +508,7 @@
 - id: 5686
   text: Ah! Ens ha enganyat!
 - id: 5687
-  text: Però hi ha alguna cosa que segueix sense encaixar.
+  text: Però hi ha alguna cosa que continua sense encaixar.
 - id: 5688
   text: ''
 - id: 5689
@@ -577,7 +577,7 @@
 - id: 5713
   text: ''
 - id: 5714
-  text: Ja! Segueixes sent un pagerol!
+  text: Ja! Continues sent un pagerol!
 - id: 5715
   text: Lluita contra nosaltres!
 - id: 5716
@@ -839,12 +839,12 @@
 
     finestra. Necessito un altre passatemps.{:clear }He vist el Pete còrrer cap al canal.
 
-    Estarà passant-hi res?
+    Hi deu passar res?
 - id: 16854
   text: >-
     El Pete ha passat corrent cap a l'{:theme 0A}embarcador{:reset}.{:clear }Mai he vist a ningú còrrer així.
 
-    Estarà entrenant per a una carrera?
+    Deu entrenar per a una carrera?
 - id: 16855
   text: >-
     Bé, a què ve tanta pressa?
@@ -950,12 +950,12 @@
 - id: 21373
   text: S'han trencat tots els cables...
 - id: 21536
-  text: "{:delayandfade 08 78} \nSegons el Merlí, en aquest estrany món\nhi hauria d'haver un altre portal com\nel del Castell Disney...\n \nNo obstant això, en lloc d'una porta,\nel que el Sora troba és una finestra...\nen la que s'hi veu el grup instants\nabans d'arribar al món en blanc i negre!\n \n"
+  text: "{:delayandfade 08 78} \nSegons el Merlí, en aquest estrany món\nhi hauria d'haver un altre portal com\nel del Castell Disney...\n \nNo obstant això, en lloc d'una porta,\nel que el Sora troba és una finestra...\non es veu el grup instants\nabans d'arribar al món en blanc i negre!\n \n"
 - id: 21537
   text: "{:delayandfade 0A 78} \nI allà no s'acaba tot.\nDesprès d'allò, sorgeixen altres quatre finestres.\nDecidits a esbrinar-ne més, el Sora i els altres\nno dubten a endinsar-se'n en la primera.\n \n \n \n"
 - id: 21538
-  text: "{:delayandfade 0A 78} \nLa finestra mostra la Malèfica\ndonant una bona reprimenda\na algú, tot i que el blanc de\nles seves ires és un misteri.\n \nHauria de seguir apuntant\nla resta de finestres per poder\nesbrinar-ne més coses.\n \n \n"
+  text: "{:delayandfade 0A 78} \nLa finestra mostra la Malèfica\ndonant una bona reprimenda\na algú, tot i que el blanc de\nles seves ires és un misteri.\n \nHauria de continuar apuntant\nla resta de finestres per poder\nesbrinar-ne més coses.\n \n \n"
 - id: 21539
-  text: "{:delayandfade 0A 78} \nLa finestra mostra un portal\nidèntic al que el Merlín va\nconjurar en el Castell de Disney.\n \nAmb el misteri a mig resoldre,\nel Sora i els seus amics no tenen més\nremei que seguir el seu periple\na través de les finestres.\n \n \n"
+  text: "{:delayandfade 0A 78} \nLa finestra mostra un portal\nidèntic al que el Merlín va\nconjurar en el Castell de Disney.\n \nAmb el misteri a mig resoldre,\nel Sora i els seus amics no tenen més\nremei que continuar el seu periple\na través de les finestres.\n \n \n"
 - id: 21540
   text: "{:delayandfade 08 78} \nEl portal connecta amb el passat!\n \nEl pla de Malèfica és modificar\nel passat per fer-se amb el\nCastell Disney.\n \nAmb les idees ja més clares,\nsembla ser que ha arribat el moment\nde veure què hi ha la quarta finestra.\n \n"

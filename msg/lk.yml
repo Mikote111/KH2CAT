@@ -425,7 +425,7 @@
 
     més pels meus amics.
 - id: 8550
-  text: Estem rodejats!
+  text: Estem envoltats!
 - id: 8551
   text: Sora!
 - id: 8552
@@ -665,7 +665,7 @@
 - id: 8633
   text: Ho admet!{:delay 3F 00}{:clear }Assassí!
 - id: 8634
-  text: Si no fos per tu, en Mufasa seguiria viu.{:delay A2 00}{:clear }{:delay 1F 00}Ho negaràs?
+  text: Si no fos per tu, en Mufasa encara seria viu.{:delay A2 00}{:clear }{:delay 1F 00}Ho negaràs?
 - id: 8635
   text: No! Però va ser un accident!
 - id: 8636
@@ -1087,7 +1087,7 @@
   text: >-
     que jo tinc la sort d'estar
 
-    rodejat de bons amics.
+    envoltat de bons amics.
 - id: 8768
   text: >-
     Sora, Donald i Goofy.
@@ -1160,7 +1160,7 @@
   text: >-
     Però penso que mentre tingui
 
-    la clau espasa amb mi...{:delay F6 00}{:clear }hauré de seguir lluitant.
+    la clau espasa amb mi...{:delay F6 00}{:clear }hauré de continuar lluitant.
 - id: 8790
   text: >-
     Ahhh... La lluita mai té fi...
@@ -1227,7 +1227,7 @@
   text: >-
     {:unk13 B8 00 43 01}{:unk08 01 01 02}En Simba!?
 
-    Però si encara belluga la cua!{:clear }Va estar lluitant al nostre
+    Però si encara belluga la cua!{:clear }Va lluitar al nostre
 
     costat no fa molt.
 - id: 12895
@@ -1637,7 +1637,7 @@
   text: >-
     En Simba té una cosa que en Mufasa
 
-    no tenia i ha de descobrir-ho.{:clear }T'estaré esperant, Simba.
+    no tenia i ha de descobrir-ho.{:clear }T'esperaré, Simba.
 - id: 17190
   text: >-
     Tots els meus vells «amics» m'han
@@ -1696,7 +1696,7 @@
   text: >-
     Heu d'estar avorrits de vagar
 
-    per aquests llocs.{:clear }Segueix per allà el fantasma de l'Scar?
+    per aquests llocs.{:clear }Continua per allà, el fantasma de l'Scar?
 - id: 17257
   text: >-
     He, he. Sembla que el

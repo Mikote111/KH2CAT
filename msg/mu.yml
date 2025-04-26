@@ -296,7 +296,7 @@
     És la teva gran oportunitat!
 - id: 4215
   text: >-
-    Ja ho estic veient! «Fa Mulan estomaca
+    Ja ho veig! «Fa Mulan estomaca
 
     l'enemic públic número u!»{:delay B4 00}{:clear }Seràs famosa!
 
@@ -650,7 +650,7 @@
   text: >-
     {:unk13 09 01 54 01}{:unk08 01 00 01}Mmm... Bé. Deixaré que
 
-    t'uneixis a les meves tropes...{:clear }Però segueixo sense estar convençut
+    t'uneixis a les meves tropes...{:clear }Però continuo sense estar convençut
 
     que tinguis aptituds per...{:clear }ser un bon soldat.
 - id: 4334
@@ -956,7 +956,7 @@
 
     Hem d'atrapar aquell tipus!
 - id: 4444
-  text: Jo també l'estic seguint!
+  text: Jo també el segueixo!
 - id: 4445
   text: Doncs som-hi!
 - id: 4446
@@ -1546,7 +1546,7 @@
   text: >-
     Hem aconseguit restaurar bona
 
-    part d'aquell poblet incendiat.{:clear }Tot i que hi segueixint havent guerres,
+    part d'aquell poblet incendiat.{:clear }Tot i que hi continuïn havent guerres,
 
     l'esperança mai desapareixerà.
 - id: 13867
@@ -1560,7 +1560,7 @@
     també l'enemic es torna més poderós.
 - id: 14071
   text: >-
-    Els altres deuen estar rebent
+    Els altres ja deuen rebre ara
 
     una càlida benvinguda en el palau.{:clear }Estar de guàrdia és avorrit. Hi faré
 
@@ -1676,7 +1676,7 @@
 
     en Yao i l'altre primatxó és en Ling.{:clear }Què eren aquelles criatures que vam veure?
 
-    Estem lluitant contra allò?
+    Lluitem contra allò?
 - id: 17702
   text: >-
     El camí que du al palau des del
@@ -1691,9 +1691,9 @@
     sereu tan forts com nosaltres?
 - id: 17704
   text: >-
-    Preferiria estar entrenant
+    Preferiria entrenar per
 
-    per a un concurs de menjar.
+    a un concurs de menjar.
 - id: 17705
   text: >-
     La Mulan ha estat molt ocupada

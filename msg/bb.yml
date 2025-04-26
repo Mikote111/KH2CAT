@@ -14,7 +14,7 @@
     sempre serà benvingut.
 - id: 3020
   text: >-
-    Estic segur que l'amo se'n
+    Estic segur que l'amo es
 
     penedeix del que ha dit.{:clear }Per favor, {:theme 0A}
 
@@ -76,9 +76,9 @@
     totalment quan va arribar la Bella.
 - id: 3030
   text: >-
-    Em temo que la Bella no hi és.{:clear }Però la seva ropa segueix aquí,
+    Em temo que la Bella no hi és.{:clear }Però la seva ropa continua aquí,
 
-    així que dubto que hagi sortit.{:clear }Per què no la busquen en
+    així que dubto que hagi sortit.{:clear }Per què no la busquen a
 
     {:theme 0A}la cambra de l'amo{:reset}?
 - id: 3031
@@ -552,12 +552,12 @@
   text: "{:unk06 02}{:unk13 72 01 46 00}{:unk08 03 00 06}D'acord!"
 - id: 3188
   text: >-
-    {:unk13 FA 00 C8 00}{:unk08 01 00 06}Segueixin-me, messieurs.
+    {:unk13 FA 00 C8 00}{:unk08 01 00 06}Seguiu-me, messieurs.
 
     Conec una drecera.
 - id: 3189
   text: >-
-    {:unk13 AA 00 C8 00}{:unk08 01 01 06}Deixin pas als
+    {:unk13 AA 00 C8 00}{:unk08 01 01 06}Deixeu pas als
 
     nostres hostes!
 - id: 3190
@@ -811,7 +811,7 @@
   text: >-
     De debò?
 
-    Creieu que ho aconseguirà?
+    Penseu que ho aconseguirà?
 - id: 3266
   text: Si, hi confiem.
 - id: 3267
@@ -863,7 +863,7 @@
   text: >-
     {:unk13 C8 00 78 00}{:unk08 01 00 06}El món dels incorporis
 
-    ha de ser en algun lloc.{:clear }Hi estem buscant una entrada.
+    ha de ser en algun lloc.{:clear }Hi busquem una entrada.
 - id: 3289
   text: '{:unk13 7C 01 32 00}{:unk08 01 00 05}Mmm.'
 - id: 3290
@@ -1800,9 +1800,9 @@
   text: >-
     Derrota el Xaldin de l'Organització {XIII}!
 
-    Amb Aprendre aconseguiràs Saltar:
+    Amb Aprèn aconseguiràs Salta:
 
-    utilitza'l i et serà més fàcil!
+    empra'l i et serà més fàcil!
 - id: 18753
   text: L'armari bloqueja de nou la porta.
 - id: 18754
@@ -1858,7 +1858,7 @@
 - id: 21494
   text: "{:delayandfade 07 F0} \nLa Bella confessa que la Bèstia es porta\nde forma estranya últimament i que ha tancat\nels seus servents a la masmorra del castell.\n \nEl grup s'afanya a alliberar-los, però es \ntopa amb una sorpresa en el seu camí... \nun armari parlant que resulta ser una\nsenyora sota l'efecte de un vil encís!\n"
 - id: 21495
-  text: "{:delayandfade 07 B4} \nLa senyora explica que també la Bèstia fou\nen el seu dia un humà, el príncep del castell.\n \nObtenir més respostes passa per alliberar\nels pobres servents encara reclusos en\nla masmorra, així que en Sora i els seus\namics segueixen endinsant-se en el castell.\n \n \n \n"
+  text: "{:delayandfade 07 B4} \nLa senyora explica que també la Bèstia fou\nen el seu dia un humà, el príncep del castell.\n \nObtenir més respostes passa per alliberar\nels pobres servents encara reclusos en\nla masmorra, així que en Sora i els seus\namics continuen endinsant-se en el castell.\n \n \n \n"
 - id: 21496
   text: "{:delayandfade 07 C8} \nEl príncep, un noble consentit\ni gens amigable, va negar a una\npobre anciana refugi al seu\ncastell en una nit de tempesta.\n \nPer desgràcia per a ell, l'anciana\nva resultar ser una bruixa, que\nper motiu de la seva fredor i egoisme,\nel va convertir en una horrible bèstia\ni també va encisar tots els seus servents.\n \n"
 - id: 21497

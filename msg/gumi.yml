@@ -1158,7 +1158,7 @@
     {:color #8080F080}{:icon dynamic-select}{:reset}: Tancar la guia gumi
 
 
-    Per seguir llegint, prem {:icon dynamic-cross}!
+    Per continuar llegint, prem {:icon dynamic-cross}!
 - id: 16640
   text: >-
     Veure els {:color #8080F080}objectes i funcions especials{:reset}
@@ -1194,7 +1194,7 @@
 
     bisellats, tubulars i corbs s'agrupen.
 
-    Els paràmetres segueixen iguals als
+    Els paràmetres continuen iguals als
 
     dels gumis originals per separat.
 - id: 16642
@@ -1493,7 +1493,7 @@
 
     Utilitza {:color #8080F080}{:icon dynamic-left-analog}{:reset} per rotar i col・locar el gumi. 
 
-    Confirma la direcció en la que vols que miri
+    Confirma la direcció en què vols que miri
 
     i prem {:icon dynamic-cross} de nou per copiar-lo.
 - id: 16656
@@ -2166,7 +2166,7 @@
 
     col・locar-lo. Rota i fixa el gumi amb {:color #8080F080}{:icon dynamic-left-analog}{:reset}.
 
-    Selecciona la direcció en la que vols
+    Selecciona la direcció en què vols
 
     que apunti i prem {:icon dynamic-cross} per confirmar.
 - id: 18752

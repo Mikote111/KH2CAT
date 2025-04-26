@@ -137,7 +137,7 @@
   text: >-
     Potser sí necessitem la vostra ajuda.
 
-    Vegeu.{:delay C6 00}{:clear }Em temo que l'Ariel segueix
+    Vegeu.{:delay C6 00}{:clear }Em temo que l'Ariel continua
 
     entossudida amb el món dels humans.{:delay 04 01}{:clear }Si els ensajos la mantinguessin ocupada,{:delay 9C 00}{:clear }deixaria de pensar en la
 
@@ -163,7 +163,7 @@
 
     m'arrencarà les pinces per això!
 - id: 5044
-  text: Va! Hem de seguir ensajant!
+  text: Va! Hem de continuar ensajant!
 - id: 5045
   text: Ho sento, però no em ve de gust.
 - id: 5046
@@ -637,7 +637,7 @@
   text: Vaja! Han estat molt a prop.
 - id: 5184
   text: >-
-    Em sembla que hauríem de seguir
+    Em sembla que hauríem de continuar
 
     buscant l'Úrsula, no creieu?
 - id: 5185
@@ -863,7 +863,7 @@
   text: >-
     Encara que ens en anem els nostres
 
-    mons segueixen connectats.
+    mons continuen connectats.
 - id: 5269
   text: Que vol dir...
 - id: 5270
@@ -1153,7 +1153,7 @@
   text: >-
     {:unk13 FA 00 90 01}Encara no s'ha acabat.
 
-    Tu pots, segueix lluitant.
+    Tu pots, continua lluitant.
 - id: 8822
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Tu vine nedant, gaudeix ballant.{:unk0e 00}'
 - id: 8823
@@ -1545,7 +1545,7 @@
     {:chardelay 09 00}Ho intentaré!
 - id: 18130
   text: >-
-    Estem perdent temps d'assaig!
+    Perdem temps d'assaig!
 
     Però no podem deixar les coses així.{:clear }Què podríem fer? Què?
 - id: 18131
@@ -1577,7 +1577,7 @@
     li deixi d'agradar alguna cosa.
 - id: 18136
   text: >-
-    Sembla que l'Ariel segueix pensant
+    Sembla que l'Ariel continua pensant
 
     en la vida de la superfície.{:clear }Sé que li agraden les aventures, però
 
@@ -1726,7 +1726,7 @@
   text: >-
     L'Ariel vol tornar una cosa que li va
 
-    caure a un humà? En què estarà pensant?
+    caure a un humà? En què deu pensar?
 - id: 18160
   text: >-
     Últimament, l'Ariel no fa més que
@@ -1811,7 +1811,7 @@
     més bonica es torna la teva veu.
 - id: 18176
   text: >-
-    Creus que l'Ariel estarà bé?
+    Penses que l'Ariel estarà bé?
 
     Què podem fer per ajudar-la?
 - id: 18177
@@ -1894,7 +1894,7 @@
 
     {:chardelay 33 00}Espera, estic una mica nerviós.
 
-    {:chardelay 09 00}Sí, estic a punt! Som-hi!
+    {:chardelay 09 00}Sí, hi estic a punt! Som-hi!
 - id: 18190
   text: >-
     Com sempre dic: els fills han de fer
@@ -2015,7 +2015,7 @@
 - id: 21530
   text: "{:delayandfade 0A 78} \nEl Rei Tritó, coneixent l'Ariel\ncom la coneix, sap que la seva\nfilla tramava alguna cosa...\n \n \n \n \n \n"
 - id: 21531
-  text: "{:delayandfade 08 78} \nSens dubte, molts són els\nproblemes que assetgen el regne,\nperò el Sora s'arma de valor\ni segueix amb els assajos.\n \nDesprés de tot, les penes\namb música, menys tristes són.\n \n \n \n"
+  text: "{:delayandfade 08 78} \nSens dubte, molts són els\nproblemes que assetgen el regne,\nperò el Sora s'arma de valor\ni continua amb els assajos.\n \nDesprés de tot, les penes\namb música, menys tristes són.\n \n \n \n"
 - id: 21532
   text: "{:delayandfade 07 78} \nLa jove i enamorada Ariel observa\nel seu príncep en la llunyania. Entre les\nroques veu allò que el jove busca,\nperò li és impossible arribar-hi.\n \nPer sort, el Sora és per allà i,\nutilitzant els seus poders, aconsegueix\napartar la gran roca per arribar al\npenjoll.\n \n"
 - id: 21533

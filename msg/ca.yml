@@ -137,7 +137,7 @@
     si els enemics ens ataquen.
 - id: 7886
   text: >-
-    Quan era petita, el vaixell en el que viatjava
+    Quan era petita, el vaixell en què viatjava
 
     va trobar en Will enmig del mar.{:clear }Mentre el rescataven vaig descobrir que
 
@@ -399,9 +399,9 @@
     a la ciutat, no?
 - id: 9983
   text: >-
-    {:unk13 24 01 E6 00}{:unk08 01 00 01}Sí. Deuen estar
+    {:unk13 24 01 E6 00}{:unk08 01 00 01}Sí. Deuen buscar
 
-    buscant algun tresor.
+    algun tresor.
 - id: 9984
   text: A on em portes? Deixa'm anar!
 - id: 9985
@@ -533,7 +533,7 @@
   text: No ho sé. L'acabem de conèixer.
 - id: 10027
   text: >-
-    Mmm... Crec que la meva
+    Mmm... Em sembla que la meva
 
     sort és a punt de canviar.
 - id: 10028
@@ -851,12 +851,12 @@
   text: >-
     Considerant que ara la
 
-    Perla Negra és meva, Jack,{:delay DE 00}{:clear }deixar-te marxar no crec 
+    Perla Negra és meva, Jack,{:delay DE 00}{:clear }deixar-te marxar no penso 
 
     que sigui molt convenient.
 - id: 10100
   text: >-
-    Què estrany, {:delay 36 00}{:clear }no n'estic gaire de preocupat
+    Què estrany, {:delay 36 00}{:clear }no n'estic gaire, de preocupat,
 
     per la teva CONVENIÈNCIA.{:delay C8 00}{:clear }Torna'm la Perla!
 - id: 10102
@@ -1182,7 +1182,7 @@
   text: >-
     Vam trobar una sortida de la cova...{:delay 5B 00}{:clear }però aquell brivall va enviar-nos una
 
-    horda de terribles criatures... {:delay 21 01}{:clear } {:delay 2F 00}{:clear }Mai havia vist tals coses. {:delay 73 00}{:clear } {:delay 3D 00}{:clear }Crec que soc l'únic que ha
+    horda de terribles criatures... {:delay 21 01}{:clear } {:delay 2F 00}{:clear }Mai havia vist tals coses. {:delay 73 00}{:clear } {:delay 3D 00}{:clear }Em penso que soc l'únic que ha
 
     aconseguit arribar al vaixell.
 - id: 10207
@@ -1399,7 +1399,7 @@
 
     totes les peces d'or.{:clear }Si no, la maledicció
 
-    seguirà el seu curs...{:clear }i les criatures continuaran
+    continuarà el seu curs...{:clear }i les criatures continuaran
 
     sent invencibles.
 - id: 10273
@@ -1759,9 +1759,9 @@
     taula lliscant un altre cop?
 - id: 15905
   text: >-
-    Malgrat tot, em segueix
+    Malgrat tot, em continua
 
-    fascinant la vida en altamar.{:clear }Crec que m'agradaria
+    fascinant la vida en altamar.{:clear }Em sembla que m'agradaria
 
     viatjar una mica més.
 - id: 15916
@@ -1878,9 +1878,9 @@
   text: >-
     Sembla que el pirata que era
 
-    amb el Pete es diu Barbossa.{:clear }La gent diu que quan vol alguna cosa
+    amb el Pete es diu Barbossa.{:clear }La gent diu que quan vol alguna
 
-    res l'atura. Què deu estar buscant?
+    cosa res l'atura. Què deu buscar?
 - id: 17687
   text: >-
     Encara que me pesi, he de reconèixer
@@ -1987,7 +1987,7 @@
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Sembla divertit. Vols provar-ho?
 
-    {:chardelay 33 00}Mmm, crec que no.
+    {:chardelay 33 00}Mmm, em sembla que no.
 
     {:chardelay 52 00}Sí, me l'enduc.
 - id: 18920
@@ -1996,7 +1996,7 @@
 
     El provo?
 
-    {:chardelay 33 00}Mmm, crec que no.
+    {:chardelay 33 00}Mmm, em sembla que no.
 
     {:chardelay 52 00}Sí, me l'enduc.
 - id: 19109
@@ -2056,10 +2056,10 @@
 - id: 21553
   text: "{:delayandfade 0A 78} \nEn Will no es refia dels pirates,\ni encara menys d'un com el Jack.\nAquella és la raó que decidís\nabandonar-lo en l'illa i tornar\na Port Royal.\n \n \n \n"
 - id: 21554
-  text: "{:delayandfade 07 78} \nAtrapats al celler del navili\ni rodejats de barrils de pólvora,\ntots semblen condemnats a acabar\nen el fons dels mars.\n \nPerò gràcies a l'astúcia del\nllegendari Jack i a la destresa\ndel Sora amb la seva clau espasa,\nel grup en surt il・lés un cop més.\n \n"
+  text: "{:delayandfade 07 78} \nAtrapats al celler del navili\ni envoltats de barrils de pólvora,\ntots semblen condemnats a acabar\nen el fons dels mars.\n \nPerò gràcies a l'astúcia del\nllegendari Jack i a la destresa\ndel Sora amb la seva clau espasa,\nel grup en surt il・lés un cop més.\n \n"
 - id: 21555
   text: "{:delayandfade 0A 78} \nLes coses no semblen estar\ngens tranquil・les a Port Royal\nquan el Sora i els seus\narriben de nou a port.\n \n \n \n"
 - id: 21556
-  text: "{:delayandfade 07 78}La maledicció de l'or asteca\nsegueix afectant els pirates,\nraó per què el Will se n'ha\nanat a l'Isla de Muerta\nen busca de respostes.\n \nEl Sora i els seus aborden de\nnou la Perla Negra i segueixen\nels passos del valerós jove.\n \n"
+  text: "{:delayandfade 07 78}La maledicció de l'or asteca\ncontinua afectant els pirates,\nraó per què el Will se n'ha\nanat a l'Isla de Muerta\nen busca de respostes.\n \nEl Sora i els seus aborden de\nnou la Perla Negra i segueixen\nels passos del valerós jove.\n \n"
 - id: 21557
   text: "{:delayandfade 08 78} \nL'Organització {XIII} no pot\nsortir-se'n!\n \nEncara que el Sora i els seus amics\ndesitgen plantar cara al seu enemic,\nsaben que sense les peces d'or que\nfalten no hi tenen cap oportunitat,\naixí que no perden el temps\ni busquen a qui les ha robat.\n"

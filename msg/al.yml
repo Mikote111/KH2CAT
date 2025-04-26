@@ -13,7 +13,7 @@
 - id: 42
   text: Òndia! I el rei?
 - id: 43
-  text: Seguiu somiant, nanos.
+  text: Continueu somiant, nanos.
 - id: 44
   text: >-
     Va, Donald,
@@ -481,9 +481,9 @@
 
     La feliç vida dels enamorats.
 - id: 202
-  text: Alaaaddin!{:delay 32 00}{:clear }Jasmin!
+  text: Alaaadí!{:delay 32 00}{:clear }Jasmin!
 - id: 204
-  text: M'ho estic imaginant...
+  text: M'ho imagino...
 - id: 205
   text: >-
     Soc un pesat!
@@ -660,14 +660,14 @@
   text: >-
     {:unk13 68 01 40 01}{:unk08 01 00 00}Qui, jo? No,
 
-    crec que no...
+    em penso que no...
 - id: 257
   text: '{:unk13 78 00 C8 00}{:unk08 01 00 04}Us ho asseguro!'
 - id: 258
   text: >-
     {:unk13 5F 01 EC 00}{:unk08 01 00 01}D'acord. Llavors,
 
-    seguirem investigant.
+    continuarem investigant.
 - id: 259
   text: Sora! No deixis que escapi!
 - id: 260
@@ -703,7 +703,7 @@
     busca venjança.
 - id: 270
   text: >-
-    {:unk13 96 00 5A 00}{:unk08 01 01 06}Deu seguir irritat
+    {:unk13 96 00 5A 00}{:unk08 01 01 06}Deu continuar irritat
 
     per l'asumpte de
 
@@ -835,9 +835,9 @@
   text: On és en Jafar!?
 - id: 310
   text: >-
-    Doncs... Mmm... Vejam...{:delay 7E 00}{:clear }En aquests moments deu
+    Doncs... Mmm... Vejam...{:delay 7E 00}{:clear }En aquests moments ja
 
-    estar atacant el palau...
+    deu atacar el palau...
 - id: 311
   text: >-
     No vaig tenir elecció! Els seus ulls
@@ -1200,7 +1200,7 @@
   text: '{:icon dynamic-cross}Fi'
 - id: 7943
   text: >-
-    En Jafar deu estar planejant
+    En Jafar deu planejar
 
     prendre el {:theme 0A}palau{:reset}.{:clear }Segur que no pensa compartir
 
@@ -1633,7 +1633,7 @@
 
     Què? Aniràs a les ruïnes?{:clear }Bé, per arribar-hi
 
-    has de creuar el desert...{:clear }No m'estaràs amagant
+    has de creuar el desert...{:clear }No m'amagues
 
     res, oi?
 - id: 19205

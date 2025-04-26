@@ -2,6 +2,7 @@ title: Kingdom Hearts II Final Mix Català
 description: Gaudeix de la segona entrega numerada de la saga Kingdom Hearts amb textos totalment en català!
 assets:
   - name: msg/sp/sys.bar
+    platform: pc
     method: binarc
     package: kh2_first
     source:
@@ -12,6 +13,7 @@ assets:
           - name: msg/sys.yml
             language: text
   - name: msg/sp/es.bar
+    platform: pc
     method: binarc
     package: kh2_first
     source:
@@ -22,11 +24,13 @@ assets:
           - name: msg/es.yml
             language: text
   - name: remastered/msg/sp/es.bar/SP_es_bar0.png
+    platform: pc
     method: copy
     package: kh2_first
     source:
       - name: remastered/msg/es.bar/CA_es_bar0.png
   - name: msg/sp/title.bar
+    platform: pc
     method: binarc
     package: kh2_first
     source:
@@ -37,6 +41,7 @@ assets:
           - name: msg/title.yml
             language: text
   - name: msg/sp/tt.bar
+    platform: pc
     method: binarc
     package: kh2_first
     source:
@@ -47,11 +52,13 @@ assets:
           - name: msg/tt.yml
             language: text
   - name: remastered/msg/sp/tt.bar/SP_tt_bar0.png
+    platform: pc
     method: copy
     package: kh2_first
     source:
       - name: remastered/msg/tt.bar/CA_tt_bar0.png
   - name: msg/sp/hb.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -62,11 +69,13 @@ assets:
           - name: msg/hb.yml
             language: text
   - name: remastered/msg/sp/hb.bar/SP_hb_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/hb.bar/CA_hb_bar0.png
   - name: msg/sp/eh.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -77,11 +86,13 @@ assets:
           - name: msg/eh.yml
             language: text
   - name: remastered/msg/sp/eh.bar/SP_eh_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/eh.bar/CA_eh_bar0.png
   - name: msg/sp/he.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -92,11 +103,13 @@ assets:
           - name: msg/he.yml
             language: text
   - name: remastered/msg/sp/he.bar/SP_he_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/he.bar/CA_he_bar0.png
   - name: msg/sp/ca.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -107,11 +120,13 @@ assets:
           - name: msg/ca.yml
             language: text
   - name: remastered/msg/sp/ca.bar/SP_ca_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/ca.bar/CA_ca_bar0.png
   - name: msg/sp/di.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -122,11 +137,13 @@ assets:
           - name: msg/di.yml
             language: text
   - name: remastered/msg/sp/di.bar/SP_di_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/di.bar/CA_di_bar0.png
   - name: msg/sp/nm.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -137,11 +154,13 @@ assets:
           - name: msg/nm.yml
             language: text
   - name: remastered/msg/sp/nm.bar/SP_nm_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/nm.bar/CA_nm_bar0.png
   - name: msg/sp/al.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -152,11 +171,13 @@ assets:
           - name: msg/al.yml
             language: text
   - name: remastered/msg/sp/al.bar/SP_al_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/al.bar/CA_al_bar0.png
   - name: msg/sp/bb.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -167,11 +188,13 @@ assets:
           - name: msg/bb.yml
             language: text
   - name: remastered/msg/sp/bb.bar/SP_bb_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/bb.bar/CA_bb_bar0.png
   - name: msg/sp/lm.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -182,11 +205,13 @@ assets:
           - name: msg/lm.yml
             language: text
   - name: remastered/msg/sp/lm.bar/SP_lm_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/lm.bar/CA_lm_bar0.png
   - name: msg/sp/lk.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -197,11 +222,13 @@ assets:
           - name: msg/lk.yml
             language: text
   - name: remastered/msg/sp/lk.bar/SP_lk_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/lk.bar/CA_lk_bar0.png
   - name: msg/sp/mu.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -212,11 +239,13 @@ assets:
           - name: msg/mu.yml
             language: text
   - name: remastered/msg/sp/mu.bar/SP_mu_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/mu.bar/CA_mu_bar0.png
   - name: msg/sp/dc.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -227,11 +256,13 @@ assets:
           - name: msg/dc.yml
             language: text
   - name: remastered/msg/sp/dc.bar/SP_dc_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/dc.bar/CA_dc_bar0.png
   - name: msg/sp/gumi.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -242,6 +273,7 @@ assets:
           - name: msg/gumi.yml
             language: text
   - name: msg/sp/jm.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -252,6 +284,7 @@ assets:
           - name: msg/jm.yml
             language: text
   - name: msg/sp/po.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -262,11 +295,13 @@ assets:
           - name: msg/po.yml
             language: text
   - name: remastered/msg/sp/po.bar/SP_po_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/po.bar/CA_po_bar0.png
   - name: msg/sp/tr.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -277,11 +312,13 @@ assets:
           - name: msg/tr.yml
             language: text
   - name: remastered/msg/sp/tr.bar/SP_tr_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/tr.bar/CA_tr_bar0.png
   - name: msg/sp/wi.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -292,11 +329,13 @@ assets:
           - name: msg/wi.yml
             language: text
   - name: remastered/msg/sp/wi.bar/SP_wi_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
       - name: remastered/msg/wi.bar/CA_wi_bar0.png
   - name: msg/sp/wm.bar
+    platform: pc
     method: binarc
     package: kh2_fifth
     source:
@@ -307,6 +346,7 @@ assets:
           - name: msg/wm.yml
             language: text
   - name: remastered/msg/sp/wm.bar/SP_wm_bar0.png
+    platform: pc
     method: copy
     package: kh2_fifth
     source:
@@ -4144,4 +4184,254 @@ assets:
     package: kh2_sixth
     source:
     - name: remastered/msg/CA_fontimage_bar1.png
+
+#MSG PS2
+  - name: msg/jp/sys.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: text
+  - name: msg/jp/es.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: es
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/es.yml
+            language: text
+  - name: msg/jp/title.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: titl
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/title.yml
+            language: text
+  - name: msg/jp/tt.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: tt
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tt.yml
+            language: text
+  - name: msg/jp/hb.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: hb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/hb.yml
+            language: text
+  - name: msg/jp/eh.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: eh
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/eh.yml
+            language: text
+  - name: msg/jp/he.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: he
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/he.yml
+            language: text
+  - name: msg/jp/ca.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: ca
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/ca.yml
+            language: text
+  - name: msg/jp/di.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: di
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/di.yml
+            language: text
+  - name: msg/jp/nm.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: nm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/nm.yml
+            language: text
+  - name: msg/jp/al.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: al
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/al.yml
+            language: text
+  - name: msg/jp/bb.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: bb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/bb.yml
+            language: text
+  - name: msg/jp/lm.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: lm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lm.yml
+            language: text
+  - name: msg/jp/lk.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: lk
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lk.yml
+            language: text
+  - name: msg/jp/mu.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: mu
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/mu.yml
+            language: text
+  - name: msg/jp/dc.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: dc
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/dc.yml
+            language: text
+  - name: msg/jp/gumi.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: gumi
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/gumi.yml
+            language: text
+  - name: msg/jp/jm.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: jm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/jm.yml
+            language: text
+  - name: msg/jp/po.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: po
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/po.yml
+            language: text
+  - name: msg/jp/tr.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: tr
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tr.yml
+            language: text
+  - name: msg/jp/wi.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: wi
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/wi.yml
+            language: text
+  - name: msg/jp/wm.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: wm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/wm.yml
+            language: text
+  - name: msg/jp/fontimage.bar
+    platform: ps2
+    method: copy
+    source:
+      - name: msg/fontimage.bar
+  - name: msg/jp/fontinfo.bar
+    platform: ps2
+    method: copy
+    source:
+      - name: msg/fontinfo.bar
+  
+  #MENU PS2
+  - name: menu/fm/camp.2ld
+    platform: ps2
+    method: copy
+    source:
+      - name: menu/camp.2ld
+  - name: menu/fm/save.2ld
+    platform: ps2
+    method: copy
+    source:
+      - name: menu/save.2ld
+  - name: menu/fm/title.2ld
+    platform: ps2
+    method: copy
+    source:
+      - name: menu/title.2ld
+
 

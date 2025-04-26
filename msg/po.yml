@@ -73,7 +73,7 @@
     Bon Diventcres!
 - id: 4682
   text: >-
-    Vaja, crec que li aniré a desitjar
+    Vaja, em sembla que aniré a desitjar
 
     a tothom un bon Diventcres.
 - id: 4683
@@ -146,7 +146,7 @@
     bastant rar, no?
 - id: 4702
   text: >-
-    {:unk13 57 01 DE 00}{:unk06 00}{:unk08 01 00 05}Sembla que estem
+    {:unk13 57 01 DE 00}{:unk06 00}{:unk08 01 00 05}Sembla que som
 
     en problemes seriosos!
 - id: 4703
@@ -378,10 +378,10 @@
 
     allà dins hi ha una mica més de mel.
 - id: 4763
-  text: Estic atrapado!
+  text: Estic atrapat!
 - id: 4764
   text: >-
-    Ahh... Segueix sense recordar-se'n.{:delay 85 00}{:clear }Es pot saber què
+    Ahh... Continua sense recordar-se'n.{:delay 85 00}{:clear }Es pot saber què
 
     ha picat a l'os Pooh?
 - id: 4765
@@ -406,9 +406,9 @@
     tan fort.{:delay A2 00}{:clear }O pot ser que necessiti més mel.{:delay 99 00}{:clear }O que estigui sonàmbul i vagi somiant...
 - id: 4771
   text: >-
-    Doncs si estic somiant...
+    Doncs si ara somio...
 
-    cosa que suposo que podria ser,{:delay 18 01}{:clear }espero arribar aviat a la part{:delay 73 00}{:clear }en la que em tornes a convidar
+    cosa que suposo que podria ser,{:delay 18 01}{:clear }espero arribar aviat a la part{:delay 73 00}{:clear }en què em tornes a convidar
 
     a menjar, Conill.
 - id: 4772
@@ -520,7 +520,7 @@
     sempre em fa entrar gana.
 - id: 4799
   text: >-
-    Amb tants bots i segueix
+    Amb tants bots i continua
 
     sense recordar-se'n?
 - id: 4800
@@ -586,7 +586,7 @@
   text: >-
     {:unk13 F0 00 46 00}{:unk06 00}{:unk08 01 00 05}Sembla que tenim
 
-    una mica de temps.{:clear }Per què no segueixo
+    una mica de temps.{:clear }Per què no continuo
 
     des d'on ho vaig deixar?{:clear }El meu cosí, o sigui, el fill
 
@@ -843,7 +843,7 @@
     Socors!
 - id: 7898
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Estarà menjant mel?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Deu menjar mel ara?
 
     {:chardelay 33 00}Deixa'l en pau.
 
@@ -924,7 +924,7 @@
     Deu ser molt divertit!
 - id: 7911
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}S'estarà divertint?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Es deu divertir?
 
     {:chardelay 33 00}Sí, quina enveja!
 
@@ -1228,7 +1228,7 @@
   text: >-
     Mmm... Què faré si esclata el
 
-    globus mentre estic recollint mel?{:clear }No et preocupis! Soc tan fort
+    globus mentre recullo mel?{:clear }No et preocupis! Soc tan fort
 
     que una cosa així no m'aturaria!
 - id: 18098

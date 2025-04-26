@@ -83,7 +83,7 @@
   text: >-
     És clar! Però...
 
-    ens segueix faltant la contrasenya.
+    ens continua faltant la contrasenya.
 - id: 2962
   text: >-
     Ei, nanos. Digueu-me.
@@ -92,12 +92,12 @@
 - id: 2963
   text: Sa Majestat!
 - id: 2964
-  text: Us estàvem buscant!
+  text: Us buscàvem!
 - id: 2965
   text: >-
     Shhh! {:delay 23 00}{:clear }{:delay 50 00}{:clear }L'Organització podria
 
-    estar escoltant-nos!
+    escoltar-nos!
 - id: 2966
   text: Parlàveu de la Porta a la Foscor?
 - id: 2967
@@ -354,7 +354,7 @@
     joc especialment divertit.
 - id: 8175
   text: >-
-    {:unk13 AF 00 37 00}{:unk08 01 01 06}Gràcies, xaval.{:clear }Estem preparant un programa
+    {:unk13 AF 00 37 00}{:unk08 01 01 06}Gràcies, xaval.{:clear }Ara preparem un programa
 
     d'Erradicació del PCM.{:clear }Em fa l'efecte que
 
@@ -424,9 +424,9 @@
   text: '{:unk13 FA 00 3C 00}{:unk08 01 00 05}Com està el Tron?'
 - id: 8192
   text: >-
-    {:unk13 F0 00 46 00}{:unk08 01 01 07}Seguim sense poder
+    {:unk13 F0 00 46 00}{:unk08 01 01 07}Continuem sense
 
-    contactar amb ell.{:clear }Per què no ho
+    poder contactar-hi.{:clear }Per què no ho
 
     intenteu vosaltres?
 - id: 8193
@@ -472,7 +472,7 @@
 - id: 8201
   text: Vell xaruc, dius?
 - id: 8202
-  text: Estic intentant treballar!
+  text: Intento treballar!
 - id: 8203
   text: >-
     Ho, ho, ho... Ja t'ensenyaré
@@ -613,7 +613,7 @@
   text: >-
     Deixa que aquells il・lusos
 
-    segueixin amb el seu petit joc!
+    continuïn amb el seu petit joc!
 - id: 8250
   text: >-
     I què fem amb l'escanyolit de la clau
@@ -717,7 +717,7 @@
 - id: 8284
   text: Torneu-nos-el!
 - id: 8285
-  text: Creieu que estarà bé?
+  text: Penseu que estarà bé?
 - id: 8286
   text: >-
     Òndia! Potser hauries de
@@ -785,7 +785,7 @@
     tocar-los, però no feu ximpleries.
 - id: 8999
   text: >-
-    Si segueix així, destruirà l'estudi
+    Si continua així, destruirà l'estudi
 
     abans que trobem la contrasenya.{:clear }Ho sento, Sora, però has
 
@@ -858,7 +858,7 @@
     d'esquivar els seus atacs.
 - id: 9010
   text: >-
-    Serà dur, però si seguim treballant
+    Serà dur, però si continuem treballant
 
     aquest món tornarà a la normalitat.{:clear }Ara ets lliure de seguir el teu camí.
 
@@ -922,7 +922,7 @@
   text: >-
     Tots hi poseu l'espatlla per salvar
 
-    el que considereu important.{:clear }I seguiu endavant perquè esteu
+    el que considereu important.{:clear }I continueu endavant perquè esteu
 
     junts. Seria difícil fer-ho sols.
 - id: 12317
@@ -1003,7 +1003,7 @@
 - id: 12338
   text: Ei, nois!
 - id: 12339
-  text: Veig que seguiu en plena forma.
+  text: Veig que continueu en plena forma.
 - id: 12340
   text: Què esperaves? {:delay 55 00}{:clear }{:delay 0A 00}{:clear }Veig que a tu et va molt bé.
 - id: 12341
@@ -1074,9 +1074,9 @@
     Tots junts un altre cop!
 - id: 12362
   text: >-
-    Escolteu... mm... Estem buscant
+    Escolteu... mm... Busquem el
 
-    el Riku i el rei. Els heu vist?
+    Riku i el rei. Els heu vist?
 - id: 12363
   text: Bé.
 - id: 12364
@@ -1110,7 +1110,7 @@
 - id: 12373
   text: Com si ens hi anéssim a negar.
 - id: 12374
-  text: '{:delay 83 00}{:clear }Oblidava amb qui estic parlant.'
+  text: '{:delay 83 00}{:clear }Oblidava amb qui parlava.'
 - id: 12375
   text: Eh! Què vols dir amb això?
 - id: 12376
@@ -1433,9 +1433,9 @@
   text: Ei, vosaltres!
 - id: 12503
   text: >-
-    Estic buscant algú. Heu vist
+    Busco algú. Heu vist un
 
-    un xato amb el pèl de punta?
+    xato amb el pèl de punta?
 - id: 12504
   text: '{:delay 32 00}Més de punta.'
 - id: 12505
@@ -1576,9 +1576,9 @@
   text: ''
 - id: 12553
   text: >-
-    Em sembla que vol saber
+    Em sembla que vol
 
-    què estem buscant.
+    saber què busquem.
 - id: 12554
   text: El Riku i la Kairi!
 - id: 12555
@@ -1685,7 +1685,7 @@
   text: No m'ho puc creure!
 - id: 12590
   text: >-
-    Eh... M'estic fent un embolic. {:delay 8C 00}{:clear }Si és un farsant,
+    Eh... Em faig un embolic. {:delay 8C 00}{:clear }Si és un farsant,
 
     què li va passar al veritable Ànsem?
 - id: 12591
@@ -1733,7 +1733,7 @@
 
     de l'Organització {XIII}.
 - id: 12602
-  text: Era com estar amb el mateix tipus.
+  text: Era com ser amb el mateix tipus.
 - id: 12603
   text: Però... on el vau veure?
 - id: 12604
@@ -2270,7 +2270,7 @@
   text: >-
     Si és la Kairi el que et preocupa,
 
-    tranquil,{:delay A0 00}{:clear }n'estem cuidant molt bé.
+    tranquil,{:delay A0 00}{:clear }en cuidem molt bé.
 - id: 12794
   text: Porta'm amb ella.
 - id: 12795
@@ -2520,7 +2520,7 @@
 - id: 12950
   text: ''
 - id: 12952
-  text: No importen les vegades que caigui...{:delay 7E 00}{:clear }{:delay 2D 00}{:clear }la teva foscor segueix cridant-me!
+  text: No importen les vegades que caigui...{:delay 7E 00}{:clear }{:delay 2D 00}{:clear }la teva foscor encara em crida!
 - id: 12953
   text: ''
 - id: 12954
@@ -2538,7 +2538,7 @@
     a algú que el rodegi amb llum.
 - id: 12959
   text: >-
-    La foscor seguirà allà, Sefirot...{:delay AE 00}{:clear }però en un lloc on tu
+    La foscor continuarà allà, Sefirot...{:delay AE 00}{:clear }però en un lloc on tu
 
     no hi podràs arribar.
 - id: 12960
@@ -2578,7 +2578,7 @@
 - id: 12977
   text: Què faràs ara?
 - id: 12978
-  text: '{:delay 93 00}Suposo que seguir buscant.'
+  text: '{:delay 93 00}Suposo que continuar buscant.'
 - id: 12980
   text: No et preocupis.{:delay 37 00}{:clear }{:delay 2D 00}{:clear }La llum és fàcil de trobar.
 - id: 12981
@@ -2620,7 +2620,7 @@
   text: >-
     Aquí tampoc hi és. Tot i així,
 
-    sento que hi soc a prop.{:clear }Segur que l'estic estalonant.
+    sento que hi soc a prop.{:clear }Segur que ja l'estalono.
 
     Aviat l'enxamparé.
 - id: 13019
@@ -2638,7 +2638,7 @@
   text: >-
     No m'interessa el que
 
-    li passi a aquest món.{:clear }A més, no crec que necessitis
+    li passi a aquest món.{:clear }A més, no crec que et calgui
 
     més ajuda de la que ja tens.
 - id: 14151
@@ -2745,7 +2745,7 @@
   text: Què estrany! {:delay 4B 00}{:clear }{:delay 23 00}{:clear }Què és això de «la mateixa cara»?
 - id: 15162
   text: >-
-    Ehh, jo crec que només
+    Ehh, jo penso que només
 
     intentava confondre't.
 - id: 15163
@@ -2997,7 +2997,7 @@
   text: >-
     Aquella explosió ve de fora, no?
 
-    Deu estar passant alguna cosa terrible!{:clear }Em temo que serà una llarga batalla.
+    Deu passar alguna cosa terrible!{:clear }Em temo que serà una llarga batalla.
 
     Estàs preparat, Sora?
 - id: 17868
@@ -3048,7 +3048,7 @@
 
     M'alegro que estigui bé.{:clear }Em sembla que si un busca prou,
 
-    sempre trobarà el que vol.{:clear }Per on hauria de seguir ara?
+    sempre trobarà el que vol.{:clear }Per on hauria de continuar ara?
 - id: 17928
   text: >-
     Últimament tenim molts problemes.{:clear }Mira aquella estranya màquina del
@@ -3095,7 +3095,7 @@
   text: >-
     El Tron ja està bé i la reconstrucció
 
-    de la ciutat segueix en marxa.{:clear }Quan la ciutat estigui restaurada,
+    de la ciutat continua en marxa.{:clear }Quan la ciutat estigui restaurada,
 
     farem una festa en el vostre honor.
 - id: 17935
@@ -3337,7 +3337,7 @@
   text: >-
     {:unk13 C8 00 3C 00}{:unk08 01 01 06}Exactament.{:clear }Ara, tu i els teus amics
 
-    heu de seguir endavant!
+    heu de continuar endavant!
 - id: 18852
   text: >-
     {:unk13 DC 00 46 00}{:unk08 01 00 06}Gràcies, Merlí.{:clear }Estem preocupats pel Pooh,
@@ -3359,7 +3359,7 @@
     {:chardelay 52 00}És clar, per què no?
 - id: 18910
   text: >-
-    No consegueixo el sabor del gelat, però
+    No aconsegueixo el sabor del gelat, però
 
     com a mínim els meus monopatins van bé.
 - id: 18911
@@ -3541,7 +3541,7 @@
     de dades. El corredor s'ha obert.
 - id: 20337
   text: >-
-    No és possible seguir per aquí.
+    No és possible continuar per aquí.
 
     Haurem de buscar una altre camí.
 - id: 20358

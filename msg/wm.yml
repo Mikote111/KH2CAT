@@ -90,7 +90,7 @@
   text: >-
     Registrem el vell castell del bosc
 
-    aviam què trobem.
+    aviam què hi trobem.
 - id: 7706
   text: Com li deu anar a tots per aquí?
 - id: 7707
@@ -116,7 +116,7 @@
 - id: 7714
   text: Al regne submarí!
 - id: 7715
-  text: A nedar en les aigües d'Atlàntica!
+  text: A nedar a les aigües d'Atlàntica!
 - id: 7716
   text: Intentem moure l'estàtua!
 - id: 7717
@@ -137,9 +137,7 @@
   text: Una aventura a capa i espasa!
 - id: 7725
   text: >-
-    Anem a Port Royal! Allà
-
-    hi ha naus a dolls!
+    Anem a Port Royal! Hi ha naus a dolls!
 - id: 7726
   text: Anem a veure el Will!
 - id: 7727
@@ -168,7 +166,7 @@
 - id: 7734
   text: Anem a visitar Agrabah!
 - id: 7735
-  text: Com els deu anar a l'Aladdín i al Geni?
+  text: Com els deu anar a l'Aladí i al Geni?
 - id: 7736
   text: Al regne salvatge!
 - id: 7737
@@ -253,7 +251,7 @@
   text: '{:unk08 01 01 06}Ben dit!'
 - id: 18426
   text: >-
-    {:unk08 01 00 05}Atents! Estic detectant
+    {:unk08 01 00 05}Atents! Detecto
 
     un senyal molt estrany.
 - id: 18427
@@ -339,7 +337,7 @@
   text: >-
     {:unk08 01 01 06}És veritat, Xip!
 
-    Què deu estar passant?
+    Què deu passar?
 - id: 18825
   text: >-
     {:unk08 01 00 05}Sora! Hem d'esbrinar què
@@ -350,14 +348,14 @@
 - id: 18831
   text: '{:unk08 01 00 05}Mira... Tot està ennuvolat i com borrós.'
 - id: 18832
-  text: '{:unk08 01 01 06}Ja, però tot segueix ennuvolat i com borrós.'
+  text: '{:unk08 01 01 06}Ja, però tot continua ennuvolat i com borrós.'
 - id: 18833
   text: '{:unk08 01 00 05}Mmm... Bé, una cosa sí que és clara.'
 - id: 18834
   text: >-
     {:unk08 01 00 05}I passa alguna cosa rara amb Vila Crepuscle.
 
-    N'estic veient dues!
+    En veig dues!
 - id: 18835
   text: >-
     {:unk08 01 01 06}Mira! Una altra pujada enorme d'energia!
@@ -401,7 +399,7 @@
 
     alguna cosa més sobre el senyal.
 - id: 18896
-  text: '{:unk08 01 01 06}Mentrestant, vosaltres seguiu buscant per allà!'
+  text: '{:unk08 01 01 06}Mentrestant, vosaltres continueu buscant per allà!'
 - id: 18897
   text: '{:unk08 01 00 05}Comptem amb vosaltres, nois!'
 - id: 18898
@@ -464,9 +462,9 @@
 
     Si no lluitem, els sensecor
 
-    seguiran fent mal a la gent.
+    continuaran fent mal a la gent.
 - id: 19382
-  text: '{:unk08 01 01 06}Oh, oh. No podem seguir.'
+  text: '{:unk08 01 01 06}Oh, oh. No podem continuar.'
 - id: 19383
   text: >-
     {:unk08 01 00 05}Òndia! Potser s'ha encallat
@@ -475,7 +473,7 @@
 - id: 19384
   text: '{:unk08 01 00 05}Eh? Vols tornar a Vila Crepuscle?'
 - id: 19385
-  text: '{:unk08 01 01 06}Vinga! Hem de seguir endavant!'
+  text: '{:unk08 01 01 06}Vinga! Hem de continuar endavant!'
 - id: 19386
   text: Com? No ho entenc. No ens hi deixa anar.
 - id: 19387
@@ -573,7 +571,7 @@
   text: >-
     Ha començat un estrany torneig.
 
-    {:width 90}El Dolor i el Pànic han de saber-ne més...
+    {:width 90}El Pena i el Pànic han de saber-ne més...
 - id: 19527
   text: La Copa Cèrber ha començat!
 - id: 19528
@@ -596,7 +594,7 @@
 
     Parla amb el Pànic per apuntar-t'hi!
 - id: 19533
-  text: '{:width 95}La Copa Paradoxa del Dolor i el Pànic!'
+  text: '{:width 95}La Copa Paradoxa del Pena i el Pànic!'
 - id: 19534
   text: >-
     {:width 95}Diuen que hi ha un torneig secret.
@@ -626,7 +624,10 @@
 - id: 20527
   text: Explora la Gruta de l'Evocació!
 - id: 20528
-  text: Explora la masmorra de davant del castell!
+  text: >- 
+    Explora la masmorra de davant el
+    
+    castell!
 - id: 20529
   text: Endinsa't a les entranyes de la gruta!
 - id: 20530

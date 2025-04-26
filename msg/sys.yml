@@ -379,7 +379,7 @@
   text: >-
     Sora:
 
-    Som-hi, seguim a l'Aladdín!
+    Som-hi, seguim l'Aladí!
 - id: 639
   text: ''
 - id: 642
@@ -1381,7 +1381,7 @@
   text: >-
     Sora:
 
-    Mmm... Crec que no podem
+    Mmm... Em sembla que no podem
 
     anar per aquí.
 - id: 1415
@@ -1425,9 +1425,9 @@
   text: >-
     Sora:
 
-    No s'obre. Estarà
+    No s'obre. Deu
 
-    treballant?
+    treballar?
 - id: 1427
   text: ''
 - id: 1428
@@ -1443,7 +1443,7 @@
 
     No crec que en Pooh 
 
-    estigui per allà.
+    sigui per allà.
 - id: 1431
   text: ''
 - id: 1432
@@ -2220,9 +2220,9 @@
 - id: 2693
   text: Fitxer d'un altre joc
 - id: 2694
-  text: '{:width 81}Ranura per a la MEMORY CARD 1'
+  text: '{:width 53}Ranura de la MEMORY CARD 1'
 - id: 2695
-  text: '{:width 81}Ranura per a la MEMORY CARD 2'
+  text: '{:width 53}Ranura de la MEMORY CARD 2'
 - id: 2696
   text: Torna a la pantalla del títol.
 - id: 2697
@@ -3658,7 +3658,7 @@
   text: >-
     Sora:
 
-    Seguim endavant!
+    Continuem endavant!
 - id: 14007
   text: Món del No-Res
 - id: 14008
@@ -5735,7 +5735,7 @@
   text: >-
     Si utilitzes Cura sobre tu mateix,
 
-    seguiràs curant-te fins i tot
+    continuaràs curant-te fins i tot
 
     quan t'ataquin.
 - id: 15342
@@ -5990,7 +5990,7 @@
   text: Fúria ardent
 - id: 15515
   text: >-
-    Envoltat en flames, persegueix a 
+    Envoltat en flames, persegueix
 
     l'enemic. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 15516
@@ -6978,7 +6978,7 @@
   text: >-
     Sora:
 
-    Crec que no podem
+    Em sembla que no podem
 
     anar per aquí!
 - id: 16702
@@ -7045,7 +7045,7 @@
   text: >-
     Roxas:
 
-    Crec que hauria de posar-me sota aquella llum.
+    Em sembla que hauria de posar-me sota aquella llum.
 - id: 16760
   text: >-
     Roxas:
@@ -7070,32 +7070,32 @@
   text: >-
     Roxas:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 16775
   text: >-
     Roxas:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 16776
   text: >-
     Roxas:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 16777
   text: >-
     Roxas:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 16778
   text: >-
     Roxas:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 16779
   text: >-
     Roxas:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 16780
   text: >-
     Roxas:
@@ -7661,7 +7661,7 @@
   text: >-
     Aquest indicador s'utilitza per Fusió i Invoca.
 
-    Consegueix esferes per omplir-lo.
+    Aconsegueix esferes per omplir-lo.
 - id: 17781
   text: >-
     La força actual del personatge.
@@ -8424,7 +8424,7 @@
   text: >-
     Roxas:
 
-    S'ha de seguir-lo!
+    Haig de seguir-lo!
 - id: 19006
   text: ''
 - id: 19007
@@ -8503,7 +8503,7 @@
 
     Encara no hi puc entrar.
 
-    Estaran treballant?
+    Deuen treballar?
 - id: 19317
   text: ''
 - id: 19318
@@ -8663,32 +8663,32 @@
   text: >-
     Sora:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 19574
   text: >-
     Sora:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 19575
   text: >-
     Sora:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 19576
   text: >-
     Sora:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 19577
   text: >-
     Sora:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 19578
   text: >-
     Sora:
 
-    Encara estic treballant!
+    Encara treballo!
 - id: 19581
   text: '{:unk0d }Lliure desenvolupament 2'
 - id: 19582
@@ -9000,9 +9000,9 @@
   text: >-
     Executa un potent atac
 
-    circular quan està rodejat.
+    circular quan està envoltat.
 - id: 20090
-  text: Extreure
+  text: Extreu
 - id: 20091
   text: INFORME DE BATALLA
 - id: 20094
@@ -9723,9 +9723,9 @@
 - id: 20682
   text: Peça de «El crepuscle»
 - id: 20683
-  text: Consegueix 50 tipus de materials.
+  text: Aconsegueix 50 tipus de materials.
 - id: 20684
-  text: Consegueix 55 tipus de materials.
+  text: Aconsegueix 55 tipus de materials.
 - id: 20685
   text: Obtén tots els {:icon remembrance}materials evocadors.
 - id: 20686

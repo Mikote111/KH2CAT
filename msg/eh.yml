@@ -61,7 +61,7 @@
   text: >-
     Si duia abric negre és
 
-    de l'Organització {XIII}. {:delay D0 00}{:clear }Estaria intentant enganyar-te.
+    de l'Organització {XIII}. {:delay D0 00}{:clear }Devia intentar enganyar-te.
 - id: 16239
   text: I tant, per això no l'hem vist!
 - id: 16240
@@ -379,7 +379,7 @@
 - id: 16352
   text: Espavila!
 - id: 16353
-  text: Tranquil, segueixes sent tu.
+  text: Tranquil, continues sent tu.
 - id: 16354
   text: Ei, anem cap a casa!
 - id: 16355
@@ -422,7 +422,7 @@
 - id: 16368
   text: No diguis res! {:delay 80 00}{:clear }Això no acaba aquí. Ni parlar-ne.
 - id: 16369
-  text: Com pots dir això? {:delay 6C 00}{:clear }Encara que no poguéssim seguir...{:delay 89 00}{:clear }mira on som.
+  text: Com pots dir això? {:delay 6C 00}{:clear }Encara que no poguéssim continuar...{:delay 89 00}{:clear }mira on som.
 - id: 16370
   text: Au va, Riku. {:delay 6C 00}{:clear }Portes massa temps a la foscor. {:delay 72 00}{:clear } {:delay 45 00}{:clear }Has de ser més positiu!
 - id: 16371
@@ -663,7 +663,7 @@
 - id: 16454
   text: Estàs bé?
 - id: 16455
-  text: Sí, cap problema. {:delay 5A 00}{:clear }{:delay 24 00}{:clear }Seguim.
+  text: Sí, cap problema. {:delay 5A 00}{:clear }{:delay 24 00}{:clear }Continuem.
 - id: 16456
   text: Sora! Riku!
 - id: 16457
@@ -810,14 +810,14 @@
 
     exactament. El Riku se'n va anar... {:delay F0 00}{:clear }És que el sensecor d'en Xehanort
 
-    era dins seu, confonent-lo.{:delay 08 01}{:clear }{:delay 1B 00}{:clear }Deu haver patit molt... {:delay 90 00}{:clear }Però no entenc per què segueix així;
+    era dins seu, confonent-lo.{:delay 08 01}{:clear }{:delay 1B 00}{:clear }Deu haver patit molt... {:delay 90 00}{:clear }Però no entenc per què encara és així;
 
     en el seu cor sempre serà el Riku.
 - id: 16526
   text: >-
     Jo en tinc la culpa. {:delay 54 00}{:clear }{:delay 78 00}{:clear }Quan vaig veure el Riku
 
-    per primera vegada{:delay 72 00}{:clear }{:delay 38 00}{:clear }seguia tenint l'aspecte d'un nen. {:delay 9C 00}{:clear }{:delay 54 00}{:clear }Probablement perquè
+    per primera vegada{:delay 72 00}{:clear }{:delay 38 00}{:clear }encara tenia l'aspecte d'un nen. {:delay 9C 00}{:clear }{:delay 54 00}{:clear }Probablement perquè
 
     tenia un cor molt fort.
 - id: 16527
@@ -869,7 +869,7 @@
 
     lluny d'una sola peça... Roxas.
 - id: 16537
-  text: Ja me n'estic afartant.
+  text: Ja me'n començo a afartar.
 - id: 16538
   text: Sí! Ell és el Sora!
 - id: 16539
@@ -1146,7 +1146,7 @@
   text: >-
     Carai, sento que la foscor ens
 
-    rodeja, però no he vist a cap...{:clear }membre de l'Organització {XIII}.{:clear }Ja saps que sempre apareixen del
+    envolta, però no he vist a cap...{:clear }membre de l'Organització {XIII}.{:clear }Ja saps que sempre apareixen del
 
     no-res. Hem d'estar preparats.
 - id: 18444
@@ -1158,11 +1158,11 @@
     Hem d'ajudar-la!
 - id: 18445
   text: >-
-    No crec que des d'aquí puguem
+    No penso que des d'aquí puguem
 
     arribar directament on és la Kairi.{:clear }Sé que tens pressa, però
 
-    necessitem seguir aquest camí.
+    cal que seguim aquest camí.
 - id: 18446
   text: >-
     Aquest lloc em fa mala espina.
@@ -1651,7 +1651,7 @@
   text: >-
     Ja li he transmés el missatge.
     
-    Tal i com volies.{:delay A5 00}{:clear }He dit a en Sora que segueixi
+    Tal i com volies.{:delay A5 00}{:clear }He dit a en Sora que continuï
 
     combatent els sensecor.
 - id: 19951
@@ -1665,7 +1665,7 @@
 
     i aquesta desembocarà en ira. {:delay 9F 01}{:clear }Aquesta l'incitarà a desfer-se de les
 
-    seves aprensions i seguir endavant.{:delay CC 01}{:clear } {:delay 28 00}{:clear }Aquest jovenet anirà aplanant el
+    seves aprensions i continuar endavant.{:delay CC 01}{:clear } {:delay 28 00}{:clear }Aquest jovenet anirà aplanant el
 
     camí per al futur que tant anhelem.
 - id: 19953
@@ -1674,7 +1674,7 @@
   text: Sobre l'Axel.
 - id: 19955
   text: >-
-    Pobre neci... {:delay 82 00}{:clear }Quant més seguirà perseguint la il・lusió de
+    Pobre neci... {:delay 82 00}{:clear }Quant més continuarà perseguint la il・lusió de
 
     l'amistat quan ni tan sols és capaç de sentir?{:delay C2 01}{:clear }Es capfica amb recuperar el que va perdre... {:delay FA 00}{:clear }quan ni tan sols deu haver
 
