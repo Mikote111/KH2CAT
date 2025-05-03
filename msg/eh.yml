@@ -1214,7 +1214,7 @@
   text: >-
     Probablement el Xemnas s'hagi
 
-    enfortit i ens estigui esperant.{:clear }Tot va començar amb les investigacions
+    enfortit i ens esperi.{:clear }Tot va començar amb les investigacions
 
     de l'Ànsem. Acabem-ho en el seu honor!
 - id: 18454
@@ -1612,7 +1612,7 @@
 - id: 19940
   text: Més li val o no ens servirà de res.
 - id: 19941
-  text: Espero que estigui gaudint del viatget.{:delay FA 00}{:clear } {:delay 3C 00}{:clear }Potser li va bé una ajudeta amb el seu destí.
+  text: Espero que gaudeixi del viatget.{:delay FA 00}{:clear } {:delay 3C 00}{:clear }Potser li va bé una ajudeta amb el seu destí.
 - id: 19942
   text: >-
     Mentre hi sortim guanyant nosaltres... {:delay 91 00}{:clear }Ja sabeu, que faci el que vulgui de 
