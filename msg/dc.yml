@@ -37,7 +37,7 @@
   text: >-
     En aquell món, hi haurà
 
-    una porta idèntica a aquesta.{:clear }Has d'utilitzar el teu
+    una porta idèntica a aquesta.{:clear }Has d'emprar el teu
 
     poder per tancar-la!
 - id: 5354
@@ -280,7 +280,7 @@
     totes les habitacions{:delay C6 00}{:clear }amb el meu «fosc» toc personal.
 - id: 5440
   text: >-
-    Serà millor que desisteixis,
+    Val més que desisteixis,
 
     si saps el que et convè!
 - id: 5441
@@ -330,7 +330,7 @@
 - id: 5458
   text: Interessant.
 - id: 5459
-  text: Què està passant, Merlí?
+  text: Què passa, Merlí?
 - id: 5460
   text: >-
     Res bo. De fet, em temo
@@ -349,7 +349,7 @@
   text: >-
     Algú d'aquell món és
 
-    responsable del que està passant{:delay C6 00}{:clear }en aquest castell.
+    responsable del que passa{:delay C6 00}{:clear }en aquest castell.
 
     D'això n'estic segur.
 - id: 5465
@@ -379,7 +379,7 @@
   text: >-
     Em sembla que els nostres enemics
 
-    estan utilitzant aquell portal.{:delay FC 00}{:clear }Mentre continuï obert,
+    fan servir aquell portal.{:delay FC 00}{:clear }Mentre continuï obert,
 
     el castell estarà en perill.
 - id: 5472
@@ -534,7 +534,7 @@
   text: >-
     Protegeix la Minnie de camí al tron!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 13874
@@ -564,7 +564,7 @@
 
     camí a la sala d'audiències!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 14422
@@ -577,7 +577,7 @@
 
     és que el problema és seriós!{:clear }Si com a mínim hi fos el rei!
 
-    Tot i que, amb tu a prop, em sent millor.
+    Tot i que, amb tu a prop, em sento millor.
 - id: 16043
   text: >-
     Vaja! El Merlí pot crear
@@ -800,10 +800,10 @@
 
     investigar-ho amb compte.
 - id: 21625
-  text: Les ordres són bloquejades! Fes alguna cosa!
+  text: Les ordres estan bloquejades! Fes-hi alguna cosa!
 - id: 21626
-  text: Ja pots utilitzar algunes ordres!
+  text: Ja pots manar algunes ordres!
 - id: 21627
-  text: Algunes ordres són bloqueados! Fes alguna cosa!
+  text: Algunes ordres estan bloquejades! Fes-hi alguna cosa!
 - id: 21628
-  text: Ja pots utilitzar les ordres!
+  text: Ja pots manar ordres!

@@ -1,6 +1,6 @@
 ﻿- id: 6179
   text: >-
-    Utilitza l'stick esquerre per controlar
+    Fes servir la palanca esquerra per controlar
 
     la nau gumi. Intenta apropar-te a Baluard Balmat
 
@@ -317,7 +317,7 @@
     Em sembla que és un món que coneixem!
 - id: 18820
   text: >-
-    Utilitza {:icon dynamic-left-analog} per controlar la nau gumi.
+    Fes servir {:icon dynamic-left-analog} per controlar la nau gumi.
 
     Intenta apropar-te a la ruta gumi amb forma de porta.
 
@@ -365,10 +365,10 @@
   text: >-
     {:unk08 01 01 06}Ei, un moment...
 
-    La nau s'està movent sola?
+    La nau es mou sola?
 - id: 18885
   text: >-
-    Utilitza {:icon dynamic-left-analog} per controlar la nau gumi.
+    Fes servir {:icon dynamic-left-analog} per controlar la nau gumi.
 
     Intenta apropar-te al món que hi ha a la part inferior de la pantalla.
 
@@ -453,7 +453,7 @@
   text: >-
     {:unk08 01 01 06}Ei, i si tornen els sensecor?
 
-    No puc utilitzar la clau espasa... això
+    No puc fer servir la clau espasa... això
 
     només beneficiaria l'Organització.
 - id: 19337
@@ -551,9 +551,9 @@
   text: Què ha passat a Baluard Balmat!?
 - id: 19520
   text: >-
-    Una cosa molt estranya està
+    Una cosa molt estranya
 
-    passant a Baluard Balmat!
+    passa a Baluard Balmat!
 - id: 19521
   text: S'ha d'inspeccionar la ciutat!
 - id: 19522

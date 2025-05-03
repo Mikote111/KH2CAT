@@ -37,7 +37,7 @@
     d'una tenda... Bum! Queda clar?
 - id: 4111
   text: >-
-    Aquí tot està en calma. Serà millor que
+    Aquí tot està en calma. Val més que
 
     us prengueu de debò la vostra missió.{:clear }Si no us afanyeu, el
 
@@ -138,7 +138,7 @@
 
     pot ocórrer en una batalla.{:clear }Estigueu atents al que trobeu i intenteu
 
-    utilitzar-ho per treure'n avantatge.
+    aprofitar-vos-en per treure'n avantatge.
 - id: 4132
   text: >-
     Mmm... Per combatre un adversari
@@ -212,7 +212,7 @@
 - id: 4178
   text: Gràcies, Capità!
 - id: 4180
-  text: Mmm! Primer m'utilitza d'encenedor{:delay 84 00}{:clear }i després de bala de canó. {:delay 5A 00}{:clear }Penso xerrar-ne a l'ancestre major.{:delay 42 00}
+  text: Mmm! Primer em fa servir d'encenedor{:delay 84 00}{:clear }i després de bala de canó. {:delay 5A 00}{:clear }Penso xerrar-ne a l'ancestre major.{:delay 42 00}
 - id: 4181
   text: >-
     Saps què? S'ha acabat! Em rendeixo!
@@ -799,7 +799,7 @@
 - id: 4388
   text: Per què hauria de creure't aquest cop?
 - id: 4389
-  text: Però... li està dient la veritat!
+  text: Però... us diu la veritat!
 - id: 4390
   text: ''
 - id: 4391
@@ -1017,12 +1017,12 @@
   text: En fi...{:delay 48 00}{:clear }I ara què?
 - id: 4473
   text: >-
-    Em sembla que serà millor desfer-nos
+    Em sembla que val més desfer-nos
 
     de tots els sensecor primer.
 - id: 4474
   text: >-
-    Què ha sigut allò?{:delay A8 00}{:clear }Au, serà millor que
+    Què ha sigut allò?{:delay A8 00}{:clear }Au, val més que
 
     sortim de la muntanya.
 - id: 4476
@@ -1181,12 +1181,12 @@
 
     dels nostres dracs{:delay 8A 00}{:clear }i l'ha transformat
 
-    en el que hi dieu...{:delay 78 00}{:clear }un sensecor.
+    en el que en dieu...{:delay 78 00}{:clear }un sensecor.
 - id: 4527
   text: >-
     i l'ha transformat
 
-    en el que hi dieu...{:delay 78 00}{:clear }un sensecor.
+    en el que en dieu...{:delay 78 00}{:clear }un sensecor.
 - id: 4528
   text: >-
     Al meu entendre, el teu jove amic
@@ -1222,9 +1222,9 @@
     amb l'Organització {XIII}?
 - id: 4536
   text: >-
-    Ni idea. Però com a mínim
+    Ni idea. Però si més
 
-    sé que està bé.
+    no sé que està bé.
 - id: 4537
   text: Amb allò en tinc prou.
 - id: 4538
@@ -1417,7 +1417,7 @@
 - id: 4608
   text: Tria una missió.
 - id: 4609
-  text: Comences aquesta missió?
+  text: Vols començar aquesta missió?
 - id: 7657
   text: >-
     Està barrada des de dins.
@@ -1494,7 +1494,7 @@
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 7961
@@ -1507,7 +1507,7 @@
   text: >-
     Derrota el Shan-Yu i protegeix les portes!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 7965
@@ -1520,7 +1520,7 @@
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 7969
@@ -1529,7 +1529,7 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 7971
@@ -1648,9 +1648,9 @@
   text: >-
     {:unk0f 03 1E 00 6D 01}{:color #00F0F080}S'ha agregat l'ordre Grup.{:reset}
 
-    Permet canviar amb rapidesa els membres del grup.{:clear }{:unk0f 00 00 00 00 00}Utilitza-la en les batalles en les
+    Permet canviar amb rapidesa els membres del grup.{:clear }{:unk0f 00 00 00 00 00}Mana-la en les batalles en què
 
-    que no és possible obrir els menús.
+    no és possible obrir els menús.
 - id: 17630
   text: >-
     {:unk0f 03 1E 00 84 01}{:color #00F0F080}S'ha agregat l'ordre Límit.{:reset}
@@ -1667,7 +1667,7 @@
     si es descobrís el seu secret.
 - id: 17700
   text: >-
-    Quan estava a punt de liquidar aquelles criatures
+    Quan era a punt de liquidar aquelles criatures
 
     horribles, s'han espantat i han fugit!{:clear }Són uns rivals molt estranys.
 - id: 17701

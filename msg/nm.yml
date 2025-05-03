@@ -28,7 +28,7 @@
   text: >-
     Mmm... Aquí no veig res que
 
-    puguem utilitzar per a Halloween.
+    puguem aprofitar per a Halloween.
 - id: 5779
   text: >-
     Qui sigui que s'hagi colat en el
@@ -54,7 +54,7 @@
   text: >-
     Els sensecor estan causant problemes
 
-    a la{:theme 0A} Plaça de la Guillotina{:reset}.{:clear }Semblava que estaven jugant amb regals.
+    a la{:theme 0A} Plaça de la Guillotina{:reset}.{:clear }Semblava que jugaven amb regals.
 
     Aneu amb compte.
 - id: 5785
@@ -108,7 +108,7 @@
   text: Però abans...
 - id: 5804
   text: >-
-    Hem de visitar la Sally.{:delay 72 00}{:clear }Està traballant en una cosa que qualsevol
+    Hem de visitar la Sally.{:delay 72 00}{:clear }Treballa en una cosa que qualsevol
 
     Pare Cruel que es preï hauria de tenir.{:delay EA 00}{:clear }Veniu... Us l'ensenyaré!
 - id: 5805
@@ -192,7 +192,7 @@
   text: >-
     Escolteu-me bé... bestioles rares!{:delay 96 00}{:clear }Sortiu de Vila Halloween ara
 
-    mateix, per ordre de l'Alcalde!
+    mateix, per ordre del batlle!
 - id: 5834
   text: >-
     Jack! On ets?{:delay 8A 00}{:clear }Jo només soc un simple funcionari,
@@ -206,7 +206,7 @@
   text: >-
     {:unk13 2F 01 38 00}{:unk06 01}{:unk08 01 00 05}Com podria relaxar-se
 
-    el Pare Cruel amb tot...{:clear }el que està passant?
+    el Pare Cruel amb tot...{:clear }el que passa?
 - id: 5838
   text: >-
     {:unk13 4A 01 50 00}{:unk06 01}{:unk08 01 00 05}Exacte, amics!{:clear }El Pare Cruel necessita
@@ -391,7 +391,7 @@
   text: >-
     El Jack i els seus estúpids
 
-    amics van acabar amb ell.
+    amics el van ben estripar.
 - id: 5898
   text: Ah, sí. Ja me'n recordo.{:delay E4 00}{:clear }Doncs molt millor!{:delay 90 00}{:clear }Em sembla que us retornaré el vostre amo.
 - id: 5899
@@ -606,7 +606,7 @@
 - id: 5959
   text: Què penses fer al Pare Cruel?
 - id: 5960
-  text: Qui? {:delay 3C 00}{:clear }  {:delay 2D 00}{:clear }Pare Cruel? {:delay 64 00}{:clear }  {:delay 28 00}{:clear }No sé de què m'estàs parlant.
+  text: Qui? {:delay 3C 00}{:clear }  {:delay 2D 00}{:clear }Pare Cruel? {:delay 64 00}{:clear }  {:delay 28 00}{:clear }No sé de què em parles.
 - id: 5961
   text: >-
     I què fa aquí aquest
@@ -633,7 +633,7 @@
   text: >-
     Perfecte!
 
-    Serà millor que em posi a treballar!
+    Val més que em posi a treballar!
 - id: 5971
   text: Deixa-ho al Pare Noel!
 - id: 5972
@@ -747,7 +747,7 @@
 
     festiu per al Halloween.
 - id: 5996
-  text: Serà millor que ens en anem.
+  text: Val més que ens en anem.
 - id: 5997
   text: >-
     Abans d'anar-te'n, Sora...{:delay 78 00}{:clear }Em sembla que hi ha un amic teu que,
@@ -893,9 +893,9 @@
   text: '{:unk13 5B 01 6F 00}{:unk06 00}{:unk08 01 00 05}Experiment?'
 - id: 6043
   text: >-
-    {:unk13 71 01 87 00}{:unk06 00}{:unk08 01 01 07}El Dr. Finkelstein ens
+    {:unk13 71 01 87 00}{:unk06 00}{:unk08 01 01 07}Ara el Dr. Finkelstein
 
-    està fabricant un amic!
+    ens fabrica un amic!
 - id: 6044
   text: '{:unk13 4D 01 51 01}{:unk06 00}{:unk08 01 01 07}Un a qui puguem potinejar!'
 - id: 6045
@@ -950,9 +950,9 @@
   text: '{:unk13 5E 01 3C 00}{:unk06 00}{:unk08 01 00 05}Un moment!'
 - id: 6059
   text: >-
-    {:unk13 39 01 31 00}{:unk06 00}{:unk08 01 00 06}La veritat és que...{:clear }els sensecor estaven jugant amb
+    {:unk13 39 01 31 00}{:unk06 00}{:unk08 01 00 06}La veritat és que...{:clear }els sensecor jugaven amb uns
 
-    uns regals quan els vaig veure.
+    regals quan els vaig veure.
 - id: 6060
   text: >-
     {:unk13 30 01 58 00}{:unk06 02}{:unk08 03 00 05}Ahà!
@@ -962,7 +962,7 @@
   text: >-
     No podeu ser aquí!{:delay 82 00}{:clear }Sortiu de Vila Halloween,
 
-    per ordre de l'Alcalde!
+    per ordre del batlle!
 - id: 6062
   text: >-
     Socors! Ajuda!{:delay 7B 00}{:clear }Jo només soc un simple funcionari,
@@ -1084,7 +1084,7 @@
   text: >-
     {:unk13 C8 00 82 00}{:unk06 00}{:unk08 01 00 06}Només aquest cop, suposo.
 
-    És per una bona causa...{:clear }Molt bé, utilitzeu el segon pis.
+    És per una bona causa...{:clear }Molt bé, feu servir el segon pis.
 
     I poseu-hi el cor.
 - id: 6091
@@ -1342,16 +1342,16 @@
     no crec que el veiem per un temps.
 - id: 7983
   text: >-
-    Algú ha robat la criatura que estava
+    Algú ha robat la criatura que fabricava
 
-    fabricant el Doctor. Heu de recuperar-la!{:clear }Aquesta era la nostra
+    el Doctor. Heu de recuperar-la!{:clear }Aquesta era la nostra
 
     oportunitat de tenir un còmplice!
 - id: 7984
   text: >-
-    El Jack està planejant
+    El Jack planeja un
 
-    un altre Halloween.{:clear }Em pregunto si continuarà amb
+    altre Halloween.{:clear }Em pregunto si continuarà amb
 
     el vestit vermell posat.
 - id: 7985
@@ -1393,7 +1393,7 @@
 
     el Puça amb les caixes màgiques!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8113
@@ -1421,11 +1421,11 @@
     Sora, podries fer-hi un cop d'ull?
 - id: 13035
   text: >-
-    Teniu autorització per
+    Teniu autorització per fer
 
-    utilitzar el {:theme 0A}2n pis del taller{:reset}.{:clear }Encara que estigueu fabricant un
+    servir el {:theme 0A}2n pis del taller{:reset}.{:clear }Encara que fabriqueu un
 
-    regal-trampa, feu-lo de cor!
+    regal trampa, feu-lo de cor!
 - id: 13973
   text: >-
     És fàcil perdre de vista les coses
@@ -1599,7 +1599,7 @@
   text: >-
     Veniu a fer regals, no?
 
-    Podeu utilitzar aquesta màquina.
+    Podeu fer servir aquesta màquina.
 - id: 16733
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Fabricar regals?
@@ -1609,9 +1609,9 @@
     {:chardelay 09 00}Molt bé, som-hi!
 - id: 16734
   text: >-
-    No em sembla bé utilitzar
+    No em sembla bé fer servir
 
-    un regal com a trampa.{:clear }Però no troba altra forma
+    un regal com a esquer.{:clear }Però no trobo altra forma
 
     de fer-ho.
 - id: 16735
@@ -1673,9 +1673,9 @@
     sensecor i recuperem els regals!{:clear }Va, som-hi!
 - id: 16745
   text: >-
-    En què consisteix aquell experiment
+    En què consisteix aquell
 
-    que està fent el Doctor?{:clear }L'últim cop no ens va ajudar en res.
+    experiment que fa el Doctor?{:clear }L'últim cop no ens va ajudar en res.
 
     I dubto que ara en resulti res bo.
 - id: 16746
@@ -1698,7 +1698,7 @@
 
     deixant {:theme 0A}petjades {:reset}tan clares.{:clear }Potser ens han parat una trampa.
 
-    Serà millor que estiguem alerta.
+    Val més que estiguem alerta.
 - id: 16749
   text: >-
     Hauran tornat a
@@ -1755,9 +1755,9 @@
     Hem d'afanyar-nos, Sora!
 - id: 16861
   text: >-
-    No sabem què està tramant l'Home del Sac.
+    No sabem què trama l'Home del Sac.
 
-    Serà millor preparar-nos abans d'anar-hi.
+    Val més que ens preparem abans d'anar-hi.
 - id: 17097
   text: >-
     «Clavegueres en obres.
@@ -1772,7 +1772,7 @@
   text: >-
     «Guillotina: instrument per tallar coses.
 
-    No utilitzar per a la preparació d'aliments.»
+    No emprar per a la preparació d'aliments.»
 - id: 17100
   text: >-
     Aquí hi ha un gargot que diu:
@@ -1815,10 +1815,10 @@
 
     deu ser molt forta!
 - id: 17901
-  text: Utilitza els regals per llençar a l'Home del Sac del muntacàrregues!
+  text: Fes servir els regals per fer caure l'Home del Sac del muntacàrregues!
 - id: 17902
   text: >-
-    Utilitza els regals per llençar a
+    Fes servir els regals per fer caure
 
     l'Home del Sac del muntacàrregues!
 - id: 17903

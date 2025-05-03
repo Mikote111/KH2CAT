@@ -18,7 +18,7 @@
   text: >-
     Va, Donald,
 
-    tu estaves pensant el mateix.
+    tu pensaves el mateix.
 - id: 45
   text: No, no és veritat!
 - id: 46
@@ -218,7 +218,7 @@
 
     a la ciutat.
 - id: 121
-  text: '{:unk13 C8 00 5E 01}{:unk08 01 01 02}Li estàs fent el salt?'
+  text: '{:unk13 C8 00 5E 01}{:unk08 01 01 02}Li fas el salt?'
 - id: 122
   text: '{:unk13 16 01 3E 00}{:unk08 01 01 07}I ara!'
 - id: 123
@@ -299,7 +299,7 @@
     distingiria entre un milió!
 - id: 145
   text: >-
-    {:unk13 31 01 3C 00}{:unk08 01 00 06}Doncs serà millor que anem
+    {:unk13 31 01 3C 00}{:unk08 01 00 06}Doncs val més que anem
 
     a parlar amb el mercader.
 - id: 146
@@ -687,7 +687,7 @@
   text: Aixafeu aquells mocosos!
 - id: 266
   text: >-
-    {:unk13 8C 00 50 00}{:unk08 01 01 06}Serà millor que
+    {:unk13 8C 00 50 00}{:unk08 01 01 06}Val més que
 
     tingueu compte.
 - id: 267
@@ -758,7 +758,7 @@
   text: >-
     Quin desastre!
 
-    Serà millor que fem mitja volta.
+    Val més que fem mitja volta.
 - id: 284
   text: Hi hauria d'haver una manera...
 - id: 285
@@ -890,11 +890,11 @@
   text: >-
     {:delay 36 00}{:clear }En aquests moments, el teu estimat
 
-    Aladí està xiuxiuejant el teu nom...{:delay 18 01}{:clear }amb el seu últim sospir!
+    Aladí xiuxiueja el teu nom...{:delay 18 01}{:clear }amb el seu últim sospir!
 - id: 328
   text: ''
 - id: 329
-  text: Què estaves dient, Jafar?
+  text: Què deies, Jafar?
 - id: 330
   text: >-
     Com goses desafiar-me,
@@ -990,7 +990,7 @@
   text: >-
     Bé...
 
-    com a mínim puc volar.
+    si més no puc volar.
 - id: 366
   text: Compte!
 - id: 367
@@ -1213,16 +1213,16 @@
   text: >-
     Venç tots els sensecor!
 
-    Recorda que utilitzar Límits i
+    Recorda que l'ús de Límit i
 
-    Fusió farà les batalles més fàcils!
+    Fusió et facilitarà la batalla!
 - id: 8063
   text: Venç tots els sensecor!
 - id: 8064
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8065
@@ -1231,7 +1231,7 @@
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 13029
@@ -1346,16 +1346,16 @@
 - id: 17058
   text: Activa un interruptor més!
 - id: 17059
-  text: Si utilitzes màgia per activar l'interruptor, hauràs de ser precís. El color i la formació t'indicaran el moment just.
+  text: En fer servir màgia per activar l'interruptor, hauràs de ser precís. El color i la formació t'indicaran el moment just.
 - id: 17060
   text: Ves a la torre abans que es tanquin les portes!
 - id: 17062
   text: Activa dos interruptors més!
 - id: 17063
   text: >-
-    Aquell tipus que perseguia el mercader
+    Aquell tipus que perseguia el
 
-    us està causant problemes, no?{:clear }Si algú roba aquella llàntia, no hi haurà
+    mercader us causa problemes, no?{:clear }Si algú roba aquella llàntia, no hi haurà
 
     més que desgràcies. De pressa, Sora!
 - id: 17064
@@ -1374,14 +1374,14 @@
   text: >-
     Passant sota aquests enderrocs,
 
-    hauríem d'arribar al palau.{:clear }Serà millor seguir el Iago,
+    hauríem d'arribar al palau.{:clear }Val més seguir el Iago,
 
     si no volem perdre'ns.
 - id: 17067
   text: >-
     El mercader va fugir amb
 
-    la llàntia {:theme 0A}cap al palau{:reset}!{:clear }Serà millor que anem amb compte.
+    la llàntia {:theme 0A}cap al palau{:reset}!{:clear }Val més que anem amb compte.
 
     Pot ser que en Pete ataqui un altre cop!
 - id: 17068
@@ -1402,7 +1402,7 @@
   text: >-
     No puc creure'm el que
 
-    ha fet el mercader!{:clear }Serà millor acabar amb això
+    ha fet el mercader!{:clear }Val més posar fi a això
 
     abans que en Jafar la faci bona!
 - id: 17072

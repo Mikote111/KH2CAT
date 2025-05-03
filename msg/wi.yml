@@ -340,7 +340,7 @@
   text: >-
     Para de contemplar-lo!{:delay 94 00}{:clear }{:delay 14 00}{:clear }I comença a pensar en
 
-    la manera d'utilitzar-lo!
+    la manera d'fer-lo servir!
 - id: 5639
   text: D'acord...
 - id: 5640
@@ -500,7 +500,7 @@
     Uff! Em fa mal el cap!
 - id: 5684
   text: >-
-    {:unk13 DC 00 1B 01}{:unk06 00}{:unk08 01 01 07}Com a mínim sabem
+    {:unk13 DC 00 1B 01}{:unk06 00}{:unk08 01 01 07}Si més no sabem
 
     que anem pel bon camí!
 - id: 5685
@@ -703,7 +703,7 @@
 
     i protegeix els mobles!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8099
@@ -721,7 +721,7 @@
 
     i protegeix la ciutat!
 
-    Pots utilitzar el canó!
+    Pots fer servir el canó!
 - id: 8103
   text: Derrota els sensecor abans que caigui la bastimentada!
 - id: 8104
@@ -730,7 +730,7 @@
 
     abans que caigui la bastimentada!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 10376
@@ -755,7 +755,7 @@
 
     i recupera'n la Pedra Angular de Llum!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 16839
@@ -940,7 +940,7 @@
 - id: 21368
   text: L'edifici no aguantarà molt més!
 - id: 21369
-  text: Estan atacant la ciutat! Atura'ls utilitzant Trepitjada!
+  text: Estan atacant la ciutat! Atura'ls manant Trepitjada!
 - id: 21370
   text: La ciutat caurà!
 - id: 21371

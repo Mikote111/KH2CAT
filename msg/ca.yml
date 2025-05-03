@@ -160,7 +160,7 @@
   text: >-
     En Jack estima aquest
 
-    vaixell com a un amic.{:clear }Serà millor que ens preparem
+    vaixell com a un amic.{:clear }Val més que ens preparem
 
     per evitar que pateixi cap mal.
 - id: 7890
@@ -191,7 +191,7 @@
   text: >-
     El Jack està més estrany que mai, però
 
-    com a mínim en Will és fora de perill.{:clear }Hi ha una cosa estranya
+    si més no en Will és fora de perill.{:clear }Hi ha una cosa estranya
 
     que em té intranquil・la...
 - id: 7895
@@ -209,14 +209,14 @@
   text: >-
     Venç els pirates!
 
-    Utilitza màgia i la batalla serà més fàcil!
+    Fes servir màgia i la batalla serà més fàcil!
 - id: 8121
   text: Venç tots els sensecor!
 - id: 8122
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8123
@@ -227,7 +227,7 @@
 
     mentre esperes la senyal!
 
-    Si utilitzes la llum de la lluna,
+    Si t'aprofites de la llum de la lluna,
 
     la batalla serà més fàcil!
 - id: 8125
@@ -238,7 +238,7 @@
 
     protegeix el medalló!
 
-    Si utilitzes els canons,
+    Si fas servir els canons,
 
     la batalla serà més fàcil!
 - id: 8127
@@ -256,7 +256,7 @@
   text: >-
     Venç tots els pirates!
 
-    Si utilitzes màgia, serà més fàcil!
+    Si fas servir màgia, serà més fàcil!
 - id: 8131
   text: Recupera la peça d'or que té l'incorpori!
 - id: 8132
@@ -265,7 +265,7 @@
 
     recupera la peça d'or!
 - id: 9927
-  text: Un sensecor està intentant explotar un barril!
+  text: Un sensecor intenta explotar un barril!
 - id: 9935
   text: Recupera la peça d'or abans que l'incorpori escapi!
 - id: 9936
@@ -314,7 +314,7 @@
 
     un mocós amb una clau espasa,{:delay 0A 01}{:clear }allunyeu-vos-en. La màgia que
 
-    utilitzen no és d'aquest món, em sentiu?{:delay 54 01}{:clear }I qui sap què podrien fer-vos,
+    empren no és d'aquest món, em sentiu?{:delay 54 01}{:clear }I qui sap què podrien fer-vos,
 
     sobretot quan la lluna{:delay 0D 01}{:clear }reveli el que sou de debò.
 - id: 9959
@@ -325,7 +325,7 @@
   text: >-
     Ho veus? Ho sabia!{:delay 78 00}{:clear }Aquells són els mocosos
 
-    dels que t'estava parlant.
+    de qui et parlava.
 - id: 9962
   text: >-
     A qui has dit mocós? Som el Sora,
@@ -580,7 +580,7 @@
   text: >-
     {:delay 78 00}{:clear }Només hi ha una manera
 
-    d'acabar amb la maledicció:{:delay C1 00}{:clear }retornant totes les peces disperses
+    de posar fi a la maledicció:{:delay C1 00}{:clear }retornant totes les peces disperses
 
     de l'or asteca a la seva arca...{:delay 65 01}{:clear }I la sang de tota ànima que hagi tocat una
 
@@ -761,7 +761,7 @@
 - id: 10074
   text: No.
 - id: 10075
-  text: Què està passant?
+  text: Què passa?
 - id: 10076
   text: Qui ens ha dut aquesta dona?
 - id: 10077
@@ -1062,7 +1062,7 @@
 - id: 10166
   text: Què? No estic vermell!
 - id: 10167
-  text: Ah, sé en qui estàs pensant.
+  text: Ah, sé en qui penses.
 - id: 10168
   text: ''
 - id: 10169
@@ -1108,14 +1108,14 @@
   text: >-
     {:unk13 87 00 1D 01}{:unk08 02 01 01}Em fa l'efecte que alguna
 
-    cosa s'està tramant aquí.
+    cosa es trama aquí.
 - id: 10187
   text: >-
     {:unk13 01 01 39 00}{:unk08 01 01 06}Ai, allà és.{:clear }Si vols rescatar-lo,
 
-    serà millor que ho
+    val més que ho facis
 
-    facis sola, xicota.
+    sola, xata.
 - id: 10188
   text: >-
     {:unk13 30 01 31 00}{:unk08 01 00 04}Sola? Ho dius de debò?{:clear }Navegar fins a l'illa i
@@ -1127,9 +1127,9 @@
   text: '{:unk13 E4 00 23 00}{:unk08 01 01 05}Estàs segura que corre perill?'
 - id: 10191
   text: >-
-    {:unk13 F7 00 39 00}{:unk08 01 00 05}No, segura, no. Però
+    {:unk13 F7 00 39 00}{:unk08 01 00 05}No, segura, no.
 
-    està trigant massa.{:clear }Jo volia anar amb ell.{:clear }Però va insistir
+    Però triga massa.{:clear }Jo volia anar amb ell.{:clear }Però va insistir
 
     que m'hi quedés.{:clear }No puc asseure'm a esperar!{:clear }Haig de saber si
 
@@ -1267,7 +1267,7 @@
   text: Eh?
 - id: 10233
   text: >-
-    Oh, no!{:delay 3C 00}{:clear }No podem acabar amb la
+    Oh, no!{:delay 3C 00}{:clear }No podem posar fi a la
 
     maledicció si no tenim tot l'or!
 - id: 10234
@@ -1316,7 +1316,7 @@
 - id: 10250
   text: Sora...
 - id: 10251
-  text: És broma.{:delay 78 00}{:clear }Com a mínim no ens afecta la maledicció.
+  text: És broma.{:delay 78 00}{:clear }Si més no no ens afecta la maledicció.
 - id: 10252
   text: >-
     Prou xerrotejar, xicots!{:delay 46 00}{:clear }Hem d'agenciar-nos
@@ -1477,9 +1477,9 @@
   text: Quin és el pla, llavors?
 - id: 10298
   text: >-
-    Hem de trobar la seva guarida i
+    Hem de trobar el seu amagatall i
 
-    acabar amb ells d'una vegada per totes.
+    erradicar-los definitivament.
 - id: 10299
   text: >-
     Navegant per aquestes aigües he sentit
@@ -1600,7 +1600,7 @@
 
     foscor, i després lluita amb el Barbossa!
 
-    Si utilitzes màgia, serà més fàcil!
+    Si fas servir màgia, serà més fàcil!
 - id: 15191
   text: Queda una peça! Busca els incorporis en altres llocs!
 - id: 15192
@@ -1628,7 +1628,7 @@
 
     hagis vençut tots els pirates!
 
-    Si utilitzes la llum de la lluna,
+    Si t'aprofites de la llum de la lluna,
 
     et serà més fàcil!
 - id: 15233
@@ -1648,7 +1648,7 @@
     deixa't estar de ximpleries i anem-nos-en.
 - id: 15852
   text: >-
-    Serà millor que {:theme 0A}tornem a Port Royal{:reset}.
+    Val més que {:theme 0A}tornem a Port Royal{:reset}.
 
     Allà estarem fora de perill.
 - id: 15853
@@ -1713,12 +1713,12 @@
 
     arriben els vaixells naufragats.{:clear }Pot ser que hi hagi un bot en bon estat
 
-    que puguem utilitzar. {:theme 0A}Fem-hi un cop d'ull.{:reset}
+    que puguem fer servir. {:theme 0A}Fem-hi un cop d'ull.{:reset}
 - id: 15863
   text: >-
     Segur que aquells sensecor
 
-    ens esperen a la ciutat!{:clear }Estan utilitzant el poder de l'or asteca...
+    ens esperen a la ciutat!{:clear }Fan servir el poder de l'or asteca...
 
     Haurem de confiar en la nostra màgia!
 - id: 15864
@@ -1751,7 +1751,7 @@
 
     en aquest món, no?{:clear }Segur que no tramen res de bo.
 
-    Serà millor que estiguem en guàrdia.
+    Val més que estiguem en guàrdia.
 - id: 15904
   text: >-
     Vols provar aquella
@@ -1899,7 +1899,7 @@
     oi?
 - id: 18341
   text: >-
-    «Per utilitzar en cas d'atac pirata.
+    «Per emprar en cas d'atac pirata.
 
     Comodor Norrington.»
 - id: 18342
@@ -1912,7 +1912,7 @@
 - id: 18344
   text: Timó de l'Interceptor, un navili de la marina.
 - id: 18345
-  text: Per utilitzar contra pirates.
+  text: Per emprar contra pirates.
 - id: 18346
   text: >-
     Manejar aquest canó és perillós.
@@ -1957,7 +1957,7 @@
     L'arca, això sí, és buida.
 - id: 18355
   text: >-
-    Aquells que roben l'oro seran
+    Aquells que roben l'or seran
 
     maleïts amb la immortalitat.
 - id: 18356
@@ -1966,14 +1966,14 @@
   text: Aquest lloc no és accessible ara.
 - id: 18710
   text: >-
-    Intenta utilitzar atacs màgics i
+    Intenta fer servir atacs màgics i
 
     físics per derrotar el sensecor!
 - id: 18711
   text: >-
-    Pots utilitzar màgia per recollir les
+    Pots fer servir màgia per recollir les
 
-    peces d'oro de les mans del sensecor!
+    peces d'or de les mans del sensecor!
 
     Retorna-les a l'arca per ajudar
 
@@ -1982,7 +1982,7 @@
   text: >-
     He trobat una cosa estranya. És un post
 
-    amb rodes. Creus que podràs utilitzar-lo?
+    amb rodes. Creus que podràs fer-lo anar?
 - id: 18919
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Sembla divertit. Vols provar-ho?
@@ -2001,9 +2001,9 @@
     {:chardelay 52 00}Sí, me l'enduc.
 - id: 19109
   text: >-
-    Sembla que aquesta campana
+    Sembla que aquesta campana es
 
-    s'utilitza per indicar les hores.
+    fa servir per indicar les hores.
 - id: 19110
   text: >-
     Aquest vaixell està molt ben equipat
@@ -2015,7 +2015,7 @@
 
     de les intencions del Barbossa.
 - id: 19347
-  text: Intenta utilitzar màgia per recollir les peces d'or a mà del sensecor, i retorna-les a l'arca!
+  text: Intenta fer servir màgia per recollir les peces d'or a mà del sensecor, i retorna-les a l'arca!
 - id: 19348
   text: El sensecor líder està robant l'or! Atura'l!
 - id: 19619
@@ -2044,7 +2044,7 @@
 - id: 20614
   text: Prem {:icon dynamic-triangle} per començar el duel! Identifica i ataca l'original!
 - id: 21548
-  text: "{:delayandfade 07 78} \nMentre el Sora i els seus amics es\ndefensen dels pirates, el Pete fuig\nde l'escena, deixant-los enrere.\n \nDecidits en acabar amb els pirates\nmaleïts que quedaven, s'afanyen\ncap al poble.\n \n \n"
+  text: "{:delayandfade 07 78} \nMentre el Sora i els seus amics es\ndefensen dels pirates, el Pete fuig\nde l'escena, deixant-los enrere.\n \nDecidits a posar fi als pirates\nmaleïts que quedaven, s'afanyen\ncap al poble.\n \n \n"
 - id: 21549
   text: "{:delayandfade 07 78} \nEs troben amb un home anomenat Will\nTurner, que està ocupat en salvar\nl'Elizabeth, la filla del governador.\n \nAixí que tot junts es dirigeixen al port\non la nau pirata es troba. Més els val\nafanyar-s'hi si la volen atrapar!\n \n"
 - id: 21550

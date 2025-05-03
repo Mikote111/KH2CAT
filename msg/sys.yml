@@ -481,7 +481,7 @@
   text: >-
     Sora:
 
-    L'Hèrcules està lluitant!
+    L'Hèrcules lluita ara!
 - id: 683
   text: ''
 - id: 684
@@ -721,11 +721,11 @@
 - id: 1109
   text: Inventari
 - id: 1110
-  text: Utilitza
+  text: Fes servir
 - id: 1111
   text: Llença
 - id: 1112
-  text: Sense utilitzar
+  text: Sense emprar
 - id: 1113
   text: Selecciona un objecte.
 - id: 1114
@@ -737,15 +737,15 @@
 - id: 1117
   text: Valenta
 - id: 1118
-  text: Canvia l'arma secundària utilitzada amb la Forma Valenta.
+  text: Canvia l'arma secundària emprada amb la Forma Valenta.
 - id: 1119
   text: Mestra
 - id: 1120
-  text: Canvia l'arma secundària utilitzada amb la Forma Mestra.
+  text: Canvia l'arma secundària emprada amb la Forma Mestra.
 - id: 1121
   text: Final
 - id: 1122
-  text: Canvia l'arma secundària utilitzada amb la Forma Final.
+  text: Canvia l'arma secundària emprada amb la Forma Final.
 - id: 1123
   text: Armadura
 - id: 1124
@@ -762,7 +762,7 @@
   text: Desequipa objectes.
 - id: 1130
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
      Si es desactiva la funció {:icon auto-equip}{:color #00FF0080}Autorrecàrrega{:reset}
      per aquest objecte, es trauran tots els
      objectes del mateix tipus que portis a sobre.
@@ -793,7 +793,7 @@
   text: >-
     No es poden canviar els membres del grup 
 
-    ni utilitzar Invoca fins que s'acabi la lluita.
+    ni manar Invoca fins que s'acaba la lluita.
 - id: 1143
   text: No pots canviar la Bestia ara.
 - id: 1144
@@ -1264,7 +1264,7 @@
   text: >-
     Sora:
 
-    Serà millor que la Reina
+    Val més que la Reina
 
     vingui amb mi.
 - id: 1380
@@ -1404,9 +1404,9 @@
   text: >-
     Sora:
 
-    L'Oogie ha bloquejat aquesta sortida!
+    L'Home del sac ha bloquejat aquesta sortida!
 - id: 1421
-  text: L'Oogie ha bloquejat aquesta sortida!
+  text: L'Home del sac ha bloquejat aquesta sortida!
 - id: 1422
   text: >-
     Sora:
@@ -1450,7 +1450,7 @@
   text: >-
     Sora:
 
-    Serà millor escoltar 
+    Val més escoltar 
 
     l'opinió de la resta.
 - id: 1433
@@ -1502,9 +1502,9 @@
   text: Tenda
 - id: 1453
   text: >-
-    El grup recupera completament 
+    El grup recupera completament la VT i
 
-    la VT i els PM. Només es pot utilitzar al menú.
+    els PM. Només es pot fer servir al menú.
 - id: 1474
   text: Clau del Regne
 - id: 1475
@@ -1740,56 +1740,56 @@
   text: >-
     Et veuràs envoltat en flames.
 
-    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 12{:reset}
+    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 12{:reset}
 - id: 1590
   text: Glaç elemental
 - id: 1591
   text: >-
     Descarrega cristalls de glaç sobre l'objectiu. 
 
-    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 15{:reset}
+    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 15{:reset}
 - id: 1592
   text: Raig elemental
 - id: 1593
   text: >-
     Llença rajos a l'objectiu.
 
-    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 18{:reset}
+    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 18{:reset}
 - id: 1594
   text: Cura elemental
 - id: 1595
   text: >-
     Recupera la VT.
 
-    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} Tots{:reset}
+    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} Tots{:reset}
 - id: 1596
   text: Magneto elemental
 - id: 1597
   text: >-
     Emet un poder que aglomera l'enemic.
 
-    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 30{:reset}
+    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 30{:reset}
 - id: 1598
   text: Reflex elemental
 - id: 1599
   text: >-
     Evita i respon els atacs enemics.
 
-    {:width 90}S'utilitza a l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 10{:reset}
+    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 10{:reset}
 - id: 1600
   text: Amulet Ukelele
 - id: 1601
   text: >-
     Amb l'ajuda de dos amics, 
 
-    utilitza l'ordre Invoca i 
+    mana l'ordre Invoca i l'Stitch
 
-    l'Stitch et donarà un cop de mà.
+    et donarà un cop de mà.
 - id: 1602
   text: Forma Valenta
 - id: 1603
   text: >-
-    Amb l'ajuda del Goofy, utilitza 
+    Amb l'ajuda del Goofy, mana
 
     l'ordre Fusió i canviaràs 
 
@@ -1798,7 +1798,7 @@
   text: Forma Sàvia
 - id: 1605
   text: >-
-    Amb l'ajuda del Donald, utilitza 
+    Amb l'ajuda del Donald, mana 
 
     l'ordre Fusió i canviaràs 
 
@@ -1807,7 +1807,7 @@
   text: Forma Mestra
 - id: 1607
   text: >-
-    Amb l'ajuda de dos amics, utilitza 
+    Amb l'ajuda de dos amics, mana 
 
     l'ordre Fusió i canviaràs 
 
@@ -2230,7 +2230,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Comprovant les dades desades.
+    S'estan comprovant les dades desades.
 
     No apaguis l'ordinador.
 - id: 2698
@@ -2280,7 +2280,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Esborrant dades.
+    S'estan esborrant les dades.
 
     No apaguis l'ordinador.
 - id: 2704
@@ -2288,7 +2288,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Guardant dades.
+    S'estan desant les dades.
 
     No apaguis l'ordinador.
 - id: 2705
@@ -2296,7 +2296,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Carregant les dades desades.
+    S'estan carregant les dades desades.
 
     No apaguis l'ordinador.
 - id: 2706
@@ -2304,20 +2304,22 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Sobrescrivient dades a l'emmagatzematge del sistema.
+    S'estan sobreescrivint dades
+
+    a l'emmagatzematge del sistema.
 
     No apaguis l'ordinador.
 - id: 2707
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Esborrant dades.
+    S'estan esborrant les dades.
 
     No apaguis l'ordinador.
 - id: 2708
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
     S'ha produït un error en comprovar
@@ -2325,7 +2327,7 @@
     l'emmagatzematge del sistema.
 - id: 2709
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
     S'ha produït un error en esborrar
@@ -2333,32 +2335,32 @@
     dades de l'emmagatzematge del sistema.
 - id: 2710
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    S'ha produït un error en borrar
+    S'ha produït un error en esborrar
 
     dades.
 - id: 2711
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
     No hi ha prou espai lliure
 
     a l'emmagatzematge del sistema.
 
-    Es necesiten com a mínim 169 KB per 
+    Calen mínim 169 KB per 
 
     desar les dades.
 - id: 2712
-  text: Sense utilitzar
+  text: Sense emprar
 - id: 2713
-  text: Sense utilitzar
+  text: Sense emprar
 - id: 2714
   text: Les dades desades estan malmeses.
 - id: 2715
-  text: Sense utilitzar
+  text: Sense emprar
 - id: 2716
   text: No es pot desar en un nou fitxer.
 - id: 2717
@@ -2383,7 +2385,7 @@
 
     {:icon dynamic-triangle} Esborra el fitxer.
 - id: 2723
-  text: Sense utilitzar.
+  text: Sense emprar.
 - id: 2724
   text: >-
     {:icon question-mark}{:color #FF000080}PREGUNTA{:reset}                                    
@@ -2404,7 +2406,7 @@
     Vols esborrar aquest fitxer?
 - id: 2734
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
     L'emmagatzematge del sistema està malmès.
@@ -2643,31 +2645,31 @@
   text: '{:icon magic-nocharge}Desactiva la Càrrega PM'
 - id: 7674
   text: >-
-    Si no tens prous PM per utilitzar
+    Si no tens prou PM per llençar
 
     aquest encanteri, espera un moment. 
 
     L'indicador de PM començarà a omplir-se.
 - id: 7675
   text: >-
-    No es pot utilitzar aquest encanteri 
+    No es pot llençar aquest encanteri 
 
-    si no hi ha prous PM.
+    si no hi ha prou PM.
 - id: 7676
   text: '{:icon auto-equip}{:scale 14}{:width 90}Autorrecàrrega: SÍ'
 - id: 7677
   text: '{:icon item-consumable}{:scale 14}{:width 90}Autorrecàrrega: NO'
 - id: 7678
   text: >-
-    {:width 95}Si utilitzes un objecte en un combat 
+    {:width 95}Si fas servir un objecte en un combat 
 
-    i tens més a l'inventari, l'objecte 
+    i en tens més a l'inventari, l'objecte 
 
     es recarrega després del combat.{:reset}
 - id: 7679
   text: L'objecte no és reutilitzable.
 - id: 7752
-  text: Agafa't
+  text: Agafa-t'hi
 - id: 7753
   text: Aguanta
 - id: 7754
@@ -2720,23 +2722,23 @@
 - id: 7771
   text: >2-
 
-    Utilitza aquesta habilitat lliurement.
+    Fes servir aquesta habilitat lliurement.
 - id: 7772
   text: >2-
 
-    Utilitza aquesta habilitat prudentment.
+    Fes servir aquesta habilitat prudentment.
 - id: 7773
   text: >2-
 
-    Utilitza aquesta habilitat en situacions especials.
+    Fes servir aquesta habilitat en situacions especials.
 - id: 7774
   text: >2-
 
-    Utilitza aquest objecte sovint.
+    Fes servir aquest objecte sovint.
 - id: 7775
   text: >2-
 
-    Utilitza aquest objecte només en cas d'emergència!
+    Fes servir aquest objecte només en cas d'emergència!
 - id: 7776
   text: Tall superior
 - id: 7777
@@ -2770,12 +2772,12 @@
 
     Sembla haver-hi un camí,
 
-    però ara no puc utilitzar-lo.
+    però ara no hi puc anar.
 - id: 8003
   text: >-
     Roxas:
 
-    Serà millor que no fugim!
+    Val més que no fugim!
 - id: 8004
   text: >-
     Roxas:
@@ -2985,23 +2987,23 @@
   text: Estrella fugaç
 - id: 8314
   text: >-
-    Un escut petit i fàcil d'utilitzar, 
+    Un escut petit i fàcil de manejar, 
 
-    usat només per atacar.
+    emprat només per atacar.
 - id: 8315
   text: Núvol de fantasia
 - id: 8316
   text: >-
     Escut d'enorme força,
 
-    utilitzat només per atacar.
+    emprat només per atacar.
 - id: 8317
   text: Custodi
 - id: 8318
   text: >-
     Un escut de extraordinària força,
 
-    utilitzat només per atacar.
+    emprat només per atacar.
 - id: 8319
   text: Escut de Genji
 - id: 8320
@@ -3144,7 +3146,7 @@
   text: >-
     Amb l'ajuda de dos amics, 
 
-    utilitza l'ordre Invoca i el
+    mana l'ordre Invoca i el
 
     Geni et donarà un cop de mà.
 - id: 10333
@@ -3153,7 +3155,7 @@
   text: >-
     Amb l'ajuda de dos amics, 
 
-    utilitza l'ordre Invoca i el
+    mana l'ordre Invoca i el
 
     Peter Pan et donarà un cop de mà.
 - id: 10335
@@ -3363,7 +3365,7 @@
   text: Herba sanadora
 - id: 13093
   text: >-
-    Retorna la VT al grup utilitzant els
+    Retorna la VT al grup fent ús dels
 
     poders de la naturalesa. {:color #F0F00080}Cost PM: 99{:reset}
 - id: 13102
@@ -3374,9 +3376,9 @@
   text: Trio
 - id: 13110
   text: >-
-    Ordre Límit utilitzat en equip
+    Ordre Límit executat en equip
 
-    per llançar un poderós atac Trio.
+    per llençar un poderós atac Trio.
 
     Consumeix tots els PM del Sora.
 - id: 13111
@@ -3503,7 +3505,7 @@
 - id: 13171
   text: '{:icon dynamic-square}Objectes'
 - id: 13846
-  text: Sense utilitzar
+  text: Sense emprar
 - id: 13847
   text: Preferències
 - id: 13848
@@ -3796,7 +3798,7 @@
   text: >-
     Permet triar armes i armadures,
 
-    o utilitzar objectes de l'inventari.
+    o fer servir objectes de l'inventari.
 - id: 14094
   text: Guia sobre l'equip
 - id: 14095
@@ -3821,7 +3823,7 @@
 - id: 14103
   text: Càmera
 - id: 14104
-  text: Stick dret
+  text: Palanca dreta
 - id: 14105
   text: Mapa de navegació
 - id: 14106
@@ -3856,18 +3858,18 @@
   text: Menú d'ordres
 - id: 14116
   text: >-
-    Configura l'stick dret per controlar
+    Configura la palanca dreta per controlar
 
-    la càmera. Podràs utilitzar-lo per ordres
+    la càmera. Podràs fer-lo servir per ordres
 
-    mentre mantinguis premut el LT.
+    mentre mantinguis premut LT.
 - id: 14117
   text: >-
-    Configura l'stick dret per les ordres.
+    Configura la palanca dreta per a les ordres.
 
-    Podràs utilitzar-lo per controlar la càmera 
+    Podràs fer-la servir per controlar la càmera 
 
-    mentre mantinguis premut el LT.
+    mentre mantinguis premut LT.
 - id: 14118
   text: Activat
 - id: 14119
@@ -3913,7 +3915,7 @@
   text: >-
     Fa que la aparença de la finestra
 
-    d'ordres canviï en cada món que visites.
+    d'ordres canviï a cada món que visites.
 - id: 14135
   text: >-
     Manté l'aspecte original
@@ -3996,7 +3998,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
 
 
-    Comprovant l'emmagatzematge del sistema.
+    S'està comprovant l'emmagatzematge del sistema.
 
     No apaguis el sistema PlayStation®3.
 - id: 14285
@@ -4008,9 +4010,9 @@
 
     l'emmagatzematge del sistema.
 
-    Es necessiten com a mínim 69 KB de espai lliure
+    Calen mínim 69 KB de espai lliure per
 
-    per desar la partida. Vols començar igualment?
+    desar la partida. Vols començar igualment?
 - id: 14286
   text: >-
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}                                    
@@ -4038,9 +4040,9 @@
 
     l'emmagatzematge del sistema.
 
-    Es necessiten com a mínim 169 KB d'espai lliure
+    Calen mínim 169 KB d'espai lliure per
 
-    per desar la partida. Vols començar igualment?
+    desar la partida. Vols començar igualment?
 - id: 14299
   text: Calés
 - id: 14424
@@ -4134,15 +4136,15 @@
 - id: 14652
   text: Sabana
 - id: 14657
-  text: Permet utilitzar l'objecte seleccionat.
+  text: Permet emprar l'objecte seleccionat.
 - id: 14658
   text: Llença l'objecte seleccionat.
 - id: 14659
-  text: Amb qui el vols utilitzar?
+  text: Amb qui el vols fer servir?
 - id: 14660
   text: Tots
 - id: 14661
-  text: Utilitza l'objecte amb tots.
+  text: Fes servir l'objecte amb tots.
 - id: 14662
   text: ''
 - id: 14663
@@ -4150,10 +4152,10 @@
 - id: 14664
   text: ''
 - id: 14670
-  text: S'utilitza l'objecte sobre {:unk0d }.
+  text: Es fa servir l'objecte sobre {:unk0d }.
 - id: 14671
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
     Vols llençar {:unk0d }{:unk0d }?
@@ -4319,44 +4321,44 @@
   text: Recàrrega de Fusió
 - id: 14810
   text: >-
-    Recupera per complet tres indicadors
+    Recupera per complet tres indicadors de
 
-    de Fusió. Només es pot utilitzar al menú.
+    Fusió. Només es pot fer servir al menú.
 - id: 14811
   text: Recàrrega de Fusió+
 - id: 14812
   text: >-
-    Recupera per complet els indicadors
+    Recupera per complet els indicadors de
 
-    de Fusió. Només es pot utilitzar al menú.
+    Fusió. Només es pot fer servir al menú.
 - id: 14813
   text: Impuls de vigor
 - id: 14814
   text: >-
     Augmenta en 1 la Força.
 
-    Només es pot utilitzar al menú.
+    Només es pot fer servir al menú.
 - id: 14815
   text: Impuls màgic
 - id: 14816
   text: >-
     Augmenta en 1 la Màgia.
 
-    Només es pot utilitzar al menú.
+    Només es pot fer servir al menú.
 - id: 14817
   text: Impuls defensiu
 - id: 14818
   text: >-
     Augmenta en 1 la Defensa.
 
-    Només es pot utilitzar al menú.
+    Només es pot fer servir al menú.
 - id: 14819
   text: Impuls hàbil
 - id: 14820
   text: >-
     Augmenta en 1 els PH màxims.
 
-    Només es pot utilitzar al menú.
+    Només es pot fer servir al menú.
 - id: 14821
   text: loop demo
 - id: 14823
@@ -5292,9 +5294,9 @@
   text: >-
     Cartell ordinari.
 
-    La gent de Vila Crepuscle
+    La gent de Vila Crepuscle el
 
-    l'utilitza per anunciar coses.
+    fa servir per anunciar coses.
 - id: 15123
   text: Carta
 - id: 15124
@@ -5480,7 +5482,7 @@
   text: Amulet de Beisbol
 - id: 15227
   text: >-
-    Amb l'ajuda de dos amics, utilitza
+    Amb l'ajuda de dos amics, mana
 
     l'ordre Invoca i Chicken Little 
 
@@ -5497,14 +5499,14 @@
   text: >-
     Permet canviar l'equipament d'un personatge.
 
-    Per utilitzar un objecte fora el menú, 
+    Per fer servir un objecte fora el menú, 
 
-    hauràs d'activar-lo abans.
+    l'hauràs d'equipar abans.
 - id: 15239
   text: >
     A l'inventari, hi ha objectes.
 
-    Els objectes poden utilitzar-se o llençar-se.
+    Els objectes es poden fer servir o llençar.
 - id: 15240
   text: No es pot canviar ningú.
 - id: 15241
@@ -5531,7 +5533,7 @@
   text: Enganxa
 - id: 15248
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
     {:unk0d }{:unk0d } no tindria cap efecte.
@@ -5553,7 +5555,7 @@
   text: Espasa d'Struggle
 - id: 15282
   text: >-
-    Arma de joguina utilitzada
+    Arma de joguina emprada
 
     en combats d'Struggle.
 - id: 15283
@@ -5571,11 +5573,11 @@
 - id: 15297
   text: Ajuda
 - id: 15298
-  text: Si omples l'indicador de Fusió, podràs utilitzar Fulgor de vida!
+  text: Si omples l'indicador de Fusió, podràs manar Fulgor de vida!
 - id: 15299
-  text: Utilitza Fulgor de vida per salvar el Sora!
+  text: Mana Fulgor de vida per salvar el Sora!
 - id: 15300
-  text: Utilitza Fulgor de vida per intercanviar-te amb el Sora!
+  text: Mana Fulgor de vida per intercanviar-te amb el Sora!
 - id: 15302
   text: Tipus
 - id: 15303
@@ -5624,7 +5626,7 @@
   text: Auto-Invoca
 - id: 15315
   text: >-
-    Si es pot utilitzar Invoca i un
+    Si es pot manar Invoca i un
 
     aliat és abatut, l'ordre de
 
@@ -5712,12 +5714,12 @@
   text: >-
     Extèn la permanència de l'aliat
 
-    quan utilitzes Invoca.
+    quan manes Invoca.
 - id: 15336
   text: Extralímit
 - id: 15337
   text: >-
-    Extèn el temps
+    Estén el temps
 
     que duren els Límits.
 - id: 15338
@@ -5733,7 +5735,7 @@
   text: Fulla sana
 - id: 15341
   text: >-
-    Si utilitzes Cura sobre tu mateix,
+    Si manes Cura sobre tu mateix,
 
     continuaràs curant-te fins i tot
 
@@ -5936,7 +5938,7 @@
     propers. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 15497
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
     Has entregat tots {:color #FFFF0080}els materials de fabricació{:reset}
@@ -5944,7 +5946,7 @@
     que tenies a l'inventari.
 - id: 15498
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
     Has entregat totes {:color #FFFF0080}les receptes{:reset}
@@ -6138,7 +6140,7 @@
 - id: 15579
   text: ???
 - id: 15580
-  text: Sense utilitzar
+  text: Sense emprar
 - id: 15581
   text: Llistes
 - id: 15582
@@ -6599,16 +6601,16 @@
   text: Bastó d'Struggle.
 - id: 15953
   text: >-
-    Bastó de joguina utilitzat en
+    Bastó de joguina emprat
 
-    combats d'Struggle.
+    en combats d'Struggle.
 - id: 15954
   text: Maça d'Struggle
 - id: 15955
   text: >-
-    Maça de joguina utilitzat en
+    Maça de joguina emprat
 
-    combats d'Struggle.
+    en combats d'Struggle.
 - id: 15956
   text: Visca la Reina+
 - id: 15957
@@ -6628,11 +6630,11 @@
 - id: 15972
   text: Desxifra receptes i fabrica objectes!
 - id: 15973
-  text: Utilitza materials de tipus {:icon gem-bright}brillantor i {:icon gem-energy}energia!
+  text: Fes servir materials de tipus {:icon gem-bright}brillantor i {:icon gem-energy}energia!
 - id: 15974
-  text: Utilitza materials de tipus {:icon gem-serenity}satisfacció!
+  text: Fes servir materials de tipus {:icon gem-serenity}satisfacció!
 - id: 15975
-  text: Utilitza fins a dos materials extra!
+  text: Fes servir fins a dos materials extra!
 - id: 15976
   text: Necessites la meitat de materials de recepta {:icon rank-c}!
 - id: 15977
@@ -6779,7 +6781,7 @@
   text: '{:icon dynamic-square}Receptes'
 - id: 16080
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
     Has obtingut {:color #FFFF0080}{:unk0d }{:unk0d }{:reset}
@@ -6787,7 +6789,7 @@
     per completar la col・lecció.
 - id: 16081
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
     El nivell moguri{:color #FFFF0080} ha augmentat!{:reset}
 
@@ -6834,7 +6836,7 @@
   text: Un mapa del lloc.
 - id: 16116
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
     {:color #FFFF0080}Es necessiten materials de tipus {:icon gem-serenity}satisfacció{:reset} 
 
@@ -6845,7 +6847,7 @@
     {:icon gem-serenity}satisfacció{:reset} per continuar.
 - id: 16117
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
     Materials insuficients. Pots fabricar
@@ -6862,7 +6864,7 @@
     Sora:
 - id: 16134
   text: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓN{:reset}
+    {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
     L'inventari és ple, 
@@ -6899,21 +6901,21 @@
   text: A l'inventari
 - id: 16479
   text: >-
-    {:color #FFFF0080}Pots utilitzar materials de tipus
+    {:color #FFFF0080}Pots emprar materials de tipus
 
     {:icon gem-bright}brillantor i {:icon gem-energy}energia!{:reset}
 
-    Utilitza'ls en fabricar objectes!
+    Fes-los servir en fabricar objectes!
 - id: 16480
   text: >-
-    {:color #FFFF0080}Pots utilitzar materials de tipus {:icon gem-serenity}satisfacció!{:reset}
+    {:color #FFFF0080}Pots emprar materials de tipus {:icon gem-serenity}satisfacció!{:reset}
 
-    Utilitza'ls a les velles creacions que
+    Fes-los servir a les velles creacions
 
-    es trobin a Creacions!
+    que es troben a Creacions!
 - id: 16481
   text: >-
-    {:color #FFFF0080}Pots utilitzar fins a dos
+    {:color #FFFF0080}Pots emprar fins a dos
 
     materials extra!{:reset}
 - id: 16482
@@ -7656,59 +7658,59 @@
 
     Pots augmentar els PH màxims
 
-    utilitzant certs accessoris.
+    emprant certs accessoris.
 - id: 17780
   text: >-
-    Aquest indicador s'utilitza per Fusió i Invoca.
+    Aquest indicador es fa servir per Fusió i Invoca.
 
-    Aconsegueix esferes per omplir-lo.
+    Aconsegueix-ne esferes per omplir-lo.
 - id: 17781
   text: >-
     La força actual del personatge.
 
-    Quant major sigui el número, més
+    Com més gran sigui el número, més
 
     mal causaràs als enemics.
 - id: 17782
   text: >-
     La destresa màgica actual del personatge.
 
-    Quant major sigui el número, més
+    Com més gran sigui el número, més
 
     mal causaràs als enemics.
 - id: 17783
   text: >-
     La defensa actual del personatge.
 
-    Quant major sigui el número, més
+    Com més gran sigui el número, més
 
     mal causaràs als enemics.
 - id: 17784
   text: >-
     {:width 95}Resistència contra atacs Piro.
 
-    Quant major sigui el número, menys
+    Com més gran sigui el número, menys
 
     mal et causaran els atacs.
 - id: 17785
   text: >-
     {:width 95}Resistència contra atacs Glaç.
 
-    Quant major sigui el número, menys
+    Com més gran sigui el número, menys
 
     mal et causaran els atacs.
 - id: 17786
   text: >-
     {:width 95}Resistència contra atacs Electro.
 
-    Quant major sigui el número, menys
+    Com més gran sigui el número, menys
 
     mal et causaran els atacs.
 - id: 17787
   text: >-
     {:width 95}Resistència contra atacs de foscor.
 
-    Quant major sigui el número, menys
+    Com més gran sigui el número, menys
 
     mal et causaran els atacs.
 - id: 17788
@@ -7773,9 +7775,9 @@
   text: >-
     Indicador de Forma per la Forma Valenta.
 
-    Quant més llarg sigui l'indicador, major
+    Com més llarg sigui l'indicador, major
 
-    serà el temps que duri la transformació.
+    serà el temps que dura la transformació.
 - id: 17799
   text: >-
     Guanyes un punt d'experiencia per cada
@@ -7792,9 +7794,9 @@
   text: >-
     Indicador de Forma per la Forma Sàvia.
 
-    Quant més llarg sigui l'indicador, major
+    Com més llarg sigui l'indicador, major
 
-    serà el temps que duri la transformació.
+    serà el temps que dura la transformació.
 - id: 17802
   text: >-
     {:width 80}Cada esfera de fusió petita dona un punt d'experiència,
@@ -7813,9 +7815,9 @@
   text: >-
     Indicador de Forma per la Forma Mestra.
 
-    Quant més llarg sigui l'indicador, major
+    Com més llarg sigui l'indicador, major
 
-    serà el temps que duri la transformació.
+    serà el temps que dura la transformació.
 - id: 17805
   text: >-
     Guanyes un punt d'experiència per cada
@@ -7832,9 +7834,9 @@
   text: >-
     Indicador de Forma per la Forma Final.
 
-    Quant més llarg sigui l'indicador, major
+    Com més llarg sigui l'indicador, major
 
-    serà el temps que duri la transformació.
+    serà el temps que dura la transformació.
 - id: 17808
   text: Indicador d'Invoca
 - id: 17809
@@ -7863,9 +7865,9 @@
   text: >-
     El teu indicador d'Invoca actual.
 
-    Quant més llarg sigui l'indicador, major
+    Com més llarg sigui l'indicador, major
 
-    serà el temps que durarà la invocació.
+    serà el temps que dura la invocació.
 - id: 17816
   text: >-
     L'Stitch bloqueja molts atacs enemics.
@@ -8190,9 +8192,9 @@
 
     l'emmagatzematge del sistema.
 
-    Es necessiten com a mínim 69 KB
+    Calen mínim 69 KB d'espai
 
-    d'espai lliure per desar la partida.
+    lliure per desar la partida.
 - id: 18122
   text: Llençar
 - id: 18201
@@ -8213,7 +8215,7 @@
 
     i llença un poderós combo final
 
-    per acabar amb un únic objectiu.
+    per eliminar un únic objectiu.
 - id: 18467
   text: Tret definitiu
 - id: 18468
@@ -8222,14 +8224,14 @@
 
     un poderós combo final per
 
-    acabar amb un únic objectiu.
+    eliminar un únic objectiu.
 - id: 18469
   text: Art definitiu
 - id: 18470
   text: >-
     Llença un poderós combo final
 
-    per acabar amb diversos objectius
+    per eliminar diversos objectius
 
     d'una sola vegada.
 - id: 18471
@@ -8353,42 +8355,42 @@
   text: >-
     Sora:
 
-    Allà no puc utilitzar el meu monopatí.
+    Allà no puc fer servir el meu monopatí.
 - id: 18856
   text: >-
     Sora:
 
-    Allà no puc utilitzar el meu monopatí.
+    Allà no puc fer servir el meu monopatí.
 - id: 18857
   text: >-
     Sora:
 
-    Allà no puc utilitzar el meu monopatí.
+    Allà no puc fer servir el meu monopatí.
 - id: 18858
   text: >-
     Sora:
 
-    Allà no puc utilitzar el meu monopatí.
+    Allà no puc fer servir el meu monopatí.
 - id: 18859
   text: >-
     Sora:
 
-    Allà no puc utilitzar el meu monopatí.
+    Allà no puc fer servir el meu monopatí.
 - id: 18860
   text: >-
     Sora:
 
-    Allà no puc utilitzar el meu monopatí.
+    Allà no puc fer servir el meu monopatí.
 - id: 18861
   text: >-
     Sora:
 
-    Allà no puc utilitzar el meu monopatí.
+    Allà no puc fer servir el meu monopatí.
 - id: 18862
   text: >-
     Sora:
 
-    Allà no puc utilitzar el meu monopatí.
+    Allà no puc fer servir el meu monopatí.
 - id: 18928
   text: >-
     Sora:
@@ -8628,17 +8630,17 @@
 - id: 19484
   text: Salvat pel Mickey
 - id: 19485
-  text: Forma més utilitzada
+  text: Forma més emprada
 - id: 19486
-  text: Antiforma utilitzada
+  text: Antiforma emprada
 - id: 19487
-  text: Invocació més utilitzada
+  text: Invocació més emprada
 - id: 19488
-  text: '{:color #F0F00080} {:reset}vegades'
+  text: '{:color #F0F00080} {:reset}cops'
 - id: 19492
   text: INFORME DE BATALLA
 - id: 19541
-  text: '{:width 90}Trofeu «Struggle»'
+  text: "{:width 90}Trofeu d'«Struggle»"
 - id: 19542
   text: >-
     Trofeu del torneig d'Struggle.
@@ -8707,7 +8709,7 @@
   text: >-
     {:width 80}El Ping s'unirà al grup. Per un temps, no podràs canviar
 
-    els membres del grup ni utilitzar invocacions.
+    els membres del grup ni manar invocacions.
 - id: 19620
   text: >-
     Sora:
@@ -9017,7 +9019,7 @@
   text: >-
     Amb el record d'algú especial,
 
-    utilitza l'ordre Fusió i canviaràs
+    mana l'ordre Fusió i canviaràs
 
     a la Forma Límit.
 - id: 20099
@@ -9105,9 +9107,9 @@
   text: >-
     Llença un poderós combo final
 
-    per acabar amb un únic rival
+    per eliminar un únic rival
 
-    dèbil d'una sola vegada.
+    dèbil d'una sol cop.
 - id: 20119
   text: Onada màgica
 - id: 20120
@@ -9144,9 +9146,9 @@
   text: >-
     Indicador de Forma per la Forma Límit.
 
-    Quant més llarg sigui l'indicador, major
+    Com més llarg sigui l'indicador, major
 
-    serà el temps que duri la transformació.
+    serà el temps que dura la transformació.
 - id: 20127
   text: Límit
 - id: 20128
@@ -9353,7 +9355,7 @@
   text: >-
     El Sora recupera VT quan colpeja
 
-    el rival utilitzant una ordre Límit.
+    el rival manant una ordre Límit.
 - id: 20338
   text: Gruta de la Membrança
 - id: 20339
@@ -9981,9 +9983,9 @@
   text: >-
     {:icon dynamic-l2} {:color #FFEC1980}Fixa ordres{:reset}
 
-    Utilitza {:icon dynamic-right-analog} i manten-lo premut 
+    Fes servir {:icon dynamic-right-analog} i manten-lo
 
-    per controlar les ordres.
+    premut per controlar les ordres.
 
 
     {:icon dynamic-left-analog}
@@ -9993,15 +9995,13 @@
   text: >-
     {:icon dynamic-r2} {:color #FFEC1980}Fixa càmera{:reset}
 
-    Utilitza {:icon dynamic-right-analog} i manten-lo
+    Fes servir {:icon dynamic-right-analog} i manten-lo
 
-    premut per controlar la
-    
-    càmera.
+    premut per controlar la càmera.
 
     {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}
 
-    Moure amunt/avall
+    Mou amunt/avall
 - id: 22025
   text: ⤷ Prem {:icon dynamic-cross} per atacar els enemics des de lluny!
 - id: 22026
@@ -10078,16 +10078,16 @@
 - id: 22045
   text: "⤷ Prem {:icon dynamic-triangle} per aturar l'{:color #FFEC1980}indicador d'Energía{:reset} i començar a girar!"
 - id: 22046
-  text: Utilitza {:icon dynamic-triangle} per activar / desactivar.
+  text: Prem {:icon dynamic-triangle} per activar / desactivar.
 - id: 22047
-  text: Utilitza {:icon dynamic-triangle} per activar / desactivar.
+  text: Prem {:icon dynamic-triangle} per activar / desactivar.
 - id: 22048
-  text: Utilitza {:icon dynamic-triangle} per activar/desactivar.
+  text: Prem {:icon dynamic-triangle} per activar/desactivar.
 - id: 22049
   text: >-
-    Utilitza {:icon dynamic-left-analog} per moure
+    Fes servir {:icon dynamic-left-analog} per moure la
 
-    la nau gumi i prem {:icon dynamic-cross} per {:color #FFEC1980}disparar{:reset}!
+    nau gumi i prem {:icon dynamic-cross} per {:color #FFEC1980}disparar{:reset}!
 - id: 22050
   text: 'Prem {:icon dynamic-circle} per {:color #00FA3080}fer voltes{:reset}!'
 - id: 22051
@@ -10098,9 +10098,9 @@
   text: >-
     En vèncer enemics, s'omple l'indicador 
 
-    de Raig a la part inferior esquerra. Una
+    de Raig a la part inferior esquerra. Un
 
-    vegada ple, prem {:icon dynamic-triangle}  per utilitzar els {:color #00FA3080}gumi-rajos{:reset}!
+    cop ple, prem {:icon dynamic-triangle} per activar els {:color #00FA3080}gumi-rajos{:reset}!
 - id: 22054
   text: "Amb {:icon dynamic-triangle} {:color #FFEC1980}dispares tots els rajos{:reset} de l'{:color #00FA3080}indicador{:reset}!"
 - id: 22055
@@ -10127,7 +10127,7 @@
     per rotar la càmera 180°!
 - id: 22060
   text: >-
-    ⤷ En aquest repte, pots utilitzar
+    ⤷ En aquest repte, pots fer servir
         {:color #FFEC1980}tots els indicadors{:reset}!
 - id: 22061
   text: >-

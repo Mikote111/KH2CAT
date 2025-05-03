@@ -143,7 +143,7 @@
 
     tinc una pregunta...
 - id: 2979
-  text: Nois... no està el Tron esperant-vos?
+  text: Nois... no us espera el Tron?
 - id: 2980
   text: >-
     No us preocupeu,
@@ -201,7 +201,7 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8069
@@ -219,7 +219,7 @@
   text: >-
     Derrota tots els enemics!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8073
@@ -245,13 +245,13 @@
   text: >-
     Derrota tots els enemics!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8085
   text: Derrota els sensecor!
 - id: 8086
-  text: Utilitza les defenses de la ciutat per derrotar els sensecor!
+  text: Fes servir les defenses de la ciutat per derrotar els sensecor!
 - id: 8087
   text: Derrota els sensecor!
 - id: 8088
@@ -303,14 +303,14 @@
     el moment exacte!
 - id: 8161
   text: >-
-    {:unk13 2C 01 37 00}{:unk08 01 01 06}El PCM està sembrant el
+    {:unk13 2C 01 37 00}{:unk08 01 01 06}El PCM sembra el
 
     caos dins l'ordinador.
 - id: 8162
   text: '{:unk13 87 00 09 01}{:unk08 01 00 06}Un altre cop no!'
 - id: 8163
   text: >-
-    {:unk13 D2 00 37 00}{:unk08 01 01 06}Com a mínim això és
+    {:unk13 D2 00 37 00}{:unk08 01 01 06}Si més no això és
 
     el que creu el Léon...
 - id: 8164
@@ -320,12 +320,12 @@
     esbrinar de què carai va tot això.
 - id: 8165
   text: >-
-    Sembla que el PCM està
+    Sembla que el PCM fa
 
-    utilitzant dades del sistema{:delay B4 00}{:clear }per crear més sensecor.
+    servir dades del sistema{:delay B4 00}{:clear }per crear més sensecor.
 - id: 8166
   text: >-
-    I, a més, s'està carregant tot el
+    I, a més, es carrega tot el
 
     sistema de control de la ciutat.
 - id: 8167
@@ -486,7 +486,7 @@
 
     Delicatessen màgica del vell xaruc.
 - id: 8206
-  text: Serà millor que funcioni.
+  text: Val més que funcioni.
 - id: 8207
   text: Me'n vaig.
 - id: 8208
@@ -507,7 +507,7 @@
 - id: 8214
   text: I no parlis amb la boca plena!
 - id: 8215
-  text: Què... què hi estàs carregant?
+  text: Què... què hi carregues?
 - id: 8216
   text: >-
     Les coses s'estan
@@ -540,7 +540,7 @@
 - id: 8225
   text: I ens ha promès que el tornaríem a veure...
 - id: 8226
-  text: Què està passant?
+  text: Què passa?
 - id: 8227
   text: >-
     Salut, amics.{:delay 3C 00}{:clear }El sistema és actiu i
@@ -691,7 +691,7 @@
 
     bastant poderosos,{:delay D8 00}{:clear }però temo que el llibre hagi
 
-    patit cap mal, així que...{:delay E8 00}{:clear }{:delay 45 00}Espereu. Serà millor que avisi
+    patit cap mal, així que...{:delay E8 00}{:clear }{:delay 45 00}Espereu. Val més que avisi
 
     el Léon i els altres abans.{:delay C2 00}{:clear }Vaig a buscar-los.
 
@@ -794,7 +794,7 @@
   text: >-
     Deixa'ns això a nosaltres.
 
-    Tu concentra't en les dades.{:clear }Utilitza la contrasenya i treballa amb
+    Tu concentra't en les dades.{:clear }Fes servir la contrasenya i treballa amb
 
     el Tron per alliberar les dades del DTD.
 - id: 9001
@@ -846,7 +846,7 @@
   text: >-
     Sembla que les teves peces es van dissenyar
 
-    per acumular energia quan utilitzes la màgia.{:clear }No et continguis, puix que la teva
+    per acumular energia quan empres la màgia.{:clear }No et continguis, atès que la teva
 
     màgia es recupera de seguida.
 - id: 9009
@@ -867,9 +867,9 @@
   text: >-
     Has vist els dispositius de defensa
 
-    de la ciutat? Els anomenen Claymore.{:clear }No tenen tant poder com vosaltres,
+    de la ciutat? Els anomenen Claymore.{:clear }No tenen tant de poder com vosaltres,
 
-    però si els utilitzeu bé poden...{:clear }ser de gran ajuda.
+    però si us n'aprofiteu bé poden...{:clear }ser de gran ajuda.
 - id: 9012
   text: >-
     La sala de l'ordinador és més enllà
@@ -908,9 +908,9 @@
     enfrontar-vos-hi! Bona sort! ♪
 - id: 9018
   text: >-
-    El PCM està utilitzant la màquina
+    El PCM fa servir la màquina de
 
-    de fabricar sensecor de l'estudi.{:clear }També té el control del sistema de
+    fabricar sensecor de l'estudi.{:clear }També té el control del sistema de
 
     defensa. Això comença a ser preocupant.
 - id: 9019
@@ -959,7 +959,7 @@
 
     viatjava pels mons en
 
-    una nau gumi amb el rei.{:clear }Estava ajudant a establir un
+    una nau gumi amb el rei.{:clear }Ajudava a establir un
 
     sistema de tràfic entre mons.
 - id: 12328
@@ -1064,7 +1064,7 @@
 - id: 12358
   text: On heu estat tot aquest temps?
 - id: 12359
-  text: Estàvem dormint.
+  text: Dormíem.
 - id: 12360
   text: On? En una nevera?
 - id: 12361
@@ -1190,7 +1190,7 @@
   text: >-
     Llavors, Sora...
 
-    tens idea del que està passant?
+    tens idea del que passa?
 - id: 12400
   text: >-
     Hi ha un tal Pete que va per allà
@@ -1327,7 +1327,7 @@
   text: >-
     {:unk13 59 01 46 00}{:unk08 01 00 04}Hem trobat l'ordinador
 
-    que l'Ànsem utilitzava!
+    que feia servir l'Ànsem!
 - id: 12467
   text: '{:unk13 A5 00 E6 00}{:unk08 01 00 05}Ostres!'
 - id: 12468
@@ -1407,7 +1407,7 @@
     amb ells?
 - id: 12496
   text: >-
-    {:unk13 BE 00 50 00}{:unk08 01 00 06}Bé, com a mínim
+    {:unk13 BE 00 50 00}{:unk08 01 00 06}Bé, si més no
 
     puc preguntar al
 
@@ -1510,7 +1510,7 @@
   text: >-
     {:unk13 89 00 BB 00}{:unk08 01 01 02}Apa!
 
-    Una habitació secreta!{:clear }Serà millor que hi faci
+    Una habitació secreta!{:clear }Val més que hi faci
 
     un altre cop d'ull.
 - id: 12531
@@ -1527,9 +1527,9 @@
   text: Ja ho sé! Accedim al DTD!
 - id: 12537
   text: >-
-    El rei està comprovant
+    El rei ara comprova la
 
-    la situació a la ciutat.{:delay 78 00}{:clear }Tornarà aviat.
+    situació a la ciutat.{:delay 78 00}{:clear }Tornarà aviat.
 
     No us preocupeu. {:delay 75 00}{:clear }{:delay 39 00}{:clear }Eh, mireu, ens demana una contrasenya.
 - id: 12538
@@ -1571,7 +1571,7 @@
 - id: 12550
   text: Ei, aquestes coses necessiten temps, d'acord?
 - id: 12551
-  text: Oh! {:delay 3C 00}{:clear }Està fent alguna cosa!
+  text: Oh! {:delay 3C 00}{:clear }Fa alguna cosa!
 - id: 12552
   text: ''
 - id: 12553
@@ -1591,7 +1591,7 @@
 
     de l'Ànsem ho sap.
 - id: 12558
-  text: Què estàs fent?
+  text: Què fas?
 - id: 12559
   text: >-
     Li pregunto a l'ordinador si
@@ -1697,7 +1697,7 @@
   text: >-
     L'Ànsem el Savi deu saber tot sobre
 
-    els plans de l'Organizació {XIII}{:delay FC 00}{:clear }i el que els està passant als mons.
+    els plans de l'Organizació {XIII}{:delay FC 00}{:clear }i el que passa als mons.
 - id: 12593
   text: Estic segur que ens ajudarà.
 - id: 12594
@@ -1912,9 +1912,7 @@
   text: Sefirot!
 - id: 12665
   text: >-
-    Tinc entès que
-
-    m'estaves buscant.
+    Tinc entès que em buscaves.
 - id: 12666
   text: >-
     Sí.{:delay 2D 00}{:clear }{:delay 23 00}{:clear }Quan em desfaci de tu,
@@ -2068,9 +2066,9 @@
   text: Teniu molts amics als que ajudar.
 - id: 12716
   text: >-
-    Així que serà millor unir forces i
+    Així que val més unir forces i
 
-    acabar amb aquesta batalla d'una vegada!
+    posar fi a aquesta batalla d'una vegada!
 - id: 12717
   text: Sí, sa Majestat!
 - id: 12718
@@ -2169,7 +2167,7 @@
 
     he estat pensant...
 - id: 12754
-  text: Xehanort...{:delay 50 00}{:clear }{:delay 2D 00}{:clear }Serà millor que te n'oblidis.
+  text: Xehanort...{:delay 50 00}{:clear }{:delay 2D 00}{:clear }Val més que te n'oblidis.
 - id: 12755
   text: Ja me'n recordo!{:delay 4E 00}{:clear }És en Xehanort!{:delay 3C 00}{:clear }L'aprenent de l'Ànsem!
 - id: 12756
@@ -2214,7 +2212,7 @@
 - id: 12771
   text: Sora... Goofy...
 - id: 12772
-  text: Què està passant?
+  text: Què passa?
 - id: 12773
   text: Heu caigut directes a la seva trampa.
 - id: 12775
@@ -2381,9 +2379,9 @@
   text: >-
     Potser el que hem fet...
 
-    ha estat tot per no res.{:delay FF 00}{:clear }{:delay 32 00}{:clear }Què faré si no puc
+    ha estat tot per no res.{:delay FF 00}{:clear }{:delay 32 00}{:clear }Què faré si no puc fer
 
-    utilitzar la clau espasa!?
+    servir la clau espasa!?
 - id: 12831
   text: >-
     Imbècils!{:delay 54 00}{:clear }No es pot confiar en
@@ -2488,7 +2486,7 @@
   text: >-
     {:unk13 92 00 34 00}{:unk08 01 01 06}Ja veig...{:clear }Doncs suposo que és el
 
-    moment d'acabar amb tot això.
+    moment de posar fi a tot això.
 - id: 12939
   text: '{:unk13 91 00 4B 00}{:unk08 01 01 06}Cloud...'
 - id: 12940
@@ -2677,9 +2675,9 @@
   text: >-
     Potser el que hem fet...
 
-    ha estat tot per no res.{:delay FF 00}{:clear }{:delay 32 00}{:clear }Què faré si no puc
+    ha estat tot per no res.{:delay FF 00}{:clear }{:delay 32 00}{:clear }Què faré si no puc fer
 
-    utilitzar la clau espasa!?
+    servir la clau espasa!?
 - id: 14295
   text: >-
     Imbècils!{:delay 54 00}{:clear }No es pot confiar en
@@ -2842,9 +2840,9 @@
     de l'Organització {XIII}.
 - id: 15775
   text: >-
-    El Xemnas us està utilitzant
+    El Xemnas s'aprofita de vosaltres
 
-    per destruir els sensecor.{:delay D2 00}{:clear }Aquell és el seu pla mestre.
+    per destruir els sensecor.{:delay D2 00}{:clear }Aquest és el seu pla mestre.
 - id: 15963
   text: Oblida-te'n.
 - id: 15964
@@ -2910,7 +2908,7 @@
 - id: 16072
   text: Saps on anar?
 - id: 16750
-  text: El Léon ha caigut! Utilitza Sanar per despertar-lo!
+  text: El Léon ha caigut! Fes servir Sanar per despertar-lo!
 - id: 17002
   text: Un retrat de l'Ànsem.
 - id: 17003
@@ -2935,9 +2933,9 @@
   text: >-
     {:unk0f 03 1E 00 59 01}{:color #00F0F080}S'ha agregat l'ordre Màgia.{:reset}
 
-    En utilitzar màgia, consumeixes PM de
+    En fer servir màgia, consumeixes PM de
 
-    l'indicador de la part inferior dreta.{:clear }{:unk0f 00 00 00 00 00}Per utilitzar dreceres, prem {:icon dynamic-l1}.
+    l'indicador de la part inferior dreta.{:clear }{:unk0f 00 00 00 00 00}Per accedir-ne a les dreceres, prem {:icon dynamic-l1}.
 
     En acabar-se, els PM es recuperen als
 
@@ -2946,7 +2944,7 @@
   text: >-
     {:unk0f 03 1E 00 59 01}{:color #00F0F080}S'ha agregat l'ordre Invoca.{:reset}
 
-    En utilitzar-lo, l'indicador de Fusió es converteix en el d'Invoca.{:clear }{:unk0f 00 00 00 00 00}El personatge invocat reemplaça la resta
+    En manar-la, l'indicador de Fusió es converteix en el d'Invoca.{:clear }{:unk0f 00 00 00 00 00}El personatge invocat reemplaça la resta
 
     del grup. Prova les diferents accions que
 
@@ -2964,7 +2962,7 @@
   text: >-
     Derrota a tots els enemics!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 17863
@@ -3058,14 +3056,14 @@
   text: >-
     La màgia és molt útil i pot
 
-    combinar-se amb altres accions.{:clear }Molts són capaços d'utilitzar màgia,
+    combinar-se amb altres accions.{:clear }Molts són capaços de fer servir màgia,
 
     així que no t'oblidis de practicar.
 - id: 17930
   text: >-
     Diuen que la ciutat pot ser
 
-    reconstruïda sense ordinadors.{:clear }El Merlí estava en contra d'ells.
+    reconstruïda sense ordinadors.{:clear }El Merlí n'estava en contra.
 
     Deia que interferien en tot.
 - id: 17931
@@ -3121,14 +3119,14 @@
     fes allò, podria enderrocar la casa.
 - id: 17938
   text: >-
-    Què està passant!? Tindrà res
+    Què passa!? Tindrà res a
 
-    a veure amb aquells programes?{:clear }Si és així, aneu-hi per aquell terminal
+    veure amb aquells programes?{:clear }Si és així, aneu-hi per aquell terminal
 
     i arregleu-ho amb el Tron.
 - id: 17939
   text: >-
-    La ciutat sencera està tremolant!
+    La ciutat sencera tremola!
 
     Sora, què passa allà dins?
 - id: 18015
@@ -3197,7 +3195,7 @@
 
     sistema de seguretat de la paret.
 - id: 18232
-  text: Aquesta grua s'utilitza per reconstruir la ciutat.
+  text: Aquesta grua s'empra per reconstruir la ciutat.
 - id: 18233
   text: >-
     Amb aquest gel es
@@ -3225,7 +3223,7 @@
   text: Hi ha pèls de la barba d'en Merlí.
 - id: 18241
   text: >-
-    Aquesta màquina s'utilitza
+    Aquesta màquina es fa servir
 
     per a estudis de màgia.
 - id: 18242
@@ -3255,7 +3253,7 @@
     proves! Supera-les i enfronta-t'hi!
 - id: 18709
   text: >-
-    Utilitza totes les teves estratègies
+    Fes ús de totes les teves estratègies
 
     i habilitats per vèncer el Sefirot!
 - id: 18836
@@ -3361,7 +3359,7 @@
   text: >-
     No aconsegueixo el sabor del gelat, però
 
-    com a mínim els meus monopatins van bé.
+    si més no els meus monopatins van bé.
 - id: 18911
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Què oportú. Una altra vegada?
@@ -3390,9 +3388,9 @@
     i els seus amics t'importen molt.
 - id: 19323
   text: >-
-    Què està passant!? La ciutat està
+    Què passa!? La ciutat està infestada
 
-    infestada d'incorporis i sensecor!{:clear }El Léon i els altres han anat al pati
+    d'incorporis i sensecor!{:clear }El Léon i els altres han anat al pati
 
     interior. Anem a buscar-los!
 - id: 19324
@@ -3547,7 +3545,7 @@
 - id: 20358
   text: N'ha passat molt, de temps, «vella amiga».
 - id: 20541
-  text: Utilitza atacs potents per obrir les vàlvules. Has d'obrir les tres a la vegada!
+  text: Empra atacs potents per obrir les vàlvules. N'has d'obrir les tres a la vegada!
 - id: 20543
   text: >-
     Venç el Vexen de l'Organització {XIII}!
@@ -3618,9 +3616,9 @@
 - id: 21489
   text: "{:delayandfade 0A 78} \nHa arribat el moment de\nposar fi a la contesa.\n \nEl Xehanort no pot escapar-se!\n \n \n \n \n \n \n"
 - id: 21490
-  text: "{:delayandfade 0A 78} \nCom poden estar els sensecor\nde l'entorn de dades del Tron\nen el món real?\n \nSegons la Yuffie, el PCM està\nmovent els fils del seu malvat\npla des de el món dels ordinadors.\n \n \n \n"
+  text: "{:delayandfade 0A 78} \nCom poden estar els sensecor\nde l'entorn de dades del Tron\nen el món real?\n \nSegons la Yuffie, el PCM\nmou els fils del seu malvat\npla des de el món dels ordinadors.\n \n \n \n"
 - id: 21491
-  text: "{:delayandfade 0A 78} \nNo hi ha forma de contactar amb el\nTron així que les esperances recauen\nen Cid, que està desenvolupant el\nprograma d'Erradicació del PCM.\n \n \n \n \n \n"
+  text: "{:delayandfade 0A 78} \nNo hi ha forma de contactar amb el\nTron així que les esperances recauen\nen el Cid, que desenvolupa el\nprograma d'Erradicació del PCM.\n \n \n \n \n \n"
 - id: 21492
   text: "{:delayandfade 08 78} \nAra que ho han resolt,\nnomés queda una cosa a fer.\n \nMentre l'Aerith i la resta\nd'encarreguen de les coses en\nel món dels usuaris, el Sora ha\nd'entrar de nou a l'entorn de dades.\n \n \n"
 - id: 21493
@@ -3628,6 +3626,6 @@
 - id: 21565
   text: Les teves ordres són al llibre! Allibera-les!
 - id: 21566
-  text: Ja pots utilitzar les ordres!
+  text: Ja pots manar ordres!
 - id: 21623
   text: Troba el vertader abans que sigui massa tard!

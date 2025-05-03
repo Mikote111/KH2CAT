@@ -157,7 +157,7 @@
 
     La movilitat de la nau augmentarà
 
-    si utilitzes gumis Aero.
+    si empres gumis Aero.
 - id: 6329
   text: Gumi-cabines
 - id: 6330
@@ -674,7 +674,7 @@
     xoquen amb el bloc gumi.
 - id: 15438
   text: >
-    Utilitza l'indicador de Raig per llençar
+    Fes servir l'indicador de Raig per llençar
 
     un atac frontal que atravessa la
 
@@ -683,7 +683,7 @@
     gumi-rajos, podràs realitzar combos.
 - id: 15439
   text: >
-    Utilitza l'indicador de Raig per llençar
+    Fes servir l'indicador de Raig per llençar
 
     un atac vertical que atraviesa la
 
@@ -692,7 +692,7 @@
     gumi-rajos, podràs realitzar combos.
 - id: 15440
   text: >
-    Utilitza l'indicador de Raig per llençar
+    Fes servir l'indicador de Raig per llençar
 
     un atac horitzontal que atraviesa la
 
@@ -701,7 +701,7 @@
     gumi-rajos, podràs realitzar combos.
 - id: 15441
   text: >
-    Utilitza l'indicador de Raig per llençar
+    Fes servir l'indicador de Raig per llençar
 
     un atac circular que atravessa la
 
@@ -1065,7 +1065,7 @@
 
     Per treballar amb materials gumi,
 
-    s'utilitzen tres eines bàsiques:
+    s'empren tres eines bàsiques:
 
     {:color #8080F080}Col・locar gumis{:reset}, {:color #8080F080}Còpiar i col・locar{:reset}, i
 
@@ -1092,7 +1092,7 @@
 
     {:color #00F0F080}- Col・loca alguns deco-gumis!{:reset}
 
-    Per col・locar deco-gumis, s'utilitza una
+    Per col・locar deco-gumis, es fa servir una
 
     d'aquestes tres ordres, segons el tipus de gumi:
 
@@ -1137,18 +1137,18 @@
 
     La funcionalitat de la teva nau gumi depèn
 
-    de {:color #F0F00080}la combinació de blocs que utilitzis
+    de {:color #F0F00080}la combinació de blocs que empris
 
     per construir-la{:reset}. Aquesta guia gumi
 
-    t'ensenyarà a utilitzar el sistema
+    t'ensenyarà a fer servir el sistema
 
     i a construir naus.
 
 
     {:color #00F0F080}- Descobreix la guia gumi!{:reset}
 
-    Com utilitzar aquesta guia:
+    Com fer servir aquesta guia:
 
 
     {:icon dynamic-cross}: Obrir l'ajuda seleccionada
@@ -1168,7 +1168,7 @@
     per a la teva nau gumi.
 - id: 16641
   text: >-
-    Els materials gumi s'utilitzen principalment
+    Els materials gumi es fan servir principalment
 
     per crear l'estructura de la nau. Poden
 
@@ -1268,7 +1268,7 @@
 
     kits de disseny{:reset}, també podràs
 
-    utilitzar diferents dissenys.
+    fer servir diferents dissenys.
 - id: 16645
   text: >-
     Les unitats d'habilitat són parts que
@@ -1318,19 +1318,19 @@
   text: >-
     Quan completes una nau gumi, has de
 
-    guardar-la com {:color #8080F080}plànol original{:reset} utilitzant
+    guardar-la com a {:color #8080F080}plànol original{:reset} amb
 
     {:color #8080F080}Guarda el plànol{:reset} en el menú de l'Editor,
 
-    o {:color #F0F00080}no podràs utilitzar-la{:reset}.
+    o {:color #F0F00080}no podràs fer-la servir{:reset}.
 
-    Si guardes els plànols, pots volar i
+    Si guardes els plànols, pots volar
 
-    reeditar aquelles naus gumi.
+    i reeditar aquelles naus gumi.
 
-    Tot i així, {:color #F0F00080}les naus gumi que hagin
+    Tot i això, {:color #F0F00080}les naus gumi que
 
-    excedit els costos no es podran guardar{:reset}.
+    excedeixin els costos no es podran guardar{:reset}.
 
 
     {:color #00F0F080}- Guardar a cercles de llum{:reset}
@@ -1351,7 +1351,7 @@
     {:color #F0F00080}serà el mal{:reset} que causi la nau gumi.
 
 
-    {:color #00F0F080}- Aprèn a utilitzar aquests gumis{:reset}
+    {:color #00F0F080}- Aprèn a fer servir aquests gumis{:reset}
 
     {:color #8080F080}Gumi-projectils{:reset} - Per disparar
       un enemic, prem {:icon dynamic-cross}.
@@ -1359,7 +1359,7 @@
       l'enemic i disparar-lo, mantèn
       premut {:icon dynamic-cross}.
     {:color #8080F080}Gumi-rajos{:reset} - Prem {:icon dynamic-triangle} per
-      atacar utilitzant l'indicador de Raig.
+      atacar fent servir l'indicador de Raig.
     {:color #8080F080}Gumi-impactes{:reset} - Pots atacar amb els
       gumi-impactes col・locats a la teva nau.
 - id: 16649
@@ -1452,7 +1452,7 @@
 
     {:color #00F0F080}- Desfer/Refer{:reset}
 
-    Utilitza {:icon dynamic-r1} per {:color #8080F080}desfer{:reset}, i {:icon dynamic-r2} per {:color #8080F080}refer{:reset}.
+    Prem {:icon dynamic-r1} per {:color #8080F080}desfer{:reset}, i {:icon dynamic-r2} per {:color #8080F080}refer{:reset}.
 
 
     {:color #00F0F080}- Tornar al menú superior{:reset}
@@ -1491,7 +1491,7 @@
 
     a on vulguis col・locar-la. 
 
-    Utilitza {:color #8080F080}{:icon dynamic-left-analog}{:reset} per rotar i col・locar el gumi. 
+    Fer servir {:color #8080F080}{:icon dynamic-left-analog}{:reset} per rotar i col・locar el gumi. 
 
     Confirma la direcció en què vols que miri
 
@@ -1521,7 +1521,7 @@
 
     És recomanable decidir per endavant quins
 
-    colors utilitzar. Per fer-ho, selecciona
+    colors fer servir. Per fer-ho, selecciona
 
     {:color #8080F080}Pinta{:reset} en el menú superior.
 - id: 16657
@@ -1570,12 +1570,12 @@
     reformar una àrea{:reset}.
 
 
-    Si comets un error, utilitza aquests botons:
+    Si comets un error, fes servir aquests botons:
 
     {:icon dynamic-r1}: {:color #8080F080}Desfés{:reset} {:icon dynamic-r2}: {:color #8080F080}Refés{:reset}.
 - id: 16659
   text: >-
-    Tria el color que vols utilitzar en
+    Tria el color que vols fer servir a
 
     la {:color #F0F00080}paleta de color{:reset}.
 
@@ -1624,11 +1624,11 @@
 
     són {:color #8080F080}materials gumi{:reset} i {:color #8080F080}deco-gumis{:reset}.
 
-    Els {:color #8080F080}materials gumi{:reset} s'utilitzen per donar
+    Els {:color #8080F080}materials gumi{:reset} es fan servir per donar
 
     forma a la nau gumi i augmentar la seva VT,
 
-    mentre els {:color #8080F080}deco-gumis{:reset} s'utilitzen per
+    mentre els {:color #8080F080}deco-gumis{:reset} es fan servir per
 
     agregar varies funcions. {:color #F0F00080}Quan coloquis
 
@@ -1700,9 +1700,9 @@
     es completa l'indicador de Raig.
 - id: 17749
   text: >-
-    Carrega l'indicador de Raig perquè
+    Carrega l'indicador de Raig per
 
-    puguis utilitzar-lo a l'inici del viatge.
+    poder-lo fer servir a l'inici del viatge.
 - id: 17750
   text: Multigumi
 - id: 17751
@@ -1748,7 +1748,7 @@
   text: >-
     {:width 98}El nivell de missió 3 són {:color #F0F00080}proves de puntuació{:reset}.
 
-    Per dirigir la càmera, utilitza {:icon dynamic-l1} i {:icon dynamic-r1}!
+    Per dirigir la càmera, fes servir {:icon dynamic-l1} i {:icon dynamic-r1}!
 - id: 18493
   text: 'Eines{:color #8080F080} ▸{:reset}'
 - id: 18494
@@ -1757,14 +1757,14 @@
   text: >-
     Existeixen altres eines a més de les
 
-    utilitzades per col・locar blocs gumi.
+    emprades per col・locar blocs gumi.
 
 
     {:color #00F0F080}- Eines d'edició{:reset}
 
     Hi ha tres eines addicionals que
 
-    s'utilitzen per fabricar naus: {:color #8080F080}Pinta{:reset},
+    es fan servir per fabricar naus: {:color #8080F080}Pinta{:reset},
 
     {:color #8080F080}Edita{:reset} i {:color #8080F080}Assigna habilitats{:reset}.
 
@@ -1843,11 +1843,11 @@
 
     {:color #00F0F080}- Coloquem els gumis!{:reset}
 
-    Utilitza el cursor per seleccionar l'àrea
+    Fes servir el cursor per seleccionar
 
-    on vols col・locar-hi el gumi.
+    l'àrea on vols col・locar el gumi.
 
-    Utilitza {:color #8080F080}{:icon dynamic-left-analog}{:reset} per rotar
+    Fes servir {:color #8080F080}{:icon dynamic-left-analog}{:reset} per rotar
 
     el gumi en la direcció que desitgis.
 
@@ -1873,7 +1873,7 @@
 
     Després de confirmar amb {:icon dynamic-cross},
 
-    pots  utilitzar {:color #8080F080}{:icon dynamic-dpad}{:reset} per canviar
+    pots  fer servir {:color #8080F080}{:icon dynamic-dpad}{:reset} per canviar
 
     la posició dels gumis.
 - id: 18540
@@ -1950,7 +1950,7 @@
 
     La {:color #8080F080}còpia en mirall{:reset} es fa en una àrea seleccionada.
 
-    Després de seleccionar-la, utilitza {:color #8080F080}{:icon dynamic-left-analog}{:reset}
+    Després de seleccionar-la, fes servir {:color #8080F080}{:icon dynamic-left-analog}{:reset}
 
     per {:color #F0F00080}seleccionar la direcció en què girarà{:reset}.
 
@@ -2053,7 +2053,7 @@
 
     {:color #00F0F080}- Posem-hi més colors!{:reset}
 
-    Selecciona el color que vulguis utilitzar
+    Selecciona el color que vulguis fer servir
 
     a la paleta de color i prem {:icon dynamic-cross}. Després,
 
@@ -2070,14 +2070,14 @@
   text: Les paletes de color
 - id: 18698
   text: >-
-    Pots utilitzar {:color #F0F00080}fins a 16 colors{:reset} en una
+    Pots fer servir {:color #F0F00080}fins a 16 colors{:reset}
 
-    nau gumi. Els trobaràs
+    en una nau gumi. Els trobaràs
 
-    en la paleta de color.
+    a la paleta de color.
 
 
-    {:color #00F0F080}- Com utilitzar la paleta de color{:reset}
+    {:color #00F0F080}- Com fer servir la paleta de color{:reset}
 
     Si la nau gumi ja està acolorida,
 
@@ -2104,7 +2104,7 @@
     per agregar estampats als gumis.
 
 
-    {:color #00F0F080}- Com utilitzar kits de disseny{:reset}
+    {:color #00F0F080}- Com fer servir kits de disseny{:reset}
 
     Per obrir els mostraris de kits de
 
@@ -2114,7 +2114,7 @@
 
     Posa'ls a la paleta de color per
 
-    utilitzar-los als gumis.
+    fer-los servir als gumis.
 
 
     Per tornar al mostrari de color,
@@ -2211,7 +2211,7 @@
 
     per {:color #8080F080}materials gumi{:reset} i {:color #8080F080}deco-gumis{:reset}
 
-    utilitzant {:icon dynamic-triangle} per {:color #8080F080}canvi de mode{:reset}.
+    amb {:icon dynamic-triangle} per {:color #8080F080}canvi de mode{:reset}.
 - id: 18763
   text: >
     Pots desfer una edició i tornar al
@@ -2506,7 +2506,7 @@
   text: >-
     {:icon exclamation-mark}{:color #F0F00080} NOTA{:reset}
     	No pots guardar un plànol
-    	que no utilitza cap bloc!
+    	que no té cap bloc!
 - id: 19400
   text: '{:icon dynamic-square}: Esborra aquest plànol'
 - id: 19401
@@ -2630,9 +2630,9 @@
   text: >-
     {:width 88}Aquestes són naus gumi
 
-    acabades, o sigui que no necessites
+    acabades, o sigui que no cal
 
-    agregar-les blocs per utilitzar-les.
+    agregar-hi blocs per fer-les servir.
 - id: 19597
   text: >-
     {:icon dynamic-cross}: Confirma
@@ -2803,7 +2803,7 @@
   text: >-
     Llença punys contra objectius
 
-    en l'ordre en que han estat
+    en l'ordre en què han estat
 
     fixats. 6 punys màxim.
 - id: 20518
@@ -2815,9 +2815,9 @@
     fixats.
 - id: 20519
   text: >
-    Utilitza l'indicador de Raig per llençar
+    Empra l'indicador de Raig per
 
-    l'atac rival i dispara.
+    llençar l'atac rival i disparar.
 
     Agrega-hi més gumi-rajos per a combos.
 - id: 20520

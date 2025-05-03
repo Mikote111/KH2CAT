@@ -275,7 +275,7 @@ assets:
   - name: msg/sp/jm.bar
     platform: pc
     method: binarc
-    package: kh2_fifth
+    package: kh2_first
     source:
       - name: jm
         type: list
@@ -1488,7 +1488,7 @@ assets:
     - name: remastered/map/lm/CA_lm02_bar0.dds
 
   #MU
-  - name: remastered/map/sp/mu00.bar/SP_mu00_bar0.dds
+  - name: remastered/map/sp/mu00.bar/SP_mu00_bar0.png
     method: copy
     platform: pc
     package: kh2_fifth

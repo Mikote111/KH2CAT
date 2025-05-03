@@ -10,7 +10,7 @@
     Ara és més fàcil aconseguir menjar!
 - id: 4908
   text: >-
-    Està vivint en el {:theme 0A}cau del rei{:reset},
+    Viu en el {:theme 0A}cau del rei{:reset},
 
     però no actua com un rei.{:clear }Em pregunto si en Rafiki
 
@@ -182,7 +182,7 @@
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8091
@@ -243,7 +243,7 @@
 - id: 8496
   text: Deixa'l que rugeixi.
 - id: 8497
-  text: "Naaa... Serà millor\nanar a veure què vol.{:delay 78 00}{:clear }Em sembla que ja està\nprou enfadat.{:delay B4 00}{:clear }{:delay 46 00}{:clear }Molt bé... "
+  text: "Naaa... Val més\nanar a veure què vol.{:delay 78 00}{:clear }Em sembla que ja està\nprou enfadat.{:delay B4 00}{:clear }{:delay 46 00}{:clear }Molt bé... "
 - id: 8498
   text: >-
     No sé de què anava tot allò,
@@ -338,9 +338,9 @@
     quan el rei Mufasa va morir.
 - id: 8523
   text: >-
-    Estàs dient que aquell
+    Dius que aquell paio
 
-    tipus és el vostre rei?
+    és el vostre rei?
 - id: 8524
   text: I vols que ens hi enfrontem?
 - id: 8525
@@ -458,7 +458,7 @@
 - id: 8561
   text: Sí... ja...
 - id: 8562
-  text: En què estaves pensant?
+  text: En què pensaves?
 - id: 8563
   text: >-
     Deixa que ho endevini...
@@ -654,7 +654,7 @@
 
     Ho han fet?
 - id: 8630
-  text: Simba, de què està parlant?
+  text: Simba, de què parla?
 - id: 8631
   text: >-
     Va, digue'ls qui va ser el
@@ -835,7 +835,7 @@
 - id: 8685
   text: Un fantasma?
 - id: 8686
-  text: Serà millor que ho expliquem al Simba.
+  text: Val més que ho expliquem al Simba.
 - id: 8687
   text: Em pregunto si serà allà dalt...
 - id: 8688
@@ -1331,11 +1331,11 @@
 
     no ho saps.{:clear }Però sí saps que
 
-    és pertorbador.{:clear }I que està afectant
+    és pertorbador.{:clear }I que afecta els
 
-    els cors de tothom a
+    cors de tothom a les
 
-    les Terres del Regne.{:clear }Pot ser que no sàpigues
+    Terres del Regne.{:clear }Pot ser que no sàpigues
 
     què és, però això no vol
 
@@ -1367,7 +1367,7 @@
     que aquest Simba pugui fer.
 - id: 12920
   text: >-
-    {:unk13 54 01 54 00}{:unk08 01 01 05}No diguis això! Com a mínim
+    {:unk13 54 01 54 00}{:unk08 01 01 05}No diguis això! Si més no
 
     està disposat a intentar-ho!
 - id: 12921
@@ -1486,9 +1486,9 @@
     que alguna cosa dolenta passi.
 - id: 14236
   text: >-
-    Estic segur que en Mufasa està
+    Estic segur que en Mufasa
 
-    observant en Simba amb orgull.{:clear }Tant de bo els teus éssers estimats
+    observa en Simba amb orgull.{:clear }Tant de bo els teus éssers estimats
 
     també n'estiguin orgullosos.
 - id: 14237
@@ -1620,7 +1620,7 @@
 
     aquella gran muntanya, no?{:clear }Afanyem-nos-hi.
 
-    La Nala ens està esperant.
+    La Nala ens espera.
 - id: 17186
   text: >-
     Què haurà estat aquell crit?
@@ -1682,9 +1682,9 @@
   text: >-
     Sembla que hi ha alguna cosa
 
-    muntada sobre aquell monstre!{:clear }Pot ser que sigui allò el
+    muntada sobre aquell monstre!{:clear }Pot ser que sigui allò
 
-    que l'està controlant.
+    el que el controla.
 - id: 17255
   text: >-
     Què farem si aquella
@@ -1701,7 +1701,7 @@
   text: >-
     He, he. Sembla que el
 
-    regne s'està minant.{:clear }Tranquils. Si això passa, nosaltres
+    regne es mina.{:clear }Tranquils. Si això passa, nosaltres
 
     ens ocuparemos del lloc.
 - id: 17258
@@ -1793,7 +1793,7 @@
 - id: 18957
   text: El punt dèbil és al cap del sensecor! Salta sobre el seu llom i ataca'l!
 - id: 19210
-  text: Utilitza ordres de reacció per evitar que el sensecor gegant escapi!
+  text: Mana ordres de reacció per evitar que el sensecor gegant escapi!
 - id: 19254
   text: >-
     El cau del rei és allà, on
@@ -1804,17 +1804,17 @@
 - id: 19404
   text: Pots esquivar els atacs saltant!
 - id: 19405
-  text: Si utilitzes bé «Rebutja», derrotaràs el sensecor gegant!
+  text: Si fas servir bé «Rebutja», derrotaràs el sensecor gegant!
 - id: 19426
   text: >-
-    Està vivint en el {:theme 0A}cau del rei{:reset},
+    Viu en el {:theme 0A}cau del rei{:reset},
 
     però no actua com un rei.{:clear }Em pregunto si en {:theme 0A}Rafiki{:reset}
 
     tindrà res en ment...
 - id: 19427
   text: >-
-    Està vivint en el {:theme 0A}cau del rei{:reset},
+    Viu en el {:theme 0A}cau del rei{:reset},
 
     però no actua com un rei.{:clear }Em pregunto si en Rafiki
 

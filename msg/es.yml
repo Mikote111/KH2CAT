@@ -1,5 +1,5 @@
 ﻿- id: 16180
-  text: T'estava esperant.
+  text: T'esperava.
 - id: 16181
   text: He anat a veure'l... {:delay 78 00}{:clear } {:delay 78 00}{:clear }S'assembla molt a tu.
 - id: 16182
@@ -39,7 +39,7 @@
 - id: 16196
   text: A això em refereixo. {:delay 4C 00}{:clear } {:delay 65 00}{:clear }Ei, Sora... {:delay A3 00}{:clear }pots ajudar-me?{:delay 76 00}{:clear }Vull anar a la riba.
 - id: 16197
-  text: Com a mínim les onades sonen igual.
+  text: Si més no les onades sonen igual.
 - id: 16198
   text: >-
     El que t'he dit abans... {:delay 91 00}{:clear }Allò que em creia millor

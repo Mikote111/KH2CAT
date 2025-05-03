@@ -59,7 +59,7 @@
     Creus que podria ser un fantasma?
 - id: 2880
   text: >-
-    El Vivi estava practicant pel torneig
+    El Vivi practicava per al torneig
 
     d'Struggle. L'eco del túnel convertia
 
@@ -198,7 +198,7 @@
 - id: 12144
   text: Eh? A què ve això ara?
 - id: 12145
-  text: Ah, a veure, ja saps,{:delay 64 00}{:clear }estava pensant en veu alta.
+  text: Ah, a veure, ja saps,{:delay 64 00}{:clear }pensava en veu alta.
 - id: 12146
   text: >-
     Doncs jo dubto que puguem
@@ -460,7 +460,7 @@
 - id: 12231
   text: No hi havia ningú... allà?
 - id: 12232
-  text: Se t'està desfent.
+  text: Se't desfa.
 - id: 12233
   text: Em sap greu.
 - id: 12234
@@ -539,7 +539,7 @@
 
     Heu vist allò?
 - id: 12262
-  text: S'està escapolint...
+  text: S'escapoleix...
 - id: 12263
   text: >-
     Doncs tu mateix. Ens veiem 
@@ -567,7 +567,7 @@
 - id: 12272
   text: Què fotut...
 - id: 12273
-  text: Roxas! Utilitza la clau espasa!
+  text: Roxas! Fes servir la clau espasa!
 - id: 12274
   text: Em dic Naminé.
 - id: 12275
@@ -778,7 +778,7 @@
 - id: 13197
   text: Eh!?
 - id: 13198
-  text: El seu cor està tornant.
+  text: El seu cor torna.
 - id: 13199
   text: Sens dubte. Aviat es despertarà.
 - id: 13200
@@ -1238,9 +1238,9 @@
   text: Jugueu net, nois.
 - id: 13342
   text: >-
-    I ara, el combat que estàveu
+    I ara, el combat que
 
-    esperant:{:delay BB 00}{:clear }El Roxas contra el Vivi!
+    esperàveu:{:delay BB 00}{:clear }El Roxas contra el Vivi!
 - id: 13343
   text: Un altre cop?
 - id: 13344
@@ -1260,7 +1260,7 @@
 
     completament en blanc.{:delay 86 00}{:clear } {:delay 20 00}{:clear }Quina passada!{:delay 6A 00}{:clear }Ni els foscants podran amb aquesta!
 - id: 13349
-  text: Espera! Digue'm què està passant.
+  text: Espera! Digue'm què passa.
 - id: 13350
   text: >-
     Aquesta ciutat, és 
@@ -1273,7 +1273,7 @@
 - id: 13351
   text: Oh, oh!
 - id: 13352
-  text: Què està passant!
+  text: Què passa!
 - id: 13353
   text: El número tretze. Roxas.{:delay B4 00}{:clear } {:delay 43 00}{:clear }L'escollit de la clau espasa.
 - id: 13354
@@ -1369,7 +1369,7 @@
 - id: 13388
   text: Oohh!
 - id: 13389
-  text: Naminé...{:delay 75 00}{:clear }Què m'està passant?
+  text: Naminé...{:delay 75 00}{:clear }Què em passa?
 - id: 13390
   text: >-
     Qui ets?
@@ -1427,7 +1427,7 @@
 - id: 13408
   text: '{:delay D7 00}{:clear } {:delay 76 00}{:clear }És un honor, Ànsem!'
 - id: 13409
-  text: Estava somiant...
+  text: Només somiava...
 - id: 13410
   text: Però, era tot... un somni?
 - id: 13411
@@ -1473,9 +1473,9 @@
     us passa a la ciutat i a tu{:delay 96 00}{:clear }des que van robar les fotos.
 - id: 13423
   text: >-
-    Doncs demà registrarem el poble
+    Doncs demà registrarem el
 
-    i esbrinarem què està passant.
+    poble i esbrinarem què passa.
 - id: 13424
   text: Tothom ens donarà un cop de mà.
 - id: 13425
@@ -1719,7 +1719,7 @@
 - id: 13507
   text: Sí. Li ho va demanar el Hayner.
 - id: 13508
-  text: I què estàvem buscant?
+  text: I què buscàvem?
 - id: 13509
   text: >-
     Aviam, diuen que hi ha una nena que 
@@ -1746,9 +1746,9 @@
   text: És clar...
 - id: 13518
   text: >-
-    Però...{:delay 3C 00}{:clear }{:delay 1E 00}no entenc què està
+    Però...{:delay 3C 00}{:clear }{:delay 1E 00}no entenc què
 
-    passant últimament.
+    passa últimament.
 - id: 13519
   text: Coneixes aquests tres, oi?
 - id: 13520
@@ -1865,7 +1865,7 @@
   text: Sí, la boira s'esbargeix.
 - id: 13563
   text: >-
-    El mateix els està passant a tots els que
+    El mateix passa a tots els que
 
     estaven relacionats amb el Sora.{:delay 0E 01}{:clear }{:delay 6E 00}{:clear }Ben aviat, per a ells serà com un
 
@@ -2205,7 +2205,7 @@
 - id: 13678
   text: Ka... Kairi!? És clar que sí!
 - id: 13679
-  text: Serà millor que vinguis a l'estació!
+  text: Val més que vinguis a l'estació!
 - id: 13680
   text: Ei!
 - id: 13681
@@ -2216,7 +2216,7 @@
   text: >-
     Sí.{:delay 69 00}{:clear }I... ha dit que
 
-    t'estava buscant.
+    et buscava.
 - id: 13684
   text: Digue'm on és!
 - id: 13685
@@ -2593,7 +2593,7 @@
 - id: 13834
   text: Uaahh!
 - id: 13835
-  text: T'estàs... esvaïnt...
+  text: T'es-...t'esvaeixes...
 - id: 13836
   text: >-
     Aviam, és el que passa quan poses
@@ -2638,7 +2638,7 @@
 - id: 14175
   text: Derrota tots els enemics misteriosos!
 - id: 14176
-  text: Utilitza l'ordre de reacció per obrir el cofre!
+  text: Mana l'ordre de reacció per obrir el cofre!
 - id: 14177
   text: Derrota l'enemic misteriós amb l'ajuda de les ordres de reacció!
 - id: 14178
@@ -2816,7 +2816,7 @@
 - id: 14342
   text: Fins una altra!
 - id: 14343
-  text: Apa! El rei ens està buscant!
+  text: Apa! El rei ens busca!
 - id: 14344
   text: Sí, som-hi, cap a l'estació!
 - id: 14345
@@ -2920,7 +2920,7 @@
 - id: 14383
   text: Per què?
 - id: 14384
-  text: Estàs sobrepensant massa.
+  text: Sobrepenses massa.
 - id: 14385
   text: Sí, deu ser això!
 - id: 14386
@@ -3037,7 +3037,7 @@
 - id: 14443
   text: '{:delay 4E 00}{:clear }A veure com tornem...'
 - id: 14444
-  text: Què estàs fent?
+  text: Què fas?
 - id: 14445
   text: >-
     {:delay 54 00}{:clear }He enviat els meus lacais dins{:delay A3 00}{:clear }a veure si l'amo d'aquesta torre
@@ -3383,7 +3383,7 @@
 
     a l'endevinalla dels incorporis{:delay E5 00}{:clear }i l'Organització {XIII}.
 - id: 14529
-  text: Llavors serà millor trobar primer el rei!
+  text: Llavors val més trobar primer el rei!
 - id: 14530
   text: Però... on pot ser?
 - id: 14531
@@ -3421,7 +3421,7 @@
     En Sora, en Donald i en Goofy...
 - id: 14541
   text: >-
-    Oohh! Si estàs buscant roba,
+    Oohh! Si busques roba,
 
     has vingut al lloc adequat!
 - id: 14542
@@ -3518,7 +3518,7 @@
     rutes per les que podreu viatjar.
 - id: 14574
   text: >-
-    Aquelles rutes es poden utilitzar
+    Aquelles rutes es poden travessar
 
     obrint portes especials.
 - id: 14575
@@ -3550,7 +3550,7 @@
   text: >-
     ... els sensecor i els incorporis
 
-    utilitzaran les seves pròpies rutes.{:delay 0C 01}{:clear }Passadissos de la foscor
+    faran servir les seves pròpies rutes.{:delay 0C 01}{:clear }Passadissos de la foscor
 
     per viatjar de món en món.
 - id: 14584
@@ -3630,9 +3630,9 @@
   text: Aahh, suposo...
 - id: 14856
   text: >-
-    He trigat molt de temps,{:delay 78 00}{:clear }{:delay 28 00}però aviat el Sora tornarà a ser el de sempre.{:delay C9 00}{:clear }{:delay 21 00}{:clear }El procés també t'està
+    He trigat molt de temps,{:delay 78 00}{:clear }{:delay 28 00}però aviat el Sora tornarà a ser el de sempre.{:delay C9 00}{:clear }{:delay 21 00}{:clear }El procés també
 
-    afectant a tu, Roxas.
+    t'afecta a tu, Roxas.
 - id: 14857
   text: '... et necessita.'
 - id: 14858
@@ -3650,7 +3650,7 @@
   text: >-
     Però... no sé per què tinc aquest poder.{:delay 1C 01}{:clear }Simplement el tinc.{:delay 57 00}{:clear }{:delay 25 00}Ni tan sols sé si hi ha una
 
-    manera adequada d'utilitzar-lo.
+    manera adequada de fer-lo servir.
 - id: 15200
   text: >-
     El Roxas no és l'únic que no
@@ -3680,7 +3680,7 @@
 - id: 15382
   text: '{:unk13 FC 00 52 00}{:unk08 01 00 05}Ben fet.'
 - id: 15383
-  text: '{:unk13 00 01 52 00}{:unk08 01 00 05}No està malament.'
+  text: '{:unk13 00 01 52 00}{:unk08 01 00 05}Prou bé.'
 - id: 15384
   text: >-
     {:unk13 08 01 46 00}{:unk08 01 00 05}Podries esforçar-te
@@ -3692,7 +3692,7 @@
 
     de gran ajuda.
 - id: 15386
-  text: '{:unk13 09 01 6A 00}{:unk08 01 00 05}No està malament.'
+  text: '{:unk13 09 01 6A 00}{:unk08 01 00 05}Prou bé.'
 - id: 15387
   text: >-
     {:unk13 16 01 5E 00}{:unk08 01 00 05}Penso que podries
@@ -3788,7 +3788,7 @@
   text: Àxel...
 - id: 16038
   text: >-
-    {:color #00F00080}Les ordres de reacció{:reset} s'utilitzen per
+    {:color #00F00080}Les ordres de reacció{:reset} es manen per
 
     realitzar accions en determinades situacions.{:clear }{:unk0f 01 3C 00 13 01}{:unk12 27 00}Visita la botiga d'accessoris i
 
@@ -3801,7 +3801,7 @@
 
     en diverses situacions i són molt útils.
 
-    {:color #00F0F080}Utilitza-les sempre que puguis.{:reset}
+    {:color #00F0F080}Mana-les sempre que puguis.{:reset}
 - id: 16041
   text: És un membre de l'Organització {XIII}.{:delay 77 00}{:clear } {:delay 28 00}{:clear }Saïx! Et queda clar? {:delay 6F 00}{:clear }{:delay 1E 00}{:clear }I ara, ves a salvar-la!
 - id: 16078
@@ -3882,14 +3882,14 @@
   text: >-
     {:unk0f 03 0F 00 6D 01}{:color #00F0F080}S'ha afegit l'ordre Objecte.{:reset}
 
-    Utilitza {:icon dynamic-dpad-up-down} per seleccionar Objecte, i prem {:icon dynamic-cross}.
+    Fes servir {:icon dynamic-dpad-up-down} per seleccionar Objecte, i prem {:icon dynamic-cross}.
 
-    Tria l'objecte que vulguis utilitzar i prem {:icon dynamic-cross}.{:clear }{:unk0f 00 00 00 00 00}Per a la drecera, prem {:icon dynamic-l1} i {:icon dynamic-cross}.
+    Tria l'objecte que vulguis emprar i prem {:icon dynamic-cross}.{:clear }{:unk0f 00 00 00 00 00}Per a la drecera, prem {:icon dynamic-l1} i {:icon dynamic-cross}.
 
     Pots canviar-la en el menú principal.
 - id: 16132
   text: >-
-    {:color #00F0F080}El Roxas ja pot utilitzar habilitats.{:reset}
+    {:color #00F0F080}El Roxas ja pot fer servir habilitats.{:reset}
 
     Les habilitats s'activen des del menú principal.{:clear }En guanyar batalles importants,
 
@@ -3918,7 +3918,7 @@
   text: Molt bé... ja veig com serà la cosa.
 - id: 17158
   text: >-
-    Utilitza {:icon dynamic-left-analog} per moure el Roxas.
+    Fes servir {:icon dynamic-left-analog} per moure el Roxas.
 
     Per saltar, prem {:icon dynamic-circle}.
 
@@ -4107,7 +4107,7 @@
 - id: 17370
   text: '«Tren local. Gratuït!»'
 - id: 17371
-  text: L'estàtua està mirant a terra.
+  text: L'estàtua mira a terra.
 - id: 17372
   text: Està completament bloquejada pels tubs.
 - id: 17374
@@ -4120,11 +4120,11 @@
   text: >-
     Hi ha evidències que això
 
-    ja ha estat utilitzat.
+    ja ha estat fet servir.
 - id: 17380
-  text: Fa temps que no s'utilitza.
+  text: Fa temps que no es fa servir.
 - id: 17381
-  text: Sembla que encara es podria utilitzar.
+  text: Sembla que encara es podria fer servir.
 - id: 17382
   text: Sembla que només està encesa.
 - id: 17383
@@ -4157,7 +4157,7 @@
 
     esferes en el temps assignat.
 - id: 17403
-  text: Aquest taulell s'utilitza per als tornejos.
+  text: Aquest taulell es fa servir per als tornejos.
 - id: 17404
   text: >-
     Normes d'Struggle:
@@ -4253,9 +4253,9 @@
   text: >-
     El Seifer no perdrà el temps
 
-    barallant-se amb vosaltres.{:clear }Utilitzarà el seu atac més poderós
+    barallant-se amb vosaltres.{:clear }Només farà el seu atac més
 
-    només si està en problemes.
+    poderós si està en problemes.
 - id: 17425
   text: Bufar i fer ampolles.
 - id: 17429
@@ -4272,7 +4272,7 @@
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Dones prioritat a la defensa?
 
-    {:chardelay 33 00}No, utilitzaré una altra cosa.
+    {:chardelay 33 00}No, faré servir una altra cosa.
 
     {:chardelay 0A 00}Me la quedo!
 - id: 17432
@@ -4284,7 +4284,7 @@
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Dones prioritat als atacs especials?
 
-    {:chardelay 33 00}No, utilitzaré una altra cosa.
+    {:chardelay 33 00}No, faré servir una altra cosa.
 
     {:chardelay 0B 00}Me'l quedo!
 - id: 17434
@@ -4296,7 +4296,7 @@
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Dones prioritat a l'atac?
 
-    {:chardelay 33 00}No, utilitzaré una altra cosa.
+    {:chardelay 33 00}No, faré servir una altra cosa.
 
     {:chardelay 09 00}Me la quedo!
 - id: 17439
@@ -4323,7 +4323,7 @@
     Quan baixi la guàrdia, colpeja'l!{:clear }Si ho fas, segur que guanyes!
 - id: 17444
   text: >-
-    L'arma de la dreta no està malament.{:clear }També pots utilitzar-la a l'Struggle.
+    L'arma de la dreta està prou bé.{:clear }També pots fer-la servir a l'Struggle.
 
     Hauria de resultar-te fàcil de brandir.
 - id: 17446
@@ -4367,7 +4367,7 @@
   text: >-
     Se't veu molt ocupat.
 
-    Estàs treballant?{:clear }Jo practicaré per
+    Que treballes?{:clear }Jo practicaré per
 
     al proper Struggle!
 - id: 17461
@@ -4896,7 +4896,7 @@
 
     fantasma del Turó del Capvespre!{:clear }Això ha de ser cert! Ho pressento!
 
-    Aviam, com a mínim això penso...
+    Aviam, si més no això penso...
 - id: 17657
   text: >-
     El forat de la paret de la Placeta del
@@ -5077,7 +5077,7 @@
 
 - id: 17907
   text: >+
-    {:delayandfade 05 3C}Rere aquella porta, aguarda
+    {:delayandfade 05 3C}Rere aquella porta, espera
 
     un món totalment diferent.
 
@@ -5137,9 +5137,9 @@
   text: >-
     Ei! Com va el teu viatge?
 
-    Per aquí no hi ha moltes novetats.{:clear }L'organitzador de l'Struggle està
+    Per aquí no hi ha moltes novetats.{:clear }L'organitzador de l'Struggle
 
-    preparant alguna cosa. Fes-li un cop d'ull.
+    prepara alguna cosa. Fes-hi un cop d'ull.
 - id: 17946
   text: >-
     Sora! Donald! Goofy!
@@ -5174,9 +5174,9 @@
   text: >-
     No estàs preparat per a l'últim vestit.
 
-    No funcionarà, Sora.{:clear }Només pot utilitzar-lo aquell que
+    No funcionarà, Sora.{:clear }Només pot fer-lo servir
 
-    hagi superat totes les proves.
+    qui ha superat totes les proves.
 - id: 17952
   text: >-
     Ens han parlat de tu. Afanya't
@@ -5336,7 +5336,7 @@
 
     tinc un mal pressentiment.{:clear }Preparem-nos per al que sigui,
 
-    però sempre podem tornar...{:clear }a l'altre món utilitzant la llum.
+    però sempre podem tornar...{:clear }a l'altre món travessant la llum.
 - id: 17991
   text: >-
     Llavors sí que hi havia
@@ -5378,13 +5378,13 @@
 
     mai torni a funcionar.
 - id: 18210
-  text: El Donald dorm dins.
+  text: El Donald hi dorm.
 - id: 18211
-  text: El Goofy dorm dins.
+  text: El Goofy hi dorm.
 - id: 18212
-  text: Aquesta és la càpsula on hi dormia el Donald.
+  text: Aquesta és la càpsula on dormia el Donald.
 - id: 18213
-  text: Aquesta és la càpsula on hi dormia el Goofy.
+  text: Aquesta és la càpsula on dormia el Goofy.
 - id: 18214
   text: >-
     Aquest indicador permet observar
@@ -5576,24 +5576,24 @@
   text: >-
     Derrota l'enemic misteriós.
 
-    Utilitza l'arma que ha aparegut!
+    Fes servir l'arma que ha aparegut!
 - id: 18600
   text: >-
     Enfronta't a l'enemic misteriós!
 
-    Utilitza tots els teus atacs i estratègies!
+    Fes servir tots els teus atacs i estratègies!
 - id: 18602
   text: >-
     Acaba amb l'enemic misteriós!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 18603
   text: >-
-    Utilitza atacs ràpids en
+    Fes servir atacs ràpids en
 
-    enfronta't al Hayner!
+    enfrontar-te al Hayner!
 - id: 18604
   text: >-
     Lluita contra el Vivi!
@@ -5625,17 +5625,17 @@
     Ja t'encarregaràs després de l'Àxel.
 - id: 18609
   text: >-
-    Utilitza la misteriosa clau espasa
+    Fes servir la misteriosa clau espasa
 
-    per destruir a tots els enemics!
+    per destruir tots els enemics!
 - id: 18610
   text: >-
-    Utilitza la misteriosa clau espasa
+    Fes servir la misteriosa clau espasa
 
     per vèncer l'Àxel!
 - id: 18611
   text: >-
-    Utilitza la clau espasa per
+    Fes servir la clau espasa per
 
     destruir a tots els enemics!
 - id: 18612
@@ -5673,7 +5673,7 @@
 
     i evita que es mogui!
 
-    Intenta utilitzar l'ordre de
+    Intenta manar l'ordre de
 
     reacció per evitar obstacles!
 - id: 18620
@@ -5713,7 +5713,7 @@
   text: Enfronta't al Hayner!
 - id: 18628
   text: >-
-    Utilitza atacs ràpids en
+    Fes servir atacs ràpids en
 
     enfrontar-te al Hayner!
 - id: 18629
@@ -5743,7 +5743,7 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 18921
@@ -5764,7 +5764,7 @@
 
     No, tot just arribo.{:clear }Soc gran, però els túnels encara
 
-    m'espanten. Serà millor que segueixi el meu camí.
+    m'espanten. Val més que segueixi el meu camí.
 - id: 18969
   text: >-
     Tinc un mapa de les Set Meravelles.
@@ -6085,7 +6085,7 @@
     quantes vegades més.
 - id: 19148
   text: >-
-    Bravo! Estàs a punt per
+    Bravo! Ets a punt per
 
     enfrontar-te al Seifer!{:clear }Pots lluitar a l'Struggle quan
 
@@ -6146,9 +6146,9 @@
 - id: 19560
   text: Gràcies.
 - id: 19569
-  text: Utilitza Finta per esquivar atacs!
+  text: Mana Finta per esquivar atacs!
 - id: 19570
-  text: Utilitza Finta per esquivar atacs!
+  text: Mana Finta per esquivar atacs!
 - id: 19583
   text: >-
     El Seifer és una màquina, nano!{:clear }Ha sonat dur, eh? 
@@ -6158,7 +6158,7 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 19650
@@ -6169,7 +6169,7 @@
 
     semblen vestigis d'un somni.{:delay F0 00}{:clear }Vull reunir-ne les peces... {:delay BE 00}{:clear }les teves i les meves.
 - id: 19654
-  text: T'estava esperant.
+  text: T'esperava.
 - id: 19655
   text: He anat a veure'l...{:delay B4 00}{:clear }{:delay 49 00}{:clear }S'assembla molt a tu.
 - id: 19656
@@ -6198,7 +6198,7 @@
 - id: 19666
   text: Qui... qui hi ha?
 - id: 19667
-  text: Està unit a la foscor...
+  text: És unit a la foscor...
 - id: 19668
   text: Sora, no canviïs mai.
 - id: 19669
@@ -6481,7 +6481,7 @@
 - id: 19901
   text: I jo.
 - id: 19902
-  text: 'Molt bé, què et sembla si ens deixes marxar? Ja sé que ets{:delay 96 00}{:clear }aquí per acabar amb nosaltres i tota la pesca, però... '
+  text: 'Molt bé, què et sembla si ens deixes marxar? Ja sé que ets{:delay 96 00}{:clear }aquí per eliminar-nos i tota la pesca, però... '
 - id: 19903
   text: En DiZ... vol desfer-se de mi?
 - id: 19904

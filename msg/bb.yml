@@ -628,9 +628,9 @@
   text: Qui era aquell tipus amb qui parlaves?{:delay 64 00}{:clear }{:delay 0A 00}{:clear }El de negre.
 - id: 3212
   text: >-
-    Xaldin!{:delay 49 00}{:clear }{:delay 77 00}Així es diu.{:delay 62 00}{:clear }Va sorgir de la foscor...
+    En Xaldin!{:delay 49 00}{:clear }{:delay 77 00}Així es diu.{:delay 62 00}{:clear }Va sorgir de la foscor...
 
-    i ha utilitzat la meva ira per controlar-me.
+    i s'ha aprofitat de la meva ira per controlar-me.
 - id: 3213
   text: >-
     Ha fet aflorar tot el meu pesar,
@@ -1267,7 +1267,7 @@
 
     fet la Bella en agafar la rosa?
 - id: 3414
-  text: Carai, n'estava gaudint de valent.
+  text: Carai, en gaudia de valent.
 - id: 3415
   text: No hi ha ningú com ella, oi?
 - id: 3416
@@ -1379,7 +1379,7 @@
   text: '{:unk06 02}{:unk13 82 00 B4 00}{:unk08 03 01 06}Fantàstic!'
 - id: 7588
   text: >-
-    Apropa't als fanals i utilitza l'ordre
+    Apropa't als fanals i mana l'ordre
 
     de reacció Ruixa per apagar-los.
 - id: 7589
@@ -1444,14 +1444,14 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 7745
   text: >-
     Derrota tots els incorporis!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 7746
@@ -1673,9 +1673,9 @@
     Bella{:reset}, segur que fan les paus.
 - id: 16664
   text: >-
-    Aquell armari tan rar ens
+    Aquell armari tan rar
 
-    està bloquejant el pas!{:clear }Mmm... Hauria de moure's si
+    ens bloqueja el pas!{:clear }Mmm... Hauria de moure's si
 
     l'empenyem {:theme 0A}pel costat esquerre{:reset}.
 - id: 16665
@@ -1749,7 +1749,7 @@
   text: >-
     {:unk0f 03 64 00 6D 01}{:color #00F0F080}S'ha agregat l'ordre Grup.{:reset}
 
-    Permet canviar amb rapidesa els membres del grup.{:clear }Utilitza'l per intercanviar membres del grup a les
+    Permet canviar amb rapidesa els membres del grup.{:clear }Mana-la per intercanviar membres del grup a les
 
     batalles, fins i tot si no és possible obrir els menús.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 64 00 84 01}{:color #00F0F080}S'ha agregat l'ordre Límit.{:reset}
 
@@ -1774,7 +1774,7 @@
   text: >-
     Així que heu arribat a la masmorra
 
-    pel corredor oest! I pensar que...{:clear }L'Armari estava bloquejant-ne la porta!
+    pel corredor oest! I pensar que...{:clear }L'Armari en bloquejava la porta!
 
     No haurà estat gens fàcil!
 - id: 18733
@@ -1788,12 +1788,12 @@
 
     Quan s'amagui, ataca'l i després
 
-    utilitza una ordre de reacció!
+    mana una ordre de reacció!
 - id: 18735
   text: >-
     Venç el sensecor!
 
-    Quan desapareixi, utilitza la
+    Quan desapareixi, mana la
 
     poderosa ordre de reacció!
 - id: 18736

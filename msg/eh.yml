@@ -153,7 +153,7 @@
   text: >-
     T'ho he dit. {:delay 66 00}{:clear }No volia que em trobessis. {:delay 64 00}{:clear }{:delay 32 00}{:clear }Així no. No podia.{:delay CB 00}{:clear }{:delay 19 00}{:clear }Vaig lluitar contra l'Ànsem... 
 
-    contra el sensecor del Xehanort,{:delay E3 00}{:clear }{:delay 29 00}quan va envair el meu cor. I vaig vèncer. {:delay A9 00}{:clear }Però per utilitzar el poder de la foscor,
+    contra el sensecor del Xehanort,{:delay E3 00}{:clear }{:delay 29 00}quan va envair el meu cor. I vaig vèncer. {:delay A9 00}{:clear }Però per fer servir el poder de la foscor,
 
     vaig haver de convertir-me en el propi Ànsem.
 - id: 16273
@@ -230,9 +230,9 @@
   text: >-
     Ajuda'm, Kingdom Hearts! {:delay 96 00}{:clear } {:delay 6C 00}{:clear }Presta'm el teu poder
 
-    per assolir el zenit! {:delay 14 01}{:clear } {:delay 4E 00}{:clear }El poder per acabar amb
+    per assolir el zenit! {:delay 14 01}{:clear } {:delay 4E 00}{:clear }El poder per posar fi
 
-    els necis que ens destorben.
+    als necis que ens destorben.
 - id: 16297
   text: Xemnas! No!
 - id: 16298
@@ -257,7 +257,7 @@
 - id: 16306
   text: Mireu allò!
 - id: 16307
-  text: Què està passant?
+  text: Què passa?
 - id: 16308
   text: Kingdom Hearts...
 - id: 16309
@@ -324,7 +324,7 @@
 - id: 16333
   text: Qui ha fet això?
 - id: 16334
-  text: Bé, no n'estic segur. {:delay 69 00}{:clear }Però serà millor que ens hi afanyem.
+  text: Bé, no n'estic segur. {:delay 69 00}{:clear }Però val més que ens hi afanyem.
 - id: 16335
   text: Espereu-me!
 - id: 16336
@@ -534,7 +534,7 @@
   text: Oh, Pete... {:delay 46 00}{:clear }{:delay 28 00}{:clear }aquest castell és perfecte. {:delay A0 00}{:clear }{:delay 3C 00}{:clear }Potser hauríem... d'adquirir-lo.
 - id: 16411
   text: >-
-    El lloc no està malament,
+    El lloc està prou bé,
 
     suposo, però... eh...{:delay DD 00}{:clear }què passa amb tots els sensecor? {:delay 83 00}{:clear }Aquest món intermedi és
 
@@ -544,7 +544,7 @@
 - id: 16413
   text: Deixeu-me!
 - id: 16414
-  text: Què està passant?
+  text: Què passa?
 - id: 16415
   text: Has sigut un bon noi?
 - id: 16416
@@ -601,7 +601,7 @@
   text: >-
     El Riku va triar aquella forma per
 
-    poder utilitzar el poder de la foscor. {:delay F0 00}{:clear }{:delay 1E 00}{:clear }No serà fàcil.
+    poder fer servir el poder de la foscor. {:delay F0 00}{:clear }{:delay 1E 00}{:clear }No serà fàcil.
 - id: 16433
   text: Kairi, ja venim!
 - id: 16434
@@ -892,7 +892,7 @@
     te'n recordes?
 - id: 16545
   text: >-
-    El Xemnas va ser el que va trobar el Roxas.{:delay 84 00}{:clear }{:delay 3C 00}Podia utilitzar la clau espasa
+    El Xemnas va ser el que va trobar el Roxas.{:delay 84 00}{:clear }{:delay 3C 00}Podia fer servir la clau espasa
 
     perquè era el teu incorpori.
 - id: 16546
@@ -1116,9 +1116,9 @@
     fins al {:theme 0A}castell{:reset} on tenen la Kairi.
 - id: 18439
   text: >-
-    Segur que l'Organització {XIII} us
+    Segur que l'Organització {XIII}
 
-    està esperant en aquell castell.{:clear }No cal que us digui quant
+    us espera en aquell castell.{:clear }No cal que us digui com de
 
     poderosos són. No baixeu la guàrdia.
 - id: 18440
@@ -1151,9 +1151,9 @@
     no-res. Hem d'estar preparats.
 - id: 18444
   text: >-
-    Què està passant?
+    Què passa?
 
-    L'Ànsem estava lluitant al costat de la Kairi!{:clear }Però ara la Kairi té problemes!
+    L'Ànsem lluitava al costat de la Kairi!{:clear }Però ara la Kairi té problemes!
 
     Hem d'ajudar-la!
 - id: 18445
@@ -1191,11 +1191,11 @@
     una oportunitat de guanyar. Aprofita-la.
 - id: 18450
   text: >-
-    Puc percebre el Saïx. Està utilitzant
+    Puc percebre el Saïx. Fa servir alguna
 
-    alguna cosa per incrementar el seu poder.{:clear }Si podem descobrir d'on el treu,
+    cosa per incrementar el seu poder.{:clear }Si podem descobrir d'on el treu,
 
-    potser també puguem utilitzar-lo.
+    potser també ens en podem aprofitar.
 - id: 18451
   text: >-
     El camí és obert. Allà
@@ -1269,7 +1269,7 @@
     aquest castell?{:clear }És bastant misteriós.
 - id: 18462
   text: >-
-    Mmm. No està malament, Sora.
+    Mmm. Prou bé, Sora.
 
     T'has tornat més fort.{:clear }No necessites ni la meva
 
@@ -1310,7 +1310,7 @@
 
     Has de contraatacar!
 
-    Si utilitzes ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, et resultarà més fàcil!
 - id: 18716
@@ -1488,23 +1488,23 @@
 - id: 19543
   text: Què!?
 - id: 19546
-  text: Utilitza Làser per destruir enemics distants!
+  text: Fes servir Làser per destruir enemics distants!
 - id: 19547
-  text: Utilitza Drenatge per absorbir el foc enemic!
+  text: Fes servir Drenatge per absorbir el foc enemic!
 - id: 19571
   text: De pressa! Sense la teva ajuda, en Sora està perdut!
 - id: 19572
-  text: Utilitza Reflex, per desviar el atacs làser!
+  text: Fes servir Reflex, per desviar el atacs làser!
 - id: 19586
-  text: Estan a punt d'atacar! Utilitza Acrobàcia per evitar-los!
+  text: Estan a punt d'atacar! Fes servir Acrobàcia per evitar-los!
 - id: 19587
-  text: Aquest lloc explotarà! La teva única esperança és utilitzar Acrobàcia!
+  text: Aquest lloc explotarà! La teva única esperança és fer servir Acrobàcia!
 - id: 19588
   text: Detén el nucli d'energia!
 - id: 19589
   text: Compte amb els enemics que venen des de dalt!
 - id: 19590
-  text: Apropa't als edificis per utilitzar ordres de reacció!
+  text: Apropa't als edificis per manar ordres de reacció!
 - id: 19591
   text: Llença els enemics contra el nucli per danyar-lo!
 - id: 19592
@@ -1518,7 +1518,7 @@
 - id: 19603
   text: El nucli d'energia s'ha detingut!
 - id: 19604
-  text: Utilitza {:icon dynamic-circle} per saltar a l'aire i {:icon dynamic-square} per planar!
+  text: Fes servir {:icon dynamic-circle} per saltar a l'aire i {:icon dynamic-square} per planar!
 - id: 19605
   text: El Xemnas és a dalt de l'edifici!
 - id: 19606
@@ -1532,19 +1532,19 @@
   text: >-
     Ves a buscar el Xemnas!
 
-    Utilitza ordres de reacció per obrir-t'hi pas!
+    Mana ordres de reacció per obrir-t'hi pas!
 - id: 19608
   text: >-
     Ves a buscar el Xemnas!
 
-    Utilitza ordres de reacció per obrir-t'hi pas!
+    Mana ordres de reacció per obrir-t'hi pas!
 - id: 19609
   text: >-
     Llença els enemics contra el nucli per danyar-lo!
 
-    Si és necessari, utilitza ordres
+    Si cal, mana ordres de reacció per
 
-    de reacció per protegir-te!
+    protegir-te!
 - id: 19610
   text: >-
     Detén el nucli d'energia!
@@ -1554,12 +1554,12 @@
   text: >-
     Derrota el Xemnas!
 
-    Utilitza les tàctiques que has après!
+    Fes servir les tàctiques que has après!
 - id: 19612
   text: >-
     Derrota el Xemnas!
 
-    Utilitza Làser per destruir
+    Fes servir Làser per destruir
 
     enemics distants i Drenatge
 
@@ -1568,14 +1568,14 @@
   text: >-
     Derrota el Xemnas!
 
-    Utilitza {:icon dynamic-circle} per saltar repetidament i plana a l'aire amb {:icon dynamic-square}!
+    Fes servir {:icon dynamic-circle} per saltar repetidament i plana a l'aire amb {:icon dynamic-square}!
 
-    Si utilitzes les ordres de reacció, la batalla serà més fàcil!
+    Si manes ordres de reacció, la batalla serà més fàcil!
 - id: 19618
   text: >-
     Derrota el Xemnas!
 
-    Utilitza les tàctiques que has après!
+    Fes servir les tàctiques que has après!
 - id: 19761
   text: El Món Que Mai Fou
 - id: 19933
@@ -1782,7 +1782,7 @@
   text: >-
     No va poder aguantar la
 
-    buidor d'ésser sense un cor. {:delay E6 00}{:clear }I això va acabar amb ell.
+    buidor d'ésser sense un cor. {:delay E6 00}{:clear }I això va consumir-lo.
 - id: 20363
   text: Era dèbil i neci.
 - id: 20542
@@ -1922,7 +1922,7 @@
   text: Tot i que... això em canviï per sempre.
 - id: 21470
   text: >-
-    No podia fer-ho encara. {:delay 8C 00}{:clear }Com a mínim no fins que
+    No podia fer-ho encara. {:delay 8C 00}{:clear }Si més no no fins que
 
     tot torni a ser com era.
 - id: 21471

@@ -56,7 +56,7 @@
     «S.O. Baluard Balmat».
 - id: 868
   text: >-
-    Utilitzava el sistema per al
+    Feia servir el sistema per al
 
     manteniment de la ciutat{:delay 9D 00}{:clear }i per a les seves investigacions privades.
 - id: 869
@@ -83,7 +83,7 @@
   text: Usuaris?
 - id: 877
   text: >-
-    Serà millor que sortiu
+    Val més que sortiu
 
     d'aquí de seguida.{:delay 5A 00}{:clear }{:delay 27 00}{:clear }Qui sap el que us farà el PCM?
 - id: 878
@@ -123,7 +123,7 @@
   text: >-
     No anirem enlloc si no
 
-    inutilitzem aquests camps d'energia.
+    anul・lem aquests camps d'energia.
 - id: 888
   text: >-
     Control Mestre, per què
@@ -397,7 +397,7 @@
 - id: 967
   text: Bé. Això ens donarà un temps.
 - id: 968
-  text: Tron! Digue'ns què està passant!
+  text: Tron! Digue'ns què passa!
 - id: 969
   text: >-
     El PCM està carregant un
@@ -441,7 +441,7 @@
 
     em sembla que tinc possibilitats{:delay C8 00}{:clear }de treure el control al PCM.
 - id: 981
-  text: Serà millor que em posi a treballar.{:delay 7A 00}{:clear }{:delay 5D 00}{:clear }És el que voldria el meu usuari.
+  text: Val més que em posi a treballar.{:delay 7A 00}{:clear }{:delay 5D 00}{:clear }És el que voldria el meu usuari.
 - id: 982
   text: El que voldria l'Ànsem...
 - id: 983
@@ -456,7 +456,7 @@
   text: Com és això?
 - id: 988
   text: >-
-    L'Ànsem va utilitzar el sistema original
+    L'Ànsem va fer servir el sistema original
 
     de l'ENCOM i el va personalitzar. {:delay 04 01}{:clear }{:delay 36 00}{:clear }Jo formava part del sistema original
 
@@ -568,9 +568,9 @@
 
     el PCM.{:clear }Un cop el recollim a la Torre I/O,
 
-    creu que podrem utilitzar-lo per
+    pensa que podrem fer-lo servir per
 
-    acabar amb el PCM.
+    posar fi al PCM.
 - id: 1016
   text: '{:unk06 02}{:unk13 82 00 3C 00}{:unk08 03 01 06}Provem-ho!'
 - id: 1017
@@ -782,7 +782,7 @@
 - id: 1089
   text: Selecciona.
 - id: 1090
-  text: Executes aquesta selecció?
+  text: Vols executar aquesta selecció?
 - id: 8053
   text: Moto de llum
 - id: 8054
@@ -814,7 +814,7 @@
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8139
@@ -825,9 +825,9 @@
   text: El navegador solar està sobrecarregat! Desfes-te dels enemics!
 - id: 8142
   text: >-
-    El navegador solar està al límit!
+    El navegador solar és al límit!
 
-    Acaba amb els enemics per continuar volant!
+    Elimina els enemics per continuar volant!
 - id: 10446
   text: Una recàrrega d'energia per a mi!
 - id: 10447
@@ -857,12 +857,12 @@
 - id: 16997
   text: Està apagat.
 - id: 16998
-  text: No saps com utilitzar això.
+  text: No saps com fer-ho servir.
 - id: 16999
   text: >-
-    Està bloquejat i no pot
+    Està bloquejat i no pot es
 
-    utilitzar-se des d'aquí.
+    pot fer servir des d'aquí.
 - id: 17324
   text: L'habilitat Esborra requereix l'ajuda del Tron!
 - id: 17873
@@ -928,12 +928,12 @@
   text: >-
     Aquell tal PCM controla
 
-    aquest món, no?{:clear }Serà millor que trobem el
+    aquest món, no?{:clear }Val més que trobem el
 
     {:theme 0A}nucli d'energia{:reset} el més aviat possible.
 - id: 17883
   text: >-
-    He anulat la seguretat. L'ascensor
+    He anul・lat la seguretat. L'ascensor
 
     de la {:theme 0A}Torre I/O {:reset}ja deu funcionar.{:clear }De pressa! En sortir d'aquest quarto,
 
@@ -1054,7 +1054,7 @@
   text: >-
     Derrota el programa hostil!
 
-    Omple l'indicador i utilitza Penjar!
+    Omple l'indicador i mana Penja!
 - id: 18713
   text: >-
     Acaba amb el Sark!
@@ -1081,7 +1081,7 @@
   text: El Tron ha après una nova habilitat.
 - id: 19112
   text: >-
-    No es pot utilitzar sense
+    No es pot fer servir sense
 
     el navegador solar.
 - id: 19544
@@ -1090,16 +1090,16 @@
   text: Elimina els enemics i dirigeix-te a la meta!
 - id: 19567
   text: >-
-    Intenta utilitzar Ataca, Carrega i
+    Intenta manar Ataca, Carrega i
 
     Bloqueig per vèncer cinc sensecor!
 - id: 19568
   text: >-
-    Utilitza Ataca, Carrega i Bloqueig per
+    Mana Ataca, Carrega i Bloqueig per
 
     eliminar els enemics i arribar a la meta!
 - id: 19760
-  text: Espaci Paranoic
+  text: Espai Paranoic
 - id: 21558
   text: "{:delayandfade 0A 78} \nEn Sora aconsegueix escapar de\nla seva cel・la amb el Tron i\ntots es dirigeixen cap al nucli\nd'energia per reiniciar-lo.\n \n \n \n \n \n"
 - id: 21559
@@ -1107,4 +1107,4 @@
 - id: 21560
   text: "{:delayandfade 0A 78} \nEn arribar al DTD, el Sora dona al\nTron la contrasenya, que resulta ser\nels noms de les Set Princeses,\ncomençant pel de la Kairi.\n \n \n \n"
 - id: 21561
-  text: "{:delayandfade 08 78} \nEl Sora i el Tron es retroben per fi,\nperò la situació és crítica:\nel PCM està a punt per començar\nla seva guerra contra els usuaris.\n \nL'única esperança és arribar fins la\nTorre I/O i carregar en el sistema\nel programa d'Erradicació del PCM.\n \n"
+  text: "{:delayandfade 08 78} \nEl Sora i el Tron es retroben per fi,\nperò la situació és crítica:\nel PCM és a punt per començar\nla seva guerra contra els usuaris.\n \nL'única esperança és arribar fins la\nTorre I/O i carregar en el sistema\nel programa d'Erradicació del PCM.\n \n"

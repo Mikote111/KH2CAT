@@ -115,9 +115,9 @@
   text: Rei Tritó!
 - id: 5033
   text: >-
-    Espero que no hagis tingut cap
+    Espero que no t'hagis calgut
 
-    necessitat d'utilitzar la teva clau espasa.
+    emprar la teva clau espasa.
 - id: 5034
   text: >-
     No. Tot està tranquil.
@@ -564,7 +564,7 @@
   text: >-
     {:unk13 78 00 F0 00}{:unk08 01 00 03}Sembla que tot
 
-    està anant molt bé!
+    va molt bé!
 - id: 5160
   text: >-
     {:unk13 7E 01 50 00}{:unk08 01 00 06}Òndia, no hauríem d'explicar
@@ -1012,7 +1012,7 @@
 - id: 5333
   text: Tria una cançó.
 - id: 5334
-  text: Interpretes aquesta cançó?
+  text: Vols interpretar aquesta cançó?
 - id: 6432
   text: >-
     {:unk13 A0 00 64 00}{:unk08 01 01 05}Se li trencaria el
@@ -1133,7 +1133,7 @@
 
     Entra i toca aquesta aleta!{:unk0e 00}
 - id: 8814
-  text: '{:unk13 FA 00 90 01}Arribes fins al blanc, utilitza la màgia.'
+  text: '{:unk13 FA 00 90 01}Arribes fins al blanc, empra la màgia.'
 - id: 8815
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Apunta bé i atent tan sols.{:unk0e 00}'
 - id: 8816
@@ -1479,22 +1479,22 @@
     d'aquest joc musical.{:unk0e 00}
 - id: 17820
   text: >-
-    Per moure't horitzontalment, utilitza {:icon dynamic-left-analog}.
+    Per moure't horitzontalment, fes servir {:icon dynamic-left-analog}.
 
-    Per moure't verticalment, utilitza {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}.{:clear }Si prems {:icon dynamic-cross}, nedaràs més ràpidament.
+    Per moure't verticalment, empra {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}.{:clear }Si prems {:icon dynamic-cross}, nedaràs més ràpidament.
 
-    Per fixar un blanc, utilitza {:icon dynamic-r1}, i
+    Per fixar un blanc, prem {:icon dynamic-r1}, i
 
-    apropa-t'hi amb {:icon dynamic-circle} utilitzant Puntada Dofí.
+    apropa-t'hi amb {:icon dynamic-circle} manant Puntada Dofí.
 
     {:color #00F0F080}Parla amb el Flounder.{:reset}
 - id: 17821
   text: >-
-    Utilitza {:icon dynamic-left-analog} i {:icon dynamic-right-analog} per moure't. 
+    Fes servir {:icon dynamic-left-analog} i {:icon dynamic-right-analog} per moure't. 
 
     Per fixar un objectiu, prem {:icon dynamic-r1}, i apropa-t'hi
 
-    amb {:icon dynamic-circle} utilitzant Puntada Dofí.
+    amb {:icon dynamic-circle} manant Puntada Dofí.
 
     {:color #00F0F080}Parla amb el Flounder.{:reset}
 - id: 17822
@@ -1636,12 +1636,12 @@
     més problemes...
 - id: 18145
   text: >-
-    Sembla que encara no estàs a punt.
+    Sembla que encara no ets a punt.
 
     Afanya't, vull començar l'assaig.
 - id: 18146
   text: >-
-    Estàs a punt per moure
+    Ets a punt per moure
 
     l'estàtua?
 - id: 18147
@@ -1665,7 +1665,7 @@
     Estic segur que la hi encantarà.
 - id: 18150
   text: >-
-    En lloc d'utilitzar màgia, faré
+    En lloc de fer servir màgia, faré
 
     ressonar la meva veu al mar!{:clear }Algun dia m'agradaria cantar
 
@@ -1820,7 +1820,7 @@
 
     va expulsar l'Úrsula del regne.{:clear }Ella té molt de poder. Tant de bo
 
-    l'utilitzés per ajudar als altres!
+    la fes servir per ajudar els altres!
 - id: 18178
   text: >-
     La música del Sebastià és genial,
@@ -2017,7 +2017,7 @@
 - id: 21531
   text: "{:delayandfade 08 78} \nSens dubte, molts són els\nproblemes que assetgen el regne,\nperò el Sora s'arma de valor\ni continua amb els assajos.\n \nDesprés de tot, les penes\namb música, menys tristes són.\n \n \n \n"
 - id: 21532
-  text: "{:delayandfade 07 78} \nLa jove i enamorada Ariel observa\nel seu príncep en la llunyania. Entre les\nroques veu allò que el jove busca,\nperò li és impossible arribar-hi.\n \nPer sort, el Sora és per allà i,\nutilitzant els seus poders, aconsegueix\napartar la gran roca per arribar al\npenjoll.\n \n"
+  text: "{:delayandfade 07 78} \nLa jove i enamorada Ariel observa\nel seu príncep en la llunyania. Entre les\nroques veu allò que el jove busca,\nperò li és impossible arribar-hi.\n \nPer sort, el Sora és per allà i,\namb els seus poders, aconsegueix\napartar la gran roca per arribar al\npenjoll.\n \n"
 - id: 21533
   text: "{:delayandfade 07 78} \nUna ombra amenaçadora s'apropa\na l'Ariel. Es tracta de l'Úrsula, la bruixa\ndesterrada un any enrere, que s'aprofita\nde la jove per oferir-li\nun tracte: la seva bella veu a canvi de\ntransformar-la en humana.\n \nPerò hi ha una cosa més: l'Ariel ha de\nrebre un petó del príncep abans de tres\ndies o es convertirà en un monstre.\n \n"
 - id: 21534

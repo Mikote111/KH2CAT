@@ -9,7 +9,7 @@
     Trobes molta mel últimament?
 - id: 4664
   text: >-
-    Oh, sí.{:delay 4E 00}{:clear }De fet, estava a punt de fer la
+    Oh, sí.{:delay 4E 00}{:clear }De fet, era a punt de fer la
 
     meva gimnàstica per a la panxeta.{:delay 1A 01}{:clear }Vols acompanyar-m'hi, Sora?
 - id: 4665
@@ -47,16 +47,16 @@
   text: Ei, Pooh?
 - id: 4675
   text: >-
-    Aquí passa alguna cosa molt rara.{:delay 8A 00}{:clear }{:delay 56 00}Serà millor que torni
+    Aquí passa alguna cosa molt rara.{:delay 8A 00}{:clear }{:delay 56 00}Val més que torni
 
     per preguntar-ne al Merlí.
 - id: 4676
   text: Digues-me... què passa, fill?
 - id: 4677
   text: >-
-    Oh... només estava pensant...
+    Oh... només pensava...
 
-    i meditant.
+    i meditava.
 - id: 4678
   text: Hauries de sortir disparat d'aquí.
 - id: 4679
@@ -322,7 +322,7 @@
 
     de mi completament?
 
-    Què diables està passant?
+    Què diables passa?
 - id: 4751
   text: >-
     {:unk13 FF 00 64 00}{:unk06 00}{:unk08 01 01 06}Hi ha una mica més de mel?
@@ -431,7 +431,7 @@
     algú que no conec.
 - id: 4778
   text: >-
-    Bé, com a mínim ja et recordes
+    Bé, si més no ja et recordes
 
     del Conill i l'Igor.
 - id: 4779
@@ -572,16 +572,16 @@
     Pooh, anem a buscar-lo!
 - id: 4812
   text: >-
-    {:unk13 4A 01 6E 00}{:unk06 00}{:unk08 01 01 05}Això és just el que
+    {:unk13 4A 01 6E 00}{:unk06 00}{:unk08 01 01 05}Això és just el
 
-    estava pensant!
+    que pensava!
 - id: 4813
   text: '{:unk13 36 01 36 01}{:unk06 00}{:unk08 01 01 07}Sí, som-hi!'
 - id: 4814
   text: >-
     {:unk13 04 01 82 00}{:unk06 00}{:unk08 01 00 04}Però si realment hi ha un monstre,
 
-    serà millor prendre-hi precaucions.
+    val més prendre-hi precaucions.
 - id: 4815
   text: >-
     {:unk13 F0 00 46 00}{:unk06 00}{:unk08 01 00 05}Sembla que tenim
@@ -604,7 +604,7 @@
   text: Ei! T'hem estat buscant!
 - id: 4820
   text: >-
-    Estava buscant un amic
+    Buscava un amic
 
     molt estimat{:delay 91 00}{:clear }a qui recordo que li vaig fer
 
@@ -655,7 +655,7 @@
 - id: 4835
   text: I a mi, Pooh.
 - id: 4836
-  text: Oohh... la panxeta m'està sonant.
+  text: Oohh... la panxeta em sona.
 - id: 4837
   text: Molt bé! Anem a casa doncs!
 - id: 4838
@@ -672,10 +672,10 @@
 
     que s'ha de fer.{:clear }Escolteu-me bé...
 - id: 4842
-  text: Què estaves fent aquí?
+  text: Què feies aquí?
 - id: 4843
   text: >-
-    Estava pensant...{:delay 5A 00}{:clear }Potser hi ha una manera
+    Pensava...{:delay 5A 00}{:clear }Potser hi ha una manera
 
     de fer que no te'n vagis.
 - id: 4844
@@ -928,7 +928,7 @@
 
     {:chardelay 33 00}Sí, quina enveja!
 
-    {:chardelay 09 00}Està ballant-la! L'hem d'ajudar!
+    {:chardelay 09 00}Que la balla! L'hem d'ajudar!
 - id: 7912
   text: >-
     M'alegro que el Pooh
@@ -1266,9 +1266,9 @@
     o coses així, i jo també hi vull anar!
 - id: 18103
   text: >-
-    L'altre dia, quan estava explorant
+    L'altre dia, quan explorava jo
 
-    jo sol, vaig conèixer un nou amic.{:clear }És divertit tenir amics.
+    sol, vaig conèixer un nou amic.{:clear }És divertit tenir amics.
 - id: 18104
   text: >-
     Si el Pooh no està bé,

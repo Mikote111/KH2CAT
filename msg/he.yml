@@ -12,12 +12,12 @@
   text: >-
     Hem entrenat molt, però no sé si en
 
-    serà prou per lluitar contra l'Hades.{:clear }Serà millor que demanem a
+    serà prou per lluitar contra l'Hades.{:clear }Val més que demanem a
 
     l'Hèrcules aquella Pedra de l'Olimp.
 - id: 3461
   text: >-
-    L'Hèrcules ha tornat.{:clear }Sembla que està buscant
+    L'Hèrcules ha tornat.{:clear }Sembla que busca
 
     algú. Què deu passar?
 - id: 3462
@@ -493,11 +493,11 @@
 
     maledicció de l'Inframon.{:clear }Els deus del
 
-    Mont Olimp l'utilitzen
+    Mont Olimp la fan servir
 
     quan hi han d'anar.
 - id: 3621
-  text: '{:unk13 68 01 86 00}{:unk06 00}{:unk08 01 00 07}Creieu que podríem utilitzar-la?'
+  text: '{:unk13 68 01 86 00}{:unk06 00}{:unk08 01 00 07}Creieu que podríem fer-la servir?'
 - id: 3622
   text: "{:unk13 0E 01 46 00}{:unk06 00}{:unk08 01 00 05}I tant, per què no?{:clear }Us l'aconseguiré."
 - id: 3623
@@ -715,7 +715,7 @@
   text: >-
     {:unk13 12 01 45 00}{:unk06 00}{:unk08 01 01 05}La maledicció de l'Inframon
 
-    m'està afectant.
+    comença a afectar-me.
 - id: 3680
   text: >-
     {:unk13 B4 00 47 00}{:unk06 00}{:unk08 01 01 04}Hem de recuperar aquella
@@ -977,7 +977,7 @@
 
     ni dels sensecor...
 
-    com a mínim per ara.
+    si més no per ara.
 - id: 3764
   text: '{:unk13 69 01 CB 00}{:unk06 00}{:unk08 01 01 05}Què és allò?'
 - id: 3765
@@ -1299,7 +1299,7 @@
 
     L'Hades li ha rentat el cervell!
 - id: 3850
-  text: Està utilitzant una mena de ninot.
+  text: Fa servir una mena de ninot.
 - id: 3851
   text: >-
     Saps què?
@@ -1321,9 +1321,9 @@
   text: D'acord! Jo me n'encarrego!
 - id: 3856
   text: >-
-    Digue'm que no estàs
+    Digue'm que no
 
-    pensant a anar-te'n.{:delay 6C 00}{:clear }{:delay 1C 00}{:clear }Tens un combat.
+    penses anar-te'n.{:delay 6C 00}{:clear }{:delay 1C 00}{:clear }Tens un combat.
 - id: 3857
   text: >-
     Lluitaré contra l'Auron en la final.
@@ -1748,7 +1748,7 @@
   text: >-
     Lluita la costat dels teus amics.
 
-    No pots utilitzar l'indicador
+    No pots fer servir l'indicador
 
     de Fusió, però els Límits
 
@@ -1768,11 +1768,11 @@
 
     L'indicador de Fusió
 
-    s'omple més ràpid que
+    s'omple més ràpid que de
 
-    de costum i en Sora pot
+    costum i en Sora pot fer
 
-    utilitzar Fusió estant sol.
+    servir Fusió estant sol.
 - id: 4010
   text: >-
     No guanyes experiència.
@@ -1786,7 +1786,7 @@
 
     Sora lluita sol, però
 
-    pot utilitzar Invocar.
+    pot manar Invoca.
 - id: 4013
   text: >-
     No guanyes experiència.
@@ -1814,7 +1814,7 @@
   text: >-
     Lluita al costat dels teus amics.
 
-    No pots utilitzar l'indicador
+    No pots fer servir l'indicador
 
     de Fusió, però els Límits
 
@@ -1838,7 +1838,7 @@
 
     de costum i en Sora pot
 
-    utilitzar Fusió estant sol.
+    manar Fusió estant sol.
 - id: 4028
   text: >-
     No guanyes experiència.
@@ -1852,7 +1852,7 @@
 
     Sora lluita sol, però
 
-    pot utilitzar Invocar.
+    pot manar Invoca.
 - id: 4031
   text: >-
     No guanyes experiència.
@@ -1962,7 +1962,7 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 12076
@@ -2041,7 +2041,7 @@
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 16150
@@ -2050,7 +2050,7 @@
   text: >-
     Derrota tots els sensecor!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 16162
@@ -2204,7 +2204,7 @@
   text: >-
     Segur que la Megara no és
 
-    l'única que ens està esperant.{:clear }Ves amb molt de compte,
+    l'única que ens espera.{:clear }Ves amb molt de compte,
 
     Sora.
 - id: 16579
@@ -2292,7 +2292,7 @@
   text: >-
     Derrota el Cèrber!
 
-    Si utilitzes les ordres de reacció
+    Si manes ordres de reacció
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 18768
@@ -2376,12 +2376,12 @@
     Encarrega't del líder!
 - id: 19413
   text: >-
-    No pots utilitzar l'indicador de Fusió,
+    No pots fer servir l'indicador de Fusió,
 
     però els Límits consumeixen menys PM!
 - id: 19414
   text: >-
-    Pots utilitzar les Formes, i l'indicador
+    Pots fer servir les Formes, i l'indicador
 
     de Fusió s'omple més ràpidament!
 
@@ -2392,7 +2392,7 @@
   text: >-
     L'ordre Fusió no està disponible.
 
-    Estàs sol, però pots utilitzar Invocar!
+    Estàs sol, però pots manar Invoca!
 
     Quan pateixes mal, perds punts.
 
@@ -2406,21 +2406,21 @@
     Dona-ho tot!
 - id: 19423
   text: >-
-    No pots utilitzar l'indicador de Fusió,
+    No pots fer servir l'indicador de Fusió,
 
     però els Límits consumeixen menys PM!
 
     Arriba a la ronda 30 amb aquestes normes!
 - id: 19424
   text: >-
-    Estàs sol, però pots utilitzar Formes, i
+    Estàs sol, però pots fer servir Formes, i
 
     l'indicador de Fusió s'omple en un no res!
 
     Arriba a la ronda 40 amb aquestes normes!
 - id: 19425
   text: >-
-    Estàs sol. No pots utilitzar Fusió, però
+    Estàs sol. No pots fer servir Fusió, però
 
     sí Invocar. Quan pateixes mal, perds
 
