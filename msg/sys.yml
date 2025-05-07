@@ -1094,7 +1094,7 @@
 - id: 1317
   text: Mulan
 - id: 1318
-  text: Aladdin
+  text: Aladí
 - id: 1319
   text: Sparrow
 - id: 1320
@@ -1113,7 +1113,7 @@
   text: >-
     Sora:
 
-    No crec que l'Aladdin sigui per allà!
+    No crec que l'Aladí sigui per allà!
 - id: 1332
   text: ''
 - id: 1333
@@ -1411,7 +1411,7 @@
   text: >-
     Sora:
 
-    A per aquells tres canalles!
+    Perseguim aquells tres canalles!
 - id: 1423
   text: ''
 - id: 1424
@@ -3427,7 +3427,7 @@
 
     Consumeix tots els PM del Sora.
 - id: 13121
-  text: A tope
+  text: Al límit
 - id: 13122
   text: >-
     Ordre Límit amb què el Sora i
@@ -3569,9 +3569,9 @@
   text: >-
     Llença un poderós combo final
 
-    que atravessa la defensa
+    que travessa la defensa de
 
-    de l'objectiu.
+    l'objectiu.
 - id: 13881
   text: Final sònic
 - id: 13882
@@ -4212,9 +4212,9 @@
   text: >-
     Llença un poderós combo final
 
-    que atravessa el bloqueig
+    que travessa el bloqueig de
 
-    de l'enemic.
+    l'enemic.
 - id: 14739
   text: Explosió
 - id: 14740
@@ -4230,7 +4230,7 @@
   text: >-
     Si prems {:icon dynamic-square} al final d'un combo,
 
-    assestes un cop que atravessa defenses.
+    assestes un cop que travessa defenses.
 - id: 14743
   text: Contrabloqueig
 - id: 14744
@@ -5548,7 +5548,7 @@
 - id: 15254
   text: Fabrica
 - id: 15279
-  text: Carga F.
+  text: Carrega F.
 - id: 15280
   text: Fulgor de vida
 - id: 15281
@@ -6375,7 +6375,7 @@
 
     els Moguris comprenen.
 - id: 15711
-  text: Atravessa
+  text: Travessa
 - id: 15713
   text: Trio
 - id: 15714
@@ -9997,7 +9997,9 @@
 
     Fes servir {:icon dynamic-right-analog} i manten-lo
 
-    premut per controlar la càmera.
+    premut per controlar la
+
+    càmera.
 
     {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}
 
