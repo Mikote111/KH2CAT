@@ -1824,9 +1824,9 @@
   text: Salt d'altura 1
 - id: 1613
   text: >-
-    Saltes més alt de l'habitual.
+    Saltes més alt que de normal
 
-    Quanta més estona apretis {:icon dynamic-circle},
+    Com més estona premis {:icon dynamic-circle},
 
     a major altura arribaràs.
 - id: 1614
@@ -1835,27 +1835,27 @@
   text: >-
     Saltes encara més alt que abans!
 
-    Quanta més estona apretis {:icon dynamic-circle},
+    Com més estona premis {:icon dynamic-circle},
 
     a major altura arribaràs.
 - id: 1616
   text: Salt d'altura 3
 - id: 1617
   text: >-
-    Ara saltaràs realment alt!
+    Ara saltaràs alt de debò!
 
-    Quanta més estona apretis {:icon dynamic-circle},
+    Com més estona premis {:icon dynamic-circle},
 
     a major altura arribaràs.
 - id: 1618
   text: Salt d'altura MÀX.
 - id: 1619
   text: >-
-    Un salt extrem! Més alt del que
+    Un salt extrem! Més alt del que et
 
-    creies possible! Quanta més estona 
+    podries imaginar! Com més estona 
 
-    apretis {:icon dynamic-circle}, a major altura arribaràs.
+    premis {:icon dynamic-circle}, a major altura arribaràs.
 - id: 1620
   text: Carrera ràpida 1
 - id: 1621

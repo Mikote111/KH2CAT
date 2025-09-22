@@ -928,11 +928,11 @@
   text: >-
     Absorbeix i redirecciona el foc
 
-    enemic normal. Quants més
+    enemic normal. Com més trets
 
-    trets absorbeixes, més poderós
+    absorbeixis, més poderós
 
-    resulta el teu contraatac.
+    resultarà el teu contraatac.
 - id: 15679
   text: '{:width 90}{:color #8080F080}{:icon dynamic-select}{:reset}{:width 90}: Tanca'
 - id: 15680
