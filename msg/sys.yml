@@ -5064,7 +5064,7 @@
 
     molt inusual per fabricar objectes.
 - id: 15071
-  text: Palet de l'ocàs
+  text: Palet crepuscular
 - id: 15072
   text: >-
     Aquest fragment de gema conté el
@@ -5100,7 +5100,7 @@
 
     molt inusual per fabricar objectes.
 - id: 15079
-  text: Tros de mitrill
+  text: Palet de mitrill
 - id: 15080
   text: >-
     Fragment d'un mineral muy inusual i 
@@ -5172,7 +5172,7 @@
 
     molt inusual per fabricar objectes.
 - id: 15095
-  text: Palet de poder
+  text: Palet d'energia
 - id: 15096
   text: >-
     Aquest fragment de gema conté una
@@ -5181,7 +5181,7 @@
 
     molt comú per fabricar objectes.
 - id: 15097
-  text: Roca de poder
+  text: Roca d'energia
 - id: 15098
   text: >-
     Aquesta roca enclou una energia
@@ -5190,7 +5190,7 @@
 
     comú per fabricar objectes.
 - id: 15099
-  text: Pedra de poder
+  text: Pedra d'energia
 - id: 15100
   text: >-
     Aquesta gema desborda d'energia.
@@ -5199,7 +5199,7 @@
 
     per fabricar objectes.
 - id: 15101
-  text: Cristall de poder
+  text: Cristall d'energia
 - id: 15102
   text: >-
     Aquest misteriós cristall desborda 
@@ -5712,7 +5712,7 @@
   text: Extrainvoca
 - id: 15335
   text: >-
-    Extèn la permanència de l'aliat
+    Estèn la permanència de l'aliat
 
     quan manes Invoca.
 - id: 15336

@@ -1919,7 +1919,7 @@
   text: >-
     El Roxas que coneixia
 
-    ha marxat per sempre.
+    se n'ha anat per sempre.
 - id: 13580
   text: No em facis venir per deixar-me fora!
 - id: 13581
@@ -1928,7 +1928,7 @@
   text: >-
     Bons o dolents. No ho sé.{:delay E5 00}{:clear }Són un grup d'éssers incomplerts
 
-    que busquen esdevenir-ne complets.{:delay C8 00}{:clear }{:delay 30 00}{:clear }Amb aquest objectiu, cerquen
+    que busquen esdevenir-ne de complets.{:delay C8 00}{:clear }{:delay 30 00}{:clear }Amb aquest objectiu, cerquen
 
     quelcom desesperadament.
 - id: 13583
@@ -1948,7 +1948,7 @@
     de canviar el teu destí.
 - id: 13590
   text: >-
-    Encara que res canviï,
+    Encara que res no canviï,
 
     vull saber-ho.{:delay B0 00}{:clear }Hi tinc dret!
 - id: 13591
