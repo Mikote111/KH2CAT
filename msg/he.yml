@@ -522,7 +522,7 @@
   text: '{:unk13 22 01 6E 00}{:unk06 00}{:unk08 01 01 05}Bé, bona idea!'
 - id: 3628
   text: >-
-    Hola, campió. {:delay 48 00}{:clear }Com et sents?{:delay 54 00}{:clear }Més et val descansar
+    Hola, campió. {:delay 48 00}{:clear }Com et sents?{:delay 54 00}{:clear }Val més que descansis
 
     per al combat de demà.{:delay B4 00}{:clear }Ningú vol pagar per veure
 
@@ -1427,7 +1427,7 @@
 
     però millor no preguntar.
 - id: 3886
-  text: Més ens val tocar el dos.
+  text: Val més que toquem el dos.
 - id: 3887
   text: Ara! Acaba amb ell!
 - id: 3888

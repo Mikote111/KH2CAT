@@ -609,7 +609,7 @@
 
     de per aquí,{:delay AA 00}{:clear }hauré de donar-los unes
 
-    leccions de disciplina.
+    lliçons de disciplina.
 - id: 12292
   text: >-
     I tant que sí! El Seifer sempre
@@ -4025,7 +4025,7 @@
   text: (Tentative) Les Set Meravelles han estat descobertes!
 - id: 17344
   text: >-
-    {:unk08 00 00 00}Només mirant-la, aquesta
+    {:unk08 00 00 00}Només de mirar-la, aquesta
 
     espasa sembla donar-te força.
 - id: 17345
@@ -4039,7 +4039,7 @@
   text: >-
     {:unk08 00 00 00}Aquest bastó sembla màgic, com si 
 
-    només sostenint-lo t'atorgués saviesa.
+    només de sostenir-lo t'atorgués saviesa.
 - id: 17347
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}La saviesa és important?

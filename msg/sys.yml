@@ -7355,7 +7355,7 @@
   text: >-
     Enemics més forts i batalles al límit.
 
-    Un mode només apte per als mes valents.
+    Un mode només apte per als més valents.
 
     {:color #F0F00080}És més fàcil desbloquejar el final secret.{:reset}
 - id: 17207
@@ -7405,9 +7405,9 @@
 - id: 17284
   text: No
 - id: 17343
-  text: Recull
+  text: Agafa
 - id: 17351
-  text: Recull
+  text: Agafa
 - id: 17394
   text: Augmenta l'indicador de Forma!
 - id: 17395

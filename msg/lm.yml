@@ -139,7 +139,7 @@
 
     Vegeu.{:delay C6 00}{:clear }Em temo que l'Ariel continua
 
-    entossudida amb el món dels humans.{:delay 04 01}{:clear }Si els ensajos la mantinguessin ocupada,{:delay 9C 00}{:clear }deixaria de pensar en la
+    entossudida amb el món dels humans.{:delay 04 01}{:clear }Si els assajos la mantinguessin ocupada,{:delay 9C 00}{:clear }deixaria de pensar en la
 
     vida de la superfície.
 - id: 5038
@@ -163,7 +163,7 @@
 
     m'arrencarà les pinces per això!
 - id: 5044
-  text: Va! Hem de continuar ensajant!
+  text: Va! Hem de continuar assajant!
 - id: 5045
   text: Ho sento, però no em ve de gust.
 - id: 5046
@@ -271,9 +271,9 @@
   text: '{:unk13 40 01 2C 01}{:unk08 01 01 01}Vu... vull dir... segur!'
 - id: 5079
   text: >-
-    {:unk13 2C 01 2C 01}{:unk08 01 01 01}Disculpi'm, sa Majestat, però
+    {:unk13 2C 01 2C 01}{:unk08 01 01 01}Disculpeu-me, sa Majestat, però
 
-    haig d'ensajar... Ja m'entén.
+    haig d'assajar... Ja m'entén.
 - id: 5080
   text: >-
     {:unk13 8C 00 04 01}{:unk08 01 01 01}És terrible!
@@ -1282,9 +1282,9 @@
 - id: 8916
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}aquest cop li costarà.{:unk0e 00}'
 - id: 8917
-  text: "{:unk13 FA 00 90 01}{:unk0e 0A}Tot el que em desafia després n'aprèn{:unk0e 00}"
+  text: "{:unk13 FA 00 90 01}{:unk0e 0A}Tothom qui em desafia després n'aprèn{:unk0e 00}"
 - id: 8918
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}la lecció:{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}la lliçó:{:unk0e 00}'
 - id: 8919
   text: "{:unk13 FA 00 90 01}{:unk0e 0A}Amb mi mai s'hi juga!{:unk0e 00}"
 - id: 8920
@@ -1483,9 +1483,9 @@
 
     Per moure't verticalment, empra {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}.{:clear }Si prems {:icon dynamic-cross}, nedaràs més ràpidament.
 
-    Per fixar un blanc, prem {:icon dynamic-r1}, i
+    Per fixar un blanc, prem {:icon dynamic-r1} i apropa-t'hi
 
-    apropa-t'hi amb {:icon dynamic-circle} manant Puntada Dofí.
+    amb {:icon dynamic-circle} manant Puntada Dofí.
 
     {:color #00F0F080}Parla amb el Flounder.{:reset}
 - id: 17821
@@ -2011,7 +2011,7 @@
 - id: 19870
   text: Quina tela!
 - id: 21529
-  text: "{:delayandfade 08 78} \nDesprés de la breu lecció de\nnatació submarina, el Sebastià\ninvita el Sora, el Donald i el\nGoofy a participar al musical.\n \nNo tots els dies l'un rep\nuna invitació de l'estil, així\nque tots comencen a assajar\namb entusiasme.\n \n"
+  text: "{:delayandfade 08 78} \nDesprés de la breu lliçó de\nnatació submarina, el Sebastià\ninvita el Sora, el Donald i el\nGoofy a participar al musical.\n \nNo tots els dies l'un rep\nuna invitació de l'estil, així\nque tots comencen a assajar\namb entusiasme.\n \n"
 - id: 21530
   text: "{:delayandfade 0A 78} \nEl Rei Tritó, coneixent l'Ariel\ncom la coneix, sap que la seva\nfilla tramava alguna cosa...\n \n \n \n \n \n"
 - id: 21531
