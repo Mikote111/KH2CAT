@@ -44,30 +44,30 @@
   text: >-
     Oh, no!
 
-    El castell és en perill!{:clear }Ves immediatament a veure la reina!
+    El castell està en perill!{:clear }Ves immediatament a veure la reina!
 
     La trobaràs a la biblioteca!
 - id: 5355
   text: >-
-    Aquest es l'Hangar gumi.
+    Això és l'Hangar gumi.
 
     Generalment, és un caos.{:clear }Si travesses el jardí,
 
     arribaràs a l'entrada del castell.
 - id: 5368
   text: >-
-    Ah... Mmm... Em pregunto
+    Ah... Mmm...
 
-    on podria ser aquell vell àlbum...
+    On deu ser aquell àlbum antic...?
 - id: 5369
   text: Reina Minnie!
 - id: 5370
   text: És terrible!
 - id: 5371
   text: >-
-    Alguna cosa va malament en
+    Alguna cosa va malament al
 
-    el Saló de la Pedra Angular!
+    Saló de la Pedra Angular!
 - id: 5372
   text: >-
     Hi estan creixent
@@ -75,9 +75,9 @@
     espines per tot arreu!
 - id: 5373
   text: >-
-    Ai, rei Mickey, si poguessis sentir-me.{:delay BA 00}{:clear }El castell és en perill!
+    Ai, rei Mickey, si poguessis sentir-me.{:delay BA 00}{:clear }El castell està en perill!
 
-    Hem de fer alguna cosa aviat!
+    Hi hem de fer alguna cosa aviat!
 - id: 5374
   text: Donald... Goofy...
 - id: 5375
@@ -103,7 +103,7 @@
   text: La reina Minnie vol veure-us!
 - id: 5384
   text: >-
-    El castell corre perill!
+    El castell perilla!
 
     A la biblioteca! Ràpid!
 - id: 5385
@@ -142,12 +142,10 @@
   text: >-
     Oh, senyor... llavors,
 
-    aquells són els sensecor.
+    allò són els sensecor.
 - id: 5396
   text: >-
-    No s'hi preocupi,
-
-    ens n'encarregarem.
+    No patiu, ens n'encarregarem.
 - id: 5397
   text: >-
     Sé que puc comptar amb tu, Sora.{:delay B4 00}{:clear }Bé, hi ha una cosa que vull que veieu.{:delay DE 00}{:clear }Podeu escortar-me fins a
@@ -195,7 +193,7 @@
   text: >-
     Sí, Sora.
 
-    Afanyem-nos-hi.
+    Afanyem-nos.
 - id: 5415
   text: Espera un moment.
 - id: 5416
@@ -217,9 +215,9 @@
   text: Apa!
 - id: 5423
   text: >-
-    A aquella estança li diem
+    D'aquella estança en diem
 
-    el Saló de la Pedra Angular.
+    El Saló de la Pedra Angular.
 - id: 5424
   text: >-
     El nostre castell sempre ha estat
@@ -227,9 +225,9 @@
     protegit de tot món maligne...
 - id: 5425
   text: >-
-    gràcies a la Pedra Angular de
+    gràcies a la Pedra Angular
 
-    Llum que guardem allà baix.
+    de Llum que hi guardem.
 - id: 5426
   text: La Pedra Angular... de Llum?
 - id: 5427
@@ -240,7 +238,7 @@
 - id: 5428
   text: Aquestes espines...
 - id: 5429
-  text: Em pregunto què vol dir això...
+  text: Què deu voler dir això...
 - id: 5430
   text: Malèfica!
 - id: 5431
@@ -277,7 +275,7 @@
 
     «brillant» per al que tinc en ment.{:delay 26 01}{:clear }Hauré d'omplir
 
-    totes les habitacions{:delay C6 00}{:clear }amb el meu «fosc» toc personal.
+    totes les habitacions{:delay C6 00}{:clear }amb el meu toc personal «fosc».
 - id: 5440
   text: >-
     Val més que desisteixis,
@@ -293,7 +291,7 @@
   text: >-
     Mai havia passat res semblant.{:delay 96 00}{:clear }He repassat tots els
 
-    arxius de la biblioteca{:delay 93 00}{:clear }i no he trobat cap pista.
+    arxius de la biblioteca{:delay 93 00}{:clear }i no n'he trobat cap pista.
 - id: 5446
   text: Ohhh!
 - id: 5447

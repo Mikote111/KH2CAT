@@ -572,7 +572,7 @@
   text: Has acabat de vacil・lar?
 - id: 16423
   text: >-
-    Vacil・lar? Si home! {:delay 7E 00}{:clear }{:delay 38 00}{:clear }Tot el que intento dir-te, traidor,
+    Vacil・lar? Sí, home! {:delay 7E 00}{:clear }{:delay 38 00}{:clear }Tot el que intento dir-te, traidor,
 
     és que t'ha arribat l'hora!
 - id: 16424
@@ -1840,7 +1840,7 @@
     És com si es tragués d'enmig a propòsit.
 - id: 21451
   text: >-
-    Si home! Faig el que haig de fer. {:delay 96 00}{:clear }Per a que ho sàpigues, ahir vaig
+    Sí, home! Faig el que haig de fer. {:delay 96 00}{:clear }Perquè ho sàpigues, ahir vaig
 
     trobar-ne un. Un tal «Mar» no sé què.{:delay 4A 01}{:clear }Amb ell ja en som onze a l'Organització.{:delay C3 00}{:clear }I com m'hi he deixat la pell, li he dit al
 

@@ -44,9 +44,9 @@
   text: >-
     Hauríeu de poder arribar al
 
-    soterrani pel {:theme 0A}corredor oest{:reset}.{:clear }Probablement siguin tots
+    soterrani pel {:theme 0A}corredor oest{:reset}.{:clear }Probablement estan tots
 
-    tancats abaix, a la masmorra.
+    tancats a baix, a la masmorra.
 - id: 3025
   text: >-
     La Bèstia és una persona de bon cor.
@@ -586,9 +586,9 @@
   text: Ara has d'encarregar-te... de la Bella.
 - id: 3197
   text: >-
-    Pretèn arrabassar-te tot
+    Pretèn arrabassar-te
 
-    allò que posseeixes.
+    tot allò que posseeixes.
 - id: 3198
   text: El castell, la teva preuada rosa...{:delay A0 00}{:clear }{:delay 32 00}{:clear }I per últim... la teva vida.
 - id: 3199

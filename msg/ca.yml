@@ -11,7 +11,7 @@
 - id: 6217
   text: Parteix
 - id: 6218
-  text: Surt-ne
+  text: Surt
 - id: 7781
   text: Will, mira!
 - id: 7782
@@ -357,7 +357,7 @@
 
     Els nostres atacs no serveixen!
 - id: 9969
-  text: Ja, i què esperaves?
+  text: Ha! I què esperaves?
 - id: 9971
   text: Ja podeu començar a resar.
 - id: 9972
@@ -389,9 +389,9 @@
   text: '{:unk13 C8 00 AF 00}{:unk08 01 00 05}Doncs ja som aquí!'
 - id: 9981
   text: >-
-    {:unk13 B1 00 32 00}{:unk08 01 01 06}Potser podem agafar prestada
+    {:unk13 B1 00 32 00}{:unk08 01 01 06}Potser podem manllevar una
 
-    una nau pirata i fer-hi una volta!
+    nau pirata i fer una volta!
 - id: 9982
   text: >-
     {:unk13 C5 00 37 00}{:unk08 01 01 06}Era una broma!{:clear }Aquells tipus es dirigien
@@ -1587,7 +1587,7 @@
   text: >-
     Quan el Barbossa em va capturar,
 
-    no volia que sapigués...{:clear }que era la filla del governador.{:clear }Per això li vaig donar el nom de Turner.
+    no volia que sabés...{:clear }que era la filla del governador.{:clear }Per això li vaig donar el nom de Turner.
 
     No sabia que ens duria a això!
 - id: 14156

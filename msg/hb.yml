@@ -208,7 +208,7 @@
   text: Derrota tots els incorporis i protegeix les portes!
 - id: 8070
   text: >-
-    Lluita al costat del Léon i venç tots els
+    Lluita al costat del Leon i venç tots els
 
     incorporis mentre protegeixes les portes!
 
@@ -270,7 +270,7 @@
   text: >-
     Una altra cop l'Organització {XIII}.
 
-    Hem d'anar a veure el Léon.
+    Hem d'anar a veure el Leon.
 - id: 8151
   text: '{:unk13 90 01 18 01}{:unk08 01 00 01}Endavant!'
 - id: 8152
@@ -312,7 +312,7 @@
   text: >-
     {:unk13 D2 00 37 00}{:unk08 01 01 06}Si més no això és
 
-    el que creu el Léon...
+    el que creu el Leon...
 - id: 8164
   text: >-
     Ha anat a l'estudi de l'Ànsem a
@@ -405,7 +405,7 @@
   text: '{:unk13 C8 00 64 00}{:unk08 01 00 05}Genial!'
 - id: 8188
   text: >-
-    {:unk13 D2 00 50 00}{:unk08 01 00 05}Eh, Léon, per què no
+    {:unk13 D2 00 50 00}{:unk08 01 00 05}Eh, Leon, per què no
 
     vas a ajudar el Cid?{:clear }Jo m'encarrego d'això.
 
@@ -482,7 +482,7 @@
   text: Ja està!
 - id: 8205
   text: >-
-    Té, Léon.{:delay 64 00}{:clear }{:delay 14 00}{:clear }Un programa casolà.
+    Té, Leon.{:delay 64 00}{:clear }{:delay 14 00}{:clear }Un programa casolà.
 
     Delicatessen màgica del vell xaruc.
 - id: 8206
@@ -499,7 +499,7 @@
 - id: 8210
   text: És inútil!
 - id: 8211
-  text: Léon, deixa-m'ho intentar.
+  text: Leon, deixa-m'ho intentar.
 - id: 8212
   text: Aquest és l'últim avís.{:delay 5A 00}{:clear }{:delay 28 00}{:clear }Desisteixin.
 - id: 8213
@@ -693,7 +693,7 @@
 
     patit cap mal, així que...{:delay E8 00}{:clear }{:delay 45 00}Espereu. Val més que avisi
 
-    el Léon i els altres abans.{:delay C2 00}{:clear }Vaig a buscar-los.
+    el Leon i els altres abans.{:delay C2 00}{:clear }Vaig a buscar-los.
 
     Torno en res.
 - id: 8275
@@ -767,7 +767,7 @@
 
     elements més preuats del món.{:clear }Havia pensat a dir al
 
-    Léon que l'havia trobat...{:clear }però potser ho hauriem de 
+    Leon que l'havia trobat...{:clear }però potser ho hauriem de 
 
     mantenir en secret per ara.
 - id: 8297
@@ -825,14 +825,14 @@
     i intenta ocupar-se ell sol de tot.
 - id: 9005
   text: >-
-    El Léon i els altres són a la zona
+    El Leon i els altres són a la zona
 
     residencial. Han anat a casa el Merlí.
 - id: 9006
   text: >-
     És bo el gelat de sal marina, eh?
 
-    Però no és moment de menjar gelats!{:clear }Ajudeu el Léon i els altres. I no
+    Però no és moment de menjar gelats!{:clear }Ajudeu el Leon i els altres. I no
 
     n'espereu una recompensa a canvi.
 - id: 9007
@@ -884,7 +884,7 @@
     {:theme 0A}des de la sala de l'ordinador{:reset}.
 - id: 9014
   text: >-
-    El Léon és al pati interior.
+    El Leon és al pati interior.
 
     No us entretingueu, entesos?
 - id: 9015
@@ -941,7 +941,7 @@
 - id: 12322
   text: Òndia! Es veu com diferent ara.
 - id: 12323
-  text: Espero que el Léon i la colla estiguin bé.
+  text: Espero que el Leon i la colla estiguin bé.
 - id: 12324
   text: >-
     Oh, oh. Em sembla que
@@ -953,7 +953,7 @@
   text: '{:unk13 A5 00 55 00}{:unk08 01 00 06}Eh? Qui...?'
 - id: 12327
   text: >-
-    {:unk13 3B 01 47 00}{:unk08 01 00 07}És el tiet del Donald...
+    {:unk13 3B 01 47 00}{:unk08 01 00 07}És l'oncle del Donald...
 
     un magnat dels negocis!{:clear }Abans d'aparèixer els sensecor,
 
@@ -970,9 +970,9 @@
   text: >-
     {:unk13 18 01 4B 00}{:unk08 01 00 06}Vaja, però si és el Donald!{:clear }I el Goofy!
 
-    Hola, xicots!{:clear }Eh, teniu un molt
+    Hola, xicots!{:clear }Ei, feu molt
 
-    bon aspecte!
+    bona cara!
 - id: 12331
   text: >-
     {:unk13 D5 00 55 01}{:unk08 01 01 01}Tu també,
@@ -980,9 +980,9 @@
     Oncle Garrepa.
 - id: 12332
   text: >-
-    {:unk13 F0 00 F5 00}{:unk08 01 01 01}Ai, no creieu...{:clear }No aconsegueixo reproduir
+    {:unk13 F0 00 F5 00}{:unk08 01 01 01}Ai, no us penseu pas...{:clear }No aconsegueixo reproduir
 
-    el sabor del meu vell gelat
+    el gust del meu antic gelat
 
     preferit.{:clear }Guanyaria una fortuna
 
@@ -1030,7 +1030,7 @@
 
     però mai ens oblidarem.»
 - id: 12348
-  text: Se suposa que aquell era el Léon?
+  text: Se suposa que aquell era el Leon?
 - id: 12349
   text: >-
     Tots estan treballant
@@ -1051,16 +1051,16 @@
   text: Què sabies?
 - id: 12355
   text: >-
-    Fa poc, de cop, tots ens recordem
+    Fa poc, de sobte, tots ens vam
 
-    de vosaltres. Tots a la vegada.
+    recordar de vosaltres. Tots alhora.
 - id: 12356
   text: >-
     Us... en vau recordar? {:delay 50 00}{:clear }{:delay 0A 00}{:clear }Espera! Vols dir que
 
     ens havíeu oblidat?
 - id: 12357
-  text: Gràcies!
+  text: Oh, gràcies!
 - id: 12358
   text: On heu estat tot aquest temps?
 - id: 12359
@@ -1117,7 +1117,7 @@
   text: >-
     Pren-t'ho com un dels
 
-    compliments del Léon.
+    compliments del Leon.
 - id: 12377
   text: >-
     Seguiu-me fins al pati interior.
@@ -1147,7 +1147,7 @@
   text: >-
     Teniu...
 
-    Són per a vosaltres.{:delay B4 00}{:clear }El Léon va pensar que us agradaria tenir-los.
+    Són per a vosaltres.{:delay B4 00}{:clear }El Leon va pensar que us agradaria tenir-los.
 - id: 12386
   text: >-
     Membre Honorífic del Comitè de
@@ -1240,7 +1240,7 @@
 - id: 12415
   text: Aparta!
 - id: 12416
-  text: Et sembla de bona educació{:delay 7D 00}{:clear }{:delay 19 00}{:clear }barrar-me el pas així?
+  text: Et sembla de bona educació{:delay 7D 00}{:clear }{:delay 19 00}{:clear }escridassar-me d'aquesta manera?
 - id: 12417
   text: He dit que t'apartis!
 - id: 12420
@@ -1278,7 +1278,7 @@
     d'aconseguir aquell sabor...
 - id: 12451
   text: >-
-    {:unk13 0E 01 46 00}{:unk08 01 00 06}Com anem, xicots?{:clear }El Léon i els seus amics
+    {:unk13 0E 01 46 00}{:unk08 01 00 06}Com anem, xicots?{:clear }El Leon i els seus amics
 
     són a la zona residencial.{:clear }Sí, a casa el Merlí.
 - id: 12452
@@ -1320,7 +1320,7 @@
 
     per a vosaltres.{:clear }Heu d'anar a
 
-    veure el Léon.
+    veure el Leon.
 - id: 12465
   text: '{:unk13 4A 01 91 00}{:unk08 01 00 05}Quines notícies?'
 - id: 12466
@@ -1379,7 +1379,7 @@
 - id: 12486
   text: Sento molt tot això!
 - id: 12487
-  text: '{:unk06 02}{:unk13 4A 01 50 00}{:unk08 03 00 05}Léon!'
+  text: '{:unk06 02}{:unk13 4A 01 50 00}{:unk08 03 00 05}Leon!'
 - id: 12488
   text: '{:unk13 64 00 64 00}{:unk08 01 00 05}Per aquí!'
 - id: 12489
@@ -1395,7 +1395,7 @@
 - id: 12491
   text: '{:unk13 DC 00 96 00}{:unk08 01 00 05}El rei?'
 - id: 12492
-  text: '{:unk13 95 00 2D 00}{:unk08 01 01 06}És amb el Léon.'
+  text: '{:unk13 95 00 2D 00}{:unk08 01 01 06}És amb el Leon.'
 - id: 12493
   text: '{:unk06 02}{:unk13 8C 00 91 00}{:unk08 03 01 05}Per fi veurem el rei!'
 - id: 12494
@@ -1447,7 +1447,7 @@
 - id: 12508
   text: Ja era hora.
 - id: 12509
-  text: Léon!
+  text: Leon!
 - id: 12510
   text: >-
     {:unk13 4A 01 73 00}{:unk08 01 01 06}El rei no
@@ -1838,11 +1838,11 @@
     equivocat de bàndol.
 - id: 12632
   text: >-
-    Mmm... Si voleu triar bàndol,{:delay 90 00}{:clear }per què no us alieu amb el Léon?
+    Mmm... Si voleu triar bàndol,{:delay 90 00}{:clear }per què no us alieu amb el Leon?
 
     Sempre necessita ajuda.
 - id: 12633
-  text: Aquell tal Léon té algún tresor?
+  text: Aquell tal Leon té algún tresor?
 - id: 12634
   text: Sí, un munt de coses!
 - id: 12635
@@ -1858,7 +1858,7 @@
 - id: 12640
   text: Ens veiem, nois!
 - id: 12641
-  text: De debò que el Léon té un tresor?
+  text: De debò que el Leon té un tresor?
 - id: 12643
   text: No tenim temps per a això!
 - id: 12644
@@ -1941,7 +1941,7 @@
 - id: 12673
   text: Cloud! Espera!
 - id: 12674
-  text: Léon! Nois! Aguanteu!
+  text: Leon! Nois! Aguanteu!
 - id: 12675
   text: >-
     Bé, nois, heu d'anar a
@@ -1949,7 +1949,7 @@
     buscar el Riku i la Kairi.
 - id: 12676
   text: >-
-    El Léon i els altres
+    El Leon i els altres
 
     també són amics nostres!
 - id: 12677
@@ -1960,7 +1960,7 @@
 
     d'aquesta batalla.
 - id: 12678
-  text: Però... ho vaig prometre al Léon!
+  text: Però... ho vaig prometre al Leon!
 - id: 12679
   text: Donald! Goofy! {:delay 5A 00}{:clear }Agafeu el Sora i aneu-vos-en!
 - id: 12680
@@ -2402,7 +2402,7 @@
 - id: 12838
   text: Què?
 - id: 12839
-  text: El Léon no té cap tresor!
+  text: El Leon no té cap tresor!
 - id: 12840
   text: I mira que vam lluitar per vosaltres.
 - id: 12841
@@ -2699,7 +2699,7 @@
     i molt gros.
 - id: 15149
   text: >-
-    Si home! Pots dir el que
+    Sí, home! Pots dir el que
 
     vulguis, però això no canviarà res.
 - id: 15150
@@ -2711,7 +2711,7 @@
     l'Organització i no em feu cap por.
 - id: 15152
   text: >-
-    Ja! {:delay 22 00}{:clear }Gran discurs per a algú que
+    Ha! {:delay 22 00}{:clear }Gran discurs per algú que
 
     es queda al marge mentre {:delay 7E 00}{:clear }els incorporis lluiten per ell!
 - id: 15153
@@ -2723,7 +2723,7 @@
   text: I ploraràs?
 - id: 15155
   text: >-
-    Si home!{:delay 3C 00}{:clear }I si et recordo què tan durs
+    Sí, home!{:delay 3C 00}{:clear }I si et recordo com de durs
 
     són aquells a qui us enfronteu?
 - id: 15156
@@ -2760,7 +2760,7 @@
 - id: 15167
   text: Oh, bufa!
 - id: 15168
-  text: Sento les presses, Léon, {:delay 69 00}{:clear }{:delay 1E 00}{:clear }però altres mons ens criden.
+  text: Sento les presses, Leon, {:delay 69 00}{:clear }{:delay 1E 00}{:clear }però altres mons ens criden.
 - id: 15169
   text: >-
     L'Organització {XIII}...{:delay 64 00}{:clear }{:delay 50 00}{:clear }Semblen molt durs.
@@ -2847,7 +2847,7 @@
   text: Oblida-te'n.
 - id: 15964
   text: >-
-    El Léon ens ho ha explicat tot.{:delay 62 00}{:clear }{:delay 24 00}{:clear }Diu que el vostre viatge
+    El Leon ens ho ha explicat tot.{:delay 62 00}{:clear }{:delay 24 00}{:clear }Diu que el vostre viatge
 
     ha sigut bastant dur.
 - id: 15965
@@ -2860,7 +2860,7 @@
 
     Comitè de Reconstrucció?
 - id: 15968
-  text: Què trama la colla del Léon?
+  text: Què trama la colla del Leon?
 - id: 16056
   text: >-
     {:unk13 B2 00 39 00}{:unk08 01 01 07}Són just
@@ -2908,7 +2908,7 @@
 - id: 16072
   text: Saps on anar?
 - id: 16750
-  text: El Léon ha caigut! Fes servir Sanar per despertar-lo!
+  text: El Leon ha caigut! Fes servir Sanar per despertar-lo!
 - id: 17002
   text: Un retrat de l'Ànsem.
 - id: 17003
@@ -3068,9 +3068,9 @@
     Deia que interferien en tot.
 - id: 17931
   text: >-
-    El Léon estava preocupat per vosaltres.
+    El Leon estava preocupat per vosaltres.
 
-    No va dir res, però era evident.{:clear }Ja! No entenc per què els homes
+    No va dir res, però era evident.{:clear }Ha! No entenc per què els homes
 
     sempre amaguen els seus sentiments!
 - id: 17932
@@ -3107,7 +3107,7 @@
   text: >-
     Hi ha massa enemics fins i tot per al
 
-    Léon. Heu de donar-li un cop de mà.{:clear }Podeu arribar fins a ell a través de la
+    Leon. Heu de donar-li un cop de mà.{:clear }Podeu arribar fins a ell a través de la
 
     paret trencada del pati interior. Ràpid!
 - id: 17937
@@ -3390,7 +3390,7 @@
   text: >-
     Què passa!? La ciutat està infestada
 
-    d'incorporis i sensecor!{:clear }El Léon i els altres han anat al pati
+    d'incorporis i sensecor!{:clear }El Leon i els altres han anat al pati
 
     interior. Anem a buscar-los!
 - id: 19324
@@ -3545,7 +3545,7 @@
 - id: 20358
   text: N'ha passat molt, de temps, «vella amiga».
 - id: 20541
-  text: Empra atacs potents per obrir les vàlvules. N'has d'obrir les tres a la vegada!
+  text: Llença atacs potents per obrir les vàlvules. Has d'obrir les tres alhora!
 - id: 20543
   text: >-
     Venç el Vexen de l'Organització {XIII}!
@@ -3571,16 +3571,16 @@
   text: >-
     Venç la Larxene de l'Organització {XIII}!
 
-    Quan es multipliqui, ataca a dos dels seus
+    Quan es multipliqui, ataca dos dels seus
 
-    dobles a la vegada i inflingiràs el doble de mal.
+    dobles alhora i inflingiràs el doble de mal.
 - id: 20547
   text: >-
     Venç el Lexaeus de l'Organització {XIII}!
 
-    La seva força va augmentant durant la
+    La seva força augmenta durant la batalla.
 
-    batalla. Contraatacar és la teva millor opció!
+    Contraatacar és la teva millor opció!
 - id: 20600
   text: Prem {:icon dynamic-triangle} per començar el duel! Colpeja'l i fes que no deixi de girar!
 - id: 20693

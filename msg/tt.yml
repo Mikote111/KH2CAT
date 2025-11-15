@@ -392,7 +392,7 @@
   text: >-
     {:unk13 4C 01 66 00}{:unk06 00}{:unk08 01 00 06}Podem comprar fins 
 
-    i tot una cindria!
+    i tot una síndria!
 - id: 12202
   text: '{:unk13 79 00 8C 00}{:unk06 00}{:unk08 01 01 07}Perfecte!'
 - id: 12203
@@ -787,9 +787,9 @@
   text: '{:unk13 59 01 91 00}{:unk08 01 00 05}Per aquí!'
 - id: 13202
   text: >-
-    {:unk13 12 01 38 00}{:unk08 01 01 06}Anem a investigar
+    {:unk13 12 01 38 00}{:unk08 01 01 06}Esbrinem el
 
-    el que ha passat.
+    que ha passat.
 - id: 13204
   text: >-
     {:unk13 F3 00 42 00}{:unk08 01 00 05}No hem robat
@@ -806,7 +806,7 @@
   text: '{:unk13 F3 00 4C 00}{:unk08 01 00 05}Quines coses?'
 - id: 13207
   text: >-
-    {:unk13 54 01 3C 00}{:unk08 01 00 06}Com si no ho sapiguessis.
+    {:unk13 54 01 3C 00}{:unk08 01 00 06}Com si no ho sabessis.
 
     No t'ho penso dir.{:clear }Ves i pregunta-hi a la
 
@@ -898,7 +898,7 @@
   text: >-
     {:unk13 24 01 60 00}{:unk08 01 00 05}Em pregunto si el
 
-    Seifer en sabrà res.
+    Seifer en deu saber res.
 - id: 13227
   text: >-
     {:unk13 21 01 3B 00}{:unk08 01 00 05}Hauríem de parlar amb ell.
@@ -2008,9 +2008,9 @@
   text: Àxel.
 - id: 13610
   text: >-
-    De debò que et recordes
+    Ara sí que et recordes
 
-    de mi aquest cop?{:delay D3 00}{:clear }Quina encensada!
+    de mi, no?{:delay D3 00}{:clear }Quina encensada!
 - id: 13611
   text: Però ja és massa tard!
 - id: 13612
@@ -2119,7 +2119,7 @@
 - id: 13651
   text: I què esteu, de morros?
 - id: 13652
-  text: No està molt organitzada aquesta organització...
+  text: Quina organització més organitzada...
 - id: 13653
   text: >-
     No baixeu la guàrdia.{:delay 96 00}{:clear }L'Àxel no s'aturarà davant de ningú
@@ -2134,9 +2134,9 @@
     sabem cuidar-nos molt bé.
 - id: 13655
   text: >-
-    Me n'alegro.{:delay 8A 00}{:clear }L'Àxel a part, ens partiria el cor
+    Me n'alegro.{:delay 8A 00}{:clear }L'Àxel a part, ens partiria el
 
-    saber que us ha passat res.
+    cor saber que us ha passat res.
 - id: 13656
   text: Cor? No teniu cap cor!
 - id: 13657
@@ -2640,7 +2640,7 @@
 - id: 14176
   text: Mana l'ordre de reacció per obrir el cofre!
 - id: 14177
-  text: Derrota l'enemic misteriós amb l'ajuda de les ordres de reacció!
+  text: Derrota l'enemic misteriós ajudant-te d'ordres de reacció!
 - id: 14178
   text: Enfronta't al Hayner!
 - id: 14179
@@ -2980,7 +2980,7 @@
 
     comportar-se a la meva ciutat.{:delay 81 00}{:clear }Som-hi!
 - id: 14408
-  text: Nano, què pelacanyes.
+  text: Nano, que pelacanyes.
 - id: 14409
   text: Sí.
 - id: 14411
@@ -3022,16 +3022,16 @@
     combat, només ho has de dir.
 - id: 14433
   text: >-
-    Era una prova innegable que
+    Era una prova innegable que us
 
-    us vam clavar una allisada, mocosos.
+    vam clavar una allisada, mocosos.
 - id: 14434
   text: Què n'heu fet?{:delay 6C 00}{:clear }Cremar-la?
 - id: 14435
   text: >-
-    Ha! No necessitem una ----- per
+    Ha! No ens cal una ----- per
 
-    demostrar que sou una colla de matats.
+    demostrar que sou una colla de bledes.
 - id: 14441
   text: Me'ls ha tret!
 - id: 14443
@@ -3248,7 +3248,7 @@
   text: >-
     Un moment, com és que els
 
-    sensecor continuen per allà?
+    sensecor encara volten per allà?
 - id: 14502
   text: >-
     Les teves accions passades van impedir
@@ -3756,11 +3756,11 @@
     prem {:icon dynamic-start} per confirmar el teu objectiu.
 - id: 15741
   text: >-
-    Si saltes prop dels edificis, pots 
+    Si saltes a prop dels edificis, pots 
 
     agafar-te dels cantons i enfilar-t'hi.
 
-    Intenta-ho i accediràs a molts llocs.
+    Prova-ho i accediràs a molts llocs.
 - id: 15907
   text: >-
     En fi, ja divago.
@@ -3797,9 +3797,9 @@
     Prem {:icon dynamic-triangle} per parlar amb la propietària.{:clear }{:unk0f 00 00 00 00 00}{:unk12 28 00}{:color #00F0F080}Parla amb la propietària de la botiga d'accessoris.{:reset}
 - id: 16040
   text: >-
-    {:color #00F00080}Les ordres de reacció{:reset} apareixen
+    {:color #00F00080}Les ordres de reacció{:reset} apareixen en
 
-    en diverses situacions i són molt útils.
+    diverses situacions i són molt útils.
 
     {:color #00F0F080}Mana-les sempre que puguis.{:reset}
 - id: 16041
@@ -3824,9 +3824,9 @@
     Per cancel・lar, prem {:icon dynamic-r1} un altre cop.
 - id: 16115
   text: >-
-    Si t'hi apropes, podràs recollir les esferes que
+    Si t'hi apropes, podràs recollir les esferes
 
-    deixen anar els enemics quan els vences.{:clear }Les esferes grogues sumen calés,
+    que deixen anar els enemics quan els vences.{:clear }Les esferes grogues sumen calés,
 
     i les verdes retornen VT.
 - id: 16119
@@ -3839,14 +3839,14 @@
 
     indica els PM. Poseeix un misteriós
 
-    poder que encara no està disponible.{:clear }Si t'apropes a un objectiu, apareixerà
+    poder que encara no està disponible.{:clear }Si t'apropes a un objectiu,
 
-    una marca groga.
+    apareixerà una marca groga.
 
     Per atacar, prem {:icon dynamic-cross}.{:clear }{:color #00F0F080}Apropa't al Seifer i ataca'l.{:reset}
 - id: 16121
   text: >-
-    Quan colpeges un enemic, continua
+    En colpejar un enemic, continua
 
     atacant i llençaràs poderosos atacs.
 
@@ -3904,7 +3904,7 @@
   text: '{:unk13 96 01 67 00}{:unk08 01 01 06}Hola, Roxas.'
 - id: 16474
   text: >-
-    {:unk13 6F 01 4C 00}{:unk08 01 00 05}Mai hagués pensat que fossis
+    {:unk13 6F 01 4C 00}{:unk08 01 00 05}No hauria pensat mai que fossis
 
     capaç de fer una cosa així...
 - id: 16856
@@ -4101,7 +4101,7 @@
 - id: 17367
   text: ⇽ Túnel ⇾ Estació del Capvespre
 - id: 17368
-  text: Sembla un taulell d'anuncis.
+  text: Sembla un tauler d'anuncis.
 - id: 17369
   text: '«Tren local. Gratuït!»'
 - id: 17370
@@ -4157,7 +4157,7 @@
 
     esferes en el temps assignat.
 - id: 17403
-  text: Aquest taulell es fa servir per als tornejos.
+  text: Aquest tauler es fa servir per als tornejos.
 - id: 17404
   text: >-
     Normes d'Struggle:
@@ -4189,7 +4189,7 @@
   text: >-
     Necessites calés per comprar objectes.{:clear }Per guanyar-ne alguns, busca
 
-    feina al taulell d'anuncis.
+    feina al tauler d'anuncis.
 - id: 17412
   text: >-
     Compte, allà hi ha abelles!
@@ -4353,7 +4353,7 @@
   text: >-
     El Hayner va dir que ell se n'encarregaria,
 
-    però ja sabia jo que passaria alguna cosa així.{:clear }Tria una feina d'{:theme 0A}aquest taulell{:reset} o
+    però ja sabia jo que passaria alguna cosa així.{:clear }Tria una feina d'{:theme 0A}aquest tauler{:reset} o
 
     del que hi ha a la {:theme 0A}Placeta del Tramvia{:reset}.
 - id: 17455
@@ -4556,7 +4556,7 @@
   text: >-
     Creus que ets fort només
 
-    perquè has guanyat?{:clear }La propera vegada lluitaré de debó!
+    perquè has guanyat?{:clear }La pròxima vegada lluitaré de debó!
 - id: 17536
   text: >-
     El Seifer et clavarà
@@ -4571,7 +4571,7 @@
   text: >-
     El Seifer no anava de debò!
 
-    A la propera sabràs el que és bo!
+    A la següent sabràs el que és bo!
 - id: 17539
   text: Victòria.
 - id: 17540
@@ -4582,7 +4582,7 @@
   text: >-
     Vols un autògraf?
 
-    Em sap greu, estic ocupat.{:clear }Per què no vas cap aquell taulell?
+    Em sap greu, estic ocupat.{:clear }Per què no vas cap aquell tauler?
 
     L'àrbitre hi explica les normes.
 - id: 17543
@@ -4675,9 +4675,9 @@
   text: >-
     {:color #00F0F080}Prem {:icon dynamic-start} per accedir al menú principal.{:clear }{:reset}Hi pots consultar la condició i els calés i canviar la
 
-    configuració. Durant les batalles no podràs obrir-lo.{:clear }El Diari del Roxas conté {:color #00F0F080}pistes{:reset} per avançar
+    configuració. Durant les batalles no podràs obrir-lo.{:clear }El Diari del Roxas conté {:color #00F0F080}pistes{:reset} per
 
-    i esdeveniments passats.
+    avançar i esdeveniments passats.
 - id: 17588
   text: >-
     El meu gos sempre
@@ -4821,11 +4821,11 @@
     però no ha passat ni un tren!
 - id: 17638
   text: >-
-    Com m'ho faré per portar allò
+    Com m'ho faré per portar
 
-    cap a aquest garatge?{:clear }I vol que m'hi afanyi? No
+    allò cap a aquest garatge?{:clear }I vol que m'hi afanyi? No hauria
 
-    hauria d'haver triat aquesta feina.
+    d'haver triat aquesta feina.
 - id: 17639
   text: >-
     Caminar pels túnels és més
@@ -5005,7 +5005,7 @@
   text: >-
     Aviam, hem vingut fins aquí en
 
-    tren tal i com el rei ens ha dit.{:clear }On debem ser?
+    tren tal i com el rei ens ha dit.{:clear }On devem ser?
 
     Aquest lloc és bastant estrany.
 - id: 17676
@@ -5021,7 +5021,7 @@
   text: >-
     Hi ha algú a l'entrada de l'edifici.{:clear }Norma de l'aventurer número 17:
 
-    recull informació!
+    aconsegueix informació!
 - id: 17679
   text: >-
     Mai hagués imaginat que
@@ -5040,7 +5040,7 @@
   text: >-
     Aquell llibre conté informació
 
-    important. Asegura't de llegir-lo.
+    important. Assegura't de llegir-lo.
 - id: 17682
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Vols preguntar res?
@@ -5052,7 +5052,7 @@
   text: >-
     A partir d'ara, si la VT arriba a zero, {:color #00F0F080}el joc s'acaba{:reset}.
 
-    Asegura't de recuperar VT quan l'indicador baixi.
+    Assegura't de recuperar VT quan l'indicador baixi.
 - id: 17861
   text: >-
     {:unk0f 03 1E 00 84 01}{:color #00F0F080}S'ha afegit l'ordre Fusió.{:reset}
@@ -5258,7 +5258,7 @@
     aquesta mansió abandonada?
 - id: 17976
   text: >-
-    La contrasenya és el nom d'aquell gelat!{:clear }Asegureu-vos que estigui bé. No
+    La contrasenya és el nom d'aquell gelat!{:clear }Assegureu-vos que estigui bé. No
 
     funcionarà amb una d'incorrecta!
 - id: 17977
@@ -5586,9 +5586,9 @@
   text: >-
     Acaba amb l'enemic misteriós!
 
-    Si manes ordres de reacció
+    Si manes ordres de reacció amb
 
-    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+    {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 18603
   text: >-
     Fes servir atacs ràpids en
@@ -5743,9 +5743,9 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si manes ordres de reacció
+    Si manes ordres de reacció amb
 
-    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+    {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 18921
   text: >-
     Vols provar aquest monopatí?
@@ -6073,7 +6073,7 @@
   text: >-
     L'Struggle R ha començat! Pots
 
-    apuntar-t'hi en aquell taulell.{:clear }Les normes són les mateixes. Però encara et
+    apuntar-t'hi en aquell tauler.{:clear }Les normes són les mateixes. Però encara et
 
     falta experiència per lluitar amb el Seifer!
 - id: 19147
@@ -6158,9 +6158,9 @@
   text: >-
     Derrota tots els incorporis!
 
-    Si manes ordres de reacció
+    Si manes ordres de reacció amb
 
-    amb {:icon dynamic-triangle}, la batalla serà més fàcil!
+    {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 19650
   text: >-
     Vestigis d'un somni que
@@ -6292,7 +6292,7 @@
   text: >-
     Ànims, Jack.{:delay 58 00}{:clear }Ja se'ns acudirà un altre
 
-    pla per a Halloween.{:delay AC 00}{:clear }La propera vegada ho farem junts.
+    pla per a Halloween.{:delay AC 00}{:clear }El pròxim cop ho farem junts.
 - id: 19696
   text: Poder!
 - id: 19697
@@ -6372,7 +6372,7 @@
   text: >-
     Agafa això.{:delay 4B 00}{:clear }És el meu amulet.
 
-    Asegura't de tornar-me'l, eh?
+    Assegura't de tornar-me'l, eh?
 - id: 19721
   text: No et preocupis. Ho faré.
 - id: 19722
@@ -6588,9 +6588,9 @@
 
     tot i que algunes només seran accessibles
 
-    conforme el Sora vagi desenvolupant les
+    conforme el Sora desenvolupi les seves
 
-    seves habilitats.
+    habilitats.
 
 
     Accedeix al Diari del Grill per veure
@@ -6618,7 +6618,7 @@
   text: '{:unk13 4A 01 64 00}{:unk08 01 00 05}Eh?'
 - id: 21381
   text: >-
-    {:unk13 72 01 BE 00}{:unk08 01 00 00}T'haurà caigut
+    {:unk13 72 01 BE 00}{:unk08 01 00 00}Et deu haver caigut
 
     de la butxaca.
 - id: 21382
@@ -6627,7 +6627,7 @@
 
     Sembla una part d'un dibuix.
 - id: 21383
-  text: '{:unk13 AA 00 96 00}{:unk08 01 00 05}Serà un regal també?'
+  text: '{:unk13 AA 00 96 00}{:unk08 01 00 05}Deu ser un regal també?'
 - id: 21384
   text: >-
     {:unk13 04 01 E6 00}{:unk08 01 00 01}Oh?

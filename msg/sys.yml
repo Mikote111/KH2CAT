@@ -958,13 +958,13 @@
 - id: 1223
   text: Botiga
 - id: 1224
-  text: Conversa
+  text: Conversa-hi
 - id: 1225
   text: Mou
 - id: 1226
   text: Demana ajuda
 - id: 1227
-  text: Conversa
+  text: Conversa-hi
 - id: 1228
   text: Persuadeix
 - id: 1229
@@ -1633,7 +1633,7 @@
   text: >-
     Mapa de navegació
 
-    pel mode debug.
+    per al mode debug.
 - id: 1534
   text: Castell de la Bèstia
 - id: 1535
@@ -1828,7 +1828,7 @@
 
     Com més estona premis {:icon dynamic-circle},
 
-    a major altura arribaràs.
+    més amunt arribaràs.
 - id: 1614
   text: Salt d'altura 2
 - id: 1615
@@ -1837,7 +1837,7 @@
 
     Com més estona premis {:icon dynamic-circle},
 
-    a major altura arribaràs.
+    més amunt arribaràs.
 - id: 1616
   text: Salt d'altura 3
 - id: 1617
@@ -1846,7 +1846,7 @@
 
     Com més estona premis {:icon dynamic-circle},
 
-    a major altura arribaràs.
+    més amunt arribaràs.
 - id: 1618
   text: Salt d'altura MÀX.
 - id: 1619
@@ -1855,7 +1855,7 @@
 
     podries imaginar! Com més estona 
 
-    premis {:icon dynamic-circle}, a major altura arribaràs.
+    premis {:icon dynamic-circle}, més amunt arribaràs.
 - id: 1620
   text: Carrera ràpida 1
 - id: 1621
@@ -1888,28 +1888,28 @@
   text: Driblatge aeri 1
 - id: 1629
   text: >-
-    Prem {:icon dynamic-circle} al vol per saltar novament.
+    Prem {:icon dynamic-circle} al vol per saltar de nou.
 
     És útil per esquivar atacs enemics.
 - id: 1630
   text: Driblatge aeri 2
 - id: 1631
   text: >-
-    Prem {:icon dynamic-circle} al vol per saltar novament.
+    Prem {:icon dynamic-circle} al vol per saltar de nou.
 
     És útil per esquivar atacs enemics.
 - id: 1632
   text: Driblatge aeri 3
 - id: 1633
   text: >-
-    Prem {:icon dynamic-circle} al vol per saltar novament.
+    Prem {:icon dynamic-circle} al vol per saltar de nou.
 
     És útil per esquivar atacs enemics.
 - id: 1634
   text: Driblatge aeri MÀX.
 - id: 1635
   text: >-
-    Prem {:icon dynamic-circle} al vol per saltar novament.
+    Prem {:icon dynamic-circle} al vol per saltar de nou.
 
     És útil per esquivar atacs enemics.
 - id: 1636
@@ -1943,14 +1943,14 @@
   text: >-
     Prem {:icon dynamic-square} al vol per planar a una 
 
-    velocitat de vertigenosa. Manten-lo 
+    velocitat vertiginosa. Manten-lo 
 
     premut i l'acció es prolongarà.
 - id: 1644
   text: Bloqueig
 - id: 1645
   text: >-
-    Si prems {:icon dynamic-square}, podràs frenar
+    Prem {:icon dynamic-square} per aturar els
 
     atacs enemics i contraatacar.
 - id: 2551
@@ -2417,7 +2417,7 @@
 - id: 2737
   text: Reintenta-ho
 - id: 2738
-  text: Surt-ne
+  text: Surt
 - id: 2739
   text: Salta l'escena
 - id: 2740
@@ -2473,7 +2473,7 @@
 - id: 2765
   text: Ven
 - id: 2766
-  text: Surt-ne
+  text: Surt
 - id: 2767
   text: Sí
 - id: 2768
@@ -2740,7 +2740,7 @@
 
     Fes servir aquest objecte només en cas d'emergència!
 - id: 7776
-  text: Tall superior
+  text: Estocada ascendent
 - id: 7777
   text: >-
     Si prems {:icon dynamic-square} durant un combo,
@@ -2941,7 +2941,7 @@
 - id: 8051
   text: Analitza
 - id: 8052
-  text: Mostra la VT actual de l'enemic.
+  text: Mostra la VT actual de l'objectiu.
 - id: 8058
   text: "{:width 90}Accedeix a l'ordinador"
 - id: 8143
@@ -3100,13 +3100,13 @@
 - id: 8871
   text: Escolta les normes
 - id: 8872
-  text: Conversa
+  text: Conversa-hi
 - id: 8873
   text: '{:width 90}Observa la taula'
 - id: 8874
   text: '{:width 80}Escolta la història'
 - id: 8875
-  text: Conversa
+  text: Conversa-hi
 - id: 8876
   text: Toca el raig
 - id: 8877
@@ -3254,23 +3254,23 @@
 - id: 12098
   text: Impuls còsmic
 - id: 12131
-  text: Combo+
+  text: +Atacs
 - id: 12132
   text: >-
-    Augmenta en 1 el combo màxim
+    Augmenta en 1 el màxim d'atacs
 
-    a terra. Si n'actives més,
+    seguits a terra.
 
-    comptaràs amb més combos.
+    Com més n'actives, més atacs.
 - id: 12133
-  text: Combo aeri+
+  text: +Atacs aeris
 - id: 12134
   text: >-
-    Augmenta en 1 el combo màxim
+    Augmenta en 1 el màxim d'atacs
 
-    a l'aire. Si n'actives més,
+    seguits a l'aire.
 
-    comptaràs amb més combos.
+    Com més n'actives, més atacs.
 - id: 12135
   text: >-
     Sora:
@@ -3373,12 +3373,12 @@
 - id: 13103
   text: (Delete)
 - id: 13109
-  text: Trio
+  text: Trinitat
 - id: 13110
   text: >-
-    Ordre Límit executat en equip
+    Ordre Límit grupal que desencadena
 
-    per llençar un poderós atac Trio.
+    el poderós atac Trinitat.
 
     Consumeix tots els PM del Sora.
 - id: 13111
@@ -3400,7 +3400,7 @@
 
     Consumeix tots els PM del Sora.
 - id: 13115
-  text: Tornado fusió
+  text: Fusió tornado
 - id: 13116
   text: >-
     Ordre Límit que desencadena el
@@ -3412,9 +3412,9 @@
   text: Unitat
 - id: 13118
   text: >-
-    Ordre Límit amb què el Sora i
+    Ordre Límit amb què el Sora i el
 
-    el Goofy executen el Cop destructor.
+    Goofy executen el Cop destructor.
 
     Consumeix tots els PM del Sora.
 - id: 13119
@@ -3423,7 +3423,7 @@
   text: >-
     Amb aquest Límit, el Sora i
 
-    l'Aladdín realitzen junts Raudo.
+    l'Aladí realitzen junts Rabent.
 
     Consumeix tots els PM del Sora.
 - id: 13121
@@ -3518,7 +3518,7 @@
   text: Tro palpitant
 - id: 13862
   text: >-
-    Ataca amb electricitat a enemics
+    Ataca amb electricitat enemics
 
     propers. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 13863
@@ -3548,76 +3548,74 @@
 - id: 13871
   text: ''
 - id: 13875
-  text: Tret brau
+  text: Esclafit brau
 - id: 13876
   text: >-
-    Llença un poderós combo final i
+    Atac final que fa espetegar cap a terra
 
-    abat a un únic objectiu.
+    les claus contra un objectiu.
 - id: 13877
-  text: Cop brau
+  text: Cicló brau
 - id: 13878
   text: >-
-    Llença un poderós combo final
+    Reparteix llenya amb un atac final
 
-    que ataca succesivament a diversos
+    giratori que ataca diversos
 
-    objectius a la vegada.
+    objectius alhora.
 - id: 13879
-  text: Tret sònic
+  text: Estocada sònica
 - id: 13880
   text: >-
-    Llença un poderós combo final
+    Agafa una darrera embranzinda i
 
-    que travessa la defensa de
-
-    l'objectiu.
+    travessa la defensa de l'objectiu.
 - id: 13881
   text: Final sònic
 - id: 13882
   text: >-
-    Llences un poderós combo final
+    Atac final que reparteix llenya
 
-    i ataques des de l'aire a diversos
+    a tort i a dret des de l'aire a
 
-    objectius a la vegada.
+    diversos objectius alhora.
 - id: 13883
   text: Tret savi
 - id: 13884
   text: >-
-    Canvia l'ordre Ataca
+    Canvia l'ordre Ataca a Dispara per
 
-    a Dispara.
+    llençar projectils amb la clau.
 - id: 13885
   text: Acció mòbil
 - id: 13886
   text: >-
     Podràs realitzar accions
 
-    mentre et mous.
+    en moviment.
 - id: 13889
   text: Espasa doble
 - id: 13890
   text: >-
-    Tindràs una clau espasa a cada
+    Tindràs una clau espasa a cada mà.
 
-    mà. Disposaràs de l'habilitat
+    Podràs fer servir les habilitats
 
-    de l'arma de la mà esquerra.
+    de dues espases.
 - id: 13891
   text: Pressa màgica
 - id: 13892
   text: >-
     Escurça el temps per llençar
 
-    encanteris i habilita ràpids
+    encanteris i permet sèries
 
-    combos màgics.
+    ràpides d'atacs màgics .
 - id: 13893
   text: Espècia màgica
 - id: 13894
   text: >-
-    Augmenta el poder dels combos
+    Augmenta el poder dels atacs
 
     màgics finals.
 - id: 13895
@@ -3964,16 +3962,16 @@
   text: Passat l'horitzó
 - id: 14212
   text: >-
-    Prem {:icon dynamic-square} i saltaràs cap a
+    Prem {:icon dynamic-square} i et propulsaràs cap a
 
     l'objectiu amb un atac veloç.
 - id: 14213
-  text: Omega Final
+  text: Final omega
 - id: 14214
   text: >-
-    Si prems {:icon dynamic-square} en mig d'un combo, 
+    Si prems {:icon dynamic-square} enmig d'una sèrie d'atacs, 
 
-    llençaràs un altre otro combo final.
+    llençaràs un atac final diferent.
 - id: 14215
   text: Reflect Dummy
 - id: 14216
@@ -4160,14 +4158,14 @@
 
     Vols llençar {:unk0d }{:unk0d }?
 - id: 14721
-  text: Tret mestre
+  text: Allisada mestra
 - id: 14722
   text: >-
-    Llença un poderós combo final
+    Executa un poderós atac final que
 
-    per atacar diverses vegades seguides
+    reparteix un gec de garrotades a
 
-    a un mateix objectiu.
+    un mateix objectiu.
 - id: 14723
   text: Desastre
 - id: 14724
@@ -4180,94 +4178,94 @@
 - id: 14725
   text: Màgia infinita
 - id: 14726
-  text: Llença infinits combos màgics.
+  text: Llença sèries infinites d'atacs màgics.
 - id: 14729
   text: Màgia mestra
 - id: 14730
   text: Augmenta el poder de la màgia.
 - id: 14731
-  text: Cop sobtat
+  text: Trompada sobtada
 - id: 14732
   text: >-
-    Atac veloç i infalible contra
+    Atac ascendent, veloç i infalible
 
-    un enemic proper.
+    contra un enemic proper.
 - id: 14733
-  text: Tall amb finta
+  text: Abrivada elusiva
 - id: 14734
   text: >-
-    Llença un atac contra
+    Avança lleuger atacant a tort i
 
-    diversos enemics propers.
+    a dret. Útil per obrir-se pas
+
+    entre els enemics.
 - id: 14735
-  text: Fuet lliscant
+  text: Impuls lliscant
 - id: 14736
   text: >-
-    Et plantes ràpidament davant un
+    Et plantes ràpidament davant d'un
 
-    enemic llunyà i l'ataques.
+    enemic llunyà per atacar-lo.
 - id: 14737
   text: Antibloqueig
 - id: 14738
   text: >-
-    Llença un poderós combo final
+    Llença un poderós atac final que
 
-    que travessa el bloqueig de
-
-    l'enemic.
+    travessa el bloqueig enemic.
 - id: 14739
   text: Explosió
 - id: 14740
   text: >-
-    Llença un combo final que abat
+    Canalitza la màgia de la clau en una descàrrega
 
-    a diversos enemics. El mal és
+    final que atonyina els enemics del voltant.
 
-    proporcional a l'habilitat màgica.
+    El mal és proporcional a l'habilitat màgica.
 - id: 14741
   text: Salt letal
 - id: 14742
   text: >-
-    Si prems {:icon dynamic-square} al final d'un combo,
+    Si prems {:icon dynamic-square} al final d'una sèrie,
 
     assestes un cop que travessa defenses.
 - id: 14743
   text: Contrabloqueig
 - id: 14744
   text: >-
-    Si prems Ataca mentre bloqueges,
+    Si manes Ataca en bloquejar,
 
-    retornaràs l'atac a l'enemic.
+    contraatacaràs.
 - id: 14745
   text: Helicòpter
 - id: 14746
   text: >-
     Fa un poderós salt ofensiu
 
-    per atacar a enemics a l'aire.
+    per atacar enemics a l'aire.
 - id: 14747
   text: Aeroespiral
 - id: 14748
   text: >-
     S'acosta a objectius aeris
 
-    distants i llença atacs 
-
-    giratoris.
+    llunyans amb un atac giratori.
 - id: 14749
   text: Tall horizontal
 - id: 14750
   text: >-
-    Si prems {:icon dynamic-square} durant un combo aeri,
+    Si prems {:icon dynamic-square} durant una sèrie d'atacs aeris,
 
     llençaràs un potentísim atac horizontal.
 - id: 14751
-  text: Aerofinal
+  text: Aerofúria
 - id: 14752
   text: >-
-    Llença un poderós combo
+    Embogeix i reparteix un gec de
 
-    final contra un objetiu aeri.
+    garrotades contra un objectiu
+
+    aeri com a atac final.
 - id: 14753
   text: Contratall
 - id: 14754
@@ -5424,7 +5422,7 @@
 - id: 15206
   text: Reemplaça
 - id: 15207
-  text: Lum prístina
+  text: Llum pristina
 - id: 15208
   text: Anell Igni
 - id: 15209
@@ -5536,7 +5534,7 @@
     {:icon exclamation-mark}{:color #FF000080}INFORMACIÓ{:reset}
 
 
-    {:unk0d }{:unk0d } no tindria cap efecte.
+    {:unk0d }{:unk0d } no faria cap efecte.
 - id: 15249
   text: Entrega
 - id: 15250
@@ -5559,7 +5557,7 @@
 
     en combats d'Struggle.
 - id: 15283
-  text: Surt-ne
+  text: Surt
 - id: 15284
   text: Surt de la guia.
 - id: 15285
@@ -5587,70 +5585,70 @@
 - id: 15305
   text: Mitja volta
 - id: 15306
-  text: Auto-Valenta
+  text: AutoValenta
 - id: 15307
   text: >-
-    En casos de emergència, si la Forma
+    En casos d'emergència, si la Forma
 
-    valenta està disponible, l'ordre
+    valenta està disponible, apareix una
 
-    de reacció canvia a Valenta.
+    ordre de reacció per transformar-t'hi.
 - id: 15308
-  text: Auto-Sàvia
+  text: AutoSàvia
 - id: 15309
   text: >-
     En casos d'emergència, si la Forma
 
-    Sàvia està disponible, l'ordre
+    Sàvia està disponible, apareix una
 
-    de reacció canvia a Sàvia.
+    ordre de reacció per transformar-t'hi.
 - id: 15310
-  text: Auto-Mestra
+  text: AutoMestra
 - id: 15311
   text: >-
-    En casos de emergència, si la Forma
+    En casos d'emergència, si la Forma
 
-    mestra està disponible, l'ordre
+    mestra està disponible, apareix una
 
-    de reacció canvia a Mestra.
+    ordre de reacció per transformar-t'hi.
 - id: 15312
-  text: Auto-Final
+  text: AutoFinal
 - id: 15313
   text: >-
-    En casos de emergència, si la Forma
+    En casos d'emergència, si la Forma
 
-    final està disponible, l'ordre
+    final està disponible, apareix una
 
-    de reacció canvia a Final.
+    ordre de reacció per transformar-t'hi.
 - id: 15314
-  text: Auto-Invoca
+  text: AutoInvoca
 - id: 15315
   text: >-
     Si es pot manar Invoca i un
 
-    aliat és abatut, l'ordre de
+    aliat és abatut, apareix una
 
-    reacció canvia a Invoca.
+    ordre de reacció per invocar.
 - id: 15316
-  text: Extracombo
+  text: Impuls final
 - id: 15317
   text: >-
     Augmenta el mal de l'atac
 
-    final a terra, en relació al
+    final a terra en relació amb
 
-    número de cops del combo.
+    el número de cops assestats.
 - id: 15318
-  text: Extracombo aeri
+  text: Aeroimpuls final
 - id: 15319
   text: >-
     Augmenta el mal de l'atac
 
-    final a l'aire, en relació al
+    final a l'aire en relació amb
 
-    número de cops del combo.
+    el número de cops assestats.
 - id: 15320
-  text: Extrarreacció
+  text: Impuls de reacció
 - id: 15321
   text: >-
     {:color #F0F00080}Augmenta un 50%{:reset} el mal
@@ -5659,23 +5657,21 @@
 
     Com més n'actives, major efecte.
 - id: 15322
-  text: Letal +
+  text: Final addicional
 - id: 15323
   text: >-
-    Llença diversos atacs letals
-
-    després dels combos.
+    Es pot fer un atac final més.
 - id: 15324
-  text: Combo negatiu
+  text: Ratxa negativa
 - id: 15325
   text: >-
-    Redeix en 1 el combo màxim
+    Redueix en 1 el màxim d'atacs que
 
-    a terra i a l'aire.
+    es poden fer a terra i a l'aire.
 
     Com més n'actives, major efecte.
 - id: 15326
-  text: Càrrega de bogeria
+  text: Escomesa furiosa
 - id: 15327
   text: >-
     {:color #F0F00080}Augmenta en 2{:reset} la força durant la
@@ -5684,51 +5680,49 @@
 
     però desactiva l'atac final del combo.
 - id: 15328
-  text: Fusió per mal
+  text: Aspirafusió
 - id: 15329
   text: >-
-    {:width 90}Omple l'indicador de Fusió cada vegada 
+    Absorbeix el mal rebut per omplir
 
-    que pateixes mal. La recàrrega és
-
-    proporcional al mal rebut.
+    proporcionalment l'indicador de Fusió.
 - id: 15330
-  text: Extrafusió
+  text: Fusió àgil
 - id: 15331
   text: >-
-    Permet una recuperació més ràpida de 
+    L'indicador de Fusió es recupera més
 
-    l'indicador de Fusió durant la Càrrega PM.
+    de pressa durant la Càrrega PM.
 
     Com més n'actives, major efecte.
 - id: 15332
-  text: Extraforma
+  text: Forma duradora
 - id: 15333
   text: >-
     Augmenta la duració de cada Forma de Fusió.
 
     Com més n'actives, major efecte.
 - id: 15334
-  text: Extrainvoca
+  text: Invocació duradora
 - id: 15335
   text: >-
     Estèn la permanència de l'aliat
 
     quan manes Invoca.
 - id: 15336
-  text: Extralímit
+  text: Límit durador
 - id: 15337
   text: >-
-    Estén el temps
+    Estén el temps que
 
-    que duren els Límits.
+    duren els Límits.
 - id: 15338
-  text: Extraexperiència
+  text: Urgexperiència
 - id: 15339
   text: >-
     Si la VT cau a menys de la meitat, {:color #F0F00080}augmenta
 
-    un 100%{:reset} l'experiència guanyada en vèncer 
+    en un 100%{:reset} l'experiència guanyada en vèncer 
 
     enemics. Com més n'actives, major efecte.
 - id: 15340
@@ -5750,7 +5744,7 @@
 
     o Magneto.
 - id: 15344
-  text: Experiència 0
+  text: 0 experiència
 - id: 15345
   text: '{:color #F0F00080}No guanyes experiència{:reset} en derrotar enemics.'
 - id: 15346
@@ -5761,16 +5755,16 @@
 
     Com més n'actives, major efecte.
 - id: 15348
-  text: Premi gros
+  text: La grossa
 - id: 15349
   text: >-
     Augmenta la quantitat d'esferes VT,
 
-    PM i calés que apareixen. Si tot
+    PM i calés que apareixen. Si tot el
 
-    el grup ho porta, n'apareixeran més.
+    grup la porta, n'apareixeran més.
 - id: 15350
-  text: Quina Sort!
+  text: Quina potra!
 - id: 15351
   text: >-
     Augmenta la quantitat d'objectes
@@ -5779,7 +5773,7 @@
 
     la porta, n'apareixeran més.
 - id: 15352
-  text: Extrapiro
+  text: Avivaflames
 - id: 15353
   text: >-
     Augmenta el mal dels
@@ -5788,7 +5782,7 @@
 
     Com més n'actives, major efecte.
 - id: 15354
-  text: Extraglaç
+  text: Afilaglaç
 - id: 15355
   text: >-
     Augmenta el mal dels
@@ -5797,7 +5791,7 @@
 
     Com més n'actives, major efecte.
 - id: 15356
-  text: Extraelectro
+  text: Avivallamps
 - id: 15357
   text: >-
     Augmenta el mal dels
@@ -5806,7 +5800,7 @@
 
     Com més n'actives, major efecte.
 - id: 15358
-  text: Extraobjectes
+  text: Afinaobjectes
 - id: 15359
   text: >-
     Augmenta l'efecte dels objectes
@@ -5815,46 +5809,46 @@
 
     com més n'actives, major efecte.
 - id: 15360
-  text: Aspira mals
+  text: Aspiramàgia
 - id: 15361
   text: >-
-    Recupera PM en proporció al
+    Absorbeix el mal rebut per
 
-    mal que reps. Si n'actives més,
-
-    l'efecte augmentarà.
+    omplir proporcionalment els PM.
+    
+    Si n'actives més, l'efecte augmentarà.
 - id: 15362
-  text: Pressa PM
+  text: Màgia àgil
 - id: 15363
   text: >-
-    Si consumeixes tots els PM, {:color #F0F00080}augmenta un 25%{:reset}
+    {:color #F0F00080}Augmenta un 25%{:reset} la velocitat de
 
-    la velocitat de recuperació dels mateixos.
+    recuperació dels PM en exhaurir-se.
 
     Com més n'actives, major efecte.
 - id: 15364
-  text: Defensor
+  text: Blindatge
 - id: 15365
   text: >-
     Augmenta la defensa en {:color #F0F00080}3{:reset} a l'instant.
 
     Com més n'actives, major efecte.
 - id: 15366
-  text: Segona Oportunitat
+  text: Darrera ranera
 - id: 15367
   text: >-
     Assegura un punt de vitalitat
 
-    si reps mals severs.
+    contra un cop letal.
 - id: 15368
-  text: Una vegada més
+  text: Un cop més
 - id: 15369
   text: >-
-    Assegura un punt de vitalitat si
+    Assegura un punt de vitalitat
 
-    reps mals a causa d'un combo.
+    contra una sèrie de garrotades.
 - id: 15370
-  text: Auto Límit
+  text: AutoLímit
 - id: 15371
   text: >-
     Si està disponible, l'ordre
@@ -5882,21 +5876,21 @@
 
     estat canviat per un altre amb Canvia.
 - id: 15378
-  text: Pressa PM+
+  text: Màgia rabent
 - id: 15379
   text: >-
-    Si consumeixes tots els PM, n'{:color #F0F00080}augmenta un 50%{:reset}
+    {:color #F0F00080}Augmenta un 50%{:reset} la velocitat de
 
-    la velocitat de recuperació.
+    recuperació dels PM en exhaurir-se.
 
     Com més n'actives, major efecte.
 - id: 15380
-  text: Pressa PM++
+  text: Màgia vertiginosa
 - id: 15381
   text: >-
-    Si consumeixes tots els PM, {:color #F0F00080}augmenta un 75%{:reset}
+    {:color #F0F00080}Augmenta un 75%{:reset} la velocitat de
 
-    la velocitat de recuperació d'aquests.
+    recuperació dels PM en exhaurir-se.
 
     Com més n'actives, major efecte.
 - id: 15483
@@ -5961,7 +5955,7 @@
 - id: 15502
   text: Receptes
 - id: 15503
-  text: Surt-ne
+  text: Surt
 - id: 15504
   text: Confirma materials entregats.
 - id: 15505
@@ -6031,12 +6025,14 @@
 
     atacs enemics. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 15528
-  text: Ràtzia tenebrosa
+  text: Aura fosca
 - id: 15529
   text: >-
-    Després d'un combo, frena els moviments
+    Després d'una sèrie d'atacs, atura els
 
-    enemics amb màgia obscura. {:color #F0F00080}Cost PM: 10{:reset}
+    moviments enemics amb màgia obscura.
+    
+    {:color #F0F00080}Cost PM: 10{:reset}
 - id: 15530
   text: Urpa fera
 - id: 15531
@@ -6490,7 +6486,7 @@
 
     Si consumeixes tots els PM, {:color #F0F00080}augmenta un 25%{:reset}
 
-    la velocitat de recuperació dels mateixos.
+    la seva velocitat de recuperació.
 - id: 15926
   text: Depurador Fotònic
 - id: 15927
@@ -6596,7 +6592,7 @@
 
     Si consumeixes tots els PM, {:color #F0F00080}augmenta un 75%{:reset}
 
-    la velocitat de recuperació dels mateixos.
+    la seva velocitat de recuperació.
 - id: 15952
   text: Bastó d'Struggle.
 - id: 15953
@@ -6608,7 +6604,7 @@
   text: Maça d'Struggle
 - id: 15955
   text: >-
-    Maça de joguina emprat
+    Maça de joguina emprada
 
     en combats d'Struggle.
 - id: 15956
@@ -6880,7 +6876,7 @@
 - id: 16154
   text: Fabrica
 - id: 16155
-  text: Surt-ne
+  text: Surt
 - id: 16156
   text: Fabrica objecte.
 - id: 16157
@@ -7341,14 +7337,14 @@
   text: >-
     El mode més fàcil, indicat per a aquells
 
-    no iniciats a l'univers del Kingdom Hearts.
+    no iniciats a l'univers de Kingdom Hearts.
 
     {:color #F0F00080}Podràs veure el final estàndard del joc.{:reset}
 - id: 17205
   text: >-
     Dificultat estàndard. Mode aconsellat per a
 
-    aquells que ja coneixen el Kingdom Hearts.
+    aquells que ja coneixen Kingdom Hearts.
 
     {:color #F0F00080}És possible desbloquejar tots els finals.{:reset}
 - id: 17206
@@ -7391,9 +7387,9 @@
   text: Assalt automàtic
 - id: 17240
   text: >-
-    La clau espasa automàticament
+    La clau espasa ataca automàticament
 
-    ataca en diverses situacions.
+    en diverses situacions.
 - id: 17280
   text: Nivell de dificultat
 - id: 17281
@@ -8032,9 +8028,7 @@
   text: >-
     Sora:
 
-    Cap a l'estació,
-
-    ràpid!
+    Cap a l'estació, ràpid!
 - id: 18024
   text: ''
 - id: 18025
@@ -8048,9 +8042,7 @@
   text: >-
     Sora:
 
-    Cap a l'estació,
-
-    ràpid!
+    Cap a l'estació, ràpid!
 - id: 18028
   text: ''
 - id: 18029
@@ -8064,9 +8056,7 @@
   text: >-
     Sora:
 
-    Cap a l'estació,
-
-    ràpid!
+    Cap a l'estació, ràpid!
 - id: 18032
   text: ''
 - id: 18033
@@ -8170,7 +8160,7 @@
 - id: 18069
   text: Tempesta magna
 - id: 18071
-  text: Conversa
+  text: Conversa-hi
 - id: 18110
   text: Carrera brutal
 - id: 18111
@@ -8245,7 +8235,7 @@
   text: >-
     Sora:
 
-    El Léon ens donarà els detalls.
+    El Leon ens donarà els detalls.
 - id: 18481
   text: ''
 - id: 18565
@@ -8274,7 +8264,7 @@
 - id: 18575
   text: No hi ha objectes.
 - id: 18585
-  text: Ràtzia tenebrosa
+  text: Aura fosca
 - id: 18586
   text: Escut Fosc
 - id: 18592
@@ -8562,7 +8552,7 @@
 - id: 19361
   text: Ataca
 - id: 19362
-  text: Ràtzia tenebrosa
+  text: Aura fosca
 - id: 19363
   text: Rescata
 - id: 19370
@@ -8794,12 +8784,12 @@
 - id: 20007
   text: Punt de trobada
 - id: 20008
-  text: Mestre de combos
+  text: Mestre de la batussa
 - id: 20009
   text: >-
-    Els combos continuen encara
+    Es pot continuar la sèrie
 
-    que fallis algun cop.
+    d'atacs tot i no encertar-los.
 - id: 20010
   text: Fusionitzador
 - id: 20011
@@ -8810,14 +8800,14 @@
 
     Major efecte com més n'equipes.
 - id: 20012
-  text: Llum i Foscor
+  text: Llum i foscor
 - id: 20013
   text: >-
-    Proporciona un poder tan
+    Proporciona un poder tant
 
     misteriós com poderós.
 - id: 20014
-  text: Control de mal
+  text: Control del dolor
 - id: 20015
   text: >-
     Redueix el mal a la meitat
@@ -8970,34 +8960,34 @@
 - id: 20055
   text: Contra brusca
 - id: 20082
-  text: Moviment sobtat
+  text: Tranc sobtat
 - id: 20083
   text: >-
-    Fa una ràpida gambada cap
+    Fa una ràpida gambada cap a
 
     un enemic llunyà i el colpeja, 
 
-    fet que anul・la la seva guardia.
+    fet que anul・la la seva guàrdia.
 - id: 20084
   text: Propulsió aèria
 - id: 20085
   text: >-
-    S'impulsa amb un gran salt
+    Surt disparat enlaire per
 
-    per colpejar amb força a 
+    repartir un gec de garrotades 
 
-    un enemic volador llunyà.
+    a un enemic volador llunyà.
 - id: 20086
-  text: Explosió Magnètica
+  text: Explosió magnètica
 - id: 20087
   text: >-
-    Atrau els enemics a l'aire
+    Atrau amb força els enemics a l'aire
 
-    i llença un combo final. El mal
+    i allibera una explosió final. El mal
 
     és proporcional a l'habilitat màgica.
 - id: 20088
-  text: Rampell Giratori
+  text: Rampell giratori
 - id: 20089
   text: >-
     Executa un potent atac
@@ -9057,43 +9047,43 @@
 
     faràs una tombarella per esquivar atacs.
 - id: 20107
-  text: Auto-Límit
+  text: AutoLímit
 - id: 20108
   text: >-
     En casos d'emergència, si la Forma
 
-    Límit està disponible, l'ordre
+    Límit està disponible, apareix una
 
-    de reacció canvia a Límit.
+    ordre de reacció per transformar-t'hi.
 - id: 20109
-  text: Estocada Sònica
+  text: Estocada sònica
 - id: 20110
   text: >-
-    Ordre Límit que
+    Ordre Límit que escomet
 
-    assesta diversos cops al rival.
+    violentament contra el rival.
 
     Encadena atacs amb {:icon dynamic-triangle}. {:color #F0F00080}Cost PM:{:width 100} 60{:reset}
 - id: 20111
-  text: Últim Arcà
+  text: Últim arcà
 - id: 20112
   text: >-
-    Potent ordre Límit
+    Ordre Límit que reparteix una bona batussa
 
-    que pot finalitzar-se amb més
-
-    cops prement {:icon dynamic-triangle}. {:color #F0F00080}Cost PM:{:width 100} 75{:reset}
+    i que es pot allargar prement {:icon dynamic-triangle}.
+    
+    {:color #F0F00080}Cost PM:{:width 100} 75{:reset}
 - id: 20113
-  text: Tret Diví
+  text: Tret diví
 - id: 20114
   text: >-
-    Ordre Límit que llença la
+    Ordre Límit que catapulta la
 
-    clau espasa contra el rival i
+    clau espasa contra el rival.
 
-    pot repetir-se amb {:icon dynamic-triangle}. {:color #F0F00080}Cost PM:{:width 100} 65{:reset}
+    Llença-la més cops amb {:icon dynamic-triangle}. {:color #F0F00080}Cost PM:{:width 100} 65{:reset}
 - id: 20115
-  text: Infinitat
+  text: Ragnarok
 - id: 20116
   text: >-
     Ordre Límit que s'executa
@@ -9111,16 +9101,16 @@
 
     dèbil d'una sol cop.
 - id: 20119
-  text: Onada màgica
+  text: Esclat màgic
 - id: 20120
   text: >-
-    Llença un combo final contra els que
+    Fa un esclat màgic final contra els
 
-    et rodegen. El mal és proporcional 
+    del voltant. El mal és proporcional 
 
     a l'habilitat màgica.
 - id: 20121
-  text: Pols Huracanat
+  text: Ràfega huracanada
 - id: 20122
   text: >-
     Mentre gires a l'aire, llença
@@ -9166,7 +9156,7 @@
 
     habilitats s'incrementen en pujar de nivell.
 - id: 20159
-  text: '{:icon dynamic-cross}: Menú per desar  {:icon dynamic-circle}: Surt-ne'
+  text: '{:icon dynamic-cross}: Menú per desar  {:icon dynamic-circle}: Surt'
 - id: 20168
   text: Finta
 - id: 20169
@@ -9339,18 +9329,18 @@
   text: Contra Zantetsuken
 - id: 20326
   text: >-
-    Si prems Ataca mentre bloqueges,
+    Si manes Ataca en bloquejar,
 
     contraataques amb el Zantetsuken.
 - id: 20327
-  text: Combo ferm
+  text: Defensa apressada
 - id: 20328
   text: >-
-    Si prems {:icon dynamic-square} durant un combo,
+    Si prems {:icon dynamic-square} durant una sèrie,
 
     podràs bloquejar atacs enemics.
 - id: 20329
-  text: Saqueig VT
+  text: Aspiravida
 - id: 20330
   text: >-
     El Sora recupera VT quan colpeja
@@ -9380,29 +9370,29 @@
   text: Prova de Connexió
 - id: 20398
   text: >-
-    Prova d'haver sortit victoriós de
+    Prova de la victòria a la batalla
 
-    la batalla més enllà del Castell Disney.
+    més enllà del Castell Disney.
 
-    Quin efecte tindrà en el Sora?
+    Quin efecte deu fer en el Sora?
 - id: 20399
   text: Prova d'Inexistència
 - id: 20400
   text: >-
-    Prova d'haver vençut les rèpliques 
+    Prova de triomf contra les rèpliques 
 
-    virtuals dels membres de la Organització {XIII}.
+    virtuals dels membres de l'Organització {XIII}.
 
-    Quin efecte tindrà en el Sora?
+    Quin efecte deu fer en el Sora?
 - id: 20401
   text: Prova de Pau
 - id: 20402
   text: >-
-    Prova d'haver vençut els membres
+    Prova de guanyador contra els membres
 
     de la Micorganització {XIII}.
 
-    Quin efecte tindrà en el Sora?
+    Quin efecte deu fer en el Sora?
 - id: 20403
   text: Enreda
 - id: 20404
@@ -9953,7 +9943,7 @@
         l'{:color #FFEC1980}Ariel{:reset} per obtenir punts i animar-la.
 - id: 22016
   text: >-
-    ⤷ Asegura't de no prèmer {:icon dynamic-square} quan l'indicador
+    ⤷ Assegura't de no prèmer {:icon dynamic-square} quan l'indicador
         mostri el {:color #FFEC1980}Sebastià{:reset}!
 - id: 22017
   text: >-

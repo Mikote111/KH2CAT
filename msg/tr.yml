@@ -579,7 +579,7 @@
   text: '{:unk13 FA 00 32 00}{:unk08 01 00 05}I qui és aquell Cid?'
 - id: 1019
   text: >-
-    {:unk13 AA 00 3C 00}{:unk08 01 01 06}Un dels nostres amics.{:clear }El Léon, el Merlí,
+    {:unk13 AA 00 3C 00}{:unk08 01 01 06}Un dels nostres amics.{:clear }El Leon, el Merlí,
 
     l'Aerith, la Yuffie...{:clear }Tots ells són allà fora,
 
@@ -605,7 +605,7 @@
 - id: 1026
   text: Continua sense aparèixer res.
 - id: 1027
-  text: Léon, afanya't!
+  text: Leon, afanya't!
 - id: 1028
   text: Ja arriba!
 - id: 1029
@@ -997,7 +997,7 @@
   text: >-
     Si vencem el PCM, la ciutat
 
-    tornarà a la normalitat.{:clear }Si no, el Léon i els altres
+    tornarà a la normalitat.{:clear }Si no, el Leon i els altres
 
     no tindran res a fer.
 - id: 17894
@@ -1030,7 +1030,7 @@
   text: >-
     Per arribar al nucli del sistema,
 
-    vaig haver de saltar allà abaix.{:clear }Perdoneu, si us he confòs.
+    vaig haver de saltar allà a baix.{:clear }Perdoneu, si us he confòs.
 - id: 17899
   text: >-
     És genial que el PCM hagi desaparegut.

@@ -423,9 +423,9 @@
   text: Deixa de queixar-te i dona-me-la!
 - id: 178
   text: >-
-    Si home!
+    Sí, home!
 
-    Em donaran una fortuna per ella.{:delay AD 00}{:clear }Aquesta llàntia em farà ric!
+    M'hi donaran una fortuna.{:delay AD 00}{:clear }Aquesta llàntia em farà ric!
 - id: 179
   text: Gràcies!
 - id: 180

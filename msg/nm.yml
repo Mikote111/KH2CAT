@@ -244,7 +244,7 @@
     just després del cementiri!
 - id: 5850
   text: >-
-    Aquí és!
+    Aquí la teniu!
 
     La porta de Vila Nadal.
 - id: 5851
@@ -329,9 +329,9 @@
   text: Per què hem d'amagar-nos?
 - id: 5878
   text: >-
-    Silenci!{:delay 60 00}{:clear }Vaja! Quina sopresa més agradable!{:delay A8 00}{:clear }Aquell babau del Jack hi ha
+    Silenci!{:delay 60 00}{:clear }Vaja! Quina sopresa més agradable!{:delay A8 00}{:clear }Aquell babau del Jack ha
 
-    portat el Sora i els altres.{:delay BA 00}{:clear }Ara podrem defer-nos-en a la vegada!
+    portat el Sora i els altres.{:delay BA 00}{:clear }Ara podrem defer-nos de tots alhora!
 - id: 5879
   text: Què vols que fem?
 - id: 5880
@@ -1996,7 +1996,7 @@
 - id: 21541
   text: "{:delayandfade 08 78} \nLes malifetes dels sensecor\ntenen en escac el Pare Noel,\naixí que el Jack li demana al Sora\ni els seus amics que el protegeixin\ncom els seus guardaespatlles.\n \nNo obstant, una altre sinistre\nperill sembla cerner-se sobre\nVila Halloween...\n \n"
 - id: 21542
-  text: "{:delayandfade 08 78} \nEl Sora i el grup donen una bona\nreprimenda al Nyek, la Poll i el\nPuça. Els tres diablets surten\npitant, asegurant-se abans que el\nvil Home del Sac ha tornat.\n \nDesprés de fracasar fa un any\namb el seu pla de fer-se amb Vila\nHalloween, què voldrà ara?\n \n"
+  text: "{:delayandfade 08 78} \nEl Sora i el grup donen una bona\nreprimenda al Nyek, la Poll i el\nPuça. Els tres diablets surten\npitant, no sense assegurar-se abans que el\nvil Home del Sac ha tornat.\n \nDesprés de fracasar fa un any\namb el seu pla de fer-se amb Vila\nHalloween, què voldrà ara?\n \n"
 - id: 21543
   text: "{:delayandfade 07 B4} \nL'Home del Sac ha segrestat el Pare Noel!\n \nSense perdre un instant, el Sora i els seus\namics es dirigeixen a Vila Nadal.\n \n \n \n \n \n \n"
 - id: 21544

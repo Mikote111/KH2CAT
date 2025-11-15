@@ -61,9 +61,9 @@
     que em fa entrar gana...
 - id: 4116
   text: >-
-    Veieu aquella cova d'allà darrere?{:clear }M'espanta. Fa la impresió que alguna
+    Veieu aquella cova d'allà darrere?{:clear }M'espanta. Fa l'efecte com si alguna
 
-    cosa anés a sortir d'allà de sobte!
+    cosa n'hagués de sortir de sobte!
 - id: 4117
   text: >-
     El país sencer està aterrat
@@ -73,9 +73,9 @@
     vull córrer tants riscos.
 - id: 4119
   text: >-
-    Estaré bé. És
+    Estaré bé. Només
 
-    només una rascada.{:clear }Que no escapin! Es dirigeixen cap al
+    és una rascada.{:clear }Que no escapin! Es dirigeixen cap al
 
     cim. Aneu amb compte; són molt forts.
 - id: 4120
@@ -87,9 +87,9 @@
     Ara veuran amb qui s'han ficat!
 - id: 4121
   text: >-
-    El Shan Yu va atacar el poblet amb unes
+    El Shan Yu ha atacat el poblet amb
 
-    criatures que jo no havia vist mai.{:clear }Fins i tot ens ha atacat un falcó...
+    unes criatures que jo no havia vist mai.{:clear }Fins i tot ens ha atacat un falcó...
 - id: 4122
   text: >-
     He vist el Shan Yu amb els meus propis ulls!
@@ -195,7 +195,7 @@
 - id: 4170
   text: Perdó!{:delay 3C 00}
 - id: 4171
-  text: Bé!{:delay 3C 00}
+  text: Sí!{:delay 3C 00}
 - id: 4172
   text: Capità?
 - id: 4173
@@ -206,7 +206,7 @@
   text: No... ha estat res.
 - id: 4176
   text: >-
-    Mai hauria d'haver-ne dubtat.{:delay 6C 00}{:clear }A partir d'ara,
+    No hauria d'haver dubtat mai de tu.{:delay 6C 00}{:clear }A partir d'ara,
 
     tens la meva confiança.
 - id: 4178
@@ -219,7 +219,7 @@
 
     Ja no ho aguanto més.{:delay 90 00}{:clear }Au va, Mulan, prou de pallassades
 
-    i pirem ja cap a casa, noia.
+    i pirem ja cap a casa, xata.
 - id: 4183
   text: Mushu!
 - id: 4184
@@ -570,9 +570,9 @@
 - id: 4307
   text: '{:unk13 D7 00 69 00}{:unk08 01 00 06}Només això? Cap problema.'
 - id: 4308
-  text: '{:unk13 F0 00 64 00}{:unk08 01 00 06}Entesos?'
+  text: '{:unk13 F0 00 64 00}{:unk08 01 00 06}Oi?'
 - id: 4309
-  text: '{:unk13 01 01 5A 00}{:unk08 01 01 06}En...entesos.'
+  text: '{:unk13 01 01 5A 00}{:unk08 01 01 06}I...tant.'
 - id: 4310
   text: >-
     {:unk13 58 01 3F 00}{:unk08 01 00 05}Després us en donaré
@@ -607,7 +607,7 @@
   text: >-
     {:unk13 E1 00 BE 00}{:unk08 01 01 04}Com que una mica!
 
-    Serà un munt!
+    Deus voler dir un munt!
 - id: 4320
   text: >-
     {:unk13 0E 01 36 01}{:unk08 01 01 02}No. Té raó, Capità.{:clear }Si us plau, assigni'm
@@ -635,7 +635,7 @@
 - id: 4326
   text: '{:unk13 90 00 4A 00}{:unk06 02}{:unk08 03 00 06}Sí, Senyor!'
 - id: 4327
-  text: '{:unk13 54 01 6E 00}{:unk08 01 00 06}Eh, no està gens malament.'
+  text: "{:unk13 54 01 6E 00}{:unk08 01 00 06}Eh, déu n'hi do."
 - id: 4328
   text: '{:unk13 96 00 32 00}{:unk08 01 01 06}Un home de debò!'
 - id: 4329
@@ -728,7 +728,7 @@
   text: '{:unk06 02}{:unk13 18 01 64 00}{:unk08 03 01 05}Genial!'
 - id: 4363
   text: >-
-    {:unk13 0E 01 5A 00}{:unk08 01 01 06}Bona lluita, Ping!
+    {:unk13 0E 01 5A 00}{:unk08 01 01 06}Ben lluitat, Ping!
 
     Ets increïble.
 - id: 4364
@@ -746,9 +746,9 @@
   text: >-
     {:unk13 BE 00 34 00}{:unk08 01 01 06}Bah! Aquell hun ja és història!{:clear }Anem a explicar al Capità
 
-    que milers de sensecor...{:clear }han irromput a la cova. I que el
+    que milers de sensecor...{:clear }han irromput a la cova. I que
 
-    Ping se n'ha encarregat de tots!
+    el Ping s'ha encarregat de tots!
 - id: 4369
   text: Capità!
 - id: 4370
@@ -817,18 +817,18 @@
 - id: 4395
   text: És una ordre!
 - id: 4396
-  text: "{:unk13 42 01 55 00}{:unk06 02}{:unk08 03 01 05}L'Emperador és en perill!"
+  text: "{:unk13 42 01 55 00}{:unk06 02}{:unk08 03 01 05}L'Emperador està en perill!"
 - id: 4397
   text: '{:unk13 AD 00 42 00}{:unk06 02}{:unk08 03 01 06}No hi ha temps a perdre!'
 - id: 4398
-  text: Ara et prostaràs davant meu.
+  text: Ara et postraràs davant meu.
 - id: 4399
-  text: Acabem amb això!
+  text: S'ha acabat!
 - id: 4400
   text: Ben dit!
 - id: 4401
   text: >-
-    A això li'n dic jo donar canya! Sí senyor!{:delay DE 00}{:clear }La Mulan és la millor!
+    D'això en dic jo donar canya! Sí senyor!{:delay DE 00}{:clear }La Mulan és la millor!
 
     La Mulan és la millor!{:delay 96 00}{:clear }Espera un moment...
 
@@ -1449,7 +1449,7 @@
 
     L'indicador d'ànim i el rellotge van
 
-    units. Ambdós disminueixen a la vegada.
+    units. Ambdós disminueixen alhora.
 - id: 7950
   text: Derrota tots els sensecor!{:theme 07}⭑{:reset}Que l'indicador d'ànim no es buidi!{:theme 07}⭑{:reset}
 - id: 7951
@@ -1738,7 +1738,7 @@
 
     Aquest es completa amb les esferes dels enemics.{:clear }{:unk0f 00 00 00 00 00}Les esferes són vitals per a la supervivència
 
-    del grup, així que asegura't de recollir
+    del grup, així que assegura't de recollir-ne
 
     tantes com puguis, en especial les rares.
 - id: 19338
