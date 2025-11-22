@@ -680,7 +680,7 @@
 
     defensa enemiga. Si hi agregues més
 
-    gumi-rajos, podràs realitzar combos.
+    gumi-rajos, podràs realitzar atacs.
 - id: 15439
   text: >
     Fes servir l'indicador de Raig per llençar
@@ -689,7 +689,7 @@
 
     defensa enemiga. Si hi agregues més
 
-    gumi-rajos, podràs realitzar combos.
+    gumi-rajos, podràs realitzar atacs.
 - id: 15440
   text: >
     Fes servir l'indicador de Raig per llençar
@@ -698,7 +698,7 @@
 
     defensa enemiga. Si hi agregues més
 
-    gumi-rajos, podràs realitzar combos.
+    gumi-rajos, podràs realitzar atacs.
 - id: 15441
   text: >
     Fes servir l'indicador de Raig per llençar
@@ -707,7 +707,7 @@
 
     defensa enemiga. Si hi agregues més
 
-    gumi-rajos, podràs realitzar combos.
+    gumi-rajos, podràs realitzar atacs.
 - id: 15442
   text: >-
     Consumeix energia, però
@@ -2819,7 +2819,7 @@
 
     llençar l'atac rival i disparar.
 
-    Agrega-hi més gumi-rajos per a combos.
+    Agrega-hi més gumi-llamps per a atacs.
 - id: 20520
   text: Augmenta la velocitat de la nau.
 - id: 20521

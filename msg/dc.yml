@@ -772,11 +772,11 @@
     Mira allò!
 - id: 21427
   text: >-
-    {:unk13 68 01 D2 00}{:unk06 00}{:unk08 01 00 07}Em vaig adonar que
+    {:unk13 68 01 D2 00}{:unk06 00}{:unk08 01 00 07}Em vaig adonar que era
 
-    era allà quan vaig venir
+    allà quan vaig venir a
 
-    a veure la Pedra Angular.
+    veure la Pedra Angular.
 - id: 21428
   text: >-
     {:unk13 F0 00 E6 00}{:unk06 00}{:unk08 01 01 06}Em sembla que podria estar
@@ -794,7 +794,7 @@
     de l'Organització {XIII}!
 - id: 21431
   text: >-
-    {:unk13 54 01 50 00}{:unk06 00}{:unk08 01 01 05}Sigui el que sigui, millor
+    {:unk13 54 01 50 00}{:unk06 00}{:unk08 01 01 05}Sigui el que sigui, val més
 
     investigar-ho amb compte.
 - id: 21625

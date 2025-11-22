@@ -1300,11 +1300,11 @@
   text: D'acord. Com és ell?
 - id: 12460
   text: >-
-    Pèl platejat.
+    Cabells platejats.
 
     Porta una llarga espasa.
 - id: 12461
-  text: És clar.{:delay 3C 00}{:clear }Bé, ens veiem, Cloud.
+  text: Molt bé.{:delay 3C 00}{:clear }Bé, ja ens veurem, Cloud.
 - id: 12462
   text: Tingueu compte.
 - id: 12463
@@ -2461,9 +2461,9 @@
   text: És la clau espasa!
 - id: 12867
   text: >-
-    Ja ho veig...{:delay 38 00}{:clear }{:delay 67 00}{:clear }Així que allò és una clau espasa.{:delay 7F 00}{:clear }{:delay 48 00}{:clear }I suposo que tu en
+    Ja ho veig...{:delay 38 00}{:clear }{:delay 67 00}{:clear }Així que allò és una clau espasa.{:delay 7F 00}{:clear }{:delay 48 00}{:clear }I suposo que tu deus
 
-    deus ser l'escollit.
+    ser el seu escollit.
 - id: 12868
   text: I què si ho soc?
 - id: 12869

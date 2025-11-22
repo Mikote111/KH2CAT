@@ -6495,7 +6495,7 @@
 
     ser segellada. Llavors, va quedar
 
-    foscor un profund son.
+    sumit en un son profund.
 
 
     Ara, amb roba nova i una
@@ -10810,7 +10810,7 @@
 
     servir Cicló, t'elevaràs enlaire
 
-    i podràs atacar-lo amb combos!
+    i podràs atacar-lo amb sèries!
 - id: 11934
   text: Ombra
 - id: 11935
@@ -10831,7 +10831,7 @@
   text: >-
     Acostuma a bloquejar els atacs
 
-    frontals. Intenta fer combos
+    frontals. Intenta fer-ne sèries
 
     des de l'esquena i acaba amb
 
@@ -10965,14 +10965,14 @@
 
     a l'aguait. Quan es llenci en picat,
 
-    fes servir Esgarip per atrapar-lo i
+    fes servir Esgarip per atrapar-lo
 
-    atacar-hi els enemics propers.
+    atacar els enemics propers.
 
 
-    Després d'aquest atac, usa combos
+    Després d'aquest atac, fes-ne
 
-    aèries i remata'l.
+    d'aeris i remata'l.
 - id: 11952
   text: Bibliotecari
 - id: 11953
@@ -15347,14 +15347,18 @@
 
     Notes:
 
-    Si fas servir Llança ardent i continua amb Llengua ígnia,
+    Si fas Llança ardent i continues
 
-    obtindràs un fantàstic combo.
+    amb Llengua ígnia, obtindràs
+
+    un fantàstic atac.
 
 
     En Sora pot volar durant aquest límit.
 
-    Per moure's cap amunt i cap avall, fes servir {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down}.
+    Per moure'l amunt i avall,
+
+    fes servir {:icon dynamic-right-analog-up}{:icon dynamic-right-analog-down} respectivament.
 - id: 19170
   text: Aladí/Truc fantàstic
 - id: 19171
@@ -15398,7 +15402,7 @@
 
     Pots aconseguir molts punts per
 
-    combos, ja que en Sora pot moure's.
+    sèries, ja que en Sora pot moure's.
 - id: 19174
   text: Jack Sparrow/Illa del Tresor
 - id: 19175
@@ -15512,19 +15516,19 @@
     Desenvolupament
      Trio
        ⤷Summum/Artema/Fusió extrema
-          ⤷Inicia combo
+          ⤷Inicia sèrie
 
     Notes:
 
     Després de seleccionar un atac, Inicia
 
-    combo substituirà l'atac triat.
+    sèrie substituirà l'atac triat.
 
-    Amb Inicia combo es llença el nombre total
+    Amb Inicia sèrie es llença el nombre total
 
     de cops fets pels altres tres atacs.
 
-    Reserva Inicia combo fins a haver
+    Reserva Inicia sèrie fins a haver
 
     assestat molts cops amb els
 

@@ -589,9 +589,9 @@
   text: Oh, oh! Necessiten ajuda.
 - id: 16430
   text: >-
-    El Sora i el Riku són junts.
+    El Sora i el Riku estan junts.
 
-    Res podem fer ja aquí.
+    Res no podem fer ja aquí.
 - id: 16431
   text: >-
     Vaja! Em pregunto si el Riku
@@ -679,9 +679,7 @@
   text: Jo no crec que puguem amb tots!
 - id: 16461
   text: >-
-    Els enviaré al Xemnas. {:delay AE 00}{:clear }O potser preferiries lluitar
-
-    contra ells tu mateix?
+    Els enviaré al Xemnas. {:delay AE 00}{:clear }O potser preferiries lluitar-hi tu mateix?
 - id: 16462
   text: >-
     Sincerament, preferiria fugir!
@@ -1216,7 +1214,7 @@
 
     enfortit i ens esperi.{:clear }Tot va començar amb les investigacions
 
-    de l'Ànsem. Acabem-ho en el seu honor!
+    de l'Ànsem. Acabem-ho en honor seu!
 - id: 18454
   text: >-
     Estic cansada d'esperar, o sigui que
@@ -1411,7 +1409,7 @@
 
     esteu destinats al fracàs!
 - id: 19117
-  text: Potser no calia lluitar contra ell. {:delay 96 00}{:clear }{:delay 1E 00}Em sembla que va deixar l'Organització perquè
+  text: Potser no calia lluitar-hi. {:delay 96 00}{:clear }{:delay 1E 00}Em sembla que va deixar l'Organització perquè
 - id: 19118
   text: el que desitjava era conèixer-te.
 - id: 19121
@@ -1462,7 +1460,7 @@
 
     anotacions del Diari del Grill.{:clear }Continua la teva aventura fins aconseguir
 
-    aillar-ne totes les incògnites.
+    aillar totes les seves incògnites.
 - id: 19152
   text: >-
     Escolta'm, Kingdom Hearts! {:delay A2 00}{:clear }Sembla que haurem
@@ -1488,17 +1486,17 @@
 - id: 19543
   text: Què!?
 - id: 19546
-  text: Fes servir Làser per destruir enemics distants!
+  text: Mana Làser per destruir enemics distants!
 - id: 19547
-  text: Fes servir Drenatge per absorbir el foc enemic!
+  text: Mana Drenatge per absorbir el foc enemic!
 - id: 19571
   text: De pressa! Sense la teva ajuda, en Sora està perdut!
 - id: 19572
-  text: Fes servir Reflex, per desviar el atacs làser!
+  text: Mana Reflex, per desviar el atacs làser!
 - id: 19586
-  text: Estan a punt d'atacar! Fes servir Acrobàcia per evitar-los!
+  text: Estan a punt d'atacar! Mana Acrobàcia per esquivar!
 - id: 19587
-  text: Aquest lloc explotarà! La teva única esperança és fer servir Acrobàcia!
+  text: Aquest lloc explotarà! La teva única esperança és manar Acrobàcia!
 - id: 19588
   text: Detén el nucli d'energia!
 - id: 19589
@@ -1542,9 +1540,7 @@
   text: >-
     Llença els enemics contra el nucli per danyar-lo!
 
-    Si cal, mana ordres de reacció per
-
-    protegir-te!
+    Si cal, mana ordres de reacció per protegir-te!
 - id: 19610
   text: >-
     Detén el nucli d'energia!

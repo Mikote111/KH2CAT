@@ -2328,7 +2328,7 @@ assets:
     multi:
     - name: remastered/msn/sp/AL13_TRAP_FREE.bar/SP_AL13_TRAP_FREE_bar0.png
     - name: remastered/msn/sp/AL13_TRAP_FREE2.bar/SP_AL13_TRAP_FREE2_bar0.png
-    - name: remastered/msn/sp/AL14_TRAP_MS_P.bar/SP_AL14_MS_P_bar0.png
+    - name: remastered/msn/sp/AL14_MS_P.bar/SP_AL14_MS_P_bar0.png
     method: copy
     platform: pc
     package: kh2_fifth
@@ -2341,7 +2341,7 @@ assets:
     platform: pc
     package: kh2_fifth
     source:
-    - name: remastered/msn/CA_AL10_MS102_bar0.png
+    - name: remastered/msn/CA_AL14_MS_O_bar0.png
   - name: remastered/msn/sp/AL14_MS202_FREE.bar/SP_AL14_MS202_FREE_bar2.png
     multi: 
     - name: remastered/msn/sp/TR02_MS102_FREE.bar/SP_TR02_MS102_FREE_bar2.png

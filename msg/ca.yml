@@ -111,9 +111,9 @@
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Partim ja?
 
-    {:chardelay 33 00}Encara no hi estic a punt.
+    {:chardelay 33 00}Encara no estic a punt.
 
-    {:chardelay 09 00}Hi estic a punt!
+    {:chardelay 09 00}Estic a punt!
 - id: 7883
   text: >-
     Vaig lluitar amb en Jack una vegada
@@ -220,12 +220,12 @@
 
     amb {:icon dynamic-triangle}, la batalla serà més fàcil!
 - id: 8123
-  text: Defensa't durant un minut mentre esperes la senyal!
+  text: Defensa't durant un minut mentre esperes el senyal!
 - id: 8124
   text: >-
     Defensa't durant un minut
 
-    mentre esperes la senyal!
+    mentre esperes el senyal!
 
     Si t'aprofites de la llum de la lluna,
 
@@ -269,7 +269,7 @@
 - id: 9935
   text: Recupera la peça d'or abans que l'incorpori escapi!
 - id: 9936
-  text: Recupera la peça d'or que tenia l'incorpori ocult!
+  text: Recupera la peça d'or que té l'incorpori ocult!
 - id: 9937
   text: L'incorpori apareixerà quan hagis vençut tots els pirates!
 - id: 9938
@@ -1616,12 +1616,12 @@
   text: >-
     Busca l'incorpori ocult en la
 
-    foscor i recupera'n la peça d'or!
+    foscor i recupera la peça d'or!
 - id: 15231
   text: >-
     Busca l'incorpori ocult
 
-    i recupera'n la peça d'or!
+    i recupera la peça d'or!
 - id: 15232
   text: >-
     L'incorpori apareixerà quan

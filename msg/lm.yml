@@ -150,7 +150,7 @@
   text: Sé que vas ser tu qui em va rescatar.
 - id: 5041
   text: >-
-    Si us plau, surt per a que
+    Si us plau, surt perquè
 
     pugui agrair-t'ho
 - id: 5042
@@ -884,13 +884,13 @@
 - id: 5276
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Tu penses que a altres llacs,{:unk0e 00}'
 - id: 5277
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}I somies amb anar a dalt,{:unk0e 00}'
+  text: "{:unk13 FA 00 90 01}{:unk0e 0A}I somies d'anar allà dalt,{:unk0e 00}"
 - id: 5278
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Només mira el món del teu voltant,{:unk0e 00}'
 - id: 5279
   text: "{:unk13 FA 00 90 01}{:unk0e 0A}just aquí al fons de l'oceà.{:unk0e 00}"
 - id: 5280
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Què pot haver-hi allà a fora,{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Què hi pot haver allà a fora,{:unk0e 00}'
 - id: 5281
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}que causi tanta emoció?{:unk0e 00}'
 - id: 5282
@@ -900,7 +900,7 @@
 - id: 5284
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Ells treballen sense parar,{:unk0e 00}'
 - id: 5285
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}I sota el sol per a variar,{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}I sota el sol per variar,{:unk0e 00}'
 - id: 5286
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}mentre nosaltres sempre flotem...{:unk0e 00}'
 - id: 5287
@@ -942,7 +942,7 @@
 - id: 5305
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}I les bombolles{:unk0e 00}'
 - id: 5306
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}per a que ballin{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}perquè ballin{:unk0e 00}'
 - id: 5307
   text: '{:unk13 FA 00 90 01}{:unk0e 0A}Sota el mar!{:unk0e 00}'
 - id: 5308
@@ -1036,7 +1036,7 @@
   text: >-
     {:unk13 1E 01 61 00}{:unk08 01 01 05}Tot el que has de
 
-    fer és sentir el ritme!{:clear }Escolta el compàs i posa-li
+    fer és sentir el ritme!{:clear }Escolta el compàs i posa-hi
 
     una mica de moviment!{:clear }Preparat? Som-hi!
 - id: 7936
@@ -1065,11 +1065,11 @@
     Recorda, no perdis el ritme!
 - id: 7941
   text: >-
-    {:unk13 04 01 6E 00}{:unk08 01 01 05}Ara improvitzem
+    {:unk13 04 01 6E 00}{:unk08 01 01 05}Ara improvisem
 
     amb les bombolles!{:clear }La norma és la mateixa:
 
-    has de seguir-ne el ritme.
+    has de seguir el seu ritme.
 - id: 7942
   text: >-
     {:unk13 E1 00 5A 00}{:unk08 01 01 05}Molt bé!
@@ -1264,7 +1264,7 @@
 - id: 8906
   text: "{:unk13 FA 00 90 01}{:unk0e 0A}Vull veure'ls.. vull veure'ls ballar.{:unk0e 00}"
 - id: 8907
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}I caminar amb aquells... Com els hi diuen?{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}I caminar amb aquells... Com en diuen?{:unk0e 00}'
 - id: 8909
   text: '{:unk13 FA 00 90 01}Ah... peus!'
 - id: 8910
@@ -1307,7 +1307,7 @@
 
     No, no m'ho puc creure.{:unk0e 00}
 - id: 8928
-  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Lluita pel seu premi, què tossuts poden ser!{:unk0e 00}'
+  text: '{:unk13 FA 00 90 01}{:unk0e 0A}Lluita pel seu premi, que tossuts que poden ser!{:unk0e 00}'
 - id: 8929
   text: >-
     {:unk13 FA 00 90 01}{:unk0e 0A}I sense la teva sireneta
@@ -1550,9 +1550,9 @@
     Però no podem deixar les coses així.{:clear }Què podríem fer? Què?
 - id: 18131
   text: >-
-    Sí, així és!
+    Sí, molt bé!
 
-    Què ràpid aprens, Sora!
+    Que ràpid aprens, Sora!
 - id: 18132
   text: >-
     Tot i que no ho sembli, el Sebastià
@@ -1570,7 +1570,7 @@
     vertical! Hauràs d'acostumar-t'hi!
 - id: 18135
   text: >-
-    Què podem fer per a que l'Ariel
+    Què podem fer perquè l'Ariel
 
     deixi de pensar en la superfície?{:clear }No és fàcil aconseguir que a algú
 
@@ -1612,7 +1612,7 @@
   text: >-
     Com van els assajos
 
-    del musical?{:clear }Feu el que calgui per a que
+    del musical?{:clear }Feu el que calgui perquè
 
     l'Ariel oblidi la vida a la superfície.
 - id: 18142
@@ -1636,14 +1636,14 @@
     més problemes...
 - id: 18145
   text: >-
-    Sembla que encara no ets a punt.
+    Sembla que encara no estàs a punt.
 
     Afanya't, vull començar l'assaig.
 - id: 18146
   text: >-
-    Ets a punt per moure
+    Estàs a punt per
 
-    l'estàtua?
+    moure l'estàtua?
 - id: 18147
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Movem l'estàtua?
@@ -1820,7 +1820,7 @@
 
     va expulsar l'Úrsula del regne.{:clear }Ella té molt de poder. Tant de bo
 
-    la fes servir per ajudar els altres!
+    el fes servir per ajudar els altres!
 - id: 18178
   text: >-
     La música del Sebastià és genial,
@@ -1894,7 +1894,7 @@
 
     {:chardelay 33 00}Espera, estic una mica nerviós.
 
-    {:chardelay 09 00}Sí, hi estic a punt! Som-hi!
+    {:chardelay 09 00}Sí, estic a punt! Som-hi!
 - id: 18190
   text: >-
     Com sempre dic: els fills han de fer
@@ -1993,7 +1993,7 @@
 - id: 18725
   text: Puntada Dofí
 - id: 18726
-  text: Nedar
+  text: Neda
 - id: 19192
   text: >-
     Ningú ho fa bé a la primera.

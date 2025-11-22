@@ -820,7 +820,7 @@
 - id: 1153
   text: Càrrega PM
 - id: 1154
-  text: Autorrecàrrega
+  text: "{:width 90}Autorrecàrrega"
 - id: 1155
   text: Tipus d'atac
 - id: 1156
@@ -832,9 +832,9 @@
 - id: 1160
   text: '{:icon ai-settings}Atac compacte'
 - id: 1161
-  text: '{:icon ai-settings}Atac del grup'
+  text: '{:icon ai-settings}Atac independent'
 - id: 1162
-  text: '{:icon ai-settings}Atac del Sora'
+  text: '{:icon ai-settings}Atac amb el Sora'
 - id: 1163
   text: '{:icon ai-settings}Atac incessant'
 - id: 1164
@@ -1531,7 +1531,7 @@
 
     ràpidament durant la Càrrega PM.
 - id: 1480
-  text: Sabre detector
+  text: Sabre Detector
 - id: 1481
   text: >-
     La clau espasa més llarga que
@@ -1540,10 +1540,10 @@
 
     pots detectar moviments.
 - id: 1482
-  text: Llos Artema
+  text: Llos Final
 - id: 1483
   text: >-
-    Una clau espasa a l'Arma Artema
+    Una clau espasa a l'Arma Final
 
     que té el Sora.
 
@@ -1617,7 +1617,7 @@
 
     Pot rebutjar atacs enemics.
 - id: 1518
-  text: Camí a l'alba
+  text: Camí a l'Alba
 - id: 1519
   text: Realitza diversos atacs.
 - id: 1522
@@ -1740,42 +1740,54 @@
   text: >-
     Et veuràs envoltat en flames.
 
-    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 12{:reset}
+    Es mana amb l'ordre Màgia.
+
+    {:color #F0F00080}Cost PM: 12{:reset}
 - id: 1590
   text: Glaç elemental
 - id: 1591
   text: >-
     Descarrega cristalls de glaç sobre l'objectiu. 
 
-    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 15{:reset}
+    Es mana amb l'ordre Màgia.
+
+    {:color #F0F00080}Cost PM: 15{:reset}
 - id: 1592
-  text: Raig elemental
+  text: Llamp elemental
 - id: 1593
   text: >-
-    Llença rajos a l'objectiu.
+    Llença llamps a l'objectiu.
 
-    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 18{:reset}
+    Es mana amb l'ordre Màgia.
+
+    {:color #F0F00080}Cost PM: 18{:reset}
 - id: 1594
   text: Cura elemental
 - id: 1595
   text: >-
     Recupera la VT.
 
-    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} Tots{:reset}
+    Es mana amb l'ordre Màgia.
+
+    {:color #F0F00080}Cost PM: Tots{:reset}
 - id: 1596
   text: Magneto elemental
 - id: 1597
   text: >-
     Emet un poder que aglomera l'enemic.
 
-    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 30{:reset}
+    Es mana amb l'ordre Màgia.
+
+    {:color #F0F00080}Cost PM: 30{:reset}
 - id: 1598
   text: Reflex elemental
 - id: 1599
   text: >-
     Evita i respon els atacs enemics.
 
-    {:width 90}Es mana amb l'ordre Màgia. {:color #F0F00080}Cost PM:{:width 100} 10{:reset}
+    Es mana amb l'ordre Màgia.
+
+    {:color #F0F00080}Cost PM: 10{:reset}
 - id: 1600
   text: Amulet Ukelele
 - id: 1601
@@ -1813,7 +1825,7 @@
 
     a la Forma Mestra.
 - id: 1608
-  text: Forma definitiva
+  text: Forma Final
 - id: 1609
   text: Dummy
 - id: 1610
@@ -2661,11 +2673,9 @@
   text: '{:icon item-consumable}{:scale 14}{:width 90}Autorrecàrrega: NO'
 - id: 7678
   text: >-
-    {:width 95}Si fas servir un objecte en un combat 
+    {:width 95}Si gastes un objecte en combat i en tens
 
-    i en tens més a l'inventari, l'objecte 
-
-    es recarrega després del combat.{:reset}
+    més, es recarregarà en acabar la batalla.{:reset}
 - id: 7679
   text: L'objecte no és reutilitzable.
 - id: 7752
@@ -2679,15 +2689,15 @@
 - id: 7756
   text: Ves al centre
 - id: 7758
-  text: '{:icon ai-mode-frequent}Llibre'
+  text: '{:icon ai-mode-frequent}Lliure'
 - id: 7759
   text: '{:icon ai-mode-moderate}Equilibrat'
 - id: 7760
   text: '{:icon ai-mode-rare}Esporàdic'
 - id: 7761
-  text: '{:icon ai-mode-frequent}{:scale 13}{:width 90}Sovint'
+  text: '{:icon ai-mode-frequent}{:scale 13}Sovint'
 - id: 7762
-  text: '{:icon ai-mode-rare}{:scale 13}{:width 90}In extremis'
+  text: "{:icon ai-mode-rare}{:scale 13}A l'extrem"
 - id: 7763
   text: Cometa
 - id: 7764
@@ -2716,36 +2726,40 @@
     membres del grup li donaran suport.
 - id: 7770
   text: >-
-    Els membres del grup derroten a un 
+    Els membres del grup derroten un 
 
     objectiu abans d'atacar un altre.
 - id: 7771
   text: >2-
 
-    Fes servir aquesta habilitat lliurement.
+    Fa servir aquesta habilitat lliurement.
 - id: 7772
   text: >2-
 
-    Fes servir aquesta habilitat prudentment.
+    Fa servir aquesta habilitat prudentment.
 - id: 7773
   text: >2-
 
-    Fes servir aquesta habilitat en situacions especials.
+    Fa servir aquesta habilitat
+
+    en situacions especials.
 - id: 7774
   text: >2-
 
-    Fes servir aquest objecte sovint.
+    Fa servir aquest objecte sovint.
 - id: 7775
   text: >2-
 
-    Fes servir aquest objecte només en cas d'emergència!
+    Fa servir aquest objecte
+
+    només en cas d'emergència!
 - id: 7776
   text: Estocada ascendent
 - id: 7777
   text: >-
-    Si prems {:icon dynamic-square} durant un combo,
+    Si prems {:icon dynamic-square} durant una sèrie,
 
-    llençaras a l'enemic pels aires.
+    llençaras a l'enemic enlaire.
 - id: 7998
   text: >-
     Roxas:
@@ -2984,14 +2998,14 @@
 
     defensa en situacions crítiques.
 - id: 8313
-  text: Estrella fugaç
+  text: Estrella Fugaç
 - id: 8314
   text: >-
     Un escut petit i fàcil de manejar, 
 
     emprat només per atacar.
 - id: 8315
-  text: Núvol de fantasia
+  text: Núvol de Fantasia
 - id: 8316
   text: >-
     Escut d'enorme força,
@@ -3032,11 +3046,11 @@
 
     al mal que reps.
 - id: 8847
-  text: Maça màgica
+  text: Maça Màgica
 - id: 8848
   text: Un bastó útil per la seva força.
 - id: 8849
-  text: Campana victoriosa
+  text: Campana Victoriosa
 - id: 8850
   text: >-
     Aquest bastó augmenta la força
@@ -3050,21 +3064,21 @@
 
     {:color #F0F00080}Augmenta un 20%{:reset} el mal dels atacs Electro.
 - id: 8853
-  text: Bastó cometa
+  text: Bastó Cometa
 - id: 8854
   text: >-
     Bastó amb poders estelars.
 
     Gran força i potència màgiques.
 - id: 8855
-  text: Escombra reial
+  text: Escombra Reial
 - id: 8856
   text: >-
     Aquest bastó augmenta la força
 
     d'atac i la màgia.
 - id: 8857
-  text: Bastó savi
+  text: Bastó Savi
 - id: 8858
   text: >-
     Un bastó que atorga grans
@@ -3087,7 +3101,7 @@
 
     de cura a la batalla.
 - id: 8863
-  text: Ceptre conjurador
+  text: Ceptre Conjurador
 - id: 8864
   text: >-
     Bastó de gran força i poder màgic.
@@ -3490,7 +3504,7 @@
 
     Consumeix tots els PM del Sora.
 - id: 13135
-  text: '{:width 90}Compilació completa'
+  text: 'Compilació completa'
 - id: 13136
   text: >-
     Ordre Límit amb què el Sora
@@ -3522,11 +3536,11 @@
 
     propers. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 13863
-  text:     Activa-la
+  text: "{:unk 58}Activa-la"
 - id: 13864
   text: Activa l'habilitat seleccionada.
 - id: 13865
-  text:     No l'activis
+  text: "{:unk 58}No l'activis"
 - id: 13866
   text: No activa l'habilitat seleccionada.
 - id: 13868
@@ -4170,7 +4184,7 @@
   text: Desastre
 - id: 14724
   text: >-
-    Llença un poderós combo final
+    Llença un poderós atac final
 
     que atrau diversos enemics i
 
@@ -5319,7 +5333,7 @@
   text: >-
     Membre del Comité de Restauració
 
-    {:width 90}de Baluard Balmat{:width 100}.
+    de Baluard Balmat.
 
     Estrany carnet de membre honorari.
 - id: 15129
@@ -5676,9 +5690,9 @@
   text: >-
     {:color #F0F00080}Augmenta en 2{:reset} la força durant la
 
-    Càrrega PM i permet combos il・limitats,
+    Càrrega PM i permet atacs il・limitats,
 
-    però desactiva l'atac final del combo.
+    però desactiva l'atac final.
 - id: 15328
   text: Aspirafusió
 - id: 15329
@@ -5807,7 +5821,7 @@
 
     de cura a la batalla en un {:color #F0F00080}50%{:reset}.
 
-    com més n'actives, major efecte.
+    Com més n'actives, major efecte.
 - id: 15360
   text: Aspiramàgia
 - id: 15361
@@ -5903,7 +5917,7 @@
 
     enemics i els ataca!{:color #F0F00080} Cost PM: 10{:reset}
 - id: 15489
-  text: Goofy Turbo
+  text: Goofy turbo
 - id: 15490
   text: >-
     Corre entre els enemics i els llença
@@ -5927,7 +5941,7 @@
   text: Divisor
 - id: 15496
   text: >-
-    Mentre vola, ataca a enemics
+    Mentre vola, ataca enemics
 
     propers. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 15497
@@ -6148,7 +6162,7 @@
 - id: 15585
   text: '{:icon dynamic-square}Registre de materials'
 - id: 15587
-  text: '{:width 90}Competir'
+  text: Competeix
 - id: 15588
   text: Món del No-Res
 - id: 15589
@@ -6189,7 +6203,7 @@
   text: >-
     Una antiga recepta de fabricació,
 
-    escrita en un lenguatge que només
+    escrita en un llenguatge que només
 
     els Moguris comprenen.
 - id: 15618
@@ -6198,7 +6212,7 @@
   text: >-
     Una antiga recepta de fabricació,
 
-    escrita en un lenguatge que només
+    escrita en un llenguatge que només
 
     els Moguris comprenen.
 - id: 15620
@@ -6207,7 +6221,7 @@
   text: >-
     Una antiga recepta de fabricació,
 
-    escrita en un lenguatge que només
+    escrita en un llenguatge que només
 
     els Moguris comprenen.
 - id: 15622
@@ -6216,7 +6230,7 @@
   text: >-
     Una antiga recepta de fabricació,
 
-    escrita en un lenguatge que només
+    escrita en un llenguatge que només
 
     els Moguris comprenen.
 - id: 15624
@@ -6377,11 +6391,11 @@
 - id: 15714
   text: Súmmum
 - id: 15715
-  text: Artema
+  text: Final
 - id: 15716
   text: Fusió extrema
 - id: 15717
-  text: Combo inicial
+  text: Inicia sèrie
 - id: 15729
   text: Materials
 - id: 15730
@@ -6426,9 +6440,9 @@
   text: Explorador Estel・lar
 - id: 15867
   text: >-
-    Quan ets a l'aire,
+    Quan ets a l'aire, augmenta
 
-    augmenta en 1 el combo màxim.
+    en 1 la sèrie d'atacs màxims.
 - id: 15868
   text: Drac Ocult
 - id: 15869
@@ -6466,7 +6480,7 @@
 
     finals a l'aire, en proporció
 
-    al número de cops del combo.
+    al número de cops de la sèrie.
 - id: 15920
   text: Monocrom
 - id: 15921
@@ -6506,9 +6520,9 @@
   text: >-
     Té un gran poder i permet llençar
 
-    combos consecutivament.
+    atacs consecutivament.
 - id: 15932
-  text: Guardià de l'Ànima
+  text: Ànima de Guardià
 - id: 15933
   text: >-
     Gaudeix d'un gran poder ofensiu.
@@ -6526,10 +6540,10 @@
 
     de VT, PM i calés que apareixen.
 - id: 15936
-  text: Carbassa Decisiva
+  text: Carabassa Decisiva
 - id: 15937
   text: >-
-    Com més combos executes,
+    Com més atacs seguits executes,
 
     més mal causes, i realitzes un
 
@@ -6540,11 +6554,11 @@
   text: >-
     Ben equilibrada en força i màgia,
 
-    augmenta en 1 el màxim de combos
+    augmenta en 1 el màxim d'atacs
 
-    terrestres.
+    terrestres seguits.
 - id: 15940
-  text: Dolços Records
+  text: Records Dolços
 - id: 15941
   text: >-
     No aporta res en atac, però proporciona
@@ -6565,9 +6579,9 @@
   text: >-
     {:color #F0F00080}Augmenta en 2{:reset} la força durant la Càrrega PM
 
-    i permet llençar combos il・limitats,
+    i permet llençar atacs il・limitats,
 
-    però el combo final es desactiva.
+    però l'atac final es desactiva.
 - id: 15946
   text: Llaç de Flames
 - id: 15947
@@ -6581,11 +6595,11 @@
   text: >-
     Té una gran força i abast, però
 
-    redueix en 1 el màxim de combos
+    redueix en 1 el màxim d'atacs
 
-    terrestres i aeris.
+    terrestres i aeris seguits.
 - id: 15950
-  text: Arma Artema
+  text: Arma Final
 - id: 15951
   text: >-
     Màxima expresió de la clau espasa.
@@ -6594,7 +6608,7 @@
 
     la seva velocitat de recuperació.
 - id: 15952
-  text: Bastó d'Struggle.
+  text: Bastó d'Struggle
 - id: 15953
   text: >-
     Bastó de joguina emprat
@@ -7512,7 +7526,7 @@
 - id: 17569
   text: ''
 - id: 17586
-  text: Combo interior
+  text: Atac interior
 - id: 17708
   text: Desa
 - id: 17721
@@ -7520,11 +7534,11 @@
 - id: 17722
   text: Mostra les notes del Roxas.
 - id: 17723
-  text: Fer-hi front
+  text: Fes-hi front
 - id: 17724
   text: Xoca
 - id: 17725
-  text: Obrir-se camí
+  text: Obre't pas
 - id: 17726
   text: Cop de gràcia
 - id: 17728
@@ -7986,21 +8000,21 @@
   text: Atac final
 - id: 18008
   text: >-
-    Si prems {:icon dynamic-square} al final d'un combo,
+    Si prems {:icon dynamic-square} al final d'una sèrie,
 
     faràs mal als enemics propers.
 - id: 18009
-  text: Combo superior
+  text: Atac superior
 - id: 18010
   text: >-
-    Si prems {:icon dynamic-square} durant un combo,
+    Si prems {:icon dynamic-square} durant una sèrie,
 
-    llençaràs l'enemic pels aires.
+    llençaràs l'enemic enlaire.
 - id: 18011
   text: Impuls aeri
 - id: 18012
   text: >-
-    Si durant un combo prems {:icon dynamic-square}, podràs
+    Si durant una sèrie prems {:icon dynamic-square}, podràs
 
     aturar i atacar un enemic a l'aire.
 - id: 18013
@@ -8198,39 +8212,39 @@
 - id: 18402
   text: Fusió?
 - id: 18465
-  text: Arcà final
+  text: Final arcà
 - id: 18466
   text: >-
-    Brandeix la clau espasa hàbilment
+    Controla les claus per clavar-les
 
-    i llença un poderós combo final
+    contra un enemic com si fossin mil
 
-    per eliminar un únic objectiu.
+    agulles amb aquest atac final.
 - id: 18467
-  text: Tret definitiu
+  text: Últimes paraules
 - id: 18468
   text: >-
-    Mentre gires a l'aire, llença
+    Mentre gires a l'aire, executa
 
-    un poderós combo final per
+    un poderós atac final que deixa
 
-    eliminar un únic objectiu.
+    ben atonyinat un únic objectiu.
 - id: 18469
-  text: Art definitiu
+  text: Arts definitives
 - id: 18470
   text: >-
-    Llença un poderós combo final
+    Esclats d'energia, velocitats supersòniques
 
-    per eliminar diversos objectius
+    i molta llenya en aquest poderós atac
 
-    d'una sola vegada.
+    final que afecta diversos objectius.
 - id: 18471
-  text: Crim i càstig
+  text: Crim i condemna
 - id: 18472
   text: >-
-    Amb una clau espasa a cada
+    Amb una clau espasa a cada mà,
 
-    mà, llençaràs poderosos encanteris.
+    llençaràs poderosos encanteris.
 - id: 18480
   text: >-
     Sora:
@@ -9040,7 +9054,7 @@
 
     És més eficaç a nivells més alts.
 - id: 20105
-  text: Tombarella màx.
+  text: Tombarella MÀX.
 - id: 20106
   text: >-
     Si mous {:icon dynamic-left-analog} i prems {:icon dynamic-square},
@@ -9088,14 +9102,14 @@
   text: >-
     Ordre Límit que s'executa
 
-    prement {:icon dynamic-triangle} després d'un combo aeri.
+    prement {:icon dynamic-triangle} després d'un atac aeri.
 
     {:color #F0F00080}Cost PM:{:width 100} 80{:reset}
 - id: 20117
   text: Zantetsuken
 - id: 20118
   text: >-
-    Llença un poderós combo final
+    Llença un poderós atac final
 
     per eliminar un únic rival
 
@@ -9113,9 +9127,9 @@
   text: Ràfega huracanada
 - id: 20122
   text: >-
-    Mentre gires a l'aire, llença
+    Mentre gires a l'aire,
 
-    un poderós combo final
+    llença un poderós atac final
 
     colpejant a tort i a dret.
 - id: 20123
@@ -9124,7 +9138,7 @@
   text: >-
     Guanyes un punt d'experiència cada
 
-    vegada que llences un poderós combo final.
+    cop que llences un poderós atac final.
 - id: 20125
   text: >-
     Experiència necessària per pujar de nivell.
@@ -9300,7 +9314,7 @@
 - id: 20226
   text: Sacsejada
 - id: 20227
-  text: Remat
+  text: Rematada
 - id: 20228
   text: Tret diví
 - id: 20229
@@ -9355,9 +9369,9 @@
 - id: 20343
   text: Un mapa del lloc.
 - id: 20364
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20392
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20393
   text: Peça de «Cor»
 - id: 20394
@@ -9365,7 +9379,7 @@
 - id: 20395
   text: Peça de «Cor»
 - id: 20396
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20397
   text: Prova de Connexió
 - id: 20398
@@ -9404,23 +9418,23 @@
 - id: 20407
   text: Passa la pàgina
 - id: 20408
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20409
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20410
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20411
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20412
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20413
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20416
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20418
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20419
-  text: Peça de «El despertar»
+  text: Peça d'«El despertar»
 - id: 20422
   text: Peça de «Llums i ombres»
 - id: 20423
@@ -9591,129 +9605,129 @@
 - id: 20537
   text: Una més
 - id: 20538
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20551
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20555
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20558
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20561
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20564
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20571
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20574
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20576
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20577
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20579
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20580
-  text: Peça de «Al caire»
+  text: Peça d'«Al caire»
 - id: 20623
   text: Anell Suprem
 - id: 20624
   text: Augmenta enormement els PH màxims.
 - id: 20626
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20627
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20628
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20629
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20630
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20631
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20632
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20633
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20634
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20635
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20636
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20637
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20640
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20642
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20643
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20644
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20645
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20646
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20647
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20648
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20653
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20654
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20656
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20657
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20658
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20659
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20660
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20661
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20662
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20663
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20664
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20665
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20666
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20667
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20668
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20669
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20670
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20671
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20672
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20673
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20675
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20676
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20677
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20678
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20679
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20680
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20681
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20682
-  text: Peça de «El crepuscle»
+  text: Peça d'«El crepuscle»
 - id: 20683
   text: Aconsegueix 50 tipus de materials.
 - id: 20684
@@ -9725,7 +9739,7 @@
 - id: 20694
   text: Forceja
 - id: 20695
-  text: Escometre
+  text: Escomet
 - id: 21364
   text: Vista amunt
 - id: 21375
@@ -9757,7 +9771,7 @@
 - id: 21568
   text: Nou Regne
 - id: 21569
-  text: Falàcia
+  text: Fal・làcia
 - id: 21570
   text: Dubte
 - id: 21571
@@ -9980,7 +9994,7 @@
 
     {:icon dynamic-left-analog}
 
-    Moure endavant/enrere/esquerra/dreta
+    Mou endavant/enrere/esquerra/dreta
 - id: 22024
   text: >-
     {:icon dynamic-r2} {:color #FFEC1980}Fixa càmera{:reset}
@@ -10097,9 +10111,9 @@
   text: "Amb {:icon dynamic-triangle} {:color #FFEC1980}dispares tots els rajos{:reset} de l'{:color #00FA3080}indicador{:reset}!"
 - id: 22055
   text: >-
-    Quan tinguis dos tipus de {:color #FFEC1980}gumi-rajos{:reset}, prem
+    Quan tinguis dos tipus de {:color #FFEC1980}gumi-llamps{:reset}, prem
 
-    ràpid {:icon dynamic-triangle} i llençaràs un {:color #00FA3080}combo-raig{:reset}!
+    ràpid {:icon dynamic-triangle} i llençaràs un {:color #00FA3080}llampatac{:reset}!
 - id: 22056
   text: >-
     Prem {:icon dynamic-l2} i {:icon dynamic-r2}  per canviar la {:color #00FA3080}formació{:reset}

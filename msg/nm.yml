@@ -282,9 +282,9 @@
   text: El Nadal té problemes!
 - id: 5862
   text: >-
-    Òndia! No podem deixar
+    Òndia! No podem deixar que
 
-    que li passi res al Nadal.
+    li passi res, al Nadal.
 - id: 5863
   text: Allà és on viu el Pare Cruel.
 - id: 5864
@@ -308,10 +308,10 @@
 - id: 5870
   text: Què diu del Donald i el Goofy?
 - id: 5871
-  text: Si senyor!
+  text: Sí senyor!
 - id: 5872
   text: >-
-    Soc jo a la seva llista?
+    Jo hi soc, a la seva llista?
 
     Soc el Jack!
 - id: 5873
@@ -458,9 +458,9 @@
 - id: 5920
   text: '{:unk13 2C 01 64 00}{:unk06 00}{:unk08 01 00 06}Que divertit!'
 - id: 5921
-  text: '{:unk13 04 01 78 00}{:unk06 00}{:unk08 01 01 06}Aneu a veure si el Sr. Sac és a punt!'
+  text: '{:unk13 04 01 78 00}{:unk06 00}{:unk08 01 01 06}Anem a veure si el Sr. Sac està a punt!'
 - id: 5922
-  text: '{:unk13 DD 00 36 00}{:unk06 02}{:unk08 03 00 05}Home del Sac!?'
+  text: "{:unk13 DD 00 36 00}{:unk06 02}{:unk08 03 00 05}L'Home del Sac!?"
 - id: 5923
   text: >-
     {:unk13 6C 01 61 00}{:unk06 00}{:unk08 01 00 05}No és el mateix que un
@@ -1313,7 +1313,7 @@
 
     recuperar, puix atacaran per separat.
 - id: 7978
-  text: Be, hi esteu tots a punt?
+  text: Bé, esteu tots a punt?
 - id: 7979
   text: >-
     {:unk13 00 01 40 01}{:unk08 02 00 06}Ajudem amb els regals?
@@ -1514,9 +1514,9 @@
   text: >-
     Què us sembla la vista? Bonica, no?
 
-    A Vila Halloween no hi ha res així.{:clear }Bé, {:theme 0A}la casa del Pare Cruel {:reset}és allà
+    A Vila Halloween no hi ha res així.{:clear }Bé, {:theme 0A}la casa del Pare Cruel{:reset}
 
-    davant. Va, som-hi.
+    és allà davant. Va, som-hi.
 - id: 16717
   text: >-
     Vaja! Mireu aquest lloc!
@@ -1733,7 +1733,7 @@
   text: >-
     «Els cavallets funcionen malament a
 
-    causa d'un raig. Ara són perillosos.»
+    causa d'un llamp. Ara són perillosos.»
 - id: 16858
   text: >-
     El Pare Cruel

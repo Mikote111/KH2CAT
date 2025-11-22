@@ -5137,9 +5137,9 @@
   text: >-
     Ei! Com va el teu viatge?
 
-    Per aquí no hi ha moltes novetats.{:clear }L'organitzador de l'Struggle
+    Per aquí no hi ha gaires novetats.{:clear }L'organitzador de l'Struggle prepara
 
-    prepara alguna cosa. Fes-hi un cop d'ull.
+    alguna cosa. Fes-hi un cop d'ull.
 - id: 17946
   text: >-
     Sora! Donald! Goofy!
@@ -5231,7 +5231,7 @@
   text: >-
     No et preocupis, estarem de guàrdia
 
-    aquí. Fes-li un cop d'ull a aquella mansió!
+    aquí. Fes un cop d'ull a aquella mansió!
 - id: 17972
   text: >-
     No puc creure que en aquesta mansió
@@ -5243,9 +5243,9 @@
   text: >-
     Jo m'encarrego d'aquest món!
 
-    Si us trobeu en problemes, torneu-ne.{:clear }Aquell aparell hauria de
+    Si us trobeu en problemes, torneu.{:clear }Aquell aparell hauria de
 
-    poder tornar-vos-en.
+    poder tornar-vos.
 - id: 17974
   text: >-
     Aquesta mansió és aterridora. Segur
@@ -5289,9 +5289,9 @@
     ens ataquin més durant una estona.{:clear }Aprofiteu per registrar la mansió!
 - id: 17981
   text: >-
-    Un sabor de gelat? Serà el d'aquell
+    Un sabor de gelat? Deu ser el d'aquell
 
-    que acostumàvem a prendre sempre?{:clear }Dolç i salat... Deliciós!
+    que acostumàvem a menjar sempre?{:clear }Dolç i salat... Deliciós!
 
     Ha de ser aquell!
 - id: 17982
@@ -5484,21 +5484,21 @@
   text: Veus una escriptura borrosa.
 - id: 18431
   text: >-
-    Lluitar contra el Hayner?{:chardelay 33 00}No.
+    Lluites contra el Hayner?{:chardelay 33 00}No.
 
     {:chardelay 09 00}Lluitem!
 - id: 18432
   text: Veus una escriptura borrosa.
 - id: 18433
   text: >-
-    Lluitar contra el Setzer?{:chardelay 33 00}No.
+    Lluites contra el Setzer?{:chardelay 33 00}No.
 
     {:chardelay 09 00}Lluitem!
 - id: 18434
   text: Veus una escriptura borrosa.
 - id: 18435
   text: >-
-    Lluitar contra el Seifer?{:chardelay 33 00}No.
+    Lluites contra el Seifer?{:chardelay 33 00}No.
 
     {:chardelay 09 00}Lluitem!
 - id: 18436
@@ -5564,9 +5564,9 @@
   text: >-
     Has de vèncer el Seifer!
 
-    Executa atacs succesius i
+    Executa atacs successius i
 
-    llençaràs un poderós combo!
+    llençaràs un poderós atac!
 - id: 18598
   text: >-
     Enfronta't a l'enemic misteriós!
@@ -6048,27 +6048,27 @@
   text: >-
     {:unk08 02 00 06}{:chardelay 33 00}No.
 
-    {:chardelay 09 00}Lluitar contra Hayner.
+    {:chardelay 09 00}Lluita contra el Hayner.
 - id: 19142
   text: Vols participar a l'Struggle?
 - id: 19143
   text: >-
     {:unk08 02 00 06}{:chardelay 33 00}No.
 
-    {:chardelay 09 00}Lluitar contra el Hayner.
+    {:chardelay 09 00}Lluita contra el Hayner.
 
-    {:chardelay 0A 00}Lluitar contra el Setzer.
+    {:chardelay 0A 00}Lluita contra el Setzer.
 - id: 19144
   text: Vols participar a l'Struggle?
 - id: 19145
   text: >-
     {:chardelay 33 00}No.
 
-    {:chardelay 09 00}Lluitar contra el Hayner.
+    {:chardelay 09 00}Lluita contra el Hayner.
 
-    {:chardelay 0A 00}Lluitar contra el Setzer.
+    {:chardelay 0A 00}Lluita contra el Setzer.
 
-    {:chardelay 0B 00}Lluitar contra el Seifer.
+    {:chardelay 0B 00}Lluita contra el Seifer.
 - id: 19146
   text: >-
     L'Struggle R ha començat! Pots
@@ -6085,7 +6085,7 @@
     quantes vegades més.
 - id: 19148
   text: >-
-    Bravo! Ets a punt per
+    Bravo! Estàs a punt per
 
     enfrontar-te al Seifer!{:clear }Pots lluitar a l'Struggle quan
 

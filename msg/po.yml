@@ -625,7 +625,7 @@
     aquell bot tan boter?
 - id: 4825
   text: >-
-    Vaja! Creia que t'havia
+    Vaja! Em pensava que t'havia
 
     atrapat un monstre.
 - id: 4826
@@ -1063,7 +1063,7 @@
     d'anar a buscar el Pooh.
 - id: 7934
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Anar a buscar a Pooh?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Anem a buscar el Pooh?
 
     {:chardelay 33 00}Pensem-nos-ho dos cops.
 
@@ -1148,10 +1148,10 @@
   text: >-
     Vull anar amb tots a fer-hi un cop d'ull.
 
-    Ajudaràs tu també, Sora?
+    Hi ajudaràs tu també, Sora?
 - id: 16093
   text: >-
-    {:unk13 00 01 40 01}{:unk08 02 00 06}Anar a buscar-lo?
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Anem a buscar-lo?
 
     {:chardelay 33 00}Tinc coses a fer.
 
