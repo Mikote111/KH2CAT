@@ -7,7 +7,7 @@
 - id: 20246
   text: La «cosa» robada
 - id: 20247
-  text: Seifer i la seva tropa
+  text: El Seifer i la seva tropa
 - id: 20248
   text: El lladre!?
 - id: 20249
@@ -23,7 +23,7 @@
 - id: 20254
   text: Cegat per la llum
 - id: 20255
-  text: DiZ i el desconegut
+  text: El DiZ i el desconegut
 - id: 20256
   text: 'Segon dia: La vida continua'
 - id: 20257
@@ -39,7 +39,7 @@
 - id: 20262
   text: Feines d'estiu
 - id: 20263
-  text: Calés de sobres
+  text: Calés de sobra
 - id: 20264
   text: Torna el desconegut
 - id: 20265
@@ -57,13 +57,13 @@
 - id: 20698
   text: La jove de blanc
 - id: 20699
-  text: El fi de la il・lusió
+  text: La fi de la il・lusió
 - id: 20700
   text: La nota del Hayner
 - id: 20701
   text: Cara a cara
 - id: 20702
-  text: Seguint la noia misteriosa
+  text: Rere la noia misteriosa
 - id: 20703
   text: Emboscada
 - id: 20704
@@ -83,7 +83,7 @@
 - id: 20711
   text: Tornada a la realitat
 - id: 20712
-  text: Ho sento...
+  text: Em sap greu...
 - id: 20713
   text: La promesa d'ahir
 - id: 20714
@@ -123,11 +123,11 @@
 - id: 20732
   text: La Kairi arrenca a còrrer
 - id: 20733
-  text: Una carta per ell
+  text: Una carta per a ell
 - id: 20734
   text: Es diu Ànsem
 - id: 20735
-  text: Fent-se càrrec del traïdor
+  text: Fer-se càrrec del traïdor
 - id: 20736
   text: 'Cinquè dia: Res és com era'
 - id: 20737
@@ -141,9 +141,9 @@
 - id: 20741
   text: Travessia en tren
 - id: 20742
-  text: Desmentint la Primera Meravella
+  text: Primera Meravella desmentida
 - id: 20743
-  text: En busca de les altres Meravelles
+  text: La cerca de les altres Meravelles
 - id: 20744
   text: La Sisena Meravella
 - id: 20745
@@ -213,7 +213,7 @@
 - id: 20777
   text: Amics en letargia
 - id: 20778
-  text: DiZ, el vassall del món
+  text: El DiZ, el vassall del món
 - id: 20779
   text: Les meves vacances d'estiu...
 - id: 20780
@@ -263,7 +263,7 @@
 - id: 20802
   text: 'Baluard Balmat: Aglomeració de penombra'
 - id: 20803
-  text: Pete desil・lusionat
+  text: El Pete desil・lusionat
 - id: 20804
   text: Arribada a Baluard Balmat
 - id: 20805
@@ -297,15 +297,15 @@
 - id: 20819
   text: Els sentinelles del llindar
 - id: 20820
-  text: Via lliure cap el calabós
+  text: Via lliure cap al calabós
 - id: 20821
   text: Vassalls captius
 - id: 20822
   text: La veritat de l'encanteri
 - id: 20823
-  text: La tentació de l'Organització {XIII}
+  text: La temptació de l'Organització {XIII}
 - id: 20824
-  text: Bestia torna a ser-hi tot
+  text: La Bèstia torna a ser-hi tota
 - id: 20825
   text: La damisel・la en destret
 - id: 20826
@@ -313,7 +313,7 @@
 - id: 20827
   text: Espines tenebroses
 - id: 20828
-  text: El darrer sospir del sense-cor
+  text: El darrer sospir del sensecor
 - id: 20829
   text: Un raig d'esperança
 - id: 20830
@@ -345,9 +345,9 @@
 - id: 20843
   text: El gran Hèrcules
 - id: 20844
-  text: Perduts a l'Inframón
+  text: Perduts a l'Inframon
 - id: 20845
-  text: Megara
+  text: La Megara
 - id: 20846
   text: En cerca de l'Hades
 - id: 20847
@@ -359,7 +359,7 @@
 - id: 20850
   text: La sendera dels difunts
 - id: 20851
-  text: Auron, el guerrer de l'Inframón
+  text: Auron, el guerrer de l'Inframon
 - id: 20852
   text: Adeu al semidéu
 - id: 20853
@@ -367,11 +367,11 @@
 - id: 20854
   text: El guardià llegendari
 - id: 20855
-  text: Aquest és el MEU Inframón!
+  text: L'Inframon em pertany!
 - id: 20856
   text: Cèrber, el guardià de les portes de l'infern
 - id: 20857
-  text: Fugint a tot vent
+  text: Fugida a tot vent
 - id: 20858
   text: Un heroi abatut
 - id: 20859
@@ -391,9 +391,9 @@
 - id: 20866
   text: La Meg és segrestada!
 - id: 20867
-  text: Retorn a l'Inframón
+  text: Retorn a l'Inframon
 - id: 20868
-  text: Hèrcules contra l'Hidra
+  text: L'Hèrcules contra l'Hidra
 - id: 20869
   text: Enfrontament contra el Dèmyx
 - id: 20870
@@ -405,9 +405,9 @@
 - id: 20873
   text: Un autèntic heroi
 - id: 20874
-  text: Socorrent a l'heroi
+  text: Socórrer l'heroi
 - id: 20875
-  text: Sumant forces
+  text: Suma de forces
 - id: 20876
   text: L'última riallada
 - id: 20877
@@ -431,9 +431,9 @@
 - id: 20886
   text: La reina Minnie
 - id: 20887
-  text: La sala d'audiencies
+  text: La sala d'audiències
 - id: 20888
-  text: Plaga de sense-cor
+  text: Plaga de sensecor
 - id: 20889
   text: L'entrada secreta
 - id: 20890
@@ -483,21 +483,21 @@
 - id: 20912
   text: 'Finestra temporal: El culpable de tot'
 - id: 20913
-  text: Traient conclusions
+  text: Les conclusions
 - id: 20914
   text: El vaixell de vapor
 - id: 20915
-  text: Pete a la fuga
+  text: El Pete a la fuga
 - id: 20916
   text: Pete per partida doble
 - id: 20917
-  text: Clausurant el portal temporal
+  text: La clausura del portal temporal
 - id: 20918
   text: Tots a bord!
 - id: 20919
-  text: Tornant al nostre món
+  text: Tornada al nostre món
 - id: 20920
-  text: El castillo és fora de perill
+  text: El castell és fora de perill
 - id: 20921
   text: 'Port Royal {I}: Pirates i tenebres'
 - id: 20922
@@ -507,7 +507,7 @@
 - id: 20924
   text: A la lum de la lluna
 - id: 20925
-  text: Anant darrere el Barbossa
+  text: Rere el Barbossa
 - id: 20926
   text: L'Elizabeth i el Will
 - id: 20927
@@ -517,11 +517,11 @@
 - id: 20929
   text: El medalló maleït
 - id: 20930
-  text: La Isla de Muerta
+  text: L'Isla de Muerta
 - id: 20931
   text: El ritual
 - id: 20932
-  text: Preparant-se per llevar àncores
+  text: Prepareu-vos per llevar àncores
 - id: 20933
   text: El senyal
 - id: 20934
@@ -529,7 +529,7 @@
 - id: 20935
   text: El que ha passat a l'illa
 - id: 20936
-  text: Mai te'n refiïs d'un pirata
+  text: Mai et fiïs d'un pirata
 - id: 20937
   text: La sang dels Turner
 - id: 20938
@@ -537,13 +537,13 @@
 - id: 20939
   text: Atac a l'Interceptor
 - id: 20940
-  text: Negociant
+  text: Negociació
 - id: 20941
   text: L'argúcia del Barbossa
 - id: 20942
-  text: Direcció a la Isla de Muerta
+  text: Direcció a l'Isla de Muerta
 - id: 20943
-  text: Jack vs. Barbossa
+  text: El Jack vs. el Barbossa
 - id: 20944
   text: L'etern repòs
 - id: 20945
@@ -555,13 +555,13 @@
 - id: 20948
   text: En Iago dona un cop de mà
 - id: 20949
-  text: Buscant l'Aladdín
+  text: En cerca de l'Aladí
 - id: 20950
-  text: La princesa Jasmine
+  text: La princesa Jasmin
 - id: 20951
   text: El lladre de llàntia
 - id: 20952
-  text: L'Aladdín i l'Abú
+  text: L'Aladí i l'Abú
 - id: 20953
   text: La llàntia d'en Jafar
 - id: 20954
@@ -591,11 +591,11 @@
 - id: 20966
   text: Fins aviat
 - id: 20967
-  text: 'Ciutat del Halloween {I}: Arriba el nadal'
+  text: 'Vila Halloween {I}: Arriba Nadal'
 - id: 20968
   text: Jack Skelleton
 - id: 20969
-  text: Benvinguts a Ciutat del Halloween
+  text: Benvinguts a Vila Halloween
 - id: 20970
   text: Bon Nadal
 - id: 20971
@@ -609,37 +609,37 @@
 - id: 20975
   text: En marxa!
 - id: 20976
-  text: La porta del nadal
+  text: La porta de Nadal
 - id: 20977
-  text: Ciutat del nadal
+  text: Vila Nadal
 - id: 20978
-  text: Més sense-cor
+  text: Més sensecor
 - id: 20979
-  text: El nadal perilla!
+  text: El Nadal perilla!
 - id: 20980
   text: La casa del Pare Noel
 - id: 20981
   text: Tres diablets trapelles
 - id: 20982
-  text: Seguint el rastre
+  text: Seguir el rastre
 - id: 20983
   text: El cervell causant
 - id: 20984
-  text: L'Oogie Boogie ha tornat!
+  text: L'Home del Sac ha tornat!
 - id: 20985
   text: Diablets escorredissos
 - id: 20986
-  text: La Malèfica i l'Oogie
+  text: La Malèfica i l'Home del Sac
 - id: 20987
   text: El segrest del Pare
 - id: 20988
-  text: Oh Oogie, ja hi tornem a ser...
+  text: Oh Saquet, ja hi tornem a ser...
 - id: 20989
   text: Fum al taller
 - id: 20990
   text: Hem de salvar el Pare Noel!
 - id: 20991
-  text: La fi de l'Oogie Boogie
+  text: La fi de l'Home del Sac
 - id: 20992
   text: Cadascú amb els seus afers
 - id: 20993
@@ -647,11 +647,11 @@
 - id: 20994
   text: El malson del Simba
 - id: 20995
-  text: Nit a l'oasis
+  text: Nit a l'oasi
 - id: 20996
   text: La llei de la selva
 - id: 20997
-  text: Nala en perill
+  text: La Nala en perill
 - id: 20998
   text: El que el regne necessita
 - id: 20999
@@ -667,7 +667,7 @@
 - id: 21004
   text: La pista del vent
 - id: 21005
-  text: El Rafiki senyalitza el camí
+  text: El Rafiki assenyala el camí
 - id: 21006
   text: Retrobament amb el Simba
 - id: 21007
@@ -683,11 +683,11 @@
 - id: 21012
   text: La confessió de l'Scar
 - id: 21013
-  text: Buscant en Simba
+  text: A la recerca d'en Simba
 - id: 21014
   text: Desafiament al cim
 - id: 21015
-  text: Tancant ferides del passat
+  text: Tancar les ferides del passat
 - id: 21016
   text: El nou rei
 - id: 21017
@@ -701,11 +701,11 @@
 - id: 21021
   text: El Bosc dels Cent Acres
 - id: 21022
-  text: La casa del Pooh
+  text: Ca'l Pooh
 - id: 21023
   text: Retrobament amb sorpreses
 - id: 21024
-  text: Els sense-cor ataquen
+  text: Els sensecor ataquen
 - id: 21025
   text: El robatori del llibre
 - id: 21026
@@ -713,11 +713,11 @@
 - id: 21027
   text: Tornada al bosc
 - id: 21028
-  text: Estarà bé el Pooh?
+  text: Deu estar bé, el Pooh?
 - id: 21029
-  text: Alguna cosa no rutlla bé
+  text: Alguna cosa no rutlla
 - id: 21030
-  text: Memories perdudes
+  text: Memòries perdudes
 - id: 21031
   text: La casa del Piglet
 - id: 21032
@@ -741,7 +741,7 @@
 - id: 21041
   text: Pàgina del Conill restaurada
 - id: 21042
-  text: La casa del Cangu i el Ret
+  text: La casa de la Cangu i el Ret
 - id: 21043
   text: Hem d'ajudar el Pooh
 - id: 21044
@@ -751,17 +751,17 @@
 - id: 21046
   text: El somni del Pooh
 - id: 21047
-  text: Pàagina del Cangu i el Ret restaurada
+  text: Pàgina de la Cangu i el Ret restaurada
 - id: 21048
   text: La cova tenebrosa
 - id: 21049
-  text: Buscant el Pooh
+  text: En cerca del Pooh
 - id: 21050
-  text: El Pooh és sa i estalvi
+  text: El Pooh està sa i estalvi
 - id: 21051
   text: Pàgina de la cova tenebrosa restaurada
 - id: 21052
-  text: El turó de les estrelles
+  text: El turó dels estels
 - id: 21053
   text: Què fas?
 - id: 21054
@@ -781,13 +781,13 @@
 - id: 21061
   text: El pesar del Rei Tritó
 - id: 21062
-  text: El príncep busca a l'Ariel
+  text: El príncep busca l'Ariel
 - id: 21063
   text: El Flounder té una idea
 - id: 21064
   text: Capítol Dos
 - id: 21065
-  text: L'estatua del príncep
+  text: L'estàtua del príncep
 - id: 21066
   text: Part del teu món
 - id: 21067
@@ -811,7 +811,7 @@
 - id: 21076
   text: Units pel destí
 - id: 21077
-  text: Cuidant l'Ariel
+  text: Vetllem per l'Ariel
 - id: 21078
   text: Passeig per la platja
 - id: 21079
@@ -831,9 +831,9 @@
 - id: 21086
   text: L'albada d'un nou dia
 - id: 21087
-  text: Els nostres mons continuen conectats
+  text: Els nostres mons continuen connectats
 - id: 21088
-  text: 'Vila Crepuscle: Buscant amics'
+  text: "Vila Crepuscle: En cerca d'amics"
 - id: 21089
   text: A través del portal
 - id: 21090
@@ -859,7 +859,7 @@
 - id: 21100
   text: 'Baluard Balmat: El món dels programes'
 - id: 21101
-  text: Un mal presentiment
+  text: Un mal pressentiment
 - id: 21102
   text: La determinació del Cloud
 - id: 21103
@@ -875,7 +875,7 @@
 - id: 21108
   text: Espai Paranoic
 - id: 21109
-  text: Tron
+  text: El Tron
 - id: 21110
   text: L'objectiu del PCM
 - id: 21111
@@ -885,11 +885,11 @@
 - id: 21113
   text: Energia restablerta
 - id: 21114
-  text: Obrint-se el pas
+  text: Obrir-se el pas
 - id: 21115
   text: La petició del Tron
 - id: 21116
-  text: Buscant la contrasenya
+  text: En cerca de la contrasenya
 - id: 21117
   text: El retrat misteriós
 - id: 21118
@@ -905,11 +905,11 @@
 - id: 21123
   text: La contrasenya és...
 - id: 21124
-  text: Guanyant temps
+  text: Guanyar temps
 - id: 21125
-  text: Enfrontant el perill
+  text: Enfrontar el perill
 - id: 21126
-  text: Eliminant el programa
+  text: Eliminar el programa
 - id: 21127
   text: El Tron i l'Ànsem
 - id: 21128
@@ -919,9 +919,9 @@
 - id: 21130
   text: "Baluard Balmat: L'hora de la veritat"
 - id: 21131
-  text: Buscant entre les dades
+  text: Cerca entre les dades
 - id: 21132
-  text: Ànsem, el cercador de la foscor
+  text: L'Ànsem, el cercador de la foscor
 - id: 21133
   text: La identitat de l'Ànsem
 - id: 21134
@@ -931,9 +931,9 @@
 - id: 21136
   text: Gavines?
 - id: 21137
-  text: Sephiroth
+  text: El Sefirot
 - id: 21138
-  text: L'Aerith i el Leon
+  text: L'Aeris i el Leon
 - id: 21139
   text: Cap al pati interior!
 - id: 21140
@@ -941,7 +941,7 @@
 - id: 21141
   text: La gran batalla de Baluard Balmat
 - id: 21142
-  text: Les heroïnes Yuffie i Aerith
+  text: Les heroïnes Yuffie i Aeris
 - id: 21143
   text: L'Stitch dona un cop de mà
 - id: 21144
@@ -953,13 +953,13 @@
 - id: 21147
   text: El grup acut al rescat
 - id: 21148
-  text: Ignorant ordres
+  text: Ignorar ordres
 - id: 21149
   text: La sala oculta
 - id: 21150
   text: La Cambra del Repòs
 - id: 21151
-  text: Dèmyx
+  text: El Dèmyx
 - id: 21152
   text: Compte!
 - id: 21153
@@ -1029,25 +1029,25 @@
 - id: 21185
   text: El causant del terrabastall
 - id: 21186
-  text: Jinete de tormentas
+  text: Cavaller de la tempesta
 - id: 21187
   text: Focs artificials
 - id: 21188
   text: La millor recompensa
 - id: 21189
-  text: "Coliseu de l'Olimp {II}: Batalla a l'Inframón"
+  text: "Coliseu de l'Olimp {II}: Batalla a l'Inframon"
 - id: 21190
   text: Benvinguts a l'Infernòdrom
 - id: 21191
   text: La Copa Hades
 - id: 21192
-  text: Cap els finals
+  text: Cap a la final
 - id: 21193
   text: La titella de l'Hades
 - id: 21194
   text: Hem de trobar el ninot
 - id: 21195
-  text: Hèrcules vs. Auron
+  text: L'Hèrcules vs. l'Auron
 - id: 21196
   text: La història de l'Auron
 - id: 21197
@@ -1067,9 +1067,9 @@
 - id: 21204
   text: "Port Royal {II}: L'or maleït"
 - id: 21205
-  text: Ombra aguaitant
+  text: Ombra a l'aguait
 - id: 21206
-  text: Un altre vegada al Port Royal
+  text: Un altre cop a Port Royal
 - id: 21207
   text: A la manera del Jack Sparrow
 - id: 21208
@@ -1077,7 +1077,7 @@
 - id: 21209
   text: L'Interceptor
 - id: 21210
-  text: Què li ha passat al Will?
+  text: Què li ha passat, al Will?
 - id: 21211
   text: Abordatge
 - id: 21212
@@ -1089,7 +1089,7 @@
 - id: 21215
   text: La capitana Elizabeth
 - id: 21216
-  text: Buscant la resta d'or
+  text: En cerca de la resta d'or
 - id: 21217
   text: On és l'arca?
 - id: 21218
@@ -1097,7 +1097,7 @@
 - id: 21219
   text: El Luxord s'escapa
 - id: 21220
-  text: Cap el fons del mar
+  text: Cap al fons del mar
 - id: 21221
   text: 'Agrabah {II}: El retorn del Jafar'
 - id: 21222
@@ -1113,13 +1113,13 @@
 - id: 21227
   text: L'alfombra màgica
 - id: 21228
-  text: A pel Jafar!
+  text: Al Jafar!
 - id: 21229
   text: Batalla aèria
 - id: 21230
   text: L'interruptor
 - id: 21231
-  text: Obrint la porta
+  text: La porta s'obre
 - id: 21232
   text: La confessió del Iago
 - id: 21233
@@ -1133,11 +1133,11 @@
 - id: 21237
   text: '«El trobareu»'
 - id: 21238
-  text: 'Ciudad de Halloween {II}: El regal'
+  text: 'Vila Halloween {II}: El regal'
 - id: 21239
   text: El mal arterós
 - id: 21240
-  text: Donant un cop de mà
+  text: Un cop de mà
 - id: 21241
   text: Regals robats
 - id: 21242
@@ -1155,13 +1155,13 @@
 - id: 21248
   text: On deixem els regals?
 - id: 21249
-  text: La genial idea del Jack
+  text: La idea genial del Jack
 - id: 21250
   text: El cimbell
 - id: 21251
   text: El pobre experiment
 - id: 21252
-  text: Bon nadal!
+  text: Bon Nadal!
 - id: 21253
   text: 'Terres del Regne {II}: El nou rei'
 - id: 21254
@@ -1169,7 +1169,7 @@
 - id: 21255
   text: El fantasma de l'Scar
 - id: 21256
-  text: La pasivitat del rei
+  text: La passivitat del rei
 - id: 21257
   text: La frustració del Simba
 - id: 21258
@@ -1185,7 +1185,7 @@
 - id: 21263
   text: El significat de ser rei
 - id: 21264
-  text: Deixant el passat enrere
+  text: Deixar el passat enrere
 - id: 21265
   text: El Terratrèmol atroç ataca
 - id: 21266
@@ -1195,7 +1195,7 @@
 - id: 21268
   text: 'Baluard Balmat: El jardí de llum'
 - id: 21269
-  text: Més sense-cor?
+  text: Més sensecor?
 - id: 21270
   text: Dos mons sobreposats
 - id: 21271
@@ -1203,7 +1203,7 @@
 - id: 21272
   text: Mentrestant, a l'estudi...
 - id: 21273
-  text: Fàbrica de sense-cor
+  text: Fàbrica de sensecor
 - id: 21274
   text: Sistema descontrolat
 - id: 21275
@@ -1215,13 +1215,13 @@
 - id: 21278
   text: Uns i zeros
 - id: 21279
-  text: Els sense-cor al control
+  text: Els sensecor al control
 - id: 21280
   text: A la xarxa de joc
 - id: 21281
   text: Programa finalitzat
 - id: 21282
-  text: Tron en perill
+  text: El Tron en perill
 - id: 21283
   text: Una guerra a evitar
 - id: 21284
@@ -1229,7 +1229,7 @@
 - id: 21285
   text: Només una mica més
 - id: 21286
-  text: Carregant dades
+  text: Càrrega de dades
 - id: 21287
   text: Dades rebudes
 - id: 21288
@@ -1249,15 +1249,15 @@
 - id: 21295
   text: Pilars de llum
 - id: 21296
-  text: Pluja de lums
+  text: Pluja de llum
 - id: 21297
   text: Verger Radiant
 - id: 21298
-  text: Cloud vs. Sephiroth
+  text: El Cloud vs. el Sefirot
 - id: 21299
   text: L'àngel unialat
 - id: 21300
-  text: El missatge del Sephiroth
+  text: El missatge del Sefirot
 - id: 21301
   text: La resposta del Cloud
 - id: 21302
@@ -1295,17 +1295,17 @@
 - id: 21318
   text: 'El Món Que Mai Fou: El destí dels cors'
 - id: 21319
-  text: El món que mai va ser
+  text: El món que mai fou
 - id: 21320
   text: El seu despertar
 - id: 21321
-  text: Perquè t'ha escollit a tu?
+  text: Per què t'hi ha triat, a tu!?
 - id: 21322
   text: Roxas
 - id: 21323
   text: Adeu, camarada...
 - id: 21324
-  text: Hora de dormir
+  text: L'hora de dormir
 - id: 21325
   text: Un bon altre
 - id: 21326
@@ -1315,7 +1315,7 @@
 - id: 21328
   text: Passarel・la al castell
 - id: 21329
-  text: El castell el inexistent
+  text: El castell inexistent
 - id: 21330
   text: Riku
 - id: 21331
@@ -1323,13 +1323,13 @@
 - id: 21332
   text: La revelació del DiZ
 - id: 21333
-  text: Xigbar, el Franctirador
+  text: El Xigbar, el Franctirador
 - id: 21334
   text: De camí
 - id: 21335
-  text: El Regne dels Cors aviat serà a punt
+  text: El Regne dels Cors aviat estarà a punt
 - id: 21336
-  text: Erets tu!
+  text: Eres tu!
 - id: 21337
   text: La gosadia de l'Ànsem
 - id: 21338
@@ -1339,25 +1339,25 @@
 - id: 21340
   text: Un camí s'obre
 - id: 21341
-  text: Saïx, l'àugur Lunar
+  text: El Saïx, l'àugur Lunar
 - id: 21342
   text: Amics de cor
 - id: 21343
   text: Com va començar tot
 - id: 21344
-  text: Tant de bó el pogués conèixer jo també...
+  text: Tant de bo el pogués conèixer jo també...
 - id: 21345
   text: Una nova senda
 - id: 21346
   text: El sacrifici de l'Ànsem
 - id: 21347
-  text: Hordes de sense-cor
+  text: Hordes de sensecor
 - id: 21348
   text: El Riku torna a ser ell
 - id: 21349
   text: La Malèfica i el Pete
 - id: 21350
-  text: Perquè odies la foscor?
+  text: Per què odies la foscor?
 - id: 21351
   text: Cara a cara
 - id: 21352
@@ -1365,7 +1365,7 @@
 - id: 21353
   text: La porta al Kingdom Hearts
 - id: 21354
-  text: Obrint la porta
+  text: Obrir la porta
 - id: 21355
   text: A la foscor de la ciutat
 - id: 21356

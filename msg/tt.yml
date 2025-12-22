@@ -1921,7 +1921,7 @@
 
     se n'ha anat per sempre.
 - id: 13580
-  text: No em facis venir per deixar-me fora!
+  text: Em fa venir i em deixa a fora!
 - id: 13581
   text: Aquesta Organització {XIII}...{:delay 6F 00}{:clear }no és res bo.
 - id: 13582
@@ -3042,7 +3042,7 @@
   text: >-
     {:delay 54 00}{:clear }He enviat els meus lacais dins{:delay A3 00}{:clear }a veure si l'amo d'aquesta torre
 
-    es tan gran i{:delay A7 00}{:clear } tan dur com diuen.
+    es tan gran i tan dur com diuen.
 - id: 14446
   text: >-
     Diuen que és un bruixot
@@ -3075,7 +3075,7 @@
   text: >-
     Què faig parlant amb vosaltres,
 
-    mocosos?{:delay 9C 00}{:clear } Fora! Ja vaig amb prou retràs.
+    mocosos?{:delay 9C 00}{:clear } Fora! Ja vaig amb prou retard.
 - id: 14452
   text: >-
     Hauries de buscar-te
@@ -3098,7 +3098,7 @@
   text: El coneixeu?
 - id: 14459
   text: >-
-    És clar que sí! El Pete porta 
+    És clar que sí! El Pete ha estat 
 
     tota la vida causant problemes!
 - id: 14460

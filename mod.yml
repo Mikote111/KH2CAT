@@ -396,14 +396,17 @@ assets:
     source:
     - name: remastered/menu/title.2ld/CA_title_2ld11.png
 
-  # MENÚ PER GUARDAR
+  # MENÚ PER DESAR
   - name: remastered/menu/sp/save.2ld/SP_save_2ld0.png
     method: copy
     platform: pc
     package: kh2_first
     source:
     - name: remastered/menu/save.2ld/CA_save_2ld0.png
+  #MENÚ TEATRE
   - name: remastered/menu/sp/eventviewer.2ld/SP_eventviewer_2ld50.png
+    multi:
+    - name: remastered/menu/eventviewer.2ld/SP_eventviewer_2ld50.png
     method: copy
     platform: pc
     package: kh2_first
@@ -2238,7 +2241,7 @@ assets:
     package: kh2_fifth
     source:
     - name: remastered/msn/CA_AL00_SKATE_01_bar1.png
-  - name: remastered/msn/sp/AL00_SKATE_01.bar/SP_AL00_SKATE_01_bar1.png
+  - name: remastered/msn/sp/AL00_SKATE_01.bar/SP_AL00_SKATE_01_bar2.png
     multi:
     - name: remastered/msn/sp/AL10_KINOKO_LEX.bar/SP_AL10_KINOKO_LEX_bar0.png
     - name: remastered/msn/sp/AL14_MS202_FREE.bar/SP_AL14_MS202_FREE_bar1.png
@@ -2351,6 +2354,8 @@ assets:
     source:
     - name: remastered/msn/CA_AL14_MS202_FREE_bar2.png
   - name: remastered/msn/sp/AL14_MS202.bar/SP_AL14_MS202_bar0.png
+    multi:
+    - name: remastered/msn/sp/AL14_MS202_FREE.bar/SP_AL14_MS202_FREE_bar0.png
     method: copy
     platform: pc
     package: kh2_fifth
@@ -4178,10 +4183,22 @@ assets:
     - name: remastered/obj/PO08_PLAYER.a.ca/-1.png
 
 #FONT BONA B)
+  - name: msg/sp/fontinfo.bar
+    platform: pc
+    method: copy
+    package: kh2_first
+    source:
+      - name: msg/fontinfo.bar
+  - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar0.png
+    method: copy
+    platform: pc
+    package: kh2_first
+    source:
+    - name: remastered/msg/CA_fontimage_bar0.png
   - name: remastered/msg/sp/fontimage.bar/SP_fontimage_bar1.png
     method: copy
     platform: pc
-    package: kh2_sixth
+    package: kh2_first
     source:
     - name: remastered/msg/CA_fontimage_bar1.png
 

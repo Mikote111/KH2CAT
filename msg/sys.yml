@@ -337,7 +337,7 @@
 - id: 617
   text: Bosc dels Cent Acres
 - id: 618
-  text: Turó de les estrelles
+  text: Turó dels estels
 - id: 619
   text: Ca l'os Pooh
 - id: 620
@@ -5922,7 +5922,7 @@
   text: >-
     Corre entre els enemics i els llença
 
-    cap el Sora. {:color #F0F00080}Cost PM: 10{:reset}
+    cap al Sora. {:color #F0F00080}Cost PM: 10{:reset}
 - id: 15491
   text: Tall frenètic
 - id: 15492

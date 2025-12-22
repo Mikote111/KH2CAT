@@ -813,7 +813,7 @@
   text: >-
     Capità!{:delay 3C 00}{:clear }Nosaltres defendrem el pati!
 
-    Salvi l'Emperador!
+    Salveu l'Emperador!
 - id: 4395
   text: És una ordre!
 - id: 4396
@@ -1776,7 +1776,7 @@
 - id: 20608
   text: Prem {:icon dynamic-triangle} per començar el duel! No deixis que t'atrapi!
 - id: 21515
-  text: "{:delayandfade 08 78} \nTot i que no accepten en Ping a l'exèrcit,\ncompleix amb afany les tasques\nd'ensinistrament i es va fent\ncada cop més fort.\n \nÉs aleshores quan en Mushu arriba\namb notícies i assegura haver vist\nen Shan Yu pels voltants.\n \n \n"
+  text: "{:delayandfade 08 78} \nTot i que no accepten en Ping a l'exèrcit,\ncompleix amb afany les tasques\nd'ensinistrament i es fa cada cop més fort.\n \nÉs aleshores quan en Mushu arriba\namb notícies i assegura haver vist\nen Shan Yu pels voltants.\n \n \n"
 - id: 21516
   text: "{:delayandfade 0A 78} \nDerrotar el temible Shan Yu serviria\nper guanyar-se les simpaties de\ntots, així que en Sora i els altres\ns'endinsen en una cova a per ell,\nperò tot resulta ser una trampa\ndel malvat hun.\n \n \n \n"
 - id: 21517

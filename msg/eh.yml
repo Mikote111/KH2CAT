@@ -23,7 +23,7 @@
 - id: 16221
   text: Algú de la foscor.
 - id: 16222
-  text: No seràs el Riku?
+  text: No deus ser el Riku?
 - id: 16223
   text: Riku?... {:delay 6C 00}{:clear }Jo vaig derrotar un Riku un cop.
 - id: 16224
@@ -1586,13 +1586,13 @@
     És que no pot tornar encara!
 - id: 19935
   text: >-
-    Si no en torna,
+    Si no torna,
 
     saps bé què has de fer.{:delay E6 00}{:clear } {:delay 3C 00}{:clear }Si no, atèn-ne les conseqüències.
 - id: 19936
   text: Em convertireu en un foscant...
 - id: 19937
-  text: Entensos. Ho faré si és això el que voleu!
+  text: Entensos. Ho faré si és el que voleu!
 - id: 19938
   text: >-
     És que m'enganyen els ulls?
@@ -1751,7 +1751,7 @@
   text: >-
     Obre els ulls.
 
-    Mira qui dels dos va guanyant.
+    Mira qui dels dos guanya.
 - id: 19976
   text: O sigui que és cert. Ets el seu incorpori.{:delay EE 00}{:clear }Suposo que en DiZ tenia raó, després de tot.
 - id: 19977
@@ -1805,7 +1805,7 @@
   text: >-
     És massa d'hora! 
 
-    No podeu dir de debò que us en defareu.
+    No podeu dir de debò que us en desfareu.
 - id: 21438
   text: Els incorporis són incapaços de sentir.
 - id: 21439
@@ -1915,7 +1915,7 @@
 - id: 21467
   text: Haig d'alliberar el poder del meu cor.{:delay DE 00}{:clear }El poder fosc que he estat contenint.
 - id: 21468
-  text: Tot i que... això em canviï per sempre.
+  text: Tot i que... em canviï per sempre.
 - id: 21470
   text: >-
     No podia fer-ho encara. {:delay 8C 00}{:clear }Si més no no fins que
