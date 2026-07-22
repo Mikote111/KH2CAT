@@ -80,7 +80,7 @@
 - id: 5795
   text: Sora, Donald i Goofy! {:delay 9B 00}{:clear }Benvinguts i bon Nadal!
 - id: 5796
-  text: Bon Nadal? {:delay 85 00}{:clear }Voldràs dir bon Halloween!
+  text: Bon Nadal? {:delay 85 00}{:clear }Deus voler dir bon Halloween!
 - id: 5797
   text: >-
     I tant! Bon Halloween
@@ -101,7 +101,7 @@
   text: No són preciosos aquests adorns?
 - id: 5802
   text: >-
-    Aquest any, Nadal també inundarà
+    Aquest any, el Nadal també inundarà
 
     Vila Halloween!
 - id: 5803
