@@ -1861,9 +1861,9 @@
 - id: 18532
   text: '{:delay 5A 00}{:clear }Un altre cop?'
 - id: 18727
-  text: Disparar
+  text: Dispara
 - id: 18728
-  text: Recarregar
+  text: Recarrega
 - id: 18750
   text: >-
     Destrueix el sensecor experimental del Dr. Finkelstein!
