@@ -5365,9 +5365,9 @@
   text: Regal
 - id: 15136
   text: >-
-    Un regal que va ser robat.
+    Un regal que es va robar.
 
-    L'envoltori és molt bonic.
+    L'embolcall és molt bonic.
 - id: 15137
   text: Regals trampa
 - id: 15138
@@ -6602,7 +6602,7 @@
   text: Arma Final
 - id: 15951
   text: >-
-    Màxima expresió de la clau espasa.
+    Màxima expressió de la clau espasa.
 
     Si consumeixes tots els PM, {:color #F0F00080}augmenta un 75%{:reset}
 
