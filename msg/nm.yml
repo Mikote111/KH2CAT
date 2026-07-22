@@ -1029,12 +1029,12 @@
 
     regals de Nadal. O sigui que...{:clear }el temptarem amb regals
 
-    irresistibles i caurà en la trampa.
+    irresistibles i caurà a la trampa.
 - id: 6079
   text: >-
     {:unk13 96 00 50 00}{:unk06 00}{:unk08 01 01 06}I aquell bergant és el
 
-    mateix que va robar
+    mateix que ha robat
 
     el meu experiment?
 - id: 6080
@@ -1045,9 +1045,9 @@
   text: >-
     {:unk13 FA 00 50 00}{:unk06 00}{:unk08 01 01 06}Doncs és
 
-    molt fàcil!{:clear }L'espantarem per
+    molt fàcil!{:clear }L'espantarem
 
-    a que confessi!
+    perquè confessi!
 - id: 6083
   text: '{:unk13 DC 00 96 00}{:unk06 00}{:unk08 01 00 05}Òndia...'
 - id: 6084
@@ -1448,7 +1448,7 @@
 - id: 14073
   text: Un s'ha escapat de la caixa!
 - id: 14074
-  text: Atrapa el Nyek, la Poll o el Puça quan estiguin cansats, per a que no escapin!
+  text: Atrapa el Nyek, la Poll o el Puça quan estiguin cansats, perquè no escapin!
 - id: 16707
   text: >-
     Apareixen els sensecor, el Jack vol
@@ -1724,7 +1724,7 @@
   text: >-
     «Font de la Plaça de la Guillotina:
 
-    colpeja-la per a que s'activi.»
+    colpeja-la perquè s'activi.»
 - id: 16790
   text: A la porta grossa hi han posat cadenes.
 - id: 16791
